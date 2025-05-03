@@ -1,0 +1,1802 @@
+[
+    {
+        "jp": {
+            "content": "「ふぅ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Phew...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呼……」",
+            "convert": "「呼……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "空気が違う。"
+        },
+        "en": {
+            "content": "The air is different."
+        },
+        "cn": {
+            "content": "空氣感覺截然不同。",
+            "convert": "空气感觉截然不同。"
+        }
+    },
+    {
+        "jp": {
+            "content": "冬のフランス――パリの平均気温は東京よりも低い。"
+        },
+        "en": {
+            "content": "France in winter—Paris is much colder on average than Japan."
+        },
+        "cn": {
+            "content": "冬日的法國——巴黎的平均氣溫比東京更低。",
+            "convert": "冬日的法国——巴黎的平均气温比东京更低。"
+        }
+    },
+    {
+        "jp": {
+            "content": "今日は珍しく晴れているが、\\n重い雲が空を覆う、曇天が多い時期だ。"
+        },
+        "en": {
+            "content": "Today is a rare sunny day, but the sky is usually populated by thick clouds around this time of year."
+        },
+        "cn": {
+            "content": "今天難得放晴，\\n但這個季節天空往往烏雲密布，經常陰天。",
+            "convert": "今天难得放晴，\\n但这个季节天空往往乌云密布，经常阴天。"
+        }
+    },
+    {
+        "jp": {
+            "content": "昨夜、仕事を終えてから旅行の準備をし、その日のうちに日本を発った。"
+        },
+        "en": {
+            "content": "Last night, I got everything ready for my trip after work and left Japan on the same day."
+        },
+        "cn": {
+            "content": "昨晚結束工作後，我整理好行李，當天就離開了日本。",
+            "convert": "昨晚结束工作后，我整理好行李，当天就离开了日本。"
+        }
+    },
+    {
+        "jp": {
+            "content": "シャルル・ド・ゴール空港に着陸したのは早朝。\\nそこからバスに乗り、\\nパリに着いたのは陽が昇り始めたころだった。"
+        },
+        "en": {
+            "content": "I landed in Charles de Gaulle Airport in the morning. I took a bus ride and reached Paris around sunrise."
+        },
+        "cn": {
+            "content": "抵達夏爾・戴高樂機場時已是清晨。\\n接著我搭乘巴士，\\n來到巴黎時已是太陽逐漸升起的時刻。",
+            "convert": "抵达夏尔・戴高乐机场时已是清晨。\\n接着我搭乘巴士，\\n来到巴黎时已是太阳逐渐升起的时刻。"
+        }
+    },
+    {
+        "jp": {
+            "content": "飛行機の中で、少し寝たが……\\nやはり身体は重かった。"
+        },
+        "en": {
+            "content": "I took a nap on the plane, but... my body still feels heavy."
+        },
+        "cn": {
+            "content": "雖然有在飛機上小睡……\\n但還是覺得身體很沈重。",
+            "convert": "虽然有在飞机上小睡……\\n但还是觉得身体很沈重。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さて、どうするかな……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Now then, what to do first?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「接下來該怎麼辦呢……」",
+            "convert": "「接下来该怎么办呢……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フランスに来る前に、俺は師匠に連絡を取った。\\n師匠は、俺の願いに応えてくれた。"
+        },
+        "en": {
+            "content": "I got in contact with my mentor before coming to France. She listened and granted my request."
+        },
+        "cn": {
+            "content": "啟程前我有事先跟師傅聯絡過。\\n師傅答應了我的請求。",
+            "convert": "启程前我有事先跟师傅联系过。\\n师傅答应了我的请求。"
+        }
+    },
+    {
+        "jp": {
+            "content": "もう一度、師匠の教えを受けることができる！"
+        },
+        "en": {
+            "content": "I can be under her tutelage once more!"
+        },
+        "cn": {
+            "content": "能再度接受師父教誨，真是太好了！",
+            "convert": "能再度接受师父教诲，真是太好了！"
+        }
+    },
+    {
+        "jp": {
+            "content": "逸る気持ちを鎮めなくてはならなかった。\\n師匠を訪ねるには、時刻が早すぎる。"
+        },
+        "en": {
+            "content": "I need to take care of this feeling of being lost. It's way too early to be visiting Mentor right now, though."
+        },
+        "cn": {
+            "content": "但現在心情激動也沒用。\\n這時間要去拜訪師父還太早。",
+            "convert": "但现在心情激动也没用。\\n这时间要去拜访师父还太早。"
+        }
+    },
+    {
+        "jp": {
+            "content": "パティスリーは開店よりずっと早く働きはじめているが、\\nこの時間帯は大忙しだ。"
+        },
+        "en": {
+            "content": "Work at a patisserie starts way before the establishment opens, but pre-opening is usually the busiest part of the day."
+        },
+        "cn": {
+            "content": "糕點師在開店前要做很多準備工作，\\n現在正是忙碌的時候。",
+            "convert": "糕点师在开店前要做很多准备工作，\\n现在正是忙碌的时候。"
+        }
+    },
+    {
+        "jp": {
+            "content": "いくら約束があり、親しい間柄といっても、\\nこの時間に訪ねるのは、迷惑だろう。\\n教えを請う者のすることではなかった。"
+        },
+        "en": {
+            "content": "No matter what plans we have or how friendly we are, visiting this early would just cause issues. Not the sort of thing a person asking for tutelage should do."
+        },
+        "cn": {
+            "content": "就算有事先聯絡過，就算我跟師傅很熟，\\n挑這段時間去拜訪還是太沒常識了。\\n這不是一個去請教的人該做的事。",
+            "convert": "就算有事先联系过，就算我跟师傅很熟，\\n挑这段时间去拜访还是太没常识了。\\n这不是一个去请教的人该做的事。"
+        }
+    },
+    {
+        "jp": {
+            "content": "開店時間まで待つ必要がある。"
+        },
+        "en": {
+            "content": "I need to wait until it's time to open shop."
+        },
+        "cn": {
+            "content": "我得等到開店時間再去。",
+            "convert": "我得等到开店时间再去。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「せっかくのフランスだ。ひさしぶりに、クロワッサンかクレープでも……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, I'm already here in France. Might as well have a croissant or crepe for old time's sake...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「難得回到法國。去買點牛角麵包或可麗餅來吃好了……」",
+            "convert": "「难得回到法国。去买点牛角面包或可丽饼来吃好了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "黒髪と白髪の少女たちと擦れ違う。"
+        },
+        "en": {
+            "content": "I pass by a pair of girls—one with black hair, the other white."
+        },
+        "cn": {
+            "content": "走著走著，我跟一對黑髮與白髮少女擦身而過。",
+            "convert": "走着走着，我跟一对黑发与白发少女擦身而过。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh?!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「欸！？」",
+            "convert": "「欸！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "――ショコラとバニラ！？"
+        },
+        "en": {
+            "content": "—Chocola and Vanilla?!"
+        },
+        "cn": {
+            "content": "——巧克力和香草！？",
+            "convert": "——巧克力和香草！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "振り返ると、背丈は同じくらいだが、後ろ姿からして\\nまったくの別人だった。"
+        },
+        "en": {
+            "content": "When I turn around, I see that the girls share the same height, but, looking from the back, they're a completely different pair."
+        },
+        "cn": {
+            "content": "我嚇了一跳，連忙回頭。\\n雖然那兩名少女身高與巧克力和香草相近，背影看來一點也不像。",
+            "convert": "我吓了一跳，连忙回头。\\n虽然那两名少女身高与巧克力和香草相近，背影看来一点也不像。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そりゃ、そうか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Yeah, of course not.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……我在想什麼啊。」",
+            "convert": "「……我在想什么啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ネコたちは、簡単には渡航できない。\\n今回は留守番してもらっていた。"
+        },
+        "en": {
+            "content": "Catgirls can't easily travel overseas. I've got them staying behind this time around, holding down the fort."
+        },
+        "cn": {
+            "content": "貓娘們想出國必須經過層層關卡。\\n所以這次才讓她們留在家裡。",
+            "convert": "猫娘们想出国必须经过层层关卡。\\n所以这次才让她们留在家里。"
+        }
+    },
+    {
+        "jp": {
+            "content": "出発前のことを思い出す――"
+        },
+        "en": {
+            "content": "But I remember what happened before I headed out—"
+        },
+        "cn": {
+            "content": "我想起出發前的情景——",
+            "convert": "我想起出发前的情景——"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嫌ぁ！　いやです！　一緒に……！　一緒に行きたいですぅ！　ご主人さまぁぁぁっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「No! Don't! Together...! Chocola wants to go together! Masterrrrr!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我不要！我不要嘛！我要跟主人一起……！要一起去法國！求求你，主人～～～！！」",
+            "convert": "「我不要！我不要嘛！我要跟主人一起……！要一起去法国！求求你，主人～～～！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうはいかねーんだから、しょうがねぇだろ、ショコラ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「We can't do that, so why try to fight it, Chocola?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「別哭鬧了，妳也知道這辦不到吧？巧克力。」",
+            "convert": "「别哭闹了，你也知道这办不到吧？巧克力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、嘉祥を困らせないの」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Chocola, don't bother Kashou.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「巧克力，別讓嘉祥為難了。」",
+            "convert": "「巧克力，别让嘉祥为难了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すまない……留守番を頼むよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sorry... I'm counting on you to look after things.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對不起……麻煩妳們看家吧。」",
+            "convert": "「对不起……麻烦你们看家吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人、私は待ってる。お土産、高級品じゃなくても大丈夫」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master, I will wait for you. You don't need to bring back any high-class items as souvenirs.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人，我等您回來。伴手禮不用太高級也沒關係。」",
+            "convert": "「主人，我等您回来。伴手礼不用太高级也没关系。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ああ……何か考えておくよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「O-Oh, sure... I'll shoot for something else, then.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，啊……我會買的。」",
+            "convert": "「嗯，啊……我会买的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "観光している時間の余裕は無さそうだけど。"
+        },
+        "en": {
+            "content": "Even though I don't have the free time to go taking in the sights."
+        },
+        "cn": {
+            "content": "雖然應該沒有時間觀光。",
+            "convert": "虽然应该没有时间观光。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たった３日間だろ？　早く行って、早く帰ってこいよな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「You've only got three days, right? You better hurry your ass over there and hurry on back.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「這次的行程只有三天，早去早回吧。」",
+            "convert": "「这次的行程只有三天，早去早回吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「４日目は週末だかんな。嘉祥がいねぇと……店がどうなっても知んねーからな？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「The fourth day would be on a weekend, after all. If you're not around... don't blame us for what happens to the shop, all right?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「第四天正好碰上週末。嘉祥不在的話……店裡出了什麼問題我可不管。」",
+            "convert": "「第四天正好碰上周末。嘉祥不在的话……店里出了什么问题我可不管。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ああ……絶対に」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Y-Yeah... Count on me being here.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，啊……我絕對會如期歸來。」",
+            "convert": "「嗯，啊……我绝对会如期归来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「パリジェンヌに浮気なんかしちゃダメだからね？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Don't go cheating on us with any Parisiennes, all right?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「可別被巴黎的女人迷倒了。」",
+            "convert": "「可别被巴黎的女人迷倒了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなこと、するわけないだろ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I wouldn't do anything like that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼可能啊！」",
+            "convert": "「怎么可能啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「６匹の恋ネコがいる人が言ってもねー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Yes, says the man with SIX catpanions...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「從交了六個貓娘情人的傢伙口中說出這句話沒有一點說服力……」",
+            "convert": "「从交了六个猫娘情人的家伙口中说出这句话没有一点说服力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、それは……！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I-I mean...!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃，這……！」",
+            "convert": "「呃，这……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うふふ……嘉祥さんを困らせちゃダメですよ～、メーちゃん」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Tee hee hee... You shouldn't make Kashou-san feel awkward like that, May-chan.」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻……別為難嘉祥了，小楓。」",
+            "convert": "「嘻嘻……别为难嘉祥了，小枫。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥さんのケーキが、もっと美味しくなるなんて、わたしは楽しみです～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Kashou-san, I can't wait to see how your cakes get even more delicious~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我很期待嘉祥回來後，做的蛋糕會更美味～♪」",
+            "convert": "「我很期待嘉祥回来后，做的蛋糕会更美味～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「喜んでもらえるよう、頑張ってくるよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm going to aim to please.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「為了讓大家都能喜歡，我會努力學習。」",
+            "convert": "「为了让大家都能喜欢，我会努力学习。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄ちゃん、がんばって！　ぼく、ずっと応援してるから！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan, you can do it! I'll be rooting for you the whole time!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哥哥，加油！人家一直都站在哥哥這邊！」",
+            "convert": "「哥哥，加油！人家一直都站在哥哥这边！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、ありがとうな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, I appreciate that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，謝啦。」",
+            "convert": "「嗯，谢啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまぁ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Masterrr!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人！」",
+            "convert": "「主人！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「行ってくるからな、ショコラ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm going now, Chocola.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力，我要出發了。」",
+            "convert": "「巧克力，我要出发了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぐす……はい……ショコラは……ショコラは……待ってますからっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Sniff... Okay... Chocola will... Chocola will... be waiting for you!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「（啜泣）……好的……我……我……會一直等主人回來的！！」",
+            "convert": "「（啜泣）……好的……我……我……会一直等主人回来的！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いってらっしゃいませ、ご主人さま！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Have a safe trip, Master!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「一路順風，主人！」",
+            "convert": "「一路顺风，主人！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……絶対に……何かを掴んで帰らないと」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Yeah... I definitely need to come home with results.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……我一定要在回去之前……學到一點東西。」",
+            "convert": "「……我一定要在回去之前……学到一点东西。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ん？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Hm?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯？」",
+            "convert": "「……嗯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "今、一瞬、何か見えたような……？"
+        },
+        "en": {
+            "content": "I thought I saw something for a second...?"
+        },
+        "cn": {
+            "content": "剛才我好像看到了什麼……？",
+            "convert": "刚才我好像看到了什么……？"
+        }
+    },
+    {
+        "jp": {
+            "content": "また見間違えか？"
+        },
+        "en": {
+            "content": "Maybe my eyes are playing tricks?"
+        },
+        "cn": {
+            "content": "我又眼花了嗎？",
+            "convert": "我又眼花了吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おいおい……フランスに着いて半日もしないのに、もうホームシックか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hey, hey... I haven't been in France even half a day yet, and I'm already homesick?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唉……來法國還不到半天，就得了思鄉病嗎。」",
+            "convert": "「唉……来法国还不到半天，就得了思乡病吗。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんっ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmm?!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯！？」",
+            "convert": "「嗯！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "やはり、見間違いではない。"
+        },
+        "en": {
+            "content": "I knew my eyes weren't playing tricks on me."
+        },
+        "cn": {
+            "content": "不，真的不是我看走眼。",
+            "convert": "不，真的不是我看走眼。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺はボストンバッグを背負い直すと、\\nその人物を追いかけた。"
+        },
+        "en": {
+            "content": "I sling my overnight bag back over my shoulder and chase after that person."
+        },
+        "cn": {
+            "content": "我重新揹好行囊，\\n追上那個人。",
+            "convert": "我重新揹好行囊，\\n追上那个人。"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「あ……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Oh...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨！？"
+        },
+        "en": {
+            "content": "Shigure?!"
+        },
+        "cn": {
+            "content": "時雨！？",
+            "convert": "时雨！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "いや、そっくりの別人なのか！？"
+        },
+        "en": {
+            "content": "Wait, or is it someone who looks just like her?!"
+        },
+        "cn": {
+            "content": "不，說不定只是外表相似的路人！？",
+            "convert": "不，说不定只是外表相似的路人！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨が和服じゃなくドレスを着ているわけがない。\\nやはり、別人か……"
+        },
+        "en": {
+            "content": "Shigure wears kimonos, not dresses. Must be someone different..."
+        },
+        "cn": {
+            "content": "時雨向來都穿和服，不可能改穿洋裝。\\n多半是路人吧……",
+            "convert": "时雨向来都穿和服，不可能改穿洋装。\\n多半是路人吧……"
+        }
+    },
+    {
+        "jp": {
+            "content": "って、そんなわけあるか！\\nいくら俺でも、妹のことを見間違えたりはしない。"
+        },
+        "en": {
+            "content": "Yeah, as if! Not even I would mistake someone else for my little sister."
+        },
+        "cn": {
+            "content": "才怪！\\n我再怎麼眼花，也不可能認不出自己的妹妹。",
+            "convert": "才怪！\\n我再怎么眼花，也不可能认不出自己的妹妹。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なにやってるんだ、時雨……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What are you doing here, Shigure...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時雨，妳怎麼會在這裡……？」",
+            "convert": "「时雨，你怎么会在这里……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……見つかってしまいましたか。兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...So, you ended up finding me, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……結果還是被您找到了，哥哥。」",
+            "convert": "「……结果还是被您找到了，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「現地の人たちに、完璧に溶けこんだつもりだったのですが」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I was trying to perfectly blend in with the local people.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我還以為自己的打扮已經完全融入當地人了。」",
+            "convert": "「我还以为自己的打扮已经完全融入当地人了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや……パリでも、そんな貴族みたいなドレス姿は、そうそう見かけないんだが……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Uh, well... Even in Paris, you don't really see people running around with such an aristocratic-looking dress.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不不……就算在巴黎，像妳這身宛如貴族的洋裝也很少見……」",
+            "convert": "「不不……就算在巴黎，像你这身宛如贵族的洋装也很少见……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "パリは石畳の道が多く、階段を使うことも多く、\\nハイヒールは転倒の危険がある。\\n女性でもスニーカーや革靴を履く者が多い。"
+        },
+        "en": {
+            "content": "Paris is full of stone-paved roads and you're often climbing stairs, so wearing high-heels is risky. Even the majority of ladies wear sneakers or leather shoes."
+        },
+        "cn": {
+            "content": "巴黎有許多石板路，還經常需要上下台階，穿高跟鞋容易跌倒。\\n因此女士也大多穿著運動鞋或皮鞋。",
+            "convert": "巴黎有许多石板路，还经常需要上下台阶，穿高跟鞋容易跌倒。\\n因此女士也大多穿着运动鞋或皮鞋。"
+        }
+    },
+    {
+        "jp": {
+            "content": "そして、スリムなジーンズをはいている女性は多く、\\nスカート姿の女性は珍しい。"
+        },
+        "en": {
+            "content": "Also, most girls wear slim jeans, so girls in skirts are rare."
+        },
+        "cn": {
+            "content": "此外，不少女士會穿窄管牛仔褲，\\n著裙裝的人反而不多。",
+            "convert": "此外，不少女士会穿窄管牛仔裤，\\n着裙装的人反而不多。"
+        }
+    },
+    {
+        "jp": {
+            "content": "服の色は黒か白だ。ベージュや柄物のアウターを着ているのは、\\nおおねむ観光客だった。"
+        },
+        "en": {
+            "content": "Their clothes are usually black or white. Mostly anyone wearing beige or patterned outerwear is a tourist."
+        },
+        "cn": {
+            "content": "至於服裝的顏色則多為黑色或白色，\\n會穿米色或花色外套的人大多是觀光客。",
+            "convert": "至于服装的颜色则多为黑色或白色，\\n会穿米色或花色外套的人大多是观光客。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「残念です……完璧だと思ったのですが……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「How unfortunate... I thought it was perfect...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「真可惜……我還以為自己的穿搭很完美……」",
+            "convert": "「真可惜……我还以为自己的穿搭很完美……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、まぁ……その格好も似合ってるから、いいんじゃないか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Uh, well... Your outfit looks nice on you, so it's fine, right?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃……這身打扮很適合妳，很好看。」",
+            "convert": "「呃……这身打扮很适合你，很好看。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……っ！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……！？」",
+            "convert": "「……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「に、似合ってる……？　似合ってますか、兄様……！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I-It looks nice on me...? Do you think it looks nice on me, Nii-sama...?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「很、很適合我嗎……？哥哥，真的嗎……！？」",
+            "convert": "「很、很适合我吗……？哥哥，真的吗……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ああ……いつも和服だから、ちょっと新鮮というか……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Y-Yeah... You're always in kimonos, so I guess you could say it's a breath of fresh air...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，是啊……平常總是看妳穿著和服，改穿洋裝還挺新鮮的……」",
+            "convert": "「啊，是啊……平常总是看你穿着和服，改穿洋装还挺新鲜的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Aah...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「パリまで来て、大正解です！　私の人生に一片の悔いもありません！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I was right in coming all the way to Paris! I have not a scrap of regret in my life now!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「偷偷跟來巴黎真是做對了！我的人生已經無怨無悔！」",
+            "convert": "「偷偷跟来巴黎真是做对了！我的人生已经无怨无悔！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たとえ、地中海の藻屑となろうとも！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I could die in the Mediterranean now, for all I care!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「就算會葬身地中海我也死不足惜！」",
+            "convert": "「就算会葬身地中海我也死不足惜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大袈裟すぎる」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You're exaggerating way too much.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳太誇張啦。」",
+            "convert": "「你太夸张啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「というか、どうして時雨が、ここに？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Actually, what are you doing here anyway?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「話說回來，妳為什麼跟來了？」",
+            "convert": "「话说回来，你为什么跟来了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは、もちろん」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That is obvious.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「當然是因為……」",
+            "convert": "「当然是因为……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様への、愛ゆえに！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Because of my love for you, Nii-sama!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我滿懷著對哥哥的愛慕之情啊。」",
+            "convert": "「我满怀着对哥哥的爱慕之情啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……俺は、この数日で、何かを掴まなきゃいけない。わかるな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...I have to figure things out in the few days I have. You understand that, right?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……妳應該明白，我必須在這幾天內學到一些東西吧？」",
+            "convert": "「……你应该明白，我必须在这几天内学到一些东西吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、もちろんです！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes, of course I do!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「當然明白。」",
+            "convert": "「当然明白。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は、そのお手伝いをするために、やって参りました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I have come here in order to assist you in your journey.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我就是為了給哥哥幫忙才跟到法國來的。」",
+            "convert": "「我就是为了给哥哥帮忙才跟到法国来的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「決して、お邪魔はいたしません！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I shall not get in your way!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我絕對不是來扯哥哥後腿的。」",
+            "convert": "「我绝对不是来扯哥哥后腿的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmm...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……」",
+            "convert": "「嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "こうして話をしていることが、\\nもうすでに俺の予定と違っているわけだが……"
+        },
+        "en": {
+            "content": "The fact that we're talking right now is already so far removed from my initial plans, though..."
+        },
+        "cn": {
+            "content": "然而在這邊花時間討論這個，\\n就已經偏離我的預定行程了。",
+            "convert": "然而在这边花时间讨论这个，\\n就已经偏离我的预定行程了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "いや、こう感じるのも、俺の精神的な余裕が\\nなくなっているせいなのか？"
+        },
+        "en": {
+            "content": "Then again, maybe the reason I'm feeling this way is because my mental composure is wearing thin?"
+        },
+        "cn": {
+            "content": "不，我會這麼覺得，\\n恐怕是因為我心裡失去了從容吧。",
+            "convert": "不，我会这么觉得，\\n恐怕是因为我心里失去了从容吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺のことを心配して、フランスまで来てくれたのだ。\\n時雨だって、自分の生活があるのに。"
+        },
+        "en": {
+            "content": "Shigure felt worried enough about me to come all the way to France. Even though she has her own life to lead."
+        },
+        "cn": {
+            "content": "時雨可是因為擔心我，才特地跑到法國。\\n她明明也有自己的私生活。",
+            "convert": "时雨可是因为担心我，才特地跑到法国。\\n她明明也有自己的私生活。"
+        }
+    },
+    {
+        "jp": {
+            "content": "とはいえ、素直にお礼を言えるほど大人にもなれなかった。"
+        },
+        "en": {
+            "content": "Nonetheless, I'm not even mature enough to be forthright and give her my thanks."
+        },
+        "cn": {
+            "content": "只不過，我的精神還沒成熟到能坦率向她道謝。",
+            "convert": "只不过，我的精神还没成熟到能坦率向她道谢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「追い返したりはしないが……今回は遊びの旅行じゃない」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I won't turn you away, but... this isn't a pleasure trip.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不會趕妳回去……不過，我這趟旅程並不是來玩的。」",
+            "convert": "「我不会赶你回去……不过，我这趟旅程并不是来玩的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨のために、何もしてあげられないと思う。それでもいいのか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I don't think that I'll be able to do anything for you here. You're fine in spite of that?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我恐怕沒有多餘的精力陪妳，這樣也沒關係嗎？」",
+            "convert": "「我恐怕没有多余的精力陪你，这样也没关系吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「望むところです。私は、兄様に目的に集中してほしいのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That is just fine. I want you to focus on your goal.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「敬請放心吧。哥哥只要將全部精神集中在目的上就好。」",
+            "convert": "「敬请放心吧。哥哥只要将全部精神集中在目的上就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ですから、雑務は全てお任せください」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「So, please, allow me to handle any miscellaneous tasks.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「此外的一切雜事就交給我來處理吧。」",
+            "convert": "「此外的一切杂事就交给我来处理吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I see.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好吧。」",
+            "convert": "「好吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ところで兄様、もう師匠様のお店へ向かわれるのですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「By the way, Nii-sama, shouldn't you be heading to your mentor's shop now?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「話說，哥哥準備要去師傅的店了嗎？」",
+            "convert": "「话说，哥哥准备要去师傅的店了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、まだ時間が早いからな。パン屋で朝食を取っておこうと思う」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No, it's still too early. I'm thinking of grabbing breakfast at a bakery.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不，現在時間還早。我原本打算去麵包店買早餐。」",
+            "convert": "「不，现在时间还早。我原本打算去面包店买早餐。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、美味しい……！　なんですか、これは！？　クロワッサンですよね！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Th-This is so delicious...! What is this?! This IS a croissant, is it not?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好、好美味……！這是什麼！？是牛角麵包嗎！？」",
+            "convert": "「好、好美味……！这是什么！？是牛角面包吗！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん。やっぱり、この店のクロワッサンは最高だな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yep. This shop really has the best croissants around.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯。這間店的牛角麵包依然超好吃。」",
+            "convert": "「嗯。这间店的牛角面包依然超好吃。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんて香りの豊かなクロワッサンでしょうか！？　この甘さは……バターですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I cannot believe how positively fragrant this croissant is! This sweetness... is the butter?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這牛角麵包的香氣怎麼如此豐富！？這種香甜滋味……是奶油嗎？」",
+            "convert": "「这牛角面包的香气怎么如此丰富！？这种香甜滋味……是奶油吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「質のいいバターは甘い。砂糖とは違った味を感じるよな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Quality butter is sweet. It's got a flavor that's different from sugar.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「優質的奶油帶有一絲甜味。與砂糖的甜味又不一樣。」",
+            "convert": "「优质的奶油带有一丝甜味。与砂糖的甜味又不一样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さすが、兄様です。こんなに素敵な朝食をいただけるなんて」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Incredible, Nii-sama. To think I would indulge in such a wonderful breakfast.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不愧是哥哥。多虧您，一早就享用到了如此美妙的早餐。」",
+            "convert": "「不愧是哥哥。多亏您，一早就享用到了如此美妙的早餐。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……ちょっと長く住んでいる人なら、誰でも知ってるパン屋だよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah... This is a bakery that anyone who's lived here long enough would know.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……只要是在這附近住過一段時間的居民，一定都聽過這間麵包店。」",
+            "convert": "「哈哈……只要是在这附近住过一段时间的居民，一定都听过这间面包店。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ガイドブックにも載ってるような有名店だし」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's so famous that it's even in guide books.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「連導覽書上也有記載，非常有名。」",
+            "convert": "「连导览书上也有记载，非常有名。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだお腹に余裕があるなら、次はクレープの美味しい店に行こうか。日本のクレープとは違うけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「If you've still got room, let's hit up this great crepe place next. They're not quite like Japanese crepes.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果妳肚子還裝得下，接下來去吃可麗餅吧。這裡的可麗餅跟日本的完全不一樣。」",
+            "convert": "「如果你肚子还装得下，接下来去吃可丽饼吧。这里的可丽饼跟日本的完全不一样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！　ぜひ！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes! With pleasure!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好！請務必帶我去！」",
+            "convert": "「好！请务必带我去！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "店を出ようとした時、店員からフランス語で話し掛けられた。"
+        },
+        "en": {
+            "content": "As we're about to leave the shop, the employee starts a conversation in French."
+        },
+        "cn": {
+            "content": "要離開店家時，店員用法語向我打招呼。",
+            "convert": "要离开商店时，店员用法语向我打招呼。"
+        }
+    },
+    {
+        "jp": {
+            "name": "若いフランス人女性",
+            "content": "「可愛らしい奥さんですね。新婚旅行ですか？」"
+        },
+        "en": {
+            "name": "Young French Lady",
+            "content": "「Your wife is adorable. Are you on your honeymoon trip?」"
+        },
+        "cn": {
+            "name": "年輕法國女士",
+            "content": "「您的妻子真可愛。兩位是來度蜜月的嗎？」",
+            "convert": "「您的妻子真可爱。两位是来度蜜月的吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　あ、いや……ははは……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh? Oh, no... Hahaha...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？啊，呃……啊哈哈……」",
+            "convert": "「咦？啊，呃……啊哈哈……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "事情を全て話すには、俺の今の状況は曖昧で複雑だ。"
+        },
+        "en": {
+            "content": "My current situation is too weird and complicated to explain all the details."
+        },
+        "cn": {
+            "content": "我現在所處的狀況太複雜了，三言兩語可說明不清楚。",
+            "convert": "我现在所处的状况太复杂了，三言两语可说明不清楚。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「新婚旅行！？　兄様の……奥さん！？　この、私が……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Honeymoon trip?! You think that I'm... Nii-sama's wife?! Me...!?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「新婚旅行！？哥哥的……妻子！？我、我嗎……！」",
+            "convert": "「新婚旅行！？哥哥的……妻子！？我、我吗……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だ、だめ……うっ……鼻血が出そうぅ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「O-Oh no... Urk... I feel a nosebleed coming on.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不、不行……嗚……鼻血快噴出來了～」",
+            "convert": "「不、不行……呜……鼻血快喷出来了～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれ？　もしかして時雨……フランス語、わかるのか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh? Wait a second, Shigure... You understand French?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？時雨……妳懂法語嗎？」",
+            "convert": "「咦？时雨……你懂法语吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろんです。言葉もわからずに、兄様をお手伝いできるはずがありませんから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But of course. I wouldn't be able to provide assistance unless I understood the language.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「當然了。言語不通的話，怎麼能幫上哥哥的忙呢？」",
+            "convert": "「当然了。言语不通的话，怎么能帮上哥哥的忙呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんなこともあろうかと、全力で勉強しておきました！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I studied with all I had since I figured this might happen!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我早就料到會有派上用場的一天，所以下了一番苦工拚命學習！」",
+            "convert": "「我早就料到会有派上用场的一天，所以下了一番苦工拚命学习！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんなこともあろうかと、って……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You figured 'this might happen'...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「早就料到是什麼意思……」",
+            "convert": "「早就料到是什么意思……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありえない――とも言えないか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Guess I can't say it's an unlikely scenario, huh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這種情況根本不可能——啊，現在就發生了。」",
+            "convert": "「这种情况根本不可能——啊，现在就发生了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺の洋菓子の原点は、フランスだ。\\n師匠はパリで洋菓子店をやっている。"
+        },
+        "en": {
+            "content": "France is where I got my start in Western sweets, and my mentor runs a Western confectionery shop in Paris."
+        },
+        "cn": {
+            "content": "我開始製作西式糕點的原點在法國。\\n師傅在巴黎開店。",
+            "convert": "我开始制作西式糕点的原点在法国。\\n师傅在巴黎开店。"
+        }
+    },
+    {
+        "jp": {
+            "content": "むしろ、二度とフランスに渡らないと思うほうが、\\n不自然なくらいだった。"
+        },
+        "en": {
+            "content": "It's actually more unusual to think that I would never travel to France ever again."
+        },
+        "cn": {
+            "content": "要是說我再也不會來法國的話，\\n反而比較不自然吧。",
+            "convert": "要是说我再也不会来法国的话，\\n反而比较不自然吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それに……留学していた頃は……兄様がずっと戻ってこない可能性も、ありましたから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Also... when you were still studying abroad... there was a chance that you would never come back to Japan.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「而且……哥哥來法國留學時……我擔心萬一您決定就在這裡定居的話……」",
+            "convert": "「而且……哥哥来法国留学时……我担心万一您决定就在这里定居的话……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、なるほど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Aah, I see now.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，這倒也是。」",
+            "convert": "「啊，这倒也是。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺が洋菓子の道に進んだことで、\\n父親との仲は冷えこんでいた。"
+        },
+        "en": {
+            "content": "By going down the path of a Western sweets maker, my relationship with my dad soured."
+        },
+        "cn": {
+            "content": "我決定踏上西式糕點之路時，\\n和父親的關係也降至冰點。",
+            "convert": "我决定踏上西式糕点之路时，\\n和父亲的关系也降至冰点。"
+        }
+    },
+    {
+        "jp": {
+            "content": "留学が終わっても、パリに留まるという可能性も、\\n充分にあったわけだ。"
+        },
+        "en": {
+            "content": "Even when my study abroad was over, there was still a big possibility that I would stay in Paris."
+        },
+        "cn": {
+            "content": "學業完成後，\\n我確實很有可能繼續留在巴黎。",
+            "convert": "学业完成后，\\n我确实很有可能继续留在巴黎。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺としては、日本で店を開くことは、決めていたんだが……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, by that time, I made up my mind to open my shop in Japan...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過我其實很早就決定要回日本開店……」",
+            "convert": "「不过我其实很早就决定要回日本开店……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何か理由があるのでしょうか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Was there any reason behind that decision?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「有什麼特別的原因嗎？」",
+            "convert": "「有什么特别的原因吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっぱり……親父から逃げた、なんて思われたくなかった。俺にも意地がある」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well... I didn't want people to think that I ran away from Dad. I have my pride.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我畢竟還是不想被老爸認為我是在逃避他。我有我的自尊。」",
+            "convert": "「我毕竟还是不想被老爸认为我是在逃避他。我有我的自尊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あと、師匠に言われたんだよ。ちゃんと父親と話し合ったほうがいい。日本に戻りなさい、って」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Also, my mentor told me to. She said that I should talk it out with my dad and return to Japan.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「此外，師傅也跟我說過。她認為我應該跟老爸好好談一談，勸我回日本。」",
+            "convert": "「此外，师傅也跟我说过。她认为我应该跟老爸好好谈一谈，劝我回日本。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「師匠様が……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Your mentor...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「您師傅原來這麼說啊……」",
+            "convert": "「您师傅原来这么说啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今では、師匠の味を、俺の生まれ故郷の街に伝えるのも、けっこう意味のあることだと思ってる」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Nowadays, I think that was really important in bringing my mentor's distinct flavor over to the town I was born and raised in.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「而且我覺得能把師傅的口味帶到故鄉，是很有意義的一件事。」",
+            "convert": "「而且我觉得能把师傅的口味带到故乡，是很有意义的一件事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やり甲斐を感じてるよ。お客さんたちが喜んでくれるのは、嬉しい」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I feel like it was all worth doing. I'm happy that I've made my customers happy.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這個目標讓我很有幹勁。能讓上門的客人吃得開心我也很高興。」",
+            "convert": "「这个目标让我很有干劲。能让上门的客人吃得开心我也很高兴。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Indeed!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯！」",
+            "convert": "「嗯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さて、そろそろ行こうか。クレープは入りそうかい？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Now then, it's about time we get going. Got room for crepes?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我們該走了。妳還吃得下可麗餅嗎？」",
+            "convert": "「我们该走了。你还吃得下可丽饼吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろんです、兄様！　はむ！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Of course, Nii-sama! Nom!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「沒問題的，哥哥！！（吃下）」",
+            "convert": "「没问题的，哥哥！！（吃下）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「気をつけろよ、時雨。パリは危険な街だからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Be careful, Shigure. Paris is a dangerous city.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時雨，妳要小心。巴黎是一座危險的城市。」",
+            "convert": "「时雨，你要小心。巴黎是一座危险的城市。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　は、はい……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Huh? Y-Yes, I will...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「咦？好、好的……」",
+            "convert": "「咦？好、好的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「油断してると、あっという間に体重が増えるぞ。美味しい物がいっぱいあるからな！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「If you don't keep up your guard, you'll end up gaining weight before you know it. There's a whole lot of tasty things to be had here!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「稍一大意，體重就會直線上升。因為這裡美食太多了。」",
+            "convert": "「稍一大意，体重就会直在线升。因为这里美食太多了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひぇ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Eep...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哇……」",
+            "convert": "「哇……」"
+        }
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "jp": {
+            "name": "ココナツ＆シナモン",
+            "content": "『「「午前１０時。朝食(片付け編)」」』"
+        },
+        "en": {
+            "name": "Coconut&Cinnamon",
+            "content": "10 am. Cleanup after breakfast"
+        },
+        "cn": {
+            "name": "椰子＆桂",
+            "content": "早上１０点，早餐（收拾篇）",
+            "convert": "早上１０点，早餐（收拾篇）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーい、食った食った～ネコメシもたまにゃー悪くねーな～」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Ahh, that was one heckuva meal~ Cat food ain't so bad once in a while too, meow!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喔──吃饱了吃饱了～偶尔吃吃味噌汤泡饭也不错嘛～",
+            "convert": "喔──吃饱了吃饱了～偶尔吃吃味噌汤泡饭也不错嘛～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お腹いっぱいだと全てがどうでも良くなるわねぇ～」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "When you're full, nothing really matters anymore, right~"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "只要肚子一填饱，就会觉得什么都无所谓了呢～",
+            "convert": "只要肚子一填饱，就会觉得什幺都无所谓了呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「２匹とも、そんな両手両足投げ出して寝転がってははしたないですよ～」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Hey now, don't just sprawl over and roll around like that, you two! It's indecent~"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "你们两个，手脚开开躺成这样很没规矩喔～",
+            "convert": "你们两个，手脚开开躺成这样很没规矩喔～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨ちゃんも３人揃って大の字になって本当の姉妹みたいだね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Shigure-chan, the three of you look just like sisters, lying down in an A-shape together!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "看她们跟时雨一起躺成大字的模样，真的好像亲生姐妹呢～",
+            "convert": "看她们跟时雨一起躺成大字的模样，真的好像亲生姐妹呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……っ！　……っ！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "... Ngh, ngh!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "……！……！",
+            "convert": "……！……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ナッちゃん？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "... Nacchan...?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "……椰子？",
+            "convert": "……椰子？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　あ、ごめん、洗い物に集中してて……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Huh? Oh, sorry, I was concentrating on doing the dishes..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "咦？啊，抱歉，我太专心洗碗了……",
+            "convert": "咦？啊，抱歉，我太专心洗碗了……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほら、私不器用だから気をつけないとすぐに――」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I'm clumsy, remember? If I don't pay attention, I'll break th--"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "没办法，我手脚实在不太灵光，所以一不小心就会──",
+            "convert": "没办法，我手脚实在不太灵光，所以一不小心就会──"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……こうなっちゃうから。しょぼーん……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "... That's what happens. Siiigh..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "……就会变成这样。呜呜……",
+            "convert": "……就会变成这样。呜呜……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ナッちゃんはパワフルなネコだからねぇ～……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "You're such a powerful cat, Nacchan~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "谁叫椰子就是力气比人大呢～……",
+            "convert": "谁叫椰子就是力气比人大呢～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ割れたのはアズちゃんのお茶碗だし、問題ないない、大丈夫だよ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Well, you only broke Azu-chan's rice bowl. It's not a problem, so don't worry~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "反正破掉的碗是红豆的，没问题没问题。不要紧的啦～",
+            "convert": "反正破掉的碗是红豆的，没问题没问题。不要紧的啦～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「次はソフトに頑張ろう～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Try be a little more gentle next time~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "等等放轻力道小心洗就好咯～♪",
+            "convert": "等等放轻力道小心洗就好咯～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、アズキので良かった。じゃあ次はソフトに、ソフトに……あっ！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Yeah, good thing it was just Azuki's! Okay then, gently... gently... Ah!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "嗯，还好破的是红豆的碗。接着要轻轻地、轻轻地……啊！",
+            "convert": "嗯，还好破的是红豆的碗。接着要轻轻地、轻轻地……啊！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、時雨ちゃんのお茶碗――」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Oh no, Shigure's bowl!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "啊，时雨的碗──",
+            "convert": "啊，时雨的碗──"
+        }
+    },
+    {
+        "jp": {
+            "content": "「させるかぁあああぁぁあぁぁぁーーーっっっっ！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Like HELL I'll let you'll breaaaaak!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "没那么简单────────！！",
+            "convert": "没那幺简单────────！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おぉー！　ナイスキャッチ！　すごい、すごいよココちゃん！　すごい反射神経だよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Ohh! Nice catch! Awesome, Coco-chan! You've got great reflexes!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喔喔──接得漂亮！椰子好厉害，反射神经好好喔！",
+            "convert": "喔喔──接得漂亮！椰子好厉害，反射神经好好喔！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まるで一人サーカス。素晴らしいの一言」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "You're like a one-catgirl circus. Absolutely spectacular."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "简直可以开一人马戏团了。了不起。",
+            "convert": "简直可以开一人马戏团了。了不起。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「い、いやぁ、それほどでもないよこんなの。えへへ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "O-Oh no... It's nothing special. Eheheh..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "没、没有啦，这没什么大不了的，耶嘿嘿……",
+            "convert": "没、没有啦，这没什幺大不了的，耶嘿嘿……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もーいっかい！　もーいっかい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Do it again, do it again!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "再～一次！再～一次！",
+            "convert": "再～一次！再～一次！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アンコール、アンコール」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Encore! Encore!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "安可，安可",
+            "convert": "安可，安可"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃ、じゃあもう一回だけ……今度は自分のお茶碗でね？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "O-Oh, fine. Just once more, but I'll use my own rice bowl,  okay?"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "那、那就再表演一次……这次改用我自己的碗喔？",
+            "convert": "那、那就再表演一次……这次改用我自己的碗喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほっ……たぁっ！　よっ……やっ！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Oopsie daisy! There we... go!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "喝……哈！唷……呀！！",
+            "convert": "喝……哈！唷……呀！！"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「うわーい！　もーいっかい、もーいっかい！」\\n「おおー、もーいっかい、もーいっかい」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "Wooow!  One more time, one more time!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "哇──再一次！再一次！",
+            "convert": "哇──再一次！再一次！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、まるでお父さんが子供をあやしてるみたいですね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Teehee, you're like a father doing tricks in front of his kids~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "嘻嘻，简直就像爸爸在哄小孩一样呢～",
+            "convert": "嘻嘻，简直就像爸爸在哄小孩一样呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、お父さんと……子供……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Wait, a father... with his kids...?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "爸、爸爸跟……小孩……？",
+            "convert": "爸、爸爸跟……小孩……？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ってことは、もしかしてわたしがお母さんで、ナッちゃんと……！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "So if Nacchan is the father, does that mean... I'm the mother...?!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "这么说，难道我是妈妈？而且还跟椰子……！？",
+            "convert": "这幺说，难道我是妈妈？而且还跟椰子……！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんにゃ、そんにゃの……！　めしべとめしべじゃ赤ちゃんは、赤ちゃんはできにゃいのにぃ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "N-N-No way! I-It's impossible! Two pistils can't can't make a child togetheeer, meowww... %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "这这、这怎么行……！女生跟女生是生不出小、小孩的说……♪",
+            "convert": "这这、这怎幺行……！女生跟女生是生不出小、小孩的说……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ、はぁ……♪　だめ、朝からシナモン、潤っちゃうぅぅうぅうぅぅ……っっっ♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Haahh, haahhh... %fSourceHanSansCN-M;♪%f; I can't help it, even though it's so early in the morning, I'm going to get wettttt~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "哈啊，哈啊……♪不行，才大白天的人家又要湿了啦～～～～……♪",
+            "convert": "哈啊，哈啊……♪不行，才大白天的人家又要湿了啦～～～～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「相変わらずバカだなモンシナのやつは～」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Cinnaminny doing that whole dumb gag routine again, huh..."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "桂还是跟平常一样笨到不行嘛～",
+            "convert": "桂还是跟平常一样笨到不行嘛～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね、バカね相変わらず～」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Oh yes, she's quite the silly one."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "是啊，还是那副笨笨的老样子～",
+            "convert": "是啊，还是那副笨笨的老样子～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これでこそ私の愛するネコたちねぇ～」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "And this is why she's one of my beloved catgirls~"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "这样才像我最爱的猫娘嘛～",
+            "convert": "这样才像我最爱的猫娘嘛～"
+        }
+    }
+]

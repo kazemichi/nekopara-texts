@@ -1,0 +1,920 @@
+[
+    {
+        "jp": {
+            "content": "キッチンは狭いし、座る場所もないので、\\n俺たちは休憩室へと移動した。"
+        },
+        "en": {
+            "content": "The kitchen has no place to sit since it's so narrow, so we take things to the break room instead."
+        },
+        "cn": {
+            "content": "廚房太狹窄了，也沒有地方可以坐下，\\n於是我們三個來到了休息室。",
+            "convert": "厨房太狭窄了，也没有地方可以坐下，\\n于是我们三个来到了休息室。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ、マッサージしてあげるわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Now then, we're going to give you a nice massage.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「好，我們來幫你按摩。」",
+            "convert": "「好，我们来帮你按摩。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……はぁ……マッサージ……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hah, hah... Hah... Massage...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「哈啊……哈啊……哈啊……按摩……」",
+            "convert": "「哈啊……哈啊……哈啊……按摩……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あんなところや～、こんなところを～……ぐにぐに～、こねこね～、ねとねとぉ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「A little there~ A little here~... Squish, squish~ Roll, roll~ Knead, knead~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「摸摸這裡～摸摸那裡～……揉揉～捏捏～搓來搓去～」",
+            "convert": "「摸摸这里～摸摸那里～……揉揉～捏捏～搓来搓去～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああんっ！　シナモン、潤っちゃうぅぅぅぅ～～～～…………っ！！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Aahm! Cinnamon is drooooling~...!!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊嗯！人家又要滋潤起來了～～～～…………！！」",
+            "convert": "「啊嗯！人家又要滋润起来了～～～～…………！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっと！　なに考えてるのよ！？　変なことはしないからね！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Wait a second! What are you thinking?! We're NOT doing anything out of the ordinary!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「喂！妳在胡思亂想什麼！？我們只是純按摩而已！」",
+            "convert": "「喂！你在胡思乱想什么！？我们只是纯按摩而已！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「マッサージとしちゃ、この体勢も、なかなか見かけないような気がするんだが……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I don't feel like I see this posture for a massage very often, though...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過好像沒見過有人用這種姿勢按摩吧。」",
+            "convert": "「不过好像没见过有人用这种姿势按摩吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なによ、ネコが膝に乗るくらい、普通じゃないの」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What? A cat sitting on someone's lap is normal.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「不行嗎？貓坐在大腿上很正常吧。」",
+            "convert": "「不行吗？猫坐在大腿上很正常吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うふふ……そうですね～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Tee hee hee... That's right~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻……對啊～♪」",
+            "convert": "「嘻嘻……对啊～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「普通……かな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Normal for 'cats', yeah...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這算……正常嗎？」",
+            "convert": "「这算……正常吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「『重い』なんて言わないよね？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You're not going to say we're 'heavy', right?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「你該不會是嫌我重吧？」",
+            "convert": "「你该不会是嫌我重吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひっ……！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Eek...?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「咿……！？」",
+            "convert": "「咿……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、まぁ、シナモンのことは、わからないけど」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Oh, well, I'm not sure about Cinnamon, actually.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「啊，不過桂的話就不好說了。」",
+            "convert": "「啊，不过桂的话就不好说了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひどい！　メーちゃん、ひどい～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You're terrible! May-chan, you're terrible~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「好過分！小楓太過分了～！」",
+            "convert": "「好过分！小枫太过分了～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「つまみ食い……やめなさいね？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「So, you'll stop sneaking bites of the cakes?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「誰教妳老愛偷吃蛋糕。」",
+            "convert": "「谁教你老爱偷吃蛋糕。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぇぇっ！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Fweeeh?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「欸！？」",
+            "convert": "「欸！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……重くないよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah... Neither of you are heavy.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……不會重啦。」",
+            "convert": "「哈哈……不会重啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ。なら、肩を揉んであげるわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I see. In that case, I'll start rubbing your shoulders.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「那就好。我來幫你揉揉肩膀。」",
+            "convert": "「那就好。我来帮你揉揉肩膀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うふふ……じゃあ、わたしも。肩、もみもみしちゃいますね～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Tee hee hee... I will too, then. I'm going to give your shoulders a nice rub down~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻……那我也一起來揉肩～♪」",
+            "convert": "「嘻嘻……那我也一起来揉肩～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはんっ……嘉祥さんってば、かっちかちですよ～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Aha-mm... My, Kashou-san, you're positively stiff, you know~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈……嘉祥這裡怎麼硬梆梆的啊～？」",
+            "convert": "「啊哈……嘉祥这里怎么硬梆梆的啊～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんなに、固くしちゃって～……溜まってたんですか～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「If your shoulders are this stiff~... you must have a lot pent up, yes~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「硬成這樣～……肯定是囤積很久了吧～？」",
+            "convert": "「硬成这样～……肯定是囤积很久了吧～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「疲れ、ね！　疲れが溜まって、肩凝りがひどいって話よ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Pent up 'fatigue', that is! Yes, she's saying that you have a lot of pent up fatigue, and it's making your shoulders stiff as a board.」 "
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「別想歪了！現在說的是疲勞囤積起來，肩膀硬梆梆！」",
+            "convert": "「别想歪了！现在说的是疲劳囤积起来，肩膀硬梆梆！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わ、わかってるよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I-I got the picture.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我、我知道啦。」",
+            "convert": "「我、我知道啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……こんな、かちかちの……もみもみしてたら～、んふぅん」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hah-fhh... Rubbing down something... that's this hard~ Mm-fhh-mm...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「哈呼……這麼硬的部位……如果揉一揉～嗯呼嗯。」",
+            "convert": "「哈呼……这么硬的部位……如果揉一揉～嗯呼嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どう？　気持ちいいかしら？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Well? Does it feel good?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「怎麼樣？這樣舒服嗎？」",
+            "convert": "「怎么样？这样舒服吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……そうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah... Sure does.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……很舒服。」",
+            "convert": "「嗯……很舒服。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "この体勢だと、あんまり力が入らないかと思ったけれど……\\nそういえば、ネコって身体能力が高いもんな。"
+        },
+        "en": {
+            "content": "I didn't think they could apply much force in the position we're in, though... but I've been reminded of how catgirls are very physically apt."
+        },
+        "cn": {
+            "content": "原本以為她們這種姿勢很難施力……\\n我都忘了貓娘的身體能力很強了。",
+            "convert": "原本以为她们这种姿势很难施力……\\n我都忘了猫娘的身体能力很强了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "意外にも、しっかりと肩がもみほぐされる。"
+        },
+        "en": {
+            "content": "So, surprisingly enough, they're both giving my shoulders a firm and complete massage."
+        },
+        "cn": {
+            "content": "沒想到肩膀痠痛確實有得到緩解。",
+            "convert": "没想到肩膀酸痛确实有得到缓解。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「正直、思っていたより……というか、すごく効いてる……うっ、ううっ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Honestly, how do I put this? It's working, well... better than I expected... Urk, unghh!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「老實講，比我預期的……有效許多……唔，嗯。」",
+            "convert": "「老实讲，比我预期的……有效许多……唔，嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うふふ……嘉祥さんの声、色っぽいです～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Tee hee hee... Kashou-san, your voice is getting all sensual~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻……嘉祥的聲音好性感～」",
+            "convert": "「嘻嘻……嘉祥的声音好性感～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……ふぅ……んしょ……んしょ……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Hah, fhh... Here... and here...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「哈啊……呼……嘿咻……嘿咻……」",
+            "convert": "「哈啊……呼……嘿咻……嘿咻……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ、んっ、んっ、んっ、んっ、んっ……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm, mm, mm, mm, mm, mm...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯、嗯、嗯、嗯、嗯、嗯……」",
+            "convert": "「嗯、嗯、嗯、嗯、嗯、嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どう？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Well?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「這樣可以嗎？」",
+            "convert": "「这样可以吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だいぶ、ほぐれてきた感じですね～。嘉祥さん、気持ちよさそうな顔してますよ～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It feels like you're starting to get loosened up~ Kashou-san, that face you're making is saying that you're liking it~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「感覺好像沒那麼硬梆梆了～嘉祥也一副很舒服的樣子～」",
+            "convert": "「感觉好像没那么硬梆梆了～嘉祥也一副很舒服的样子～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……ありがとう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah... Thanks.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊……謝謝妳們。」",
+            "convert": "「是啊……谢谢你们。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……感謝なら、態度で示してくれてもいいのよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...If you're thankful, you can let your body do the talking.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「……要感謝別人，應該拿出誠意來才對吧？」",
+            "convert": "「……要感谢别人，应该拿出诚意来才对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　えーっと……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hm? Umm...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？呃……」",
+            "convert": "「嗯？呃……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……本当、にぶいわねー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...Boy, you really are dense.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「……你真的好遲鈍。」",
+            "convert": "「……你真的好迟钝。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅー！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mm-smooch!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「嗯啾——！」",
+            "convert": "「嗯啾——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんっ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmnghh?!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯！？」",
+            "convert": "「嗯！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅっちゅっ……ちゅっ……なによ……？　イヤなんて言わないでね？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mm-smooch, smooch... Smooch... Smak... What...? Don't tell me that you don't like it.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「嗯啾啾……啾……怎麼樣……？不許說不喜歡。」",
+            "convert": "「嗯啾啾……啾……怎么样……？不许说不喜欢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「言わないよ。驚いたけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm not. Just startled me a little.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒有啦，我只是嚇了一跳。」",
+            "convert": "「没有啦，我只是吓了一跳。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なら、よし。んちゅっ……ちゅっ！　ちゅっ……ちゅっ……ちゅちゅっ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Good, then. Mm-smooch... Smak! Smak! Smooch... Smak, smak...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「那就好。嗯啾……啾！啾……啾……啾啾。」",
+            "convert": "「那就好。嗯啾……啾！啾……啾……啾啾。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはぁ……メーちゃんってば、えっちだ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahah... May-chan, you perv~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈啊……小楓好色～♪」",
+            "convert": "「啊哈啊……小枫好色～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こ、恋ネコなんだから……ちゅっ、ちゅっ……これくらい、当然……んっ、んくっ……じゃなくって！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「W-We're your catpanions, so... smooch, smooch... this is only natural... mm, mm-khh.... isn't it?!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我、我好歹也是貓娘情人……啾、啾……接個吻而已……嗯，嗯咕……又不算什麼！」",
+            "convert": "「我、我好歹也是猫娘情人……啾、啾……接个吻而已……嗯，嗯咕……又不算什么！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだよね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「That's right~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「說的也是～」",
+            "convert": "「说的也是～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぷはっ……じゃあ、シナモンにも」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Phh-ah... Then you too, Cinnamon.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「噗哈……接下來換桂吧。」",
+            "convert": "「噗哈……接下来换桂吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはっ……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahah...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈……」",
+            "convert": "「啊哈……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……ちゅちゅっ……んちゅっ……ちゅっちゅっ」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm... Smak, smak... mm-smooch... smak, smak...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯……啾啾……嗯啾……啾、啾。」",
+            "convert": "「嗯……啾啾……嗯啾……啾、啾。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……意外と優しいキスだな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hah-fhh... Your kiss is surprisingly gentle, isn't it?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈呼……妳的吻意外地很溫柔啊。」",
+            "convert": "「哈呼……你的吻意外地很温柔啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うふふ……本気になるとぉ～……止まらなくなっちゃうかもしれませんからね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Tee hee hee... Whenever I get really into it~ there just might not be any stopping me~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻……因為如果認真起來～可能會停不下來啊～」",
+            "convert": "「嘻嘻……因为如果认真起来～可能会停不下来啊～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅっ……ちゅっ……ちゅちゅっ……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm-smooch... Smak... Smak, smak...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯啾……啾……啾啾……」",
+            "convert": "「嗯啾……啾……啾啾……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、でも……優しいキスも、好きですよ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, but... I like gentle kisses, too~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊，不過……溫柔的接吻我也喜歡～♪」",
+            "convert": "「啊，不过……温柔的接吻我也喜欢～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んん……俺もだよ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mmm... Yeah, me too...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……我也喜歡……」",
+            "convert": "「嗯……我也喜欢……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちゅっ……ちゅっ……んちゅー……ぷはっ！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Smooch... Smooch... Mm-smooch... Ph-hah!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啾……啾……嗯啾——……噗哈！」",
+            "convert": "「啾……啾……嗯啾——……噗哈！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どう？　少しは、ストレス解消になったかしら？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Well? Did that help relieve your stress?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「怎麼樣？壓力緩解一點了嗎？」",
+            "convert": "「怎么样？压力缓解一点了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「マッサージ、効きましたか？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Did the massage work?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「按摩有效果嗎？」",
+            "convert": "「按摩有效果吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……ありがとう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah... Thanks, guys.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……謝謝。」",
+            "convert": "「嗯……谢谢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだ、疲れたような顔をしてるわねー？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You still look pretty tired.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「不過，看你表情怎麼好像還是很累？」",
+            "convert": "「不过，看你表情怎么好像还是很累？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え、そうかな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, do I?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦，真的嗎？」",
+            "convert": "「咦，真的吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「サービスが足りなかったですか～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Was that not enough service for you~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「是不是我們服務得不夠多～？」",
+            "convert": "「是不是我们服务得不够多～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほら、もっとしてあげるわ。ちょっと、強いほうがいいかしら？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Look, we'll give you more. A little stronger this time?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「好啦，再幫你多按摩一點。力道略強一點比較好嗎？」",
+            "convert": "「好啦，再帮你多按摩一点。力道略强一点比较好吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、強くしちゃいますか～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, shall we do it stronger~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊，要更用力一點嗎～？」",
+            "convert": "「啊，要更用力一点吗～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えいえいえい」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Hiya, hiya, hiya.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「嘿咻嘿咻嘿咻。」",
+            "convert": "「嘿咻嘿咻嘿咻。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うりうりうり」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「N'there, n'there, n'there.」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我捏我捏我捏。」",
+            "convert": "「我捏我捏我捏。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……うわあぁぁぁぁ……き、効くぅぅぅ！！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Urgh... Gaaaaah... I-It's workiiiing!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唔……哇啊啊啊啊啊……好、好舒服～！」",
+            "convert": "「唔……哇啊啊啊啊啊……好、好舒服～！」"
+        }
+    }
+]

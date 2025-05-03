@@ -1,0 +1,479 @@
+[
+    {
+        "jp": {
+            "name": "ココナツ＆アズキ",
+            "content": "『「午後１２時、洗濯物」\\n「午後１２時、洗濯物」』"
+        },
+        "en": {
+            "name": "Coconut&Azuki",
+            "content": "12 pm, doing the laundry!"
+        },
+        "cn": {
+            "name": "椰子＆紅豆",
+            "content": "中午１２点，洗衣服",
+            "convert": "中午１２点，洗衣服"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん～っ……！　物干し竿に、手が届かないよ～……！　これじゃお洗濯ものが干せない～……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Nnngh~! I can't... reach... the clothesline...! I can't hang the laundry to dry like thiiis~!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "嗯～……！手够不到晒衣竿～……！这样子要怎么晒衣服啦～……！",
+            "convert": "嗯～……！手够不到晒衣竿～……！这样子要怎幺晒衣服啦～……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいよシナモン。高いところはぼくに任せて、洗濯物広げて渡してくれる？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Don't worry Cinnamon, leave the hanging to me. Could you fold out the laundry and hand it to me?"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "没关系，桂。高的地方交给我，你可以帮忙把衣服甩开吗？",
+            "convert": "没关系，桂。高的地方交给我，你可以帮忙把衣服甩开吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、ありがとうナッちゃん♪　ナッちゃんは年下なのに頼りがいがあるなぁ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Sure! Thanks Nacchan! %fSourceHanSansCN-M;♪%f; You're younger than me, but you sure are reliable~!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "嗯，谢谢你咯，椰子♪　椰子年纪明明比我小，可是好可靠喔～",
+            "convert": "嗯，谢谢你咯，椰子♪　椰子年纪明明比我小，可是好可靠喔～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「メインクーンだから身体が大きいだけだよ。こういう時は便利だけどね？　あはは」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I just have a larger physique because I'm a Maine Coon. Though it sure comes in handy in times like these, huh? Ahaha~!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "缅因猫体型本来就比较大嘛。遇到这种时候最方便了，啊哈哈。",
+            "convert": "缅因猫体型本来就比较大嘛。遇到这种时候最方便了，啊哈哈。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもシャワーも浴びてサッパリ出来て良かったよね～。濡れたままじゃ一日気持ち悪かったし」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "It was a good thing we could take a shower, though~ Spending the rest of the day drenched in toliet water would have been terrible."
+        },
+        "cn": {
+            "name": "桂",
+            "content": "不过冲过澡以后清爽多了呢～不然湿着身体一整天还挺难受的。",
+            "convert": "不过冲过澡以后清爽多了呢～不然湿着身体一整天还挺难受的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだね。時雨さまも、あんな装置をトイレに付けるなら一言教えてくれればいいのに」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Right you are! Shigure-sama really should have told us if she had something like that installed in the bathroom though."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "是啊。时雨小姐也真是的，在厕所装新设备也不告诉我们一声。",
+            "convert": "是啊。时雨小姐也真是的，在厕所装新设备也不告诉我们一声。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはは、そうだね～。そうすればあんなことにならなかったのにね～……ん？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Ahaha, yeah! We could have avoided all that if she had told us, right?  ... Hm?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "啊哈哈，就是说啊～早点告诉我们的话就不会发生这种事了嘛～……嗯？",
+            "convert": "啊哈哈，就是说啊～早点告诉我们的话就不会发生这种事了嘛～……嗯？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、蝶々だ。蝶々が飛んでるー」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Oh, it's a butterfly! Just a butterfly fluttering by~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "啊，蝴蝶。有蝴蝶在飞耶～",
+            "convert": "啊，蝴蝶。有蝴蝶在飞耶～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほんとだ、蝶々がひらひらと……目の前を、誘うみたいに……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "You're right! It's just... dancing right before our eyes... Calling to us..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "真的呢。蝴蝶飞呀飞的……好像，故意在眼前引诱我似的……",
+            "convert": "真的呢。蝴蝶飞呀飞的……好像，故意在眼前引诱我似的……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………（そわそわそわ、うずうずうず）」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Fidget fidget, fidget fidget!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "…………（蠢蠢欲动）",
+            "convert": "…………（蠢蠢欲动）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はっ！　いけないいけない、ぼくは立派なネコなんだから！　蝶々くらいで惑わされちゃだめだっ……！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Gasp! No, I can't! I'm a proper, disciplined catgirl! Some butterfly isn't going to get the better of me...!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "啊！不可以不可以，我是只优秀的猫娘，怎么可以被区区一只蝴蝶给诱惑……！",
+            "convert": "啊！不可以不可以，我是只优秀的猫娘，怎幺可以被区区一只蝴蝶给诱惑……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「色即是空、空即是色……！　明鏡止水、油断大敵……！　ぼくは大人、ぼくは大人……！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Everything is nothing, nothing is everything! Clear your mind, overconfidence is the enemy! I'm an adult, I am an adult...!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "色即是空，空即是色……！明镜止水，大意失荆州……！我是大人，我是大人……！",
+            "convert": "色即是空，空即是色……！明镜止水，大意失荆州……！我是大人，我是大人……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「気にならない、ちょうちょなんてヒラヒラしてても目の前を飛んでても気にならない気にならない気にならない……！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "It's nothing! It's just some butterfly flapping its wings, right there, right in front of me! It's nothing, nothing, nothing...!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "我完全不在意，就算有蝴蝶在我面前飞上飞下我也一点都不在意不在意不在意……！！",
+            "convert": "我完全不在意，就算有蝴蝶在我面前飞上飞下我也一点都不在意不在意不在意……！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アタシのこの手が真っ赤に燃える！　ちょうちょを落とせと轟き叫ぶ！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "This hand of mine burns red! Its loud roar tells me to defeat the butterfly!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "我的手正燃着熊熊烈火！呼喊着要打下蝴蝶！",
+            "convert": "我的手正燃着熊熊烈火！呼喊着要打下蝴蝶！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ばあああああああああくぬぇつぅ、アズキィィっっ、フィンガアアアアアアアアアアアアアッッッ！！！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "ERUPTINGGGGG AZUKIIIII FINGERRRRR!!!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "爆热──────────红豆掌────────────！！！！",
+            "convert": "爆热──────────红豆掌────────────！！！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぎにゃあぁっっっ！！！！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Myaaaarrggghhh!!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "喵啊────！！！！！",
+            "convert": "喵啊────！！！！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「チッ、逃がしたか！　次は外さねぇぞ！　くらいやがれ！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Damn, it got away! I'm not going to miss next time! Take that!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "啧，给逃掉了！不过别想躲过下一拳！看招！！",
+            "convert": "啧，给逃掉了！不过别想躲过下一拳！看招！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「金と遊びだけが友達だ！　にゃあぁあぁぁぁん、ぱあぁあぁあぁんちぶべらぁっっ！！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Money is my only friend! MEOWWW PUNCH--Oww!!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "只有钱跟玩乐才是朋友！喵────包────拳噗呸啦！！？",
+            "convert": "只有钱跟玩乐才是朋友！喵────包────拳噗呸啦！！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「てめぇメインクーンごときが何しやがる！！　いてぇじゃねーか！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "What the hell are you doing, you stupid Maine Coon! That hurt!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "干什么你这只缅因猫！！很痛耶！！",
+            "convert": "干什幺你这只缅因猫！！很痛耶！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼくのセリフだこのマンチカン！！　なんでいきなりあんな助走つけてネコパンチするんだよ！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "That's MY line, you freakin' munchkin! Why'd you come running full speed and catgirl-punch me?!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "这是我的台词，腊肠猫！！干嘛突然冲过来用猫拳打我！！",
+            "convert": "这是我的台词，腊肠猫！！干嘛突然冲过来用猫拳打我！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「テメーがそこに突っ立ってんのが悪ぃんだろーが！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "It's your fault for just standing there!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "谁叫你呆呆站在那里！",
+            "convert": "谁叫你呆呆站在那里！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でけー図体と一緒にネコの誇りまで失くしちまったのか！？　あぁんっ！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "You and your massive frame, don't you have any pride as a catgirl?! Huh?!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "难道你身为猫娘的荣耀都被那身块头给压扁了吗！？啊啊！？",
+            "convert": "难道你身为猫娘的荣耀都被那身块头给压扁了吗！？啊啊！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そっちこそ豆チカンのくせに無理してリーチのないネコパンチ振り回すからだろ！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I don't want hear that from a tiny little Munchkin like you, trying to punch something she can't even reach!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "明明就是因为你这只豆子猫手短还硬要乱打好不好！？",
+            "convert": "明明就是因为你这只豆子猫手短还硬要乱打好不好！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「てかぼくがいるんだから避ければいいじゃんか！！　なんでそのまま突っ込んでくるんだよ！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "And if you saw me, how about you try not running straight into me?!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "再说我一开始就站在这里！！你干嘛不闪开还呆呆撞过来！！",
+            "convert": "再说我一开始就站在这里！！你干嘛不闪开还呆呆撞过来！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うるせーやんのかテメー！　ちょうちょの前にテメーからぶっ潰すぞ！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Shaddap! I'll beat you senseless before I do it to the butterfly!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "少啰嗦──想打吗！这么想打的话我就在打爆蝴蝶之前先打爆你！",
+            "convert": "少啰嗦──想打吗！这幺想打的话我就在打爆蝴蝶之前先打爆你！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいよ、たまにはお灸据えてあげる！　ごめんなさいって言うまで関節締め上げるからね！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Fine then, someone's got to put you in your place! I'll twist you 'til you apologize!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "很好，偶尔也该给你点颜色瞧瞧！看我怎么用关节技绞到你哭着求饶！！",
+            "convert": "很好，偶尔也该给你点颜色瞧瞧！看我怎幺用关节技绞到你哭着求饶！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おぉおぉっ……！　目にも留まらぬアズキちゃんのフットワーク……！　残像、残像が見えるよ……！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh, ohhh! Azuki's lightning-fast footwork! It's like Chocola's seeing double...!!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喔喔……！红豆的脚步快到让人看不见……！是残像，看得到残像耶……！！",
+            "convert": "喔喔……！红豆的脚步快到让人看不见……！是残像，看得到残像耶……！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、でもすぐ捕まったね～。そこから流れるような足４の字固めだ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Ah, she got caught by Nacchan in no time. Now her legs are locked in the shape of a four~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "啊，不过一下就被抓个正着呢～然后马上就被施展４字固定了～",
+            "convert": "啊，不过一下就被抓个正着呢～然后马上就被施展４字固定了～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん、ナッちゃんは相手が悪いよね～。まぁアズちゃんが明らかに悪いし仕方ないかなぁ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Yeah, Nacchan isn't exactly someone you'd want to pick a fight with... Well, it's Azuki-chan's fault, so whatever~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "嗯～果然不是椰子的对手呢。不过毕竟是红豆有错在先，这也是没办法的事～",
+            "convert": "嗯～果然不是椰子的对手呢。不过毕竟是红豆有错在先，这也是没办法的事～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほんとーにあの２匹はケンカばっかして飽きないわねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I'm surprised those two haven't gotten sick of bickering yet."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "她们两个真的是怎么打都打不腻耶。",
+            "convert": "她们两个真的是怎幺打都打不腻耶。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「元気なのはいいこと。元気があれば何でも出来るって聞いたし」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Being energetic is a good thing. I hear you can do anything with enough energy."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "有朝气是好事。听说只要有朝气，不管做什么都能成功喔。",
+            "convert": "有朝气是好事。听说只要有朝气，不管做什幺都能成功喔。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふにゃぁ～ん……♪　洗濯物を干すことをダシに兄さまのお布団にくるまれるのは極楽、極楽ですにゃぁ～……♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Yaaawn~ %fSourceHanSansCN-M;♪%f; Rolling around in Nii-sama's futon while hanging the laundry out to dry is paradise! Truly paradise, meow~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "呼喵～……♪借晒衣服之名来包在哥哥被窝里的感觉真是极乐，极乐喵～……♪",
+            "convert": "呼喵～……♪借晒衣服之名来包在哥哥被窝里的感觉真是极乐，极乐喵～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「このまま時が止まってしまえばいいのに～……♪　うふふほほほあははは～……♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I wish I could live in this moment forever~ %fSourceHanSansCN-M;♪%f; Teehee... Ohohoh... Ahahahah~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "要是时间永远停在这个时候就好了～……♪唔呼呼呵呵呵啊哈哈哈～……♪",
+            "convert": "要是时间永远停在这个时候就好了～……♪唔呼呼呵呵呵啊哈哈哈～……♪"
+        }
+    }
+]

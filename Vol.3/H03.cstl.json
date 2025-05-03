@@ -1,0 +1,1427 @@
+[
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯……啾、啾……啾……嗯……」",
+            "convert": "「嗯……啾、啾……啾……嗯……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mm... mwah... Mmn.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ん……ちゅ、ちゅ……ちゅ……ん……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啾……嗯，楓……啾……啾……」",
+            "convert": "「啾……嗯，枫……啾……啾……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan... mmmm...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ちゅ……ん、メーちゃん……ちゅ……ちゅ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「耶嘿嘿……♪好久沒跟楓這樣親嘴了……♪」",
+            "convert": "「耶嘿嘿……♪好久没跟枫这样亲嘴了……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ehehe... ♪ It's been so long since we kissed like this... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「えへへ……♪　久しぶりだね、こうやってちゅーするの……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳也已經不是小貓了，只能一下子喔……」",
+            "convert": "「你也已经不是小猫了，只能一下子喔……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「We're not kittens anymore, so a little's all you get...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「もう仔ネコじゃないんだから、少しだけよ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「姊妹間本來不應該有這種關係的，妳知道嗎……？」",
+            "convert": "「姐妹间本来不应该有这种关系的，你知道吗……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「This... really isn't something sisters do...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「本当は、姉妹でするようなことじゃないんだからね……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嗯，知道啦，我又不是小貓了～……♪」",
+            "convert": "「嗯，知道啦，我又不是小猫了～……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Yeah, I know. I'm not a kitten~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「うん、分かってるよ、仔ネコじゃないんだから～……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不過，讓我再……親一下吧，楓……嗯……♪」",
+            "convert": "「不过，让我再……亲一下吧，枫……嗯……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Just... a little bit more... okay, May-chan...? Mm... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「でも、もう少しだけ……するね、メーちゃん……ん……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯……只有一下的話……」",
+            "convert": "「嗯……只有一下的话……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mm... Only a little...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ん……もう少しだけ、なら……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嗯、啾……啾、啾……」",
+            "convert": "「嗯、啾……啾、啾……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm... Mwah...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ん、ちゅ……ちゅ、ちゅっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「楓……哈啊、嗯……啾、啾……」",
+            "convert": "「枫……哈啊、嗯……啾、啾……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan... Haaa... Mn...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん……はぁ、ん……ちゅ、ちゅっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯嗯……桂……啾、嗯……」",
+            "convert": "「嗯嗯……桂……啾、嗯……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mm... Cinnamon...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んんっ……シナ、モン……ちゅ、んっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「等一下……嗯、妳的挑逗……是不是比剛才、更……」",
+            "convert": "「等一下……嗯、你的挑逗……是不是比刚才、更……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「This is getting... hotter than before...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょっと……ん、さっきより……いやらし、んっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「誰叫……楓要露出那麼色的表情……」",
+            "convert": "「谁叫……枫要露出那么色的表情……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It's because... you're making such a naughty face, May-chan...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「だって……メーちゃんが、えっちな顔するから……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嗯……啾、啾……嗯嗯……啾……」",
+            "convert": "「嗯……啾、啾……嗯嗯……啾……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm... Haah... Mmn... Mwah.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ん……ちゅ、ちゅ……んんっ……ちゅっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「呼啊……楓的嘴唇……好軟……」",
+            "convert": "「呼啊……枫的嘴唇……好软……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Haaa... May-chan's lips... They're so soft...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁ……メーちゃんのくちびる……やわらかい……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「親起來感覺好好……怎麼會這樣……」",
+            "convert": "「亲起来感觉好好……怎么会这样……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It feels so good... How is it so good...?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「すっごくきもちいいよぉ……何これ、すごい……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「是啊……實在太久沒這樣……感覺有點怪怪的……」",
+            "convert": "「是啊……实在太久没这样……感觉有点怪怪的……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Yeah... It's been so long... It feels weird...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「そうね……何か、久しぶりだと……ヘンな感じ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我記得，以前好像不會心跳得這麼快……」",
+            "convert": "「我记得，以前好像不会心跳得这么快……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I didn't think I'd be this out of breath...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「こんなに、ドキドキしなかったはずだけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「對不起喔，楓……可以再一下嗎……？」",
+            "convert": "「对不起喔，枫……可以再一下吗……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan, I'm sorry... Can I have a little more time...?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん、ごめんね……もうちょっとだけ、いいかなぁ……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「真、真拿妳沒辦法……只能再一下子喔……？」",
+            "convert": "「真、真拿你没办法……只能再一下子喔……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「O-Oh, fine... Just a little more...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「し、仕方ないわね……もうちょっとだけ、よ……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「那……妳可不可以……把舌頭伸出來……？」",
+            "convert": "「那……你可不可以……把舌头伸出来……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「So... can you... stick out your tongue a little bit?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「じゃあさ……？　ちょっとだけ……舌、出してくれる……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳、妳說舌頭……像、像這樣……？」",
+            "convert": "「你、你说舌头……像、像这样……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「M-My tongue... Like this...?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「し、舌って……こ、こう……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哈啊……嗯、咧囉……啾、咧囉、咧囉……」",
+            "convert": "「哈啊……嗯、咧咯……啾、咧咯、咧咯……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Haaa... Slurrp... Eaaagh...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁ……ん、れろ……ちゅ、れろ、れろ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哈啊，這樣子……啾、咧囉、咧囉……嗯、咧囉、啾……」",
+            "convert": "「哈啊，这样子……啾、咧咯、咧咯……嗯、咧咯、啾……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahh, this... Slurrp... Mmm, mwah...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁ、これ……ちゅ、れろ、れる……んっ、れろ、ちゅ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯嗯……呼、啊啊……咧囉、啾、啾……」",
+            "convert": "「嗯嗯……呼、啊啊……咧咯、啾、啾……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mmm... Haaa... Slurrrp. Ahm...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んんっ……は、あぁ……れろ、ちゅ、ちゅっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「桂，等一下……妳舔得太過火……嗯……咧囉、啾……」",
+            "convert": "「桂，等一下……你舔得太过火……嗯……咧咯、啾……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Cinnamon... you're licking too much... Slurp...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「シナモン、ちょ……舐め、すぎ……んっ……れろ、ちゅ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啾、咕啾……有什麼辦法，這樣感覺很好嘛……♪」",
+            "convert": "「啾、咕啾……有什么办法，这样感觉很好嘛……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mwah, mm... but it feels so good... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ちゅ、くちゅ……だってこれ、きもちーんだもん……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嗯、啾……都快、停不下來了……咧囉、啾……」",
+            "convert": "「嗯、啾……都快、停不下来了……咧咯、啾……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mmn... I can't... stop myself... Slurrp...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ん、ちゅ……止められないよ、こんなの……れろ、ちゅ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯，呼啊……啊、嗯……啾、咧囉……咧囉……」",
+            "convert": "「嗯，呼啊……啊、嗯……啾、咧咯……咧咯……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mm. Haaa... Ungh... Slurrp.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ん。はぁ……あ、んっ……ちゅ、れろ……れる……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「噗哈……呼、呼……呼……」",
+            "convert": "「噗哈……呼、呼……呼……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Puah... Haaa, haaa...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ぷは……はぁ、はぁ……はぁ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「呼、呼……呼……嗯，哈啊……」",
+            "convert": "「呼、呼……呼……嗯，哈啊……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Haa, haa... Haaan...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「はぁ、はぁ……はぁ……ん、はぁ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「楓……妳現在的表情好色喔……♪」",
+            "convert": "「枫……你现在的表情好色喔……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan... You look so dirty right now... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん……すっごいえっちな顔しちゃってるよ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳自己還不是一樣……表情也太淫亂了吧……」",
+            "convert": "「你自己还不是一样……表情也太淫乱了吧……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You look... plenty perverted yourself...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あんただって……すごい、やらしー顔してるわよ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻……因為我們都已經知道接吻代表什麼意義了嘛……？」",
+            "convert": "「嘻嘻……因为我们都已经知道接吻代表什么意义了嘛……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I guess... we figured out the meaning of a kiss...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす……わたしたち、キスの意味知っちゃったもんね……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「所以，楓才不肯再親我的嘴對不對……？」",
+            "convert": "「所以，枫才不肯再亲我的嘴对不对……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「That's why you stopped doing it, right, May-chan...?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「だからメーちゃんが、してくれなくなったんだもんね……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「是啊……因為這種事不應該只為了享樂而做……」",
+            "convert": "「是啊……因为这种事不应该只为了享乐而做……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Yeah... It feels good, but it's not something we should do...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「そうね……気持ちいいだけで、することじゃなかったから……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「所以，以前的我們不知道怎麼更進一步，只能做到這裡而已……」",
+            "convert": "「所以，以前的我们不知道怎么更进一步，只能做到这里而已……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「We would stop here because we didn't know where to go...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「だから昔はここまでで、それ以上は分からなかったけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不過既然我們都是大人了……那再做得更深入一點也沒關係吧……？」",
+            "convert": "「不过既然我们都是大人了……那再做得更深入一点也没关系吧……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「But now that we're adults... we can go further... can't we?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「今はオトナだから……もうちょっとだけ、いいよね……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「什、什麼做得更深入……等一下，桂──」",
+            "convert": "「什、什么做得更深入……等一下，桂──」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Go further... Hey, Cinnamo—」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「もう、ちょっとだけって……ちょっと、シナモ――」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嗯、啾……啾、咧囉、啾……嗯、咧囉……♪」",
+            "convert": "「嗯、啾……啾、咧咯、啾……嗯、咧咯……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm, mwah... Slurrrp... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ん、ちゅ……ぢゅ、れろ、ちゅっ……ん、れろ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「楓……嗯、嗯嗯……啾嚕、咧囉、啾、咕啾……♪」",
+            "convert": "「枫……嗯、嗯嗯……啾噜、咧咯、啾、咕啾……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan... Mmm... Slurrrp... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん……んっ、んんっ……ぢゅる、れろ、ちゅ、くちゅっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「桂……妳這樣、哪叫一下子……嗯、嗯嗯……！」",
+            "convert": "「桂……你这样、哪叫一下子……嗯、嗯嗯……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Cinnamon... This has... gone for too long... Mmm...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「シナ、モっ……これ、ちょっとじゃな……んっ、んんっ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯、嗯嗯……呼啊、嗯……啾、咕啾……嗯嗯～……！」",
+            "convert": "「嗯、嗯嗯……呼啊、嗯……啾、咕啾……嗯嗯～……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mmm... Haaan... Slurrp... Mm...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んっ、んんっ……はぁ、んっ……ちゅ、くちゅ……んん～っ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「呼、哈……楓的舌頭不只粗糙，還好纏人……」",
+            "convert": "「呼、哈……枫的舌头不只粗糙，还好缠人……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Haaa... Your tongue is so sloppy, I can draw strings of spit...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁ、はっ……メーちゃんの舌、ざらざらって、引っかかって……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「這樣好色……好色喔，楓……嗯、咧囉……」",
+            "convert": "「这样好色……好色喔，枫……嗯、咧咯……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「So dirty... You're so dirty, May-chan... Mmm, slurrp...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「すごい、えっち……えっちだよ、メーちゃぁん……んっ、れろっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳自己不也是……口水流得滿臉，有夠煽情……嗯、嗯唔……」",
+            "convert": "「你自己不也是……口水流得满脸，有够煽情……嗯、嗯唔……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Cinnamon... Your drool is trickling... So sexy. Mmm...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「シナモンだって、よだれ……ぬるぬるで、エロいわよ……んっ、んぅっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嗯嗯……呼、呼啊……啊、哈啊……」",
+            "convert": "「嗯嗯……呼、呼啊……啊、哈啊……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm... Haaa... Ahh...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「んんっ……は、はぁっ……あっ、はぁっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「呼啊……啊、哈、哈啊……」",
+            "convert": "「呼啊……啊、哈、哈啊……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Haa... Haaa...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「はぁっ……あっ……はぁ、はぁっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，楓的嬌喘聲真可愛……♪」",
+            "convert": "「嘻嘻，枫的娇喘声真可爱……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Your naughty voice is so cute, May-chan... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす、メーちゃんのえっちな声、可愛いよぉ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「讓我不管身體或心裡……都興奮到極點了……♪」",
+            "convert": "「让我不管身体或心里……都兴奋到极点了……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「My heart and body... are shaking all the way to my core... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「身体も、心も……すごい、奥までぞくぞくしちゃう……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「桂……差、差不多該停……囉……？」",
+            "convert": "「桂……差、差不多该停……咯……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Cinnamon... we have to...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「シナモン……そ、そろそろ……ね……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「做、做到這邊就好了，好不好……？不能再繼續做下去……囉……？」",
+            "convert": "「做、做到这边就好了，好不好……？不能再继续做下去……咯……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「We have to stop soon... okay? We can't go any further than this...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「お、終わりにしよ……？　これ以上は、だめよ……ね……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「為什麼……？為什麼不行……？為什麼嘛……？」",
+            "convert": "「为什么……？为什么不行……？为什么嘛……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Why...? Why not...? Well?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「なんで……？　なんでだめなの……？　ねぇ、なんで……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳、妳問我為什麼……因為，這個……那個……」",
+            "convert": "「你、你问我为什么……因为，这个……那个……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Why...? Uh, you see...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「な、何でって……そんなの、えっと……その……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻……♪看到妳用那種表情求我，我怎麼停得下來……♪」",
+            "convert": "「嘻嘻……♪看到你用那种表情求我，我怎么停得下来……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hehe... ♪ I'm not going to stop with that look on your face... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす……♪　そんな顔でそんなこと言われたら、止められないよ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「我還想再跟楓……一起做更多色色的事……」",
+            "convert": "「我还想再跟枫……一起做更多色色的事……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I want... to do more dirty things with you, May-chan...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「もっと、メーちゃんと……えっちなこと、したいよ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「什、什麼色色的事……」",
+            "convert": "「什、什么色色的事……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「D-Dirty things...?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「え、えっちなことって……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哈呣……♪嗯、啾……咧囉、啾……」",
+            "convert": "「哈呣……♪嗯、啾……咧咯、啾……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahhm... ♪ Mmm, slurrp... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はむ……♪　ん、ちゅ……れろ、ぢゅっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啊嗯、哈呣、哈呣……♪啾、啾嚕……咧囉、啾……♪」",
+            "convert": "「啊嗯、哈呣、哈呣……♪啾、啾噜……咧咯、啾……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahhm, ah... ♪ Slurrrp, slurrrp... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「あむ、はむ、はむっ……♪　ちゅ、ぢゅる……れろ、ちゅっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「喵啊……！啊、哈啊、啊……啊啊啊……！」",
+            "convert": "「喵啊……！啊、哈啊、啊……啊啊啊……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Meow! Ahh, haaa...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んにゃぁっ……！　あっ、はぁ、あっ……あぁぁっ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「耳、耳朵……啊、不行……會害我叫出奇怪的……！哈、啊啊……！」",
+            "convert": "「耳、耳朵……啊、不行……会害我叫出奇怪的……！哈、啊啊……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「N-Not my ear... Ahh! I'll start moaning...! Haaa...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「み、耳はぁ……あ、だめ……ヘンな声、でちゃっ……！　は、あぁっ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「喵～……♪楓，妳那樣嬌喘……太犯規了啦……♪」",
+            "convert": "「喵～……♪枫，你那样娇喘……太犯规了啦……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Meeown... ♪ May-chan... that voice of yours is foul play... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「にゃぁぁん……♪　メーちゃん、そんな声……反則だよぉ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我、我明明就說……只能再一下、而已……！」",
+            "convert": "「我、我明明就说……只能再一下、而已……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You said you only wanted... a little bit...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょ、ちょっとだけって言うから……いいって、言ったのに……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「我一開始也打算再一下下就好呀……♪」",
+            "convert": "「我一开始也打算再一下下就好呀……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「And I meant it... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ちょっとだけのつもりだったのは、ほんとだよぉ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「可是，因為楓實在太可愛……害我完全停不下來……♪」",
+            "convert": "「可是，因为枫实在太可爱……害我完全停不下来……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「But you're so cute... I can't help myself... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「でも、メーちゃんがかわいすぎて……止められなくなっちゃっただけでぇ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哈呣、咧囉、啾……♪啾嚕、啾……啾、哈呣、嗯……♪」",
+            "convert": "「哈呣、咧咯、啾……♪啾噜、啾……啾、哈呣、嗯……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahhm. Slurrp... ♪ Mwah, sllrrrp... Ahhm.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はむ、れろ、ちゅっ……♪　ぢゅる、ちゅぅっ……ちゅ、はむ、んっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗚……！嘩、啊啊嗚嗚嗚……！喵、啊嗚嗚……！」",
+            "convert": "「呜……！哗、啊啊呜呜呜……！喵、啊呜呜……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Guh...! Haauuu...! Meeoooww...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「うく……！　は、あぁぅぅぅっ……！　にゃ、あうぅっ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳、妳這個……我說桂……妳不要、太過份……！」",
+            "convert": "「你、你这个……我说桂……你不要、太过分……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「D-Dammit, Cinnamon... you're getting carried away...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「こ、このぉ……シナモンってば……調子に、のってぇ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯、哈呣……嗯、啾……啾、啾、嗯嗯……」",
+            "convert": "「嗯、哈呣……嗯、啾……啾、啾、嗯嗯……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ahhm... sllrrpp... Ungh...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ん、はむっ……ん、ちゅっ……ぢゅ、ちゅっ、んんっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「喵～……♪啊、哈啊啊啊……♪」",
+            "convert": "「喵～……♪啊、哈啊啊啊……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Meoow... ♪ Ahh, haaa... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「んにゃぁぁっ……♪　あっ、はあぁぁっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不行啦，楓……♪那裡不行，尾巴是我的敏感帶，嗯啊啊啊……♪」",
+            "convert": "「不行啦，枫……♪那里不行，尾巴是我的敏感带，嗯啊啊啊……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan, no... ♪ My tail's my weak spot... Nhaaa... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「だめ、メーちゃん……♪　そこはぁ、しっぽはよわいのぉ、んあぁぁっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳以為我不知道妳的弱點在哪裡嗎……嗯、哈呣……」",
+            "convert": "「你以为我不知道你的弱点在哪里吗……嗯、哈呣……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I know that... Ahhhm...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「知ってるわよ、弱いことくらい……ん、はむ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「所以看我……啾、啾嚕……怎麼回敬妳，嗯、嗯嗯……」",
+            "convert": "「所以看我……啾、啾噜……怎么回敬你，嗯、嗯嗯……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「That's why... sluurrp... this is payback... Mmm.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「だからお返し……ちゅ、ぢゅる……してるんじゃない、んっ、んんっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「喵啊啊啊……♪不行，尾巴真的不行……♪」",
+            "convert": "「喵啊啊啊……♪不行，尾巴真的不行……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Meooow... ♪ Stop, please, not my tail... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「にゃあぁぁ……♪　だめ、ほんとに尻尾はぁ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「這樣會害人家興奮到不行……♪嘩、啊啊啊啊……♪」",
+            "convert": "「这样会害人家兴奋到不行……♪哗、啊啊啊啊……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I'm shaking so much, I can't... ♪ Haaaa... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ぞくぞくしちゃって、だめにゃのぉっ……♪　はっ、ああぁぁっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不過，可別小看我……！」",
+            "convert": "「不过，可别小看我……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Well, I can do it, too...!」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「でも、わたしだってぇ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哈呣、啾、咧囉……♪啾、啾、啾嚕、啾、嗯嗯……♪」",
+            "convert": "「哈呣、啾、咧咯……♪啾、啾、啾噜、啾、嗯嗯……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahhm, slurrp... ♪ Mwaah, shlurrrp. Mmm... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はむ、ちゅ、れろっ……♪　ちゅ、ぢゅ、じゅるっ、ちゅ、んんっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯、嗯嗯……！啾嚕、啾、啾嚕嚕、啾、啾嚕嚕……！」",
+            "convert": "「嗯、嗯嗯……！啾噜、啾、啾噜噜、啾、啾噜噜……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Mmm...! Slurrrp, churrrrp...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ん、んんっ……！　ぢゅる、ちゅっ、じゅるるっ、ちゅっ、ぢゅるるっ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「楓……嗯、啾、咧囉、啾嚕……！楓……！」",
+            "convert": "「枫……嗯、啾、咧咯、啾噜……！枫……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan... Mmm, shlurrp...! May-chan...!」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん……んっ、ちゅ、れろっ、ぢゅるっ……！　メーちゃん……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯、嗯唔、桂……！嗯、啾嚕、啾、哈呣、啾嚕嚕……！」",
+            "convert": "「嗯、嗯唔、桂……！嗯、啾噜、啾、哈呣、啾噜噜……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Guh, Cinnamon...! Mmm, slurrrp, ahhhm...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んっ、んくっ、シナモン……！　んっ、ぢゅるっ、ちゅ、はむ、じゅるるっ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啊、嘩……啊、嗯、啊啊……！楓，楓……！」",
+            "convert": "「啊、哗……啊、嗯、啊啊……！枫，枫……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahh, fwah... Ahhn...! May-chan, May-chan...!」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「あっ、ふぁっ……あっ、ん、あぁっ……！　メーちゃん、メーちゃん……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不、不行了……這樣真的會害我上癮……！」",
+            "convert": "「不、不行了……这样真的会害我上瘾……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「N-No... I'm losing it...!」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「もう、もうだめぇ……わたし、もうだめになっちゃう……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯嗯……！我、我也……被妳這樣弄，我……我……！」",
+            "convert": "「嗯嗯……！我、我也……被你这样弄，我……我……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ungh...! M-Me, too... If you keep doing that, I'll... I'll...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んんっ……！　あ、あたしも……そんなにされたら、もう……もうっ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「喵啊啊啊……！啊、嘩……啊、喵啊啊啊啊……！！」",
+            "convert": "「喵啊啊啊……！啊、哗……啊、喵啊啊啊啊……！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Meeoow...! Ahh, fwah... Meeooow...!!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「にゃあぁぁっ……！　あ、ふぁ……あっ、にゃああぁぁっ……！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂＆楓",
+            "content": "「喵啊啊啊啊啊啊啊啊啊啊……！！」",
+            "convert": "「喵啊啊啊啊啊啊啊啊啊啊……！！」"
+        },
+        "en": {
+            "name": "Cinnamon & Maple",
+            "content": "「Meooooooow...!!」"
+        },
+        "jp": {
+            "name": "シナモン＆メイプル",
+            "content": "「にゃああぁあぁああぁぁぁっっ……っっっ……！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「呼、呼……呼……喵～……」",
+            "convert": "「呼、呼……呼……喵～……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Haa, haaa... Meeow...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁ、はぁ……はぁ……にゃぁぁ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「呼、呼……啊……哈啊……」",
+            "convert": "「呼、呼……啊……哈啊……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Haa, haa... Ahhh... Haa...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「はぁ、はぁ……あっ……はぁ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哈啊……♪一起……高潮了、呢……♪」",
+            "convert": "「哈啊……♪一起……高潮了、呢……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Haa... We came... together...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁ……♪　いっしょに……イっちゃった、ね……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「明明就說不行了，妳卻給我硬著來……呼、呼……」",
+            "convert": "「明明就说不行了，你却给我硬着来……呼、呼……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I told you to stop, but you were so persistent... Haa, haaa...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「だめって言ってるのに、あんたがしつこくするから……はぁ、はぁ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈，楓妳真是的……就算高潮完還是一樣咄咄逼人呢」",
+            "convert": "「啊哈，枫你真是的……就算高潮完还是一样咄咄逼人呢」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Aha. May-chan... you're still trying to put up a front even after coming...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「あは、メーちゃんってば……イってもまだ強気なんだねぇ……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不過這也是楓的可愛之處……」",
+            "convert": "「不过这也是枫的可爱之处……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Though that is part of what makes you cute...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「それがメーちゃんの可愛いところだけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「……既然這樣，」",
+            "convert": "「……既然这样，」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「...In that case.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「……だったら」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「要是讓楓比剛才更舒服的話……不知道還能不能保持一樣的態度……？」",
+            "convert": "「要是让枫比刚才更舒服的话……不知道还能不能保持一样的态度……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「If I make you feel even better... will you do the same...?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「もっときもちよくなっちゃっても……そうなのかなぁ……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「呼……比剛才更舒服……？」",
+            "convert": "「呼……比刚才更舒服……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Haa... Even better...?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「はぁ……もっときもちよくって……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「等等……桂……！？」",
+            "convert": "「等等……桂……！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Hey... C-Cinnamon...?!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょ……シ、シナモン……！？」"
+        }
+    }
+]

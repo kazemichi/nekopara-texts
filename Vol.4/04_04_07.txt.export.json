@@ -1,0 +1,2280 @@
+[
+    {
+        "jp": {
+            "content": "「わぁ、今日も素敵です！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Wow, tonight is another lovely spread!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哇，今天的菜也好棒！」",
+            "convert": "「哇，今天的菜也好棒！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつもより、少し早い夕飯になった。"
+        },
+        "en": {
+            "content": "We have dinner a little earlier than usual."
+        },
+        "cn": {
+            "content": "今天的晚餐比平時要早一點。",
+            "convert": "今天的晚餐比平时要早一点。"
+        }
+    },
+    {
+        "jp": {
+            "content": "昨夜に続き、師匠が手料理を振る舞ってくれる。"
+        },
+        "en": {
+            "content": "In a follow up to last night, Mentor treats us to her home cooking."
+        },
+        "cn": {
+            "content": "繼昨夜之後，師傅今天也親自下廚。",
+            "convert": "继昨夜之后，师傅今天也亲自下厨。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……食事を楽しんでちょうだい」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Hehe... I hope you enjoy the meal.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「呵呵……請盡情享用吧。」",
+            "convert": "「呵呵……请尽情享用吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I will!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好的！」",
+            "convert": "「好的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「パティシエールの作る料理は、どれも美味しいですが、お兄さんと時雨さんがいるときは特別ですね」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Your cooking is always amazing, Pâtissière, but with Onii-san and Shigure-san around, you go the extra mile.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「糕點師做的菜一向都很美味，但哥哥和時雨小姐來了以後更是格外好吃。」",
+            "convert": "「糕点师做的菜一向都很美味，但哥哥和时雨小姐来了以后更是格外好吃。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……つい張り切ってしまうわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Hehe... I just can't help myself.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「呵呵……不小心就多下了些工夫。」",
+            "convert": "「呵呵……不小心就多下了些工夫。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうございます」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thank you very much.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝您。」",
+            "convert": "「谢谢您。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "昨夜と同じく、とても素晴らしい夕飯だった。"
+        },
+        "en": {
+            "content": "Just like last night, we have a spectacular dinner."
+        },
+        "cn": {
+            "content": "今天的晚餐跟昨晚一樣豐盛美味。",
+            "convert": "今天的晚餐跟昨晚一样丰盛美味。"
+        }
+    },
+    {
+        "jp": {
+            "content": "食後――\\nテーブルには、珈琲が並んでいる。"
+        },
+        "en": {
+            "content": "After the meal — cups of coffee line the table."
+        },
+        "cn": {
+            "content": "餐後——\\n桌上擺著幾杯咖啡。",
+            "convert": "餐后——\\n桌上摆着几杯咖啡。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日は、大盛況だったわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「The shop sure was bustling today.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「今天真是盛況空前呢。」",
+            "convert": "「今天真是盛况空前呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「本当に、そうです。あんなにお客さんが来るなんて……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「It really was. I never expected THAT many customers...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「沒錯，沒想到來了這麼多客人……」",
+            "convert": "「没错，没想到来了这么多客人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「宣伝の効果もあったと思うが、あれだけの人数が来たのは、師匠のケーキの評判が高かったからだと思います」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I think the PR played a part, but I think that the reason why so many people showed up was because your cakes have a stellar reputation.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「雖然宣傳有一定效果，但我認為會來這麼多客人，主要還是因為師傅的蛋糕評價很高的關係。」",
+            "convert": "「虽然宣传有一定效果，但我认为会来这么多客人，主要还是因为师傅的蛋糕评价很高的关系。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「間違いありません。話題になったことで大勢が情報を調べ、名店という評価が多かったからこそ。相乗効果です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That is absolutely right. The shop becoming a hot topic led to a majority of people looking into information, which led to a lot of rave reviews. It's synergy.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「正是如此。大家因為熱門話題開始搜尋這家店的資料，看到是一間評價很高的名店就更想來了。這是加乘效果。」",
+            "convert": "「正是如此。大家因为热门话题开始搜索这家店的数据，看到是一间评价很高的名店就更想来了。这是加乘效果。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺としては、師匠の素晴らしいケーキをより多くの人が知ってくれたから、嬉しいけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Personally, I'm glad that a lot of people know about your incredible cakes, Mentor.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「能讓更多人知道師傅做的蛋糕有多美味，我也感到很開心。」",
+            "convert": "「能让更多人知道师傅做的蛋糕有多美味，我也感到很开心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううぅ……明日もこの調子だと、ちょっと大変かもしれません」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Unghhh... If tomorrow is like it was today, then we might have more than a little problem.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「唔……如果明天還是一樣的話，可就很辛苦了。」",
+            "convert": "「唔……如果明天还是一样的话，可就很辛苦了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日が特別だったのよ、きっと」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I'm sure that today was just a special case.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「只有今天是特別的。」",
+            "convert": "「只有今天是特别的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日みたいな行列は、明日はないと思うわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I don't think we'll have lines out the door again tomorrow.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「明天應該不會排起今天這樣的長龍了。」",
+            "convert": "「明天应该不会排起今天这样的长龙了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですよね……明日は、またパティシエールとわたしだけになりますから」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Right... Tomorrow will just be Pâtissière and me.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「說得也是……明天又只有糕點師和我了。」",
+            "convert": "「说得也是……明天又只有糕点师和我了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺たちは、今夜には発つ予定だった。\\nフランスと日本の時差は７時間。\\n約束の３日間で帰宅するには、そのくらいの時間に出なくては。"
+        },
+        "en": {
+            "content": "We both have plans to depart tonight. There's a seven hour time difference between France and Japan, so we need to leave by then in order to make it back home when I promised."
+        },
+        "cn": {
+            "content": "我們預定今晚出發。\\n法國跟日本的時差有七個小時。\\n要在說好的三天之內回去的話，今晚就必須走。",
+            "convert": "我们预定今晚出发。\\n法国跟日本的时差有七个小时。\\n要在说好的三天之内回去的话，今晚就必须走。"
+        }
+    },
+    {
+        "jp": {
+            "content": "結局、俺は自分に足りないものが、まだわからないでいた。"
+        },
+        "en": {
+            "content": "In the end, I still don't know what it is I'm missing."
+        },
+        "cn": {
+            "content": "最後我還是不知道自己到底有何不足。",
+            "convert": "最后我还是不知道自己到底有何不足。"
+        }
+    },
+    {
+        "jp": {
+            "content": "気持ち的には、だいぶ楽になったのだが……"
+        },
+        "en": {
+            "content": "I feel a lot better mentally, though..."
+        },
+        "cn": {
+            "content": "但從心情上來說確實是輕鬆了許多……",
+            "convert": "但从心情上来说确实是轻松了许多……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥、まだ悩んでいるのかしら？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Kashou, are you still bogged down?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「嘉祥，你還在煩惱嗎？」",
+            "convert": "「嘉祥，你还在烦恼吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、すみません……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, my apologies...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，不好意思……」",
+            "convert": "「啊，不好意思……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「結局、お役に立てなかったわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Looks like I wasn't able to help after all.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我還是沒能幫上你什麼忙。」",
+            "convert": "「我还是没能帮上你什么忙。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、そんなことは！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No, that's not true!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不，您別這麼說！」",
+            "convert": "「不，您别这么说！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……まぁ……まだ、父親の言う『芯』ってのは、よくわかっていません」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Eh. Well... I'm just still lost on what my father meant by a 'core'.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊……那個……我還是沒搞懂爸爸說的『精髓』是怎麼一回事。」",
+            "convert": "「啊……那个……我还是没搞懂爸爸说的『精髓』是怎么一回事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、この場所へ来て、お店を手伝って、思い出しました」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「But after coming here and helping in the shop, I remembered something.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過來到這裡，給店裡幫忙以後，我回想起來了。」",
+            "convert": "「不过来到这里，给店里帮忙以后，我回想起来了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は、やっぱり、皆を笑顔にするケーキが作りたい」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I really do want to make cakes that bring smiles to everyone's faces.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我果然還是想做出能讓大家展露笑顏的蛋糕。」",
+            "convert": "「我果然还是想做出能让大家展露笑颜的蛋糕。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「師匠の作るケーキは、本当に美味しくて、優しい味で……皆を笑顔にしてくれるんです」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mentor, your cakes are so good and have such a gentle flavor... that they bring smiles to people's faces.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「師傅做的蛋糕真的很美味，那溫柔的味道……讓大家露出了笑容。」",
+            "convert": "「师傅做的蛋糕真的很美味，那温柔的味道……让大家露出了笑容。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ありがとう。そう言ってもらえて、嬉しいわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...Thank you. It warms my heart to hear you say that.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……謝謝。受到你如此誇獎，我很開心。」",
+            "convert": "「……谢谢。受到你如此夸奖，我很开心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は、なんだか、いろいろと考えすぎて……最初の気持ちを忘れていたというか……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's sort of like I've been thinking of so much... I've lost sight of my initial focus...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我想，我可能是想東想西想得太多了……連最初的心情都忘記了……」",
+            "convert": "「我想，我可能是想东想西想得太多了……连最初的心情都忘记了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「口では目指していると言いつつ、別のことに捕らわれていたように思います」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I may have said that was my goal, but I was trapped by something else.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我嘴上說那是我的目標，可實際上分心到別的事情上面去了。」",
+            "convert": "「我嘴上说那是我的目标，可实际上分心到别的事情上面去了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「案外、父親が言いたかったのは、そんな簡単な話だったのかもしれません」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Surprisingly, that simple answer might have been what my dad was driving at.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說不定，爸爸想跟我說的就是這麼簡單的事情。」",
+            "convert": "「说不定，爸爸想跟我说的就是这么简单的事情。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「前にも言ったとおり、嘉祥のお父さんの真意はわからないけれど、私は貴方のことを応援しているわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Just as I've said before, I don't know what your father meant, but I support you, regardless.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我之前也說過，我無法體會到你父親的真實想法，但我一直都會支持你。」",
+            "convert": "「我之前也说过，我无法体会到你父亲的真实想法，但我一直都会支持你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうございます」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thank you very much.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝您。」",
+            "convert": "「谢谢您。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういえば、俺がケーキを作る理由は、何度も話しているけれど……師匠のことは聞いたことがないですよね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Speaking of which, I've talked about my reasons for cake-making plenty of times, but... you've never talked about yours, have you, Mentor?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說到這個，我講過很多次我做蛋糕的理由，但我好像從來沒有問過您做蛋糕的理由。」",
+            "convert": "「说到这个，我讲过很多次我做蛋糕的理由，但我好像从来没有问过您做蛋糕的理由。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そうね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...That's right.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……是啊。」",
+            "convert": "「……是啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、前に聞いたときは、『ケーキを作る理由は、私がパティシエールだから』って答えられたんですけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, when I asked you in the past, I remember you answered, 'I make cakes because I'm a pâtissière', but...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不對，我之前問您的時候，您回答說『因為我是糕點師，所以我做蛋糕』……」",
+            "convert": "「不对，我之前问您的时候，您回答说『因为我是糕点师，所以我做蛋糕』……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……そうだったかしら？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Hehe... Did I now?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「呵呵……我是這麼說的啊？」",
+            "convert": "「呵呵……我是这么说的啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それなら、パティシエールになった理由は、どうなんでしょうか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「In that case, what about your reasons for being a pâtissière in the first place?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不然，您成為糕點師的原因到底是什麼呢？」",
+            "convert": "「不然，您成为糕点师的原因到底是什么呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……この店は……私の祖母の代からのもので、ずっとケーキを作ってきたの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...This pâtissièrie... has been making cakes since my grandmother's generation.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……這間店……是從我祖母那一代開始，一直製作蛋糕至今。」",
+            "convert": "「……这间店……是从我祖母那一代开始，一直制作蛋糕至今。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥の家ほどではないけれど、守るべき伝統があると思っているわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「And while not to the extent of your family, I do think that it has a tradition that needs to be protected.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「雖然歷史不如你家那麼悠久，但還是有必須堅守的傳統。」",
+            "convert": "「虽然历史不如你家那么悠久，但还是有必须坚守的传统。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「伝統……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Tradition...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「傳統……」",
+            "convert": "「传统……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　あれ、俺……実家が和菓子屋だとは言ったけど、そんな歴史あるって話はしましたっけ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hm? Huh? I... did say that my family owned a Japanese pastry shop, but did I ever mention that they had a history?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？奇怪，我是說過我老家是和菓子店，但我有說過我老家的店歷史悠久嗎？」",
+            "convert": "「嗯？奇怪，我是说过我老家是和菓子店，但我有说过我老家的店历史悠久吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "洋菓子を教えてもらうために弟子入りするのに、\\n『実家の和菓子屋が老舗だ』という話は、\\n場違いな気がして避けていたのだが……"
+        },
+        "en": {
+            "content": "I became her apprentice to learn Western pastry making, so I avoided mentioning my parents owning a long-standing Japanese pastry shop to make things simpler..."
+        },
+        "cn": {
+            "content": "我是為了學做西式糕點拜師學藝，\\n老家是和菓子的老店這件事說出來有點不合時宜，\\n所以我一直避免提及……",
+            "convert": "我是为了学做西式糕点拜师学习，\\n老家是和菓子的老店这件事说出来有点不合时宜，\\n所以我一直避免提及……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Well...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「那是因為……」",
+            "convert": "「那是因为……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すみません、兄様！　私が、今朝」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「My apologies, Nii-sama! I told her this morning!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「抱歉，哥哥！我今天早上……」",
+            "convert": "「抱歉，哥哥！我今天早上……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？」",
+            "convert": "「咦？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様の状況を知っておいていただく必要がある、と考えまして。差し出がましい真似を……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I thought she needed to know about your situation, so I did something rather intrusive...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我認為應該讓貝涅女士了解哥哥的狀況，所以擅自跟她說了……」",
+            "convert": "「我认为应该让贝涅女士了解哥哥的状况，所以擅自跟她说了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、いいんだ。隠してたわけじゃないから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No, it's all good. I wasn't trying to keep it a secret.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒關係，我也沒打算瞞著師傅。」",
+            "convert": "「没关系，我也没打算瞒着师傅。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ……時雨から事情を聞いたのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes... Shigure told me about your situation.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「是的，我從時雨那邊得知了你的狀況。」",
+            "convert": "「是的，我从时雨那边得知了你的状况。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだったんですね。あっ、余計な話をして、すみません。この『ラ・ソレイユ』に伝統があるという話でしたよね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So, that's how you know. Oh, I'm sorry for cutting you off. You were saying something about the tradition of La Soleil?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我明白了。啊，抱歉，該回到正題了。剛剛說到關於這間『La　Soleil』的傳統。」",
+            "convert": "「我明白了。啊，抱歉，该回到正题了。刚刚说到关于这间『La　Soleil』的传统。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね……といっても、私が受け継いだのは味だけで……店の看板はなくなってしまったのだけれど」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes... I said that, but the only thing I really inherited was the family flavor... and I ended up losing the title of the shop.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……說是傳統，但我繼承的只有味道而已，老店的招牌早就沒有了。」",
+            "convert": "「……说是传统，但我继承的只有味道而已，老店的招牌早就没有了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうなんですか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Is that so?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「有這種事？」",
+            "convert": "「有这种事？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ、いろいろと事情があって」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes, due to various complications.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「嗯嗯，這件事說來話長。」",
+            "convert": "「嗯嗯，这件事说来话长。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ、師匠がお菓子を作る理由は、お婆さんの代からの味を守るために？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「In that case, was your reason for making pastries to uphold the flavor from your grandmother's generation?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那師傅做蛋糕的理由，就是為了守護祖母那一代傳承下來的味道嗎？」",
+            "convert": "「那师傅做蛋糕的理由，就是为了守护祖母那一代传承下来的味道吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ、そういうことに……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes, that's how it ended up...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「沒錯，就是這樣……」",
+            "convert": "「没错，就是这样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいえ、違うわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「No, let me correct myself.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「不，其實不是這樣的。」",
+            "convert": "「不，其实不是这样的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私が今も洋菓子を作っているのは、きっと……未練……なのでしょうね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「The reason I create pastries is most likely out of... regret.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「要說我為何還在製作糕點的原因，一定是因為……我還有留戀吧。」",
+            "convert": "「要说我为何还在制作糕点的原因，一定是因为……我还有留恋吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「未練……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Regret...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「留戀……？」",
+            "convert": "「留恋……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「パティシエール……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Pâtissière...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「糕點師……」",
+            "convert": "「糕点师……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フレーズの様子からすると、\\n彼女は事情を知っているようだった。"
+        },
+        "en": {
+            "content": "Judging from Fraise's behavior, she seems to know the reasons behind Mentor saying that."
+        },
+        "cn": {
+            "content": "從草莓欲言又止的神色看來，\\n她一定知道內情。",
+            "convert": "从草莓欲言又止的神色看来，\\n她一定知道内情。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私がお菓子を作り続ける理由は……それは……昔、置き去りにしてしまった息子のためなのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「The reason why I continue to make pastries... is for my son... My son that I abandoned long ago.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我在堅持製作糕點的理由……是為了……我以前拋下不管的兒子。」",
+            "convert": "「我在坚持制作糕点的理由……是为了……我以前抛下不管的儿子。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「息子さんが、いたとは聞いたことがありましたが……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I recall hearing that you had a son, but I never...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不知道您還有個兒子……」",
+            "convert": "「我不知道您还有个儿子……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ、私が若かった頃――」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes, back when I was still young...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「嗯，我年輕的時候——」",
+            "convert": "「嗯，我年轻的时候——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は日本に渡り、日本人の男性と知り合った」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I became intimate with a Japanese man I met on a trip to Japan.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「曾經去了日本，在那裡結識了一位男士。」",
+            "convert": "「曾经去了日本，在那里结识了一位男士。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私たちは結婚して、息子が生まれて……しばらくは３人で暮らしていたの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「We married, and I gave birth to a son... For a while, the three of us lived together.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我們結成了夫妻，生下了兒子……我們三個人一起度過一段短暫的時光。」",
+            "convert": "「我们结成了夫妻，生下了儿子……我们三个人一起度过一段短暂的时光。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その頃にね……私の作ったお菓子が、皆を笑顔にする、と息子が言ったのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「When we did... my son told me that... my sweets put a smile on everyone's face.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「那時候……兒子都說我做的蛋糕能讓大家露出笑容。」",
+            "convert": "「那时候……儿子都说我做的蛋糕能让大家露出笑容。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「息子が『ママはお日様みたいだね』と言ってくれた」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「He told me, 'Mama, you're just like the sun'.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「兒子跟我說『媽媽就像太陽一樣溫暖』」",
+            "convert": "「儿子跟我说『妈妈就像太阳一样温暖』」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この店の名前を『ラ・ソレイユ』にしたのは、その言葉があってのことなの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「The reason why I named this shop 'La Soleil' is because of my son's words.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「這間店會命名為『La Soleil』正是源自於此。」",
+            "convert": "「这间店会命名为『La Soleil』正是源自于此。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なるほど、そういう由来が……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I see. So that's why...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「原來店名是這麼來的啊……」",
+            "convert": "「原来店名是这么来的啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ようやく『ラ・ソレイユ』の由来が聞けて、\\n俺は嬉しかった。"
+        },
+        "en": {
+            "content": "It fills me with joy to finally find out the origin behind the name La Soleil."
+        },
+        "cn": {
+            "content": "終於知道『La Soleil』的由來了，\\n這讓我有點開心。",
+            "convert": "终于知道『La Soleil』的由来了，\\n这让我有点开心。"
+        }
+    },
+    {
+        "jp": {
+            "content": "しかし、ただ幸せなだけの話ではないようだった。"
+        },
+        "en": {
+            "content": "However, this story doesn't seem to be leading toward a happy ever after."
+        },
+        "cn": {
+            "content": "但這段往事似乎並不完全是幸福的。",
+            "convert": "但这段往事似乎并不完全是幸福的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ご子息を……ご家族を愛していたのですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...You loved your son... You loved your family, yes?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……能感覺到您很愛您的兒子……您的家人。」",
+            "convert": "「……能感觉到您很爱您的儿子……您的家人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ、それはもう」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes, that goes without saying.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「是，那是當然的。」",
+            "convert": "「是，那是当然的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、私は日本を去らなければならなくなったの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「However, I was forced to leave Japan.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「但是當時我卻不得不離開日本。」",
+            "convert": "「但是当时我却不得不离开日本。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この店を継ぐ予定だった兄が、早世してしまって……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「My older brother, who was supposed to take over this pâtissièrie, died an early death...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「因為原定要繼承家業的兄長突然離世……」",
+            "convert": "「因为原定要继承家业的兄长突然离世……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Oh...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「咦……」",
+            "convert": "「咦……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さんが……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Your brother...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「您的哥哥他……」",
+            "convert": "「您的哥哥他……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私には旦那と息子という大切な家族があったけれども、この家も大切だったわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「On one hand, I had my precious family—my husband and son—but on the other, this house was also precious to me.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「對我來說丈夫和兒子是我重要的家人，但這邊的家人也很重要。」",
+            "convert": "「对我来说丈夫和儿子是我重要的家人，但这边的家人也很重要。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「祖父母と両親と兄と暮らした、いっぱいの想い出が詰まっていたから」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「It was chock-full of memories of when I lived with my grandparents, my parents, and my older brother.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我從小在祖父母、雙親以及兄長的愛護中成長，有著許多美好的回憶。」",
+            "convert": "「我从小在祖父母、双亲以及兄长的爱护中成长，有着许多美好的回忆。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は年老いた両親を放っておけなかった。だから、この街へ戻ったのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I couldn't just leave my aging parents either, so I returned to this city.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我實在是無法放著年邁的雙親不管，因此我回到了這裡。」",
+            "convert": "「我实在是无法放着年迈的双亲不管，因此我回到了这里。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「息子を置き去りにして……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Leaving my son behind...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「卻拋下了我的兒子……」",
+            "convert": "「却抛下了我的儿子……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「夫は許してくれたわ。むしろ、応援してくれた。けれど、幼かった子供がどんな想いをしたか……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「My husband gave me his forgiveness. Actually, he gave me his encouragement. However, I don't know if the same could be said for my then-young son...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我的丈夫不但理解我的想法，還支持我這麼做。可是還那麼小的孩子他會怎麼想呢……」",
+            "convert": "「我的丈夫不但理解我的想法，还支持我这么做。可是还那么小的孩子他会怎么想呢……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「沢山の借金があったから、いくつかあった店舗のうち、ここ以外は人手に渡ってしまったの。元々の店の名前も一緒にね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「My family had a mountain of debt, so all of our shops ended up passing hands to someone else except this one. We even lost the original name of the shop.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「當時我們背負了龐大的債務，只好將這間店以外的店鋪賣掉。就連原本老店的招牌也賣掉了。」",
+            "convert": "「当时我们背负了庞大的债务，只好将这间店以外的店铺卖掉。就连原本老店的招牌也卖掉了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、それで『受け継いだのは味だけで、看板はなくなった』という話なんですね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, so, that's what you meant by only inheriting the 'flavor' but losing the 'title'.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，這就是您剛剛提到的『只有繼承味道，招牌早就沒有了』。」",
+            "convert": "「啊，这就是您刚刚提到的『只有继承味道，招牌早就没有了』。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ……店を再開するにしても、店名は変える必要があったの。だから、息子の言葉から『ラ・ソレイユ』にしたわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes... Even if I were to reopen the shop, I would need to change the name. That's why I used my son's words translated into French: 'La Soleil'.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「是的……要重新開店的話就需要新的店名。所以我就用兒子說過的話，將這家店命名為『La Soleil』。」",
+            "convert": "「是的……要重新开店的话就需要新的店名。所以我就用儿子说过的话，将这家店命名为『La Soleil』。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことがあったなんて……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I can't believe that's what happened...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「原來您經歷過這種事情……」",
+            "convert": "「原来您经历过这种事情……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あの頃の私は、まだ若くて、賢明ではなかったわね。いくつものことを追いかけて……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I was still young back then and not wise. I tried chasing after a lot of things...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「那時候的我還很年輕，遇事不能做出正確的判斷。我盲目追逐著很多事物……」",
+            "convert": "「那时候的我还很年轻，遇事不能做出正确的判断。我盲目追逐着很多事物……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「失ったあとに、何が一番大切だったのか、気付いたもの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「After I lost it all, I realized what was truly precious to me.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「直到失去以後才明白，什麼對我來說才是最重要的。」",
+            "convert": "「直到失去以后才明白，什么对我来说才是最重要的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「家族が……一番だったのですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Was it... family?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「家人……是您最重要的事物嗎？」",
+            "convert": "「家人……是您最重要的事物吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね……私にとっての、お菓子は……息子が笑顔になってくれるものだった」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes... To me, my pastries were always... something that brought a smile to my son's face.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「沒錯……對我來說，糕點……是能讓我兒子露出笑容的東西。」",
+            "convert": "「没错……对我来说，糕点……是能让我儿子露出笑容的东西。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私が作っているお菓子は、幼い息子が美味しいと褒めてくれた味なのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「The pastries I make are imbued with the flavor that my young son complimented me for.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我做的糕點能讓年幼的兒子說好吃。」",
+            "convert": "「我做的糕点能让年幼的儿子说好吃。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今も作り続けているのは、いつかまた息子が食べて喜んでくれるかもしれない、と思って」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I think that I still make them to this day on the off-chance that my son might eat them in joy one day.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我現在還在堅持做糕點的理由，就是希望有一天能再次讓我的兒子吃到我做的糕點。」",
+            "convert": "「我现在还在坚持做糕点的理由，就是希望有一天能再次让我的儿子吃到我做的糕点。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そういう、未練なのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...That is the regret I speak of.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……這就是我對糕點的留戀。」",
+            "convert": "「……这就是我对糕点的留恋。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あの……ご家族は、今は……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Um... Where is your family now...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「請問……您的家人，目前是什麼情況……？」",
+            "convert": "「请问……您的家人，目前是什么情况……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "下宿させてもらって、毎日のように店を手伝っていたが、\\n電話も郵便も、家族らしき者から連絡が来たことはなかった。"
+        },
+        "en": {
+            "content": "I lodged here with Mentor's permission and helped in the shop each day, but I don't remember a single phone call, package, or message from anyone even resembling family."
+        },
+        "cn": {
+            "content": "我曾經寄宿在這間店裡，每天都在店裡工作，\\n但我從來沒有見過來自師傅家人的電話或信件。",
+            "convert": "我曾经寄宿在这间店里，每天都在店里工作，\\n但我从来没有见过来自师傅家人的电话或信件。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「夫が他界したことは、共通の知人から聞いたわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I heard from a mutual acquaintance that my husband passed away.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我從共同的熟人那邊得知，我的丈夫已經過世了。」",
+            "convert": "「我从共同的熟人那边得知，我的丈夫已经过世了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「息子は元気にしているとも聞いたけれど……幼い日に置き去りにした母親ではね……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「They also told me that my son is doing well... for someone whose mother left them at a young age, that is...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「聽說我的兒子還很健康……但是在他小時候就拋棄他的母親有什麼臉去見他呢……」",
+            "convert": "「听说我的儿子还很健康……但是在他小时候就抛弃他的母亲有什么脸去见他呢……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「で、でも、もう一度、会いたいんですよね？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「B-But, you'd like to see him once more, wouldn't you?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「可、可是，您一定很想見他一面吧？」",
+            "convert": "「可、可是，您一定很想见他一面吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Well...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「那又如何……」",
+            "convert": "「那又如何……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「スン……ぐす……ご子息も、きっと母様に会いたいと思っているはず」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hic... Sniff... I am certain that your son would love to see you, as well.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「（啜泣）……您的孩子，一定也很想見到他的母親。」",
+            "convert": "「（啜泣）……您的孩子，一定也很想见到他的母亲。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今は、どうかしら？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I wonder about that now.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「現在他是怎麼想的呢？」",
+            "convert": "「现在他是怎么想的呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "たしかに、ずっと連絡がない。\\n父親の葬儀のときも、呼ばなかった。\\nだとしたら、その息子の気持ちは……"
+        },
+        "en": {
+            "content": "She's right. He's forgone contact this whole time. He didn't invite her to his dad's funeral, either. In which case, her son must feel..."
+        },
+        "cn": {
+            "content": "說得也是，對方一直沒有聯絡師傅。\\n就連父親的葬禮都沒有邀請她去參加。\\n也許師傅的兒子心裡還是無法原諒……",
+            "convert": "说得也是，对方一直没有联系师傅。\\n就连父亲的葬礼都没有邀请她去参加。\\n也许师傅的儿子心里还是无法原谅……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、それでも、なにか事情があるのかもしれません」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「E-Even so, there is probably some reason for his silence.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說、說不定對方也是有什麼原因沒辦法跟您聯絡。」",
+            "convert": "「说、说不定对方也是有什么原因没办法跟您联系。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「確かめたわけじゃないのなら、きっと……なにか事情が」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「If you haven't confirmed why, then... there just has to be.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒有跟對方確認怎麼知道呢，他一定……也有苦衷。」",
+            "convert": "「没有跟对方确认怎么知道呢，他一定……也有苦衷。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……子供なら、母親に会いたいと思ってます。きっと、一緒にいたいと思ってます」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...I wouldn't doubt that he wanted to see his mother if he's your child. I'm sure he'd want to be together with you, too.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……孩子是一定會想要見到母親的。他一定也想要來見您。」",
+            "convert": "「……孩子是一定会想要见到母亲的。他一定也想要来见您。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうなのかもしれないわね。でも、あのとき私は、そんな当たり前の子供の気持ちを汲んであげることができなかった」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「That might be true, but at the time, I wasn't able to give any consideration to those feelings that would be natural in any child.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「你們說的都有道理。可是那時的我卻沒想到，我應該要考慮孩子的感受。」",
+            "convert": "「你们说的都有道理。可是那时的我却没想到，我应该要考虑孩子的感受。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「愛する息子の気持ちを……彼の身になって考えてあげることが、できなかったのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「He was my beloved son... yet I wasn't able to consider things from his perspective.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「當時的我無視了愛子的心情……我沒有設身處地為孩子著想。」",
+            "convert": "「当时的我无视了爱子的心情……我没有设身处地为孩子着想。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「母親として、当たり前のことをしてあげることが私にはできなかった」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I wasn't able to do what was natural for my son as his mother.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「身為母親，我卻連這點基本的事情都沒做到。」",
+            "convert": "「身为母亲，我却连这点基本的事情都没做到。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな私が、今さら会いたいだなんて……息子にとっては迷惑でしょう」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「If I were to see my son now... I'd end up just being a nuisance to him.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「這樣失格的母親，現在說什麼想見他……只會讓他覺得麻煩吧。」",
+            "convert": "「这样失格的母亲，现在说什么想见他……只会让他觉得麻烦吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなこと……！　きっと、ご子息も……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You wouldn't...! I'm sure your son wouldn't...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「才不會……！您的孩子，一定也很想見您……！」",
+            "convert": "「才不会……！您的孩子，一定也很想见您……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですよ、パティシエール！」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「She is right, Pâtissière!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「糕點師，時雨小姐說得沒錯！」",
+            "convert": "「糕点师，时雨小姐说得没错！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺には、会ったこともない息子の気持ちなんて、\\n想像もできなかった。"
+        },
+        "en": {
+            "content": "I can't begin to imagine how her son must feel considering I've never even met him."
+        },
+        "cn": {
+            "content": "我沒有見過師傅的兒子，\\n因此也無從揣測他的想法。",
+            "convert": "我没有见过师傅的儿子，\\n因此也无从揣测他的想法。"
+        }
+    },
+    {
+        "jp": {
+            "content": "自分なら、どうだろうか？"
+        },
+        "en": {
+            "content": "But what if it were me?"
+        },
+        "cn": {
+            "content": "如果我是他的話，我會怎麼想？",
+            "convert": "如果我是他的话，我会怎么想？"
+        }
+    },
+    {
+        "jp": {
+            "content": "子供の頃に、自分を置いて外国へ行ってしまった母親に、\\nまた会いたい――と思うだろうか？"
+        },
+        "en": {
+            "content": "Would I want to reunite with my mother if she left me behind and went off overseas while I was a kid?"
+        },
+        "cn": {
+            "content": "在我還很小的時候，母親就拋下我跑到了國外，\\n我會心心念念地想要見她一面嗎？",
+            "convert": "在我还很小的时候，母亲就抛下我跑到了国外，\\n我会心心念念地想要见她一面吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "それとも、今さら会いたいだなんて――と否定するだろうか？"
+        },
+        "en": {
+            "content": "Or would I say it's too late and refuse entertaining the idea?"
+        },
+        "cn": {
+            "content": "「事到如今還好意思說要見面」——還是會這樣子否定她？",
+            "convert": "「事到如今还好意思说要见面」——还是会这样子否定她？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「息子も、もう子供ではないから。今になって、私と会っても、困るでしょう」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「My son isn't a child any longer. I'm sure seeing him now would just bring trouble.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我的兒子已經不是小孩了。現在就算跟我見面，也只是給他帶來無謂的困擾而已。」",
+            "convert": "「我的儿子已经不是小孩了。现在就算跟我见面，也只是给他带来无谓的困扰而已。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あの時は、もう戻ってこない。若かった私も、幼かった息子も、もういない」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「There's no turning back time now. I'm no longer young, and neither is my son.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我已經不再年輕，他也已經不是孩子了。我們都回不去了。」",
+            "convert": "「我已经不再年轻，他也已经不是孩子了。我们都回不去了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「歳を取ってから、ようやく息子の気持ちを考えることができるようになったなんてね……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「To think that I finally managed to consider my son's feelings after growing old...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「到了這把年紀，我才終於學會考慮兒子的感受……」",
+            "convert": "「到了这把年纪，我才终于学会考虑儿子的感受……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「気持ちを考える……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Considering his feelings...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「考慮他的感受……」",
+            "convert": "「考虑他的感受……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何歳になろうと、私は母様と会いたいと思っています」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「No matter how old I would get, I would want to meet my mother.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「如果是我的話，不管到了幾歲我還是會想要跟媽媽見面。」",
+            "convert": "「如果是我的话，不管到了几岁我还是会想要跟妈妈见面。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「歳なんて関係ないと思います、パティシエール」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I don't think age matters here, Pâtissière.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「我認為這跟年齡沒有關係，糕點師。」",
+            "convert": "「我认为这跟年龄没有关系，糕点师。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は……やっぱり、当時の師匠が、ただ失敗したとは思えません」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, I... couldn't consider what you did at the time as a mistake.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我並不覺得……當年師傅所做的決定是完全錯誤的。」",
+            "convert": "「我并不觉得……当年师傅所做的决定是完全错误的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だって、もしも師匠が日本に残って、この街でパティスリーを再開していなかったら、俺は素晴らしい洋菓子に出会えなかった」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I mean, if you had remained in Japan and hadn't resumed business as a patissiere here, I wouldn't have ever encountered such wonderful Western pastries.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果師傅一直待在日本，沒有在這裡重新開店的話，我就不會遇到這麼美好的糕點。」",
+            "convert": "「如果师傅一直待在日本，没有在这里重新开店的话，我就不会遇到这么美好的糕点。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そういう考え方もあるわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...I suppose that is one way of thinking about it.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……你這麼說也對。」",
+            "convert": "「……你这么说也对。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わ、わたしもです！　パティシエールがいなかったら、今頃は……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I-I agree! If you weren't around, Pâtissière, then we wouldn't...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「我、我也是！如果沒遇到您的話，現在的我……」",
+            "convert": "「我、我也是！如果没遇到您的话，现在的我……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね。フレーズには出会えなかったかもしれない」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「That's true. We probably wouldn't have ever met.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「說得也是。我沒回來的話就不會遇到草莓了。」",
+            "convert": "「说得也是。我没回来的话就不会遇到草莓了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私も、こんな素敵なお店が、失敗だったなんて思えません」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I wouldn't consider a wonderful shop such as this a failure, either.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我也不認為這麼美妙的一間店會是個錯誤。」",
+            "convert": "「我也不认为这么美妙的一间店会是个错误。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だって、あんなにも大勢のお客さんが、笑顔になっていたじゃありませんか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「After all, that huge crowd of people had smiles on each of their faces, did they not?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「您看，那麼多客人來到了這裡，大家紛紛露出了笑容。」",
+            "convert": "「您看，那么多客人来到了这里，大家纷纷露出了笑容。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ありがたいことにね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...Yes, thankfully.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……很感謝大家能喜歡。」",
+            "convert": "「……很感谢大家能喜欢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「昔の師匠が失敗したとは思えません。でも、息子さんの気持ちを考えてあげられなかったというのも事実なんだと思います」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I don't think  what you did in the past was a mistake, but I do think it's a fact that you couldn't take your son's feelings into consideration at the time.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不認為以前的師傅做出了錯誤的決定。但當年的您沒有考慮兒子的感受，也是無法否認的事實。」",
+            "convert": "「我不认为以前的师傅做出了错误的决定。但当年的您没有考虑儿子的感受，也是无法否认的事实。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だけど、息子さんが大人になっているなら、師匠の気持ちだって考えてくれるんじゃないか、って」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Still, if your son is an adult now, I'm pretty sure that he's considering how you must've felt, too.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我認為，既然您的兒子長大成人了，他會不會站在您的立場考慮呢？」",
+            "convert": "「我认为，既然您的儿子长大成人了，他会不会站在您的立场考虑呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは、私にとって都合のいい空想ではなくて？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Isn't that just convenient wishful thinking?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「這會不會只是我用來安慰自己的幻想？」",
+            "convert": "「这会不会只是我用来安慰自己的幻想？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かもしれません。でも、わからないことです。だから、俺は……息子さんに会ってみるべきだと思います」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Perhaps, but nothing is certain, which is why... I think you should give your son a visit.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「有可能是。但這都是我們無法得知的事情。所以我覺得……您還是應該跟兒子見個面。」",
+            "convert": "「有可能是。但这都是我们无法得知的事情。所以我觉得……您还是应该跟儿子见个面。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「勝手なことを言って、すみません」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I apologize for speaking outside my boundaries.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉，說了這種不負責任的話。」",
+            "convert": "「抱歉，说了这种不负责任的话。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも、お兄さんと同じように思います、パティシエール」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「My opinion is the same as Onii-san's, Pâtissière.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「糕點師，我的想法跟大哥哥一樣。」",
+            "convert": "「糕点师，我的想法跟大哥哥一样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……私のことを思いやってくれて、ありがとう。もう、すっかり終わったことだと諦めていたけれど」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...Thank you all for caring so much about me. I had already given up and put the matter behind me.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……謝謝你們為我著想。之前我已經對見面這件事不抱任何期望了。」",
+            "convert": "「……谢谢你们为我着想。之前我已经对见面这件事不抱任何期望了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もう一度、考えてみるわね？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「But, I'll try thinking it over again, okay?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「但是現在，我會再認真考慮一下。」",
+            "convert": "「但是现在，我会再认真考虑一下。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……すみません、師匠。悲しい話をさせてしまいました」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Forgive me, Mentor. I didn't mean to make you tell such a sad tale.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……師傅，對不起。都是我害您提起這段悲傷的往事。」",
+            "convert": "「……师傅，对不起。都是我害您提起这段悲伤的往事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いえ……いつかは、話しておいたほうがいいと思っていたから」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「No, I had been thinking I should talk about it eventually anyway.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「不會……我原本也想著有一天要跟你聊聊這件事情。」",
+            "convert": "「不会……我原本也想着有一天要跟你聊聊这件事情。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「貴方は道を間違えないと思うわ、嘉祥」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I know you're on the right path, Kashou.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「嘉祥，你選擇的道路是正確的。」",
+            "convert": "「嘉祥，你选择的道路是正确的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺が、道を？　……そうだと、いいのですが」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Me? On the right path? Well, I'd... certainly like to think so.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我選擇的道路？……但願如此吧。」",
+            "convert": "「我选择的道路？……但愿如此吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "師匠は家族と離ればなれになったことを後悔している。"
+        },
+        "en": {
+            "content": "Mentor regrets the fact that she was separated from her family."
+        },
+        "cn": {
+            "content": "師傅對離開家人這件事情感到無比的後悔。",
+            "convert": "师傅对离开家人这件事情感到无比的后悔。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺は自分から家を出て、両親とは疎遠になっていた。"
+        },
+        "en": {
+            "content": "I left my house voluntarily and became estranged from my parents."
+        },
+        "cn": {
+            "content": "我是自己選擇了離開老家，遠離自己的父母。",
+            "convert": "我是自己选择了离开老家，远离自己的父母。"
+        }
+    },
+    {
+        "jp": {
+            "content": "母親の誕生日に言い争いをしたっきり、\\n一度も連絡すら取っていない。"
+        },
+        "en": {
+            "content": "Ever since that verbal spat I had on my mom's birthday, I haven't gotten in contact with them even once."
+        },
+        "cn": {
+            "content": "自從母親生日那天起了爭執以來，\\n我一次都沒有跟他們聯絡。",
+            "convert": "自从母亲生日那天起了争执以来，\\n我一次都没有跟他们联系。"
+        }
+    },
+    {
+        "jp": {
+            "content": "すでに道を間違えているような気がしなくもないが……"
+        },
+        "en": {
+            "content": "I'd say it definitely feels as though I'm on the wrong path, but..."
+        },
+        "cn": {
+            "content": "要說我對自己選擇的道路沒有迷惘……那是不可能的。",
+            "convert": "要说我对自己选择的道路没有迷惘……那是不可能的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今の嘉祥には、パティシエとしての実力だけじゃなく、とても大切なものが身についているもの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Right now, you have not only mastered the skills of a capable pâtissièr, but something else very important.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「現在的你除了糕點師的實力，還有一項很重要的能力。」",
+            "convert": "「现在的你除了糕点师的实力，还有一项很重要的能力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　今の……？　もしかして、以前の俺にはなかったものなんですか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh? Right now...? Do you mean I didn't have this 'something' in the past?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？現在的我……？難道以前的我沒有嗎？」",
+            "convert": "「咦？现在的我……？难道以前的我没有吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね。ここで働いていた頃には、欠けていたかもしれないわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Correct, you might have been missing it back when you were still working here.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「對啊，你在這裡工作的時候可能還缺了那麼一點東西。」",
+            "convert": "「对啊，你在这里工作的时候可能还缺了那么一点东西。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きっと、貴方の周りにいる方々によって、育まれたのでしょう」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「No doubt it was nurtured by those you keep around you. 」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「一定是你身邊的人們讓你的能力成長起來的吧。」",
+            "convert": "「一定是你身边的人们让你的能力成长起来的吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺の周りの……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Those I keep around me...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我身邊的人們……」",
+            "convert": "「我身边的人们……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨を見つめる。"
+        },
+        "en": {
+            "content": "I stare at Shigure."
+        },
+        "cn": {
+            "content": "我轉頭看著時雨。",
+            "convert": "我转头看着时雨。"
+        }
+    },
+    {
+        "jp": {
+            "content": "そして、俺はネコたちのことを思い出した。"
+        },
+        "en": {
+            "content": "Then, I start to think about the girls."
+        },
+        "cn": {
+            "content": "又想起了我身邊的貓娘們。",
+            "convert": "又想起了我身边的猫娘们。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今の貴方になら、きっと出来るわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「As you are now, I'm sure you'll do fine.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「現在的你一定沒有問題的。」",
+            "convert": "「现在的你一定没有问题的。」"
+        }
+    }
+]

@@ -1,0 +1,1013 @@
+[
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「午後１０時！　就寝！」\\n「午後１０時、就寝」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "10 pm! Bedtime!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "晚上１０点！就寝！",
+            "convert": "晚上１０点！就寝！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もう１０時ですか。ショコラにバニラ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Already 10 pm, huh? Chocola, Vanilla?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "已经十点了呢。巧克力、香草？",
+            "convert": "已经十点了呢。巧克力、香草？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Yeah?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "有！",
+            "convert": "有！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Yes?"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "嗯？",
+            "convert": "嗯？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「他のネコたちも自分の部屋に戻りましたし、そろそろあなたがたも自分の部屋に戻って寝なさい」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "The other catgirls have already retired for the night, so you two should probably do the same and get some rest."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "大家都已经回自己房间去了，你们也差不多该回房睡觉了吧。",
+            "convert": "大家都已经回自己房间去了，你们也差不多该回房睡觉了吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん～、もうちょっとここにいちゃダメ？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Mhmm~ Can't we stay here for a bit longer?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯～不能再多待一会吗？",
+            "convert": "嗯～不能再多待一会吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「別にダメということはないですが……どうかしたのですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I don't really mind if you do, but... Is something the matter?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "倒是没什么不行啦……怎么了吗？",
+            "convert": "倒是没什幺不行啦……怎幺了吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうかしたってわけじゃにゃいんだけど……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Nothing, really, it's just..."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "其实也没什么……",
+            "convert": "其实也没什幺……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最近、ご主人が構ってくれなくて寂しいんだって」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Apparently, she's been feeling lonely because Master hasn't been spending much time with her."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "因为最近主人都不太理巧克力，让她寂寞得很。",
+            "convert": "因为最近主人都不太理巧克力，让她寂寞得很。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃー！　そんな御無体にゃ言い方！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Mreowww!! It's not funny, Chocola is serious, meow!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵──！不要说得那么白啦！",
+            "convert": "喵──！不要说得那幺白啦！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くすくす。そうなんですか、ショコラ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Teehee, is that what's wrong, Chocola?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "嘻嘻。这是真的吗，巧克力？",
+            "convert": "嘻嘻。这是真的吗，巧克力？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁ……だって、ご主人さまったらこんな時間になってもずっとキッチンでケーキ作ってるし……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Meoww... I mean, it's already this late and Master's still in the kitchen baking cakes..."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵……谁叫主人都这么晚了还窝在厨房做蛋糕……",
+            "convert": "喵……谁叫主人都这幺晚了还窝在厨房做蛋糕……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「確かに最近は遊んでくれないどころか、つれないことが多いよね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "She does have a point. He certainly isn't playing with us anymore... It's like he's ignoring us."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "的确，最近不要说陪我们玩了，连态度都很冷淡。",
+            "convert": "的确，最近不要说陪我们玩了，连态度都很冷淡。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄さまには兄さまのお考えもあるのでしょう」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I'm sure Nii-sama has his own reasons for this."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "我想哥哥应该有他自己的想法，",
+            "convert": "我想哥哥应该有他自己的想法，"
+        }
+    },
+    {
+        "jp": {
+            "content": "「家族である私たちが理解してあげないでどうするのですか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "As his family, we've ought to try to understand him."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "身为他的家人，我们不多体谅点怎么行呢。",
+            "convert": "身为他的家人，我们不多体谅点怎幺行呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それはわかってるつもりにゃんだけど……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Chocola is trying to, but..."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "这点人家不是不懂啦……",
+            "convert": "这点人家不是不懂啦……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうにもショコラは納得がいかないようで」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "It just doesn't sit well with her."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "巧克力好像还是不太能接受的样子。",
+            "convert": "巧克力好像还是不太能接受的样子。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす。同じ兄さまが好きな身として気持ちは良くわかりますけどね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Mhmm!  As someone who also loves Nii-sama, I can definitely understand your feelings."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "嘻嘻。同样身为仰慕哥哥的同好，我也不是不了解你的心情。",
+            "convert": "嘻嘻。同样身为仰慕哥哥的同好，我也不是不了解你的心情。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいですよ、じゃあ今日はここで一緒に寝ましょうか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Well then, would you like to sleep here with me tonight instead?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "好吧，今天要不要跟我一起睡？",
+            "convert": "好吧，今天要不要跟我一起睡？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おお、時雨ふとっぱら。なら私もここで寝る」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Oh, you're so kindhearted, Shigure. I'll be sleeping here too, then!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "喔喔，时雨真大方。那我也要一起睡。",
+            "convert": "喔喔，时雨真大方。那我也要一起睡。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ、もちろんです。ベッドの広さは十分にありますから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Oh, of course! The bed is plenty wide for all three of us."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "嗯，当然没问题。反正床够大呀。",
+            "convert": "嗯，当然没问题。反正床够大呀。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うわーい、やったぁ♪　時雨ちゃん大好きー♪　ぎゅーっ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Yaaaay, alright! %fSourceHanSansCN-M;♪%f; Chocola loves Shigure-channnn! %fSourceHanSansCN-M;♪%f; Glomp~"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "呜哇～♪人家最喜欢时雨了～♪（抱紧紧～）",
+            "convert": "呜哇～♪人家最喜欢时雨了～♪（抱紧紧～）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私も時雨好き。ぎゅーっ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "I love you too, Shigure. Glomp."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "我也喜欢时雨。（抱紧紧～）",
+            "convert": "我也喜欢时雨。（抱紧紧～）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こらこら、２匹でそんなにしたら苦しいでしょう？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Come on, you two, I'm going to be crushed if you keep hugging me like that!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "行了行了，被你们俩这样抱着我很难受好不好？",
+            "convert": "行了行了，被你们俩这样抱着我很难受好不好？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ電気消しますから、大人しくベッドに入りなさいな」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Anyway, I'm going to turn off the lights now. Time to get in bed, you two."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "那我要关灯咯，快点进被窝去吧。",
+            "convert": "那我要关灯咯，快点进被窝去吧。"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「はーい♪」\\n「はーい」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "Okaaaay~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "好～♪",
+            "convert": "好～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ねぇ、時雨ちゃん時雨ちゃん」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Hey, Shigure-chan! Shigure-chan!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "呐，时雨时雨～",
+            "convert": "呐，时雨时雨～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「眠くなるまで、ご主人さまの小さい時のお話聞かせて欲しいにゃぁ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Can you tell us some stories of when Master was still little? Just until we get sleepy, meow."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "睡前人家想听主人小时候的故事喵～",
+            "convert": "睡前人家想听主人小时候的故事喵～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くすくす。初めからそれが目的だったのでしょう？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Teehee, so this was the real goal, huh?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "嘻嘻，从一开始你就是在打这个如意算盘吧？",
+            "convert": "嘻嘻，从一开始你就是在打这个如意算盘吧？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラは兄さまの昔話、大好きですものね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "You just love old stories about Nii-sama, don't you, Chocola?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "巧克力真的很喜欢听哥哥小时候的事耶。",
+            "convert": "巧克力真的很喜欢听哥哥小时候的事耶。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私もちょっと興味ある。ご主人のハナタレ時代」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "I'm also curious... about what Master was like as a child."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "我也稍微有点兴趣呢，主人的童年时代。",
+            "convert": "我也稍微有点兴趣呢，主人的童年时代。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私と兄さまは歳の差があるので、兄さまの幼少期のことはよく知らないのですけどね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "There's quite an age gap between Nii-sama and I, so I'm not too knowledgeable on his childhood."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "只是我跟哥哥之间差了不少岁，所以哥哥的童年时代老实说我也不太清楚就是了。",
+            "convert": "只是我跟哥哥之间差了不少岁，所以哥哥的童年时代老实说我也不太清楚就是了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも年が離れてるからこそ、可愛がってくれてるとも思うのでジレンマもあるのですが。くすくす」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "But I think it's because of that age gap that he treats me so lovingly. Now I'm stuck in this bind, teehee~"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "不过一想到哥哥是因为这个原因才这么疼我，就觉得心里有点五味杂陈呢，嘻嘻。",
+            "convert": "不过一想到哥哥是因为这个原因才这幺疼我，就觉得心里有点五味杂陈呢，嘻嘻。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じれんま？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Bind?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "五味杂陈？",
+            "convert": "五味杂陈？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それもまたをかしってこと。多分」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "She means being tied up. Probably."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "就是这样也不错的意思啦。大概。",
+            "convert": "就是这样也不错的意思啦。大概。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ大体そんな解釈で合ってますけど」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Well, that is another way of reading it, I suppose."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "要这么解释也可以。",
+            "convert": "要这幺解释也可以。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「では、何から話したものでしょうかね。たくさんあって迷うのですが――」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Now then, what story should I start with? There's so many to choose from--"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "那么，该从哪里开始讲起好呢？能讲的事情实在多得让人难以取舍呢──",
+            "convert": "那幺，该从哪里开始讲起好呢？能讲的事情实在多得让人难以取舍呢──"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、やっぱり時雨さまの部屋にいた」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Ahah, I knew it! You two really were still in Shigure-sama's room!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "啊，果然在时雨小姐房间里。",
+            "convert": "啊，果然在时雨小姐房间里。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラの話し声がしないから変だと思ったんだ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I thought it was strange when I couldn't hear the two of you chatting from inside your room."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "我就觉得奇怪，怎么没听到巧克力跟香草的声音。",
+            "convert": "我就觉得奇怪，怎幺没听到巧克力跟香草的声音。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ね？　やっぱり時雨ちゃんのお部屋にいたでしょ？　絶対にここだと思ったんだよね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "See? I told you they were in Shigure-chan's room. I was sure they were here~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "看吧，果然在时雨房间对不对？我就说她们俩一定会在这里嘛～",
+            "convert": "看吧，果然在时雨房间对不对？我就说她们俩一定会在这里嘛～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ココちゃん。シナモっちゃんも」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh, Coco-chan, Cinna-chan!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "啊，椰子。还有桂。",
+            "convert": "啊，椰子。还有桂。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんでメイプルまで来てんだよ。一人で寝んのが怖くなったんか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Why'd you follow me, Maple? Too scared to sleep alone?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "怎么连枫都跑来了？干嘛，不敢一个人睡啊？",
+            "convert": "怎幺连枫都跑来了？干嘛，不敢一个人睡啊？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなワケないでしょ。みんなが来てるっぽかったから、何となくよ何となく」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Of course not! It looked like everyone was coming here so I just kind of went along! That's it, okay?!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "怎么可能。只不过是因为大家都在这里，所以心血来潮罢了。",
+            "convert": "怎幺可能。只不过是因为大家都在这里，所以心血来潮罢了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキこそなんでここに来てんのよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "And besides, what are YOU doing here?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "倒是红豆你又干嘛跑来？",
+            "convert": "倒是红豆你又干嘛跑来？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アタシは何か楽しそうな匂いがしたからだよ。まぁオメーと同じだな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "It smelled like somethin' fun was gonna happen. Same reason as you, basically."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "因为好像很有趣的样子嘛。哎，总之理由跟你差不多啦。",
+            "convert": "因为好像很有趣的样子嘛。哎，总之理由跟你差不多啦。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキ、メイプルも」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Azuki, and Maple too."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "红豆，还有枫。",
+            "convert": "红豆，还有枫。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あらあら。みんなまた戻ってきてしまいましたね。くすくす」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Oh my, oh my~ Everyone came back, teehee!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "哎呀哎呀，大家又都跑回来了呢。嘻嘻。",
+            "convert": "哎呀哎呀，大家又都跑回来了呢。嘻嘻。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラだけ時雨さまと一緒に寝るのはずるいよ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "It's not fair that only Chocola and Vanilla get to sleep together with you, Shigure-sama!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "怎么只有巧克力跟香草两个可以跟时雨小姐一起睡，太狡猾了吧。",
+            "convert": "怎幺只有巧克力跟香草两个可以跟时雨小姐一起睡，太狡猾了吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだよ、抜け駆けずるい～。わたしも時雨ちゃんと一緒に寝たいのに～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "That's right, no cuddling without us~ I want to sleep together with Shigure-chan too~!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "就是说啊，怎么可以偷跑～人家也想跟时雨一起睡的说～",
+            "convert": "就是说啊，怎幺可以偷跑～人家也想跟时雨一起睡的说～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたしは抜け駆けとかはどうでもいいけど、仲間はずれにされるのは嫌だしね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I really don't care about that, but there's no way you're going to leave me out of this!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "偷跑什么的我是没意见啦，不过我可不喜欢一个人被排挤在外。",
+            "convert": "偷跑什幺的我是没意见啦，不过我可不喜欢一个人被排挤在外。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「楽しそうなことしてんならアタシも混ぜろよなー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "If you're gonna have some fun, then you better lemme join in!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "有好玩的事怎么可以不让我掺一脚呢。",
+            "convert": "有好玩的事怎幺可以不让我掺一脚呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ、じゃあたまにはみんなで一緒に寝ましょうか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Fufuh, let's all sleep together then."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "呵呵。那么偶尔就大家一起睡吧。",
+            "convert": "呵呵。那幺偶尔就大家一起睡吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わーい、みんなで一緒！　いいと思います！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Yaaaay! Sleepover! That's a great idea!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "哇～大家一起睡！好主意耶！",
+            "convert": "哇～大家一起睡！好主意耶！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんなで一緒はいいね。楽しそうでわくわく」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Sleeping together will be great. I'm very excited."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "大家一起睡也不错。感觉很令人期待。",
+            "convert": "大家一起睡也不错。感觉很令人期待。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ失礼して」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I'm coming in then!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "那就恭敬不如从命了。",
+            "convert": "那就恭敬不如从命了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも失礼して～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Excuse me~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "那我也打扰咯～♪",
+            "convert": "那我也打扰咯～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ショコラちゃんもうちょっとそっち詰めてくれる？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Ah, Chocola-chan, could you scoot over a bit?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "啊，巧克力你可以再靠过去一点吗？",
+            "convert": "啊，巧克力你可以再靠过去一点吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、分かったー」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh, okay!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯，知道了～",
+            "convert": "嗯，知道了～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え、ちょっと……みんなでひとつのベッドはさすがに……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Huh? Wait...! Everyone squeezing into just one bed is..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "咦，先等一下……全部人睡一张床上会不会太挤了……",
+            "convert": "咦，先等一下……全部人睡一张床上会不会太挤了……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキ、もうちょっとそっち詰めてよベッドに入れないじゃない」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Azuki, move over a little more, I can't get on the bed like this."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "红豆你再过去一点啦，这样我躺不下好不好。",
+            "convert": "红豆你再过去一点啦，这样我躺不下好不好。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ンなこと言ったってこっちも限界だって。バニラもっとそっち行けよ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Even if you tell me to, I'm kinda at my limit here. Vanilla, could you move over thadda way?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "就算你这么说，这样已经是极限了啊。再过去点啦香草。",
+            "convert": "就算你这幺说，这样已经是极限了啊。再过去点啦香草。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もうかなり細長くなってる。これ以上は無理」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "I'm already quite tightly compressed. I can't go any farther than this."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "我已经把身体拉到最细长，没办法再拉了。",
+            "convert": "我已经把身体拉到最细长，没办法再拉了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょ、ちょっと待って……これは、かなり苦しいのですが……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "W-Wait... This is getting a little too cramped..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "等、等等……这样子、说实在的很不舒服……",
+            "convert": "等、等等……这样子、说实在的很不舒服……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんなで横になってぎゅってし合ったらどうかな？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "What about if we all lied on our sides and hugged each other?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "那大家躺平以后抱在一起睡如何？",
+            "convert": "那大家躺平以后抱在一起睡如何？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ナイスアイデアショコラ。かなりの省スペース」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Nice idea, Chocola. A brilliant space-saving trick."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "好主意耶，巧克力。这样可以省下不少空间。",
+            "convert": "好主意耶，巧克力。这样可以省下不少空间。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きゅうっ……！　ちょ、ちょっと左右からの圧迫感が……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Guhhh...! S-Stop, the pressure from both sides is...!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "呜……！来、来自左右两边的压迫感……！",
+            "convert": "呜……！来、来自左右两边的压迫感……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあサイズ的にココナツがアズキ抱きなさいよ。それなら収まりいいでしょ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Well, if we go by body size, Coconut should hug Azuki. That ought to fix things!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "照体格大小分的话，椰子你就抱红豆吧。你们两个合在一起刚刚好。",
+            "convert": "照体格大小分的话，椰子你就抱红豆吧。你们两个合在一起刚刚好。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキの寝相壊滅的だから嫌だよ。メイプルこそ抱いてあげなよ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "No way! Azuki thrashes around like crazy in her sleep. You hug Azuki instead!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "红豆的睡相糟得要命，我才不要。要抱枫你自己去抱。",
+            "convert": "红豆的睡相糟得要命，我才不要。要抱枫你自己去抱。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「勝手なこと言ってんじゃねー。こっちだって無駄なチチで窒息するのはゴメンだわ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Hey, what's that you're sayin' 'bout me?!  And if you think I'm gonna let you suffocate me with those huge knockers, then you've got another thing coming!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "别随便说人坏话！我才不想在那对大而无当的胸部里窒息咧。",
+            "convert": "别随便说人坏话！我才不想在那对大而无当的胸部里窒息咧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあわたしもダメだね～残念。えへへ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Too bad, I guess I'm also out of the question too then, huh? Eheheh~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "这么说我也不行咯～真可惜。耶嘿嘿～",
+            "convert": "这幺说我也不行咯～真可惜。耶嘿嘿～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひ、ひとつのベッドに７人とか……！　せまーい！　寝れるわけないでしょーがー！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "S-Seven people on one bed...! This is waaaay too cramped! There's no way we can sleep like thisssss!!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "一、一张床上躺七个人……！挤死啦──！这样叫人怎么睡觉嘛！！",
+            "convert": "一、一张床上躺七个人……！挤死啦──！这样叫人怎幺睡觉嘛！！"
+        }
+    },
+    {
+        "jp": {
+            "name": "全員",
+            "content": "『「「「「「「「Ｚｚｚ……Ｚｚｚ……」」」」」」」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "Zzz... Zzz..."
+        },
+        "cn": {
+            "name": "全員",
+            "content": "Ｚｚｚ……Ｚｚｚ……",
+            "convert": "Ｚｚｚ……Ｚｚｚ……"
+        }
+    }
+]

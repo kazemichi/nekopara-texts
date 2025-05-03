@@ -1,0 +1,1909 @@
+[
+    {
+        "jp": {
+            "content": "「ん……ご主人さま……すー、すー……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Mhmn... Master... Zzz zzz...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯……主人……呼─，呼─……」",
+            "convert": "「嗯……主人……呼─，呼─……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、ご主人……すー、すー……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola, Master... Zzz zzz...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力，主人……呼─，呼─……」",
+            "convert": "「巧克力，主人……呼─，呼─……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……ご主人さまぁ～……♪　ごろごろごろ……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Haah... Master... Purrrrrr~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈啊……主人～……♪咕嚕咕嚕咕嚕……♪」",
+            "convert": "「哈啊……主人～……♪咕噜咕噜咕噜……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん……ご主人……ショコラぁ……♪　ごろごろごろ……♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Mm... Master... Chocola~ %fSourceHanSansCN-M;♪%f; Purrrrrrrrr~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……主人……巧克力……♪咕嚕咕嚕咕嚕……♪」",
+            "convert": "「嗯……主人……巧克力……♪咕噜咕噜咕噜……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "小さな寝息を立てながら、"
+        },
+        "en": {
+            "content": "As they let out sleepy breaths..."
+        },
+        "cn": {
+            "content": "睡夢中的兩隻貓娘一邊發出小小呼聲，",
+            "convert": "睡梦中的两只猫娘一边发出小小呼声，"
+        }
+    },
+    {
+        "jp": {
+            "content": "二匹して俺の身体に頬をすり寄せてくる。"
+        },
+        "en": {
+            "content": "... the two of them rested their cheeks against my body."
+        },
+        "cn": {
+            "content": "一邊不斷把臉頰往我身上蹭。",
+            "convert": "一边不断把脸颊往我身上蹭。"
+        }
+    },
+    {
+        "jp": {
+            "content": "それぞれの手でショコラとバニラの頭を撫でて。"
+        },
+        "en": {
+            "content": "I petted both of their heads, each with one hand..."
+        },
+        "cn": {
+            "content": "我笑著把雙手放上巧克力跟香草的頭，",
+            "convert": "我笑着把双手放上巧克力跟香草的头，"
+        }
+    },
+    {
+        "jp": {
+            "content": "緩む口元もそのままに天井を見上げる。"
+        },
+        "en": {
+            "content": "... and looked up at the ceiling with my mouth still slightly agape."
+        },
+        "cn": {
+            "content": "然後望向頭上的天花板。",
+            "convert": "然后望向头上的天花板。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……でかいベッドが、こんな風に役に立つなんてな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... It's a big bed, but I never thought it would actually be useful in this way, too.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……時雨送來的大床居然會在這種時候派上用場。」",
+            "convert": "「……时雨送来的大床居然会在这种时候派上用场。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "まさか三人で川の字になって寝るなんて。"
+        },
+        "en": {
+            "content": "And here we were, sleeping right next to each other like a big family."
+        },
+        "cn": {
+            "content": "我不禁脫口而出。",
+            "convert": "我不禁脱口而出。"
+        }
+    },
+    {
+        "jp": {
+            "content": "想像もしてなかったことを声に出して呟く。"
+        },
+        "en": {
+            "content": "I murmured that aloud, never thinking this could've happened."
+        },
+        "cn": {
+            "content": "真沒想到我們也有在床上一起睡成『川』字的一天。",
+            "convert": "真没想到我们也有在床上一起睡成『川』字的一天。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……もう流されたとか言い訳は出来ないな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... I can't make an excuse about me just going along with it now.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這下可沒辦法拿『一時意亂情迷』之類的理由來推託了呢。」",
+            "convert": "「这下可没办法拿『一时意乱情迷』之类的理由来推托了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "最初からそんな言い訳をするつもりもないけど。"
+        },
+        "en": {
+            "content": "From the start, I never intended to make excuses for this, though."
+        },
+        "cn": {
+            "content": "雖然我從來就沒想過要這麼做就是。",
+            "convert": "虽然我从来就没想过要这么做就是。"
+        }
+    },
+    {
+        "jp": {
+            "content": "柔らかい感触と、あったかい体温を体中に感じながら。"
+        },
+        "en": {
+            "content": "As I felt their softness and warmth throughout my body..."
+        },
+        "cn": {
+            "content": "一面用身體感受著兩人柔軟的感觸與體溫，",
+            "convert": "一面用身体感受着两人柔软的感触与体温，"
+        }
+    },
+    {
+        "jp": {
+            "content": "素直に愛おしいと思うネコたちの頭を撫で続ける。"
+        },
+        "en": {
+            "content": "... I pet the two catgirls I honestly cherished."
+        },
+        "cn": {
+            "content": "我就這麼繼續摸著兩隻可愛貓娘的頭。",
+            "convert": "我就这么继续摸着两只可爱猫娘的头。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んにゃぁ……ご主人さま、バニラぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow... Master, Vanilla...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯喵……主人、香草……」",
+            "convert": "「嗯喵……主人、香草……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまと……バニラとショコラ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master... Vanilla... and Chocola...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「既然主人……香草和巧克力……」",
+            "convert": "「既然主人……香草和巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんな、だいすきで、ずっといっしょですね……♪　にゃむにゃむ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola loves everyone... Chocola wants us to always be together~ %fSourceHanSansCN-M;♪%f; Myaom meom...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「大家都互相喜歡的話，那我們要一直在一起喔……♪呼嚕呼嚕……」",
+            "convert": "「大家都互相喜欢的话，那我们要一直在一起喔……♪呼噜呼噜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁ……うん、ずっといっしょ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Myah... yes, always together...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喵……嗯，永遠在一起……」",
+            "convert": "「喵……嗯，永远在一起……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラと、ご主人と、私で……にゃむにゃむ……♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola, Master, and me... Myaom meom~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力跟主人，還有我……呼嚕呼嚕……♪」",
+            "convert": "「巧克力跟主人，还有我……呼噜呼噜……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あぁ、そうだな。ずっと一緒だな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah, that's right. Always together.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，我們會一直在一起的。」",
+            "convert": "「嗯，我们会一直在一起的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "寝言でもそんな会話をしながら、"
+        },
+        "en": {
+            "content": "The two of them going \"myaom meom\" in their sleep..."
+        },
+        "cn": {
+            "content": "見到她們倆在睡夢中念念有詞，還用夢話對起話來的模樣，",
+            "convert": "见到她们俩在睡梦中念念有词，还用梦话对起话来的模样，"
+        }
+    },
+    {
+        "jp": {
+            "content": "もにゅもにゅと口を動かす二匹に思わず笑い声がこぼれてしまう。"
+        },
+        "en": {
+            "content": "... made me burst out laughing."
+        },
+        "cn": {
+            "content": "我忍不住笑出聲來。",
+            "convert": "我忍不住笑出声来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……思ってたのとは、ちょっと違うけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... It was a lot different from what I was expecting, though.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……雖然跟想像中的新生活不太一樣……」",
+            "convert": "「……虽然跟想像中的新生活不太一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "一人で家を出て、独立して。"
+        },
+        "en": {
+            "content": "Leaving home by myself, becoming independent..."
+        },
+        "cn": {
+            "content": "一旦離開家裡，",
+            "convert": "一旦离开家里，"
+        }
+    },
+    {
+        "jp": {
+            "content": "楽しいこともつらいことも全部一人で背負って。"
+        },
+        "en": {
+            "content": "... taking up all the joys and hardships by myself... or so I'd thought."
+        },
+        "cn": {
+            "content": "就必須靠自己一肩扛起所有快樂與悲傷的事──",
+            "convert": "就必须靠自己一肩扛起所有快乐与悲伤的事──"
+        }
+    },
+    {
+        "jp": {
+            "content": "これからは一人で生きていこうと、そう思ってたけど。"
+        },
+        "en": {
+            "content": "I really thought I'd be living all by myself from now on."
+        },
+        "cn": {
+            "content": "不久前我還一直認為這就是我獨立後的生活。",
+            "convert": "不久前我还一直认为这就是我独立后的生活。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……こんな風に大切に想い合えるパートナーがいるのも、幸せなんだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... I'm pretty lucky, having precious partners I can connect deeply with like this.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……能有像她們兩個一樣會互相為對方著想的伴侶，我真是個幸運兒呢。」",
+            "convert": "「……能有像她们两个一样会互相为对方着想的伴侣，我真是个幸运儿呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "失敗とかかかる手間も確かに多いけど。"
+        },
+        "en": {
+            "content": "Sometimes, they'd make things difficult for me, like when they make mistakes..."
+        },
+        "cn": {
+            "content": "雖然她們倆一天到晚給人找麻煩，",
+            "convert": "虽然她们俩一天到晚给人找麻烦，"
+        }
+    },
+    {
+        "jp": {
+            "content": "でも、お店も自分も、一生懸命に支えてくれるネコたち。"
+        },
+        "en": {
+            "content": "... But in the end, they're catgirls that support both me and the store the best they can."
+        },
+        "cn": {
+            "content": "但卻總是不斷在背後支撐著我跟Soleil。",
+            "convert": "但却总是不断在背后支撑着我跟Soleil。"
+        }
+    },
+    {
+        "jp": {
+            "content": "まだ大して時間も経ってないのに。"
+        },
+        "en": {
+            "content": "Even though we haven't been together that long..."
+        },
+        "cn": {
+            "content": "明明新生活才剛開始沒多久，",
+            "convert": "明明新生活才刚开始没多久，"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラとバニラがいない時間の想像もつかない。"
+        },
+        "en": {
+            "content": "... I couldn't imagine a moment without Chocola and Vanilla."
+        },
+        "cn": {
+            "content": "我就已經無法想像沒有巧克力跟香草在的日子會是什麼模樣了。",
+            "convert": "我就已经无法想像没有巧克力跟香草在的日子会是什么模样了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま……ショコラも、しあわせです……♪　すー……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master... Chocola is happy too~ %fSourceHanSansCN-M;♪%f; Zzz...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人……巧克力很幸福喔……♪呼─……」",
+            "convert": "「主人……巧克力很幸福喔……♪呼─……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人……バニラも、今がしあわせ……にゃぅ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Master... Vanilla is also happy now... myah...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人……香草現在也很幸福……喵……」",
+            "convert": "「主人……香草现在也很幸福……喵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、俺もだよ。ありがとうな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah, I am, too. Thanks.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，我也一樣。謝謝妳們兩個囉。」",
+            "convert": "「嗯，我也一样。谢谢你们两个咯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "寝言でもそんな風に応えてくれる二匹に。"
+        },
+        "en": {
+            "content": "I kissed both of them gently as they murmured in their sleep..."
+        },
+        "cn": {
+            "content": "看著連在夢裡都對我念念不忘的兩隻貓娘，",
+            "convert": "看着连在梦里都对我念念不忘的两只猫娘，"
+        }
+    },
+    {
+        "jp": {
+            "content": "そっとキスをしてから、俺も目を閉じて眠りについた。"
+        },
+        "en": {
+            "content": "... and closed my eyes and drifted off."
+        },
+        "cn": {
+            "content": "我輕輕給了她們倆一人一個吻，然後閉上眼進入夢鄉。",
+            "convert": "我轻轻给了她们俩一人一个吻，然后闭上眼进入梦乡。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「発情期で体調崩す、ですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Become ill from being in heat?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「發情期會弄壞身體？」",
+            "convert": "「发情期会弄坏身体？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことはないと思いますけれども」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;I don't think that's possible.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「印象中沒聽過這種事呢。」",
+            "convert": "「印象中没听过这种事呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "開店前の朝一番に来訪した時雨が、"
+        },
+        "en": {
+            "content": "Shigure, the first guest of the morning..."
+        },
+        "cn": {
+            "content": "用理所當然的口氣回答完我的問題，",
+            "convert": "用理所当然的口气回答完我的问题，"
+        }
+    },
+    {
+        "jp": {
+            "content": "さも当然と言った澄まし顔で紅茶をすする。"
+        },
+        "en": {
+            "content": "... said that with a straight face like it was obvious and sipped her tea."
+        },
+        "cn": {
+            "content": "時雨若無其事地啜了一口紅茶。",
+            "convert": "时雨若无其事地啜了一口红茶。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ……だって、そう聞いたんだけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Huh... but I've really heard that before...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦……可是，我是這麼聽說的……」",
+            "convert": "「咦……可是，我是这么听说的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「現に家のネコたちは元気にやっております」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;The catgirls at home are doing just fine, you know.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「至少家裡的貓娘現在健康得很，」",
+            "convert": "「至少家里的猫娘现在健康得很，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「多少は運動などで発散はさせていますけども」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;I'm having them do a bit of exercise to work off the effects of being in heat, though.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「雖然我多少有用運動來幫她們發散精力就是了。」",
+            "convert": "「虽然我多少有用运动来帮她们发散精力就是了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そう言われてみれば、確かにそんな気も」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Come to think of it, I seem to remember seeing that before.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……這麼說來，好像真的是這樣……」",
+            "convert": "「……这么说来，好像真的是这样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "家でそんな現場を見たこともないし。"
+        },
+        "en": {
+            "content": "I hadn't ever seen them doing \"stuff\" in the house."
+        },
+        "cn": {
+            "content": "仔細想想，我從來就沒有在家裡碰見過那種場面，",
+            "convert": "仔细想想，我从来就没有在家里碰见过那种场面，"
+        }
+    },
+    {
+        "jp": {
+            "content": "いや女の時雨がそもそもどうこうできるものでもないし……。"
+        },
+        "en": {
+            "content": "No, being female, there was no way for Shigure to do that with them..."
+        },
+        "cn": {
+            "content": "再說身為女性的時雨也不可能用跟我一樣的方法……",
+            "convert": "再说身为女性的时雨也不可能用跟我一样的方法……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもバニラがそう言ってたぞ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... But Vanilla told me they'd get sick from being in heat.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可是是香草親口跟我說的啊？」",
+            "convert": "「可是是香草亲口跟我说的啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なぁバニラ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Right, Vanilla?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對吧香草？」",
+            "convert": "「对吧香草？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨が、ご主人を説得するにはそう言えばいいってくあぁ～……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Shigure said that I should explain it to Master like that, yawn~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「是時雨說這樣講比較容易說服主人呼啊～……」",
+            "convert": "「是时雨说这样讲比较容易说服主人呼啊～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ～そういえば、そんなこと言ってたねぇくあぁぁ～……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah~ Come to think of it, Chocola remembers being told something like that yawnnn~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊～這麼說來好像有過這回事呢呼哇啊～……」",
+            "convert": "「啊～这么说来好像有过这回事呢呼哇啊～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「教えこんだのはお前じゃねーか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... So you're the one who told them.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「結果是妳搞的鬼啊！」",
+            "convert": "「结果是你搞的鬼啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことより兄さま。今日もこの妹めに愛のささやきを」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;More importantly, Nii-sama. Whisper today's sweet nothings to your little sister~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「別在意這種小事了，哥哥。今天也請您盡情對妹妹我傾訴愛意吧。」",
+            "convert": "「别在意这种小事了，哥哥。今天也请您尽情对妹妹我倾诉爱意吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことより、じゃないだろこの[だもうと,1]駄妹がー」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;You can't just \"more importantly\" your way around this, you worthless little sister...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這是叫我怎麼不在意，妳這個笨妹妹！」",
+            "convert": "「这是叫我怎么不在意，你这个笨妹妹！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「痛い、痛いです兄さま！　そういう愛も嫌いじゃないですが！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, it hurts, Nii-sama~! Though I don't mind it rough, either!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "content": "「好痛，好痛啊哥哥！雖然我不討厭這種愛情就是了！」",
+            "convert": "「好痛，好痛啊哥哥！虽然我不讨厌这种爱情就是了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "反省の色なし。"
+        },
+        "en": {
+            "content": "She doesn't seem to regret anything."
+        },
+        "cn": {
+            "content": "一點也沒有要反省的樣子嘛。",
+            "convert": "一点也没有要反省的样子嘛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……まぁ、別に怒ってるわけでもないんだけども。"
+        },
+        "en": {
+            "content": "... Well, I wasn't that angry at her, anyway."
+        },
+        "cn": {
+            "content": "……算了，其實我也沒有生氣到哪裡去。",
+            "convert": "……算了，其实我也没有生气到哪里去。"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨に色々と見透かされてたみたいで、"
+        },
+        "en": {
+            "content": "It seemed as if Shigure was able to see through a lot of aspects of me."
+        },
+        "cn": {
+            "content": "只不過是因為內心全被時雨給看透，",
+            "convert": "只不过是因为内心全被时雨给看透，"
+        }
+    },
+    {
+        "jp": {
+            "content": "情けないやら照れ臭いやら悔しいやらくらいで。"
+        },
+        "en": {
+            "content": "Mainly my shame, embarrassment, resentments, in particular."
+        },
+        "cn": {
+            "content": "所以覺得有點沒出息、有點害羞又有點不甘心罷了。",
+            "convert": "所以觉得有点没出息、有点害羞又有点不甘心罢了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄さまの愛情表現はたまに激し過ぎですね、ぽっ♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Sometimes, the way Nii-sama expresses his love is too rough! Blush~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥的愛情表現偶爾會變得很激烈呢♪」",
+            "convert": "「哥哥的爱情表现偶尔会变得很激烈呢♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「では次は兄妹の熱烈な口付けを……ん♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Next, let us partake in a sultry kiss between siblings... Mwah! %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那麼接下來是兄妹熱吻的時間……嗯♪」",
+            "convert": "「那么接下来是兄妹热吻的时间……嗯♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あほか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Don't be dumb.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別鬧了。」",
+            "convert": "「别闹了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "キスをせがむ時雨のおでこを突く。"
+        },
+        "en": {
+            "content": "As Shigure sought my lips, I flicked her on the forehead."
+        },
+        "cn": {
+            "content": "我輕輕戳了一下把嘴嘟過來的時雨。",
+            "convert": "我轻轻戳了一下把嘴嘟过来的时雨。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「むー。ちゃんとアメあってのムチなのですよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Muuuuh~ I certainly hope there's a carrot to go with this stick.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呣～沒有糖果的話鞭子要怎麼起作用？」",
+            "convert": "「呣～没有糖果的话鞭子要怎么起作用？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんな可愛い妹の誘いを、いつもいつもむげにするなんて」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;How could you ever refuse such a cute little sister's entincements?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「總是把這麼可愛的妹妹晾在一旁，」",
+            "convert": "「总是把这么可爱的妹妹晾在一旁，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、バニラと恋ネコになってから、少し冷たいのではありませんか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Aren't you acting rather cold now after Chocola and Vanilla became your catpanions?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「自從跟巧克力、香草變成情人以來，您對我是不是越來越冷淡了？」",
+            "convert": "「自从跟巧克力、香草变成情人以来，您对我是不是越来越冷淡了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まるで前はキスしてたみたいな言い方すんな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Don't say that and make it sound like we've kissed before.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別說得好像我們平常就會接吻的樣子啦。」",
+            "convert": "「别说得好像我们平常就会接吻的样子啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "腰に手を当てて頬を膨らませる時雨。"
+        },
+        "en": {
+            "content": "Shigure put her hands on her hips and puffed out her cheeks."
+        },
+        "cn": {
+            "content": "時雨兩手往腰間一插，鼓著臉頰說道。",
+            "convert": "时雨两手往腰间一插，鼓着脸颊说道。"
+        }
+    },
+    {
+        "jp": {
+            "content": "ほんとこいつの冗談はわかりづらい。"
+        },
+        "en": {
+            "content": "It was really hard to get her jokes."
+        },
+        "cn": {
+            "content": "老實說，有時候我真的覺得時雨的玩笑有夠難懂。",
+            "convert": "老实说，有时候我真的觉得时雨的玩笑有够难懂。"
+        }
+    },
+    {
+        "jp": {
+            "content": "兄として外に出すのが心配になるレベルだ。"
+        },
+        "en": {
+            "content": "Sometimes, as her older brother, I wondered if it's really safe for her to go outside on her own."
+        },
+        "cn": {
+            "content": "見到自己的可愛妹妹這樣子，",
+            "convert": "见到自己的可爱妹妹这样子，"
+        }
+    },
+    {
+        "jp": {
+            "content": "可愛い妹であるのは認めるが故に。"
+        },
+        "en": {
+            "content": "Even more so because she's a heck of a cute little sister."
+        },
+        "cn": {
+            "content": "身為一個哥哥實在很難放她出去見人……",
+            "convert": "身为一个哥哥实在很难放她出去见人……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもショコラもバニラも幸せそうで良かったです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;I am glad that both Chocola and Vanilla are happy now, though.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過，巧克力跟香草看起來都很幸福的樣子，真是太好了。」",
+            "convert": "「不过，巧克力跟香草看起来都很幸福的样子，真是太好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄さまのところに来ることで鈴も持てましたし」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;They were able to get their Bells by going with Nii-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「自從來到哥哥身邊以後，她們兩個不僅拿到了鈴鐺，」",
+            "convert": "「自从来到哥哥身边以后，她们两个不仅拿到了铃铛，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それに、ちゃんと心の方も成長しているようですしね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;It also seems like they've experienced love a bit as well, doesn't it?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「而且心靈上似乎也有很大的成長呢。」",
+            "convert": "「而且心灵上似乎也有很大的成长呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "寝ぼけながらお互いの髪を梳かしている二匹。"
+        },
+        "en": {
+            "content": "The two catgirls' combed each other's hair, still half-asleep."
+        },
+        "cn": {
+            "content": "見到兩隻貓娘頂著惺忪睡眼互相梳頭髮的模樣，",
+            "convert": "见到两只猫娘顶着惺忪睡眼互相梳头发的模样，"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨が愛しい我が子を見るように優しく目を細める。"
+        },
+        "en": {
+            "content": "Shigure gazed at them as if they were her very own lovely children."
+        },
+        "cn": {
+            "content": "時雨臉上露出了母親般的溫柔笑容。",
+            "convert": "时雨脸上露出了母亲般的温柔笑容。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっと前までは、あんな風に身だしなみを気にしたりもしなかったのですが」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Not too long ago, they didn't even seem to care much about personal grooming like that, either.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「你看她們，明明不久之前還對外表一點也不在意呢。」",
+            "convert": "「你看她们，明明不久之前还对外表一点也不在意呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄さまも、現状を悪くは思っていないのでしょう？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Don't you think things are a little better now too, Nii-sama?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「而且哥哥，我猜您其實也很滿意現狀對吧？」",
+            "convert": "「而且哥哥，我猜您其实也很满意现状对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……まぁ、それなりにな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Well, in it's own way.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯，算是吧。」",
+            "convert": "「……嗯，算是吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、素直でないこと。くすくす」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;My my, you are just not honest. Teehee~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哎呀，真是一點也不坦率呢。嘻嘻。」",
+            "convert": "「哎呀，真是一点也不坦率呢。嘻嘻。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺の心の内を見透かしたように笑い声をこぼす。"
+        },
+        "en": {
+            "content": "She giggled as if she could see exactly how I truly felt."
+        },
+        "cn": {
+            "content": "時雨像是看穿我的心聲似地笑了出來。",
+            "convert": "时雨像是看穿我的心声似地笑了出来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……年の離れた兄の、つまらないプライドだな。"
+        },
+        "en": {
+            "content": "... I did have a bit of uncalled-for pride just because I was a little older than her."
+        },
+        "cn": {
+            "content": "……看來她已經知道我這個大她好幾歲的哥哥只是在逞強而已了。",
+            "convert": "……看来她已经知道我这个大她好几岁的哥哥只是在逞强而已了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラを受け入れてもらえないのであれば、時雨が身体を張るところでした」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;If Chocola and Vanilla weren't going to accept you, I would have myself.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「要是哥哥您當初沒有讓巧克力和香草留下來的話，我本來是想用身體逼哥哥就範的呢。」",
+            "convert": "「要是哥哥您当初没有让巧克力和香草留下来的话，我本来是想用身体逼哥哥就范的呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「妹である前に私も女ですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;I may be your sister, but even before that, I am a woman.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「畢竟在妹妹之前我也是個女人，」",
+            "convert": "「毕竟在妹妹之前我也是个女人，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄さまの寵愛を受け入れることなど、それは容易きことです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;It would be very difficult to turn down Nii-sama's affection.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「要接受哥哥的『寵愛』是再容易不過的事了。」",
+            "convert": "「要接受哥哥的『宠爱』是再容易不过的事了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アホ。妹に手出すか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Come on now. I couldn't do such things to my little sister.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「少來。誰會對自己的妹妹出手啊？」",
+            "convert": "「少来。谁会对自己的妹妹出手啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お前はいつまでもバカなこと言ってんなって」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;You're always saying silly stuff like that.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別老是說些五四三的行不行？」",
+            "convert": "「别老是说些五四三的行不行？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃう、いつまでも子供扱いして～」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Hyauuh, stop always treating me like a child~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊嗚，不要老是把人家當成小孩子嘛～」",
+            "convert": "「啊呜，不要老是把人家当成小孩子嘛～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨の頭をくしゃくしゃと撫でつけた。"
+        },
+        "en": {
+            "content": "I rubbed Shigure's head, messing up her hair."
+        },
+        "cn": {
+            "content": "我大力搓了搓時雨的頭，",
+            "convert": "我大力搓了搓时雨的头，"
+        }
+    },
+    {
+        "jp": {
+            "content": "口唇を尖らせて抗議の視線を向けてくる。"
+        },
+        "en": {
+            "content": "She grimaced and scowled at me."
+        },
+        "cn": {
+            "content": "換來的是時雨嘟著嘴的模樣和抗議眼神。",
+            "convert": "换来的是时雨嘟着嘴的模样和抗议眼神。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨は本気ですからね？　兄さまのためでしたら何でもするのですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;I'm serious, you know? I'll do whatever I can for Nii-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「時雨是說真的喔？只要是為了哥哥，我什麼都願意做。」",
+            "convert": "「时雨是说真的喔？只要是为了哥哥，我什么都愿意做。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はいはい、分かった分かった。ありがとな、うりうり」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah, yeah. I get it, I get it. Thanks. Take this and that, too!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好好好我知道啦。真是謝謝妳喔，嘿，嘿。」",
+            "convert": "「好好好我知道啦。真是谢谢你喔，嘿，嘿。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もー兄さまー！　くしゃくしゃしちゃダメですってばぁー！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Geez, Nii-sama! No messing up my hair!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊──哥哥！不可以弄亂人家的頭髮啦！」",
+            "convert": "「啊──哥哥！不可以弄乱人家的头发啦！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "せっせと手櫛で乱れた髪を直す。"
+        },
+        "en": {
+            "content": "She fixed her hair by patting it down."
+        },
+        "cn": {
+            "content": "只見時雨連忙用手把頭髮重新整理好。",
+            "convert": "只见时雨连忙用手把头发刷新好。"
+        }
+    },
+    {
+        "jp": {
+            "content": "うん。相変わらず可愛い妹だ。"
+        },
+        "en": {
+            "content": "Yep. She was the same old cute little sister."
+        },
+        "cn": {
+            "content": "嗯。我家這個妹妹還是一樣可愛。",
+            "convert": "嗯。我家这个妹妹还是一样可爱。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、兄さまも雰囲気がとても優しくなりました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;But you do seem to have become kinder too, Nii-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過，哥哥現在看起來變得溫柔很多呢。」",
+            "convert": "「不过，哥哥现在看起来变得温柔很多呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やはり家を出て良かったのでしょうね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;It probably was a good thing for you to leave the house.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「想必一定是因為離開家的影響吧。」",
+            "convert": "「想必一定是因为离开家的影响吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……時雨は、少しだけ寂しく思いますが」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;... I do feel a bit lonely, though.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……雖然時雨多少還是會有些寂寞就是了。」",
+            "convert": "「……虽然时雨多少还是会有些寂寞就是了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "少しだけトーンの落ちた声で。"
+        },
+        "en": {
+            "content": "With a slightly lower tone in her voice..."
+        },
+        "cn": {
+            "content": "時雨的口氣顯得有些落寞，",
+            "convert": "时雨的口气显得有些落寞，"
+        }
+    },
+    {
+        "jp": {
+            "content": "寂しそうに、困ったように微笑む。"
+        },
+        "en": {
+            "content": "... she smiled a somewhat sad and troubled smile."
+        },
+        "cn": {
+            "content": "在她的笑容當中，也彷彿帶著幾分寂寞與困惑。",
+            "convert": "在她的笑容当中，也仿佛带着几分寂寞与困惑。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……時雨には、昔から色々と迷惑かけてたからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... I've caused a lot of problems for you in the past.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……從以前開始，我就一直在給時雨添麻煩呢。」",
+            "convert": "「……从以前开始，我就一直在给时雨添麻烦呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺と父親の折り合いが上手く行かなかった時も。"
+        },
+        "en": {
+            "content": "When I wasn't able to get along with Dad."
+        },
+        "cn": {
+            "content": "不論是跟父親吵架的時候，",
+            "convert": "不论是跟父亲吵架的时候，"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺が洋菓子を隠れて練習してた時も。"
+        },
+        "en": {
+            "content": "When I'd practice my baking in secret."
+        },
+        "cn": {
+            "content": "躲起來練習作蛋糕的時候，",
+            "convert": "躲起来练习作蛋糕的时候，"
+        }
+    },
+    {
+        "jp": {
+            "content": "多分、俺が黙って出て行った時だって。"
+        },
+        "en": {
+            "content": "When I left without saying anything."
+        },
+        "cn": {
+            "content": "或許就連我偷偷離開家裡的時候也一樣。",
+            "convert": "或许就连我偷偷离开家里的时候也一样。"
+        }
+    },
+    {
+        "jp": {
+            "content": "きっと勘付いていながら、知らない振りをしてくれていて"
+        },
+        "en": {
+            "content": "Even after she had realized, she pretended she didn't."
+        },
+        "cn": {
+            "content": "明明已經察覺一切，卻依然裝作什麼都不知道……",
+            "convert": "明明已经察觉一切，却依然装作什么都不知道……"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラとバニラのことだって、陰で協力してくれてたんだろうと思う。"
+        },
+        "en": {
+            "content": "She even secretly helped box up Chocola and Vanilla, too."
+        },
+        "cn": {
+            "content": "當初巧克力跟香草會跟過來，想必也是因為她在背後推了一把吧。",
+            "convert": "当初巧克力跟香草会跟过来，想必也是因为她在背后推了一把吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……本当に時雨は、俺の妹とは思えないくらいによく出来た妹だ。"
+        },
+        "en": {
+            "content": "... It's hard to imagine that Shigure is my little sister, given how bright she is."
+        },
+        "cn": {
+            "content": "……說實話，像時雨這樣一個好女孩，當我的妹妹真的是太浪費了。",
+            "convert": "……说实话，像时雨这样一个好女孩，当我的妹妹真的是太浪费了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラはちゃんと俺が面倒見るから、心配要らない」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I'll take good care of Chocola and Vanilla, so you don't need to worry.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我會好好照顧巧克力跟香草的，妳不用擔心。」",
+            "convert": "「我会好好照顾巧克力跟香草的，你不用担心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから、いつでも遊びに来いよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Come over whenever you want.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以，隨時歡迎妳過來玩喔。」",
+            "convert": "「所以，随时欢迎你过来玩喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "感謝の気持ちを込めて、時雨の頬に手を添える。"
+        },
+        "en": {
+            "content": "I rested my hand on Shigure's cheek, filling it with my feelings of appreciation."
+        },
+        "cn": {
+            "content": "我懷著感謝的心情摸了摸時雨的臉頰。",
+            "convert": "我怀着感谢的心情摸了摸时雨的脸颊。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……はい。ありがとうございます、兄さま」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;... Okay. Thank you very much, Nii-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……好的。謝謝您，哥哥。」",
+            "convert": "「……好的。谢谢您，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨もまた、微笑んで俺に頬を預けて応えてくれる。"
+        },
+        "en": {
+            "content": "Shigure responded with a soft smile and by leaning her cheek against my hand."
+        },
+        "cn": {
+            "content": "而時雨也笑著將臉依偎在我的手上。",
+            "convert": "而时雨也笑着将脸依偎在我的手上。"
+        }
+    },
+    {
+        "jp": {
+            "content": "小さな妹の愛おしさと柔らかさが、"
+        },
+        "en": {
+            "content": "I could feel the softness and affection..."
+        },
+        "cn": {
+            "content": "嬌小臉頰的柔軟觸感化作一道暖流，",
+            "convert": "娇小脸颊的柔软触感化作一道暖流，"
+        }
+    },
+    {
+        "jp": {
+            "content": "手のひらから暖かく伝わってくる。"
+        },
+        "en": {
+            "content": "... of my small little sister passing through the palm of my hand as warmth."
+        },
+        "cn": {
+            "content": "很快就在掌心傳了開來。",
+            "convert": "很快就在掌心传了开来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまー！　お仕事の準備バッチリ出来ました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master~! Preparations for work are all done!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人～！已經準備好可以開門囉！」",
+            "convert": "「主人～！已经准备好可以开门咯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「戦闘準備完璧。寝癖ひとつなし」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Combat preparations complete. Not a single cow lick.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「準備就戰鬥位置。髮型毫無凌亂。」",
+            "convert": "「准备就战斗位置。发型毫无凌乱。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おう、了解」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Oh, roger that.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔，了解～」",
+            "convert": "「喔，了解～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「悪い時雨。じゃあちょっと店開ける準備してくるな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Sorry, Shigure. I need to do a little bit of preparation to open the store.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉時雨，我先去準備開店了。」",
+            "convert": "「抱歉时雨，我先去准备开店了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いえいえ。朝から押しかけてしまったのは私の方ですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;No, no. I was the one who pressed upon you this early.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不會不會。畢竟是我一早就來打擾嘛。」",
+            "convert": "「不会不会。毕竟是我一早就来打扰嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日も一日、頑張って下さいね。兄さま」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Today is a new day. Please do your best, Nii-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「今天也請您好好加油了，哥哥。」",
+            "convert": "「今天也请您好好加油了，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ。お前はゆっくりしてていいからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yep. You can just take it easy.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒問題。妳就慢慢坐吧。」",
+            "convert": "「没问题。你就慢慢坐吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラも行ってきます！　また後でね、時雨ちゃん！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola is going, too! See you later, Shigure-chan!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力也要去幫忙了！待會見，時雨！」",
+            "convert": "「巧克力也要去帮忙了！待会见，时雨！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私も労働してくる。時雨、また後で」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I shall also be off to work. See you again, Shigure.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那我也下去勞動囉。時雨，晚點見了。」",
+            "convert": "「那我也下去劳动咯。时雨，晚点见了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい、いってらっしゃいませ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Okay~ Have a good day at work!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好～妳們慢走喔。」",
+            "convert": "「好～你们慢走喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ん。これで色々と丸く収まったかな」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;... Mhmn. I guess this settles a lot of stuff.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……嗯，這樣一來事情就順利解決了吧。」",
+            "convert": "「……嗯，这样一来事情就顺利解决了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "みんなが下に降りたのを確認してから、"
+        },
+        "en": {
+            "content": "After being sure everyone had gone down to the bakery to work..."
+        },
+        "cn": {
+            "content": "目送三人下樓之後，",
+            "convert": "目送三人下楼之后，"
+        }
+    },
+    {
+        "jp": {
+            "content": "リビングのソファに腰を降ろして一人呟く。"
+        },
+        "en": {
+            "content": "... Shigure sat on the living room sofa and muttered to herself."
+        },
+        "cn": {
+            "content": "我坐在客廳沙發上一個人喃喃自語道。",
+            "convert": "我坐在客厅沙发上一个人喃喃自语道。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それにしても、ショコラとバニラが兄さまの恋ネコ、かぁ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;It's still hard to believe that Chocola and Vanilla are Nii-sama's catpanions now...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「話說回來，巧克力跟香草都成了哥哥的貓娘情人啦……」",
+            "convert": "「话说回来，巧克力跟香草都成了哥哥的猫娘情人啦……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……娘に想い人を取られてしまった気分ね。くすくす」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;... It's almost like another girl has stolen away my crush from me. Teehee.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……有種心上人被自己女兒搶走的感覺呢。嘻嘻。」",
+            "convert": "「……有种心上人被自己女儿抢走的感觉呢。嘻嘻。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "あの小さかった仔ネコたちが。"
+        },
+        "en": {
+            "content": "Those catgirls who were once just little babies, are already..."
+        },
+        "cn": {
+            "content": "沒想到那兩隻不久前還是幼貓的貓娘……",
+            "convert": "没想到那两只不久前还是幼猫的猫娘……"
+        }
+    },
+    {
+        "jp": {
+            "content": "自分でそうなるようにしたとは言え、"
+        },
+        "en": {
+            "content": "Knowing that she had done it to herself..."
+        },
+        "cn": {
+            "content": "雖然說一切都照著自己的計畫走，",
+            "convert": "虽然说一切都照着自己的计划走，"
+        }
+    },
+    {
+        "jp": {
+            "content": "思わず苦笑いがこぼれてしまう。"
+        },
+        "en": {
+            "content": "... she couldn't help but let out an ironic laugh."
+        },
+        "cn": {
+            "content": "不過眼前的事實依然讓我不得不露出苦笑。",
+            "convert": "不过眼前的事实依然让我不得不露出苦笑。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……私も、叶わない想いなど諦めて」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;... Well, I might as well give up on a dream that won't come to pass.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……我也差不多該放棄這份不可能實現的思念，」",
+            "convert": "「……我也差不多该放弃这份不可能实现的思念，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そろそろ兄離れをしないといけないのかもね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Maybe it's time I thought about letting my older brother go.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「早點從戀兄情結中畢業了吧。」",
+            "convert": "「早点从恋兄情结中毕业了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "叶うはずのない恋心へと言い聞かせるように。"
+        },
+        "en": {
+            "content": "As if to ask her yearning heart for the impossible..."
+        },
+        "cn": {
+            "content": "像是在勸自己放棄永無實現之日的戀情一般，",
+            "convert": "像是在劝自己放弃永无实现之日的恋情一般，"
+        }
+    },
+    {
+        "jp": {
+            "content": "さっきまでそこにいた、愛しい想い人へ告げるように。"
+        },
+        "en": {
+            "content": "As if to confess to the person she loved, who was just nearby..."
+        },
+        "cn": {
+            "content": "也像是在對剛剛還在眼前的心上人告白一般。",
+            "convert": "也像是在对刚刚还在眼前的心上人告白一般。"
+        }
+    },
+    {
+        "jp": {
+            "content": "もう一度、声に出して呟いてみる。"
+        },
+        "en": {
+            "content": "She whispered it out once more:"
+        },
+        "cn": {
+            "content": "我再度吐露出自己的心情。",
+            "convert": "我再度吐露出自己的心情。"
+        }
+    },
+    {
+        "jp": {
+            "content": "せめて自分の代わりにと。"
+        },
+        "en": {
+            "content": "At least, instead of me..."
+        },
+        "cn": {
+            "content": "希望這兩隻像自己女兒一樣的貓娘，",
+            "convert": "希望这两只像自己女儿一样的猫娘，"
+        }
+    },
+    {
+        "jp": {
+            "content": "娘代わりのネコたちに託した気持ち。"
+        },
+        "en": {
+            "content": "I can entrust my feelings to those catgirls instead of a girl I don't know."
+        },
+        "cn": {
+            "content": "能夠代替自己好好照顧哥哥──",
+            "convert": "能够代替自己好好照顾哥哥──"
+        }
+    },
+    {
+        "jp": {
+            "content": "私は妹として、ずっと側にいられればそれでいいんだから。"
+        },
+        "en": {
+            "content": "I'm okay with always staying by his side as his little sister."
+        },
+        "cn": {
+            "content": "身為哥哥的妹妹，我只要能一直待在哥哥身邊就滿足了。",
+            "convert": "身为哥哥的妹妹，我只要能一直待在哥哥身边就满足了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "チクリと痛む胸を深呼吸で和らげて、"
+        },
+        "en": {
+            "content": "Breathing deeply to calm her prickling, pained heart..."
+        },
+        "cn": {
+            "content": "用深呼吸讓心中的痛楚稍微緩和下來後，",
+            "convert": "用深呼吸让心中的痛楚稍微缓和下来后，"
+        }
+    },
+    {
+        "jp": {
+            "content": "目を閉じてソファに身体を預ける。"
+        },
+        "en": {
+            "content": "... she closed her eyes and leaned back on the sofa."
+        },
+        "cn": {
+            "content": "我閉上雙眼，把身體深深埋在沙發裡。",
+            "convert": "我闭上双眼，把身体深深埋在沙发里。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……よしっ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;... Okay.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……好。」",
+            "convert": "「……好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあまずは、兄さまのお洗濯物でも片付けてあげることにしましょうか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Now then, I guess I should start with tidying up Nii-sama's dirty clothes.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那麼，就先幫哥哥把曬在外面的衣服收進來吧。」",
+            "convert": "「那么，就先帮哥哥把晒在外面的衣服收进来吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ソファから勢い良く立ち上がって"
+        },
+        "en": {
+            "content": "She leapt up off the sofa..."
+        },
+        "cn": {
+            "content": "我從沙發上猛然站起身，",
+            "convert": "我从沙发上猛然站起身，"
+        }
+    },
+    {
+        "jp": {
+            "content": "ぱん、ぱんと自分の両頬を叩いて窓の外を見上げた。"
+        },
+        "en": {
+            "content": "... giving both her cheeks a quick slap, and looked out the window."
+        },
+        "cn": {
+            "content": "大力拍拍自己的臉頰後轉身望向窗外。",
+            "convert": "大力拍拍自己的脸颊后转身望向窗外。"
+        }
+    }
+]

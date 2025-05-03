@@ -1,0 +1,703 @@
+[
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「午後７時！　晩御飯(おかたづけ)！」\\n「午後７時、晩御飯(おかたづけ)」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "7 pm!  Cleanup time!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "晚上７点！晚饭（收拾篇）！",
+            "convert": "晚上７点！晚饭（收拾篇）！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふんふーん、ご主人さまがカレー褒めてくれましたー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Heheh~ Master liked the curry Chocola made~! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "哼哼～巧克力做的咖喱被主人称赞了耶～♪",
+            "convert": "哼哼～巧克力做的咖喱被主人称赞了耶～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「良かったね、ショコラが嬉しいと私も嬉しい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "That's great, Chocola. When you're happy, I'm happy too."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "太好了呢。见到巧克力开心我也开心。",
+            "convert": "太好了呢。见到巧克力开心我也开心。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「人参の皮剥きだけで作った気になれちゃうのがショコラよねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "It's definitely like Chocola to think she made the curry herself when all she did was peel the carrots."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "巧克力就是巧克力，不过帮忙削了一下萝卜皮而已就把整锅咖喱当成是自己作品了呢。",
+            "convert": "巧克力就是巧克力，不过帮忙削了一下萝卜皮而已就把整锅咖喱当成是自己作品了呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ヒネくれたどっかのアメリカンカールとは大違いだよなー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "What a huuuge difference compared to a certain feisty American Curl here, huh Maple?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "跟某只个性扭曲的美国卷耳猫可差多咯～",
+            "convert": "跟某只个性扭曲的美国卷耳猫可差多咯～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はあ？　やんの？　またやんの？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Huuhhh? You wanna go? You wanna fight again?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "啊？怎么？你又想找茬了吗？",
+            "convert": "啊？怎幺？你又想找茬了吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お？　やんのかやんのか？　デザートにしちまうぞ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Oh? We really doin' this? I'll eat you for dessert!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喔？要打吗要打吗？小心被我作成甜点吃掉喔？",
+            "convert": "喔？要打吗要打吗？小心被我作成甜点吃掉喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも嘉祥さんも最近とっても忙しそうですねぇ」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Kashou-san sure does seem busy lately, though..."
+        },
+        "cn": {
+            "name": "桂",
+            "content": "不过嘉祥少爷最近好像很忙的样子耶。",
+            "convert": "不过嘉祥少爷最近好像很忙的样子耶。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだね。あんまり家でゆっくりしてるところも見ないもんね」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Yeah. I hardly ever see him relaxing at home nowadays."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "是啊，最近几乎看不到少爷悠闲待在家休息的模样呢。",
+            "convert": "是啊，最近几乎看不到少爷悠闲待在家休息的模样呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もしかして、実は彼女が出来たんじゃ――」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Maybe he's got himself a girlfrien--"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "该不会是在外面有了女朋友──",
+            "convert": "该不会是在外面有了女朋友──"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな、そんな馬鹿なっ……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "No!! Unthinkable!! Impossible...!!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "怎、怎么可能……！",
+            "convert": "怎、怎幺可能……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「し、時雨さまっ！？　大丈夫ですか、お怪我はっ……！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Shi-Shigure-sama?! What happened, are you alright...?!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "时、时雨小姐！？不要紧吧，有没有受伤……！？",
+            "convert": "时、时雨小姐！？不要紧吧，有没有受伤……！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「に、兄さまに恋人なんて……我が家のネコたちならまだしも、他の女に兄さまが、そんな……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Nii-sama... with a girlfriend... The catgirls in our house are one thing, but for Nii-sama to be with another woman? I..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "哥、哥哥居然交了女朋友……如果是家里的猫娘也就算了，哥哥怎么可能会跟其他女人在一起……",
+            "convert": "哥、哥哥居然交了女朋友……如果是家里的猫娘也就算了，哥哥怎幺可能会跟其他女人在一起……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、おいおい、時雨、大丈夫か……？　顔がマリンブルーになってんだけど……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "H-Hey, Shigure, you okay...? You've gone blue in the face..."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喂、喂喂，时雨你不要紧吧……？我看你整张脸都发青了……",
+            "convert": "喂、喂喂，时雨你不要紧吧……？我看你整张脸都发青了……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン、なんてこと言うんだ！　そんな滅多なこと、時雨さまの前で口にしたらダメじゃないか！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Cinnamon, how could you say such a thing?! You should know better than to say something so thoughtless when Shigure-sama is right here!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "桂，看你干了什么好事！怎么可以随便在时雨小姐面前讲出这种话呢！？",
+            "convert": "桂，看你干了什幺好事！怎幺可以随便在时雨小姐面前讲出这种话呢！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ごめんなさい……！ つい、思ったことが口にでちゃって……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I-I'm sorry! The words just slipped right out...!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "对、对不起……！我只是不小心把心里想的事说出口……！",
+            "convert": "对、对不起……！我只是不小心把心里想的事说出口……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな、そんな馬鹿なことが……！　周りには私のような健気な妹と、英才教育を施した最高のネコたちがいるのに……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "He can't be...! He already has such a wonderful, lovable little sister like me, and such gifted, amazing catgirls here by his side...!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "这、这怎么可能……！明明身边已经有我这样一个积极的妹妹，还有受遍各式英才教育的优秀猫娘们在了不是吗……！",
+            "convert": "这、这怎幺可能……！明明身边已经有我这样一个积极的妹妹，还有受遍各式英才教育的优秀猫娘们在了不是吗……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はっ、そうか……！　諸行無常、盛者必衰の理……恋人がいるなら、破局だってあり得ること……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Ah, I know! All things must pass -- nothing lasts forever... Even if he has a girlfriend, they might break up..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "啊，对了……！诸行无常，盛者必衰之理……只要是恋人，就无法避开破局的可能性……",
+            "convert": "啊，对了……！诸行无常，盛者必衰之理……只要是恋人，就无法避开破局的可能性……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「血の繋がった妹は未来永劫でも、恋人にはいずれ別れは来るもの……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Even though his lover may someday leave him, I, his little sister by blood, will be with him forever!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "就算跟亲妹妹间的血缘会维持一生，但爱情关系总有一天必须面临分手问题……",
+            "convert": "就算跟亲妹妹间的血缘会维持一生，但爱情关系总有一天必须面临分手问题……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それが多少早まるくらい、あり得る……十分に有り得ることです……手段など選ばなければ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "It should be possible to speed up their breakup slightly... No, it's most definitely possible... Yes! With the right means, I..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "要让这时候提早到来不是不可能……绝对不是不可能的事……只要不择手段的话……",
+            "convert": "要让这时候提早到来不是不可能……绝对不是不可能的事……只要不择手段的话……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうです、相手方に偶然私の写メでも送りつけてしまえば……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I know, I could 'arrange' for her to receive certain images of me...!!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "没错，只要让哥哥不小心把我的照片寄给对方……！",
+            "convert": "没错，只要让哥哥不小心把我的照片寄给对方……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「普通に妹の写メで終わりじゃない？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I'm pretty sure pictures of his little sister aren't going to do anything."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "只会被当成普通的妹妹照片而已吧？",
+            "convert": "只会被当成普通的妹妹照片而已吧？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「メイプル！ メイプルは誰の味方ですか！　今度買ってあげるって言った最新アイポンはナシです！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Maple! Whose side are you on?! I'm not going to buy you that iPon anymore!!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "枫！枫你到底是站在哪一边的？既然如此就别怪我收回要买最新型i-Ph○ne给你的约定！！",
+            "convert": "枫！枫你到底是站在哪一边的？既然如此就别怪我收回要买最新型i-Ph○ne给你的约定！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いやあぁあぁーっ！　横暴！　なんて理不尽なの！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Noooooo!! This is unjust! I'm being oppressed!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "天哪──！太过分了！怎么可以这么不讲理！？",
+            "convert": "天哪──！太过分了！怎幺可以这幺不讲理！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃ、じゃあシナモンの自慢の巨乳でも送ればいいじゃない！　そっちのが効果的でしょ！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Wh-Why don't you just send pictures of Cinnamon's pride and joy boobs instead! That'll get you a better result, right?!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "那、那叫桂把她那对自豪的巨乳拍下来送过去不就得了！这样才有效果不是吗！？",
+            "convert": "那、那叫桂把她那对自豪的巨乳拍下来送过去不就得了！这样才有效果不是吗！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんにゃあ！　わたしの恥ずかしい画像がネットの海を永遠に漂流するのはやり過ぎです～！！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "No way, meowwww! That's too much! I can't possibly have such embarrassing pictures of my body floating around the sea of the internet for all eternity~!!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "怎么可以这样！居然要把人家的羞耻影像放流到网络上永久流传，这样太过火了啦～！！",
+            "convert": "怎幺可以这样！居然要把人家的羞耻影像放流到网络上永久流传，这样太过火了啦～！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だったらアズちゃんの方が、見た目的に犯罪臭がして効果的だと思うのですよ～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "What about photos of Azu-chan? She doesn't look legal at all! That ought to work!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "既然如此让外表让看起来有点犯罪味道的红豆出马不是更有效吗～！",
+            "convert": "既然如此让外表让看起来有点犯罪味道的红豆出马不是更有效吗～！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「犯罪臭ってなんだテメー！　アタシはお前より年上だぞこのおっぱいキャットが！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Not legal?!' What the hell do 'ya mean by that, huh?! I'm older than you are, you booby-cat!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "什么叫有犯罪味道！我好歹也比你年长好不好，你这只奶子猫！！",
+            "convert": "什幺叫有犯罪味道！我好歹也比你年长好不好，你这只奶子猫！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ないない。アズキ程度なら私と大差ないですし」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "No, no, that won't work. Besides, Azuki and I aren't all that different size-wise."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "想太多想太多。红豆身材跟我又差不了多少。",
+            "convert": "想太多想太多。红豆身材跟我又差不了多少。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「て、てめぇ……！　普段そんなこと言わねぇくせに、実は裏でそんなこと思っていやがったのか……！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Wh-Why you...! You've never said that before, but you've been secretly thinking that the entire time?!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "你你你……！平常看你不太会说这种话，结果私底下居然是这样看我的……！？",
+            "convert": "你你你……！平常看你不太会说这种话，结果私底下居然是这样看我的……！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ならばいっそ、シナモンとココナツのダブル巨乳で乱交のフェイクなら……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "We might as well send fake photos of both Cinnamon and Coconut being lewd together, then...!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "不然，干脆利用桂跟椰子这对巨乳二人组的照片来制造乱交假象……！",
+            "convert": "不然，干脆利用桂跟椰子这对巨乳二人组的照片来制造乱交假象……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わーん！　ぼく無関係なのにひどい！　ひどいです時雨さま！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Waahhh! I don't even have anything to do with this! That's terrible, Shigure-sama!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "呜哇──！人家明明一点关系都没有的说！太过分，太过分了啦时雨小姐！",
+            "convert": "呜哇──！人家明明一点关系都没有的说！太过分，太过分了啦时雨小姐！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん、阿鼻叫喚。混乱したヒトは恐ろしい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Hmm, it's turned into utter chaos here. People sure are scary when they're panicked."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "唔～嗯，真是太惨了。人一旦陷入混乱状态还真恐怖。",
+            "convert": "唔～嗯，真是太惨了。人一旦陷入混乱状态还真恐怖。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……あれ？　ショコラ？　ショコラがいない……？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "... Oh? Chocola? Where did she go...?"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "……咦？巧克力？巧克力怎么不见了……？",
+            "convert": "……咦？巧克力？巧克力怎幺不见了……？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はっ、まさか……！　ショコラまでショックで家出とか……！？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "D-Don't tell me...! Did Chocola run out of the house in shock...?!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "啊，难道说……！巧克力该不会是受到打击离家出走了吧……！？",
+            "convert": "啊，难道说……！巧克力该不会是受到打击离家出走了吧……！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま、彼女とかいないですって！　うわーい、良かったー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Master said he doesn't have a girlfriend! Yaaay, that's great~! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "主人说他没有女朋友耶！哇～真是太好了～♪",
+            "convert": "主人说他没有女朋友耶！哇～真是太好了～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おおお……！　私が右往左往している間に、げに恐ろしきパンドラの箱をこうも簡単に開けに行くとは……！　ショコラ、恐ろしい子……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Ohh...! While I was agonizing over all the painful possibilities, you bravely went forth and opened that Pandora's box without a second thought! Chocola, you are truly amazing...!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "喔喔喔……！当我还在不知所措的时候，她居然一派轻松地跑去打开最恐怖的潘多拉魔盒……！巧克力，真是可怕的孩子……！",
+            "convert": "喔喔喔……！当我还在不知所措的时候，她居然一派轻松地跑去打开最恐怖的潘多拉魔盒……！巧克力，真是可怕的孩子……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さすがはショコラ。無邪気で素直な行動力で右に出る者などいない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "I expect no less from Chocola. The innocence and straightforwardness of her actions are truly unparalleled."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "不愧是巧克力，论纯真跟一根肠子通到底的行动力没人比得上。",
+            "convert": "不愧是巧克力，论纯真跟一根肠子通到底的行动力没人比得上。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まーともかく。一件落着で良かった良かった」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Well, anyway, I guess that's that."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "总之事情终于告一段落，太好了太好了。",
+            "convert": "总之事情终于告一段落，太好了太好了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨のヤロウ、本音はアレか……飼い主でも油断ならねぇ……ブツブツ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Shigure... So that's what she really thought of me... I can't let my guard down, even around my own owner... Grumble grumble..."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "臭时雨，原来这才是她的真心话……这下连饲主都大意不得了……（念念有词）",
+            "convert": "臭时雨，原来这才是她的真心话……这下连饲主都大意不得了……（念念有词）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いくらＭでも限度があるよぉ……愛のないサディスティックはいやぁ……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "No matter how much of a masochist I am, I have limits... I don't want sadism without love..."
+        },
+        "cn": {
+            "name": "桂",
+            "content": "就算我是Ｍ好了，可是也该有个限度啊……人家不要没有爱的虐待啦～……",
+            "convert": "就算我是Ｍ好了，可是也该有个限度啊……人家不要没有爱的虐待啦～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まさかあんな飛び火するなんて……忠誠を誓ったのはぼくだけど、ぼくなんだけど……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I never thought this would turn into something so serious... I've even sworn my loyalty to her... My loyalty!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "没想到连我都遭殃……虽然是我自己要对时雨小姐宣誓忠诚的没错啦……",
+            "convert": "没想到连我都遭殃……虽然是我自己要对时雨小姐宣誓忠诚的没错啦……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご機嫌損ねたらすぐに経済制裁なんて……今後、こういう時は気をつけないと……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Taking away the iPon she promised me for just soiling her mood... I need to be more careful next time something like this happens..."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "惹她生气居然会招来经济制裁……以后再遇到同样情况的话可得小心点了……",
+            "convert": "惹她生气居然会招来经济制裁……以后再遇到同样情况的话可得小心点了……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……おお。ネコたちに深いトラウマが」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "... Ohh, all the catgirls seemed to have been quite shaken up by this incident."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "……喔喔，猫娘们的心灵蒙上了深深阴影。",
+            "convert": "……喔喔，猫娘们的心灵蒙上了深深阴影。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　どしたのこの空気。トラとウマがどうしたの？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Hm? What's with the sullen mood here? You said something about shakes?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯？气氛怎么这么沉重？老虎跟马怎么了吗？",
+            "convert": "嗯？气氛怎幺这幺沉重？老虎跟马怎幺了吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うんうん、ショコラは素敵だね。いつまでもそのままでいよう」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Ah, Chocola, you're wonderful. Stay like that forever."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "嗯嗯，巧克力真可爱。希望你可以永远保持这份纯真。",
+            "convert": "嗯嗯，巧克力真可爱。希望你可以永远保持这份纯真。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　んんん～？　良くわからないけどショコラはいつも元気だから大丈夫だよー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Hm? Hmm~? I don't really get it, but don't worry! Chocola is always perky, one-hundred-per-cent! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯？嗯嗯嗯～？虽然搞不太懂，不过巧克力一直都很有精神所以不需要担心喔～♪",
+            "convert": "嗯？嗯嗯嗯～？虽然搞不太懂，不过巧克力一直都很有精神所以不需要担心喔～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだね、大丈夫大丈夫」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Right you are. Right you are."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "是啊，不担心不担心。",
+            "convert": "是啊，不担心不担心。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さ、片付けしちゃおう。みんなそのうち元に戻るし」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Come on, let's clean up. Everyone will snap out of their mood sooner or later."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "好了，我们先来收拾现场吧。反正大家待会就回神了。",
+            "convert": "好了，我们先来收拾现场吧。反正大家待会就回神了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい、お手伝いしまーす♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Alrighty~! Chocola will help out! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "好～我也来帮忙～♪",
+            "convert": "好～我也来帮忙～♪"
+        }
+    }
+]

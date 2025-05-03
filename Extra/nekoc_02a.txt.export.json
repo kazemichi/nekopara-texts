@@ -1,0 +1,1377 @@
+[
+    {
+        "jp": {
+            "content": "「おっでかけー♪　おっでかけー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Going out~♪ Going out~♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「出、門♪出、門♪」",
+            "convert": "「出、门♪出、门♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさまとおっでかけー♪　にゃうっ♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Going out with Master~♪ Nyau♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「跟主人一起出門～♪喵♪」",
+            "convert": "「跟主人一起出门～♪喵♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、ちゃんと前見て歩けよー？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Chocola, eyes in front when you walk, 'kay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力，走路記得看前面喔？」",
+            "convert": "「巧克力，走路记得看前面喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラはきのうからテンションあがりっぱなしだね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Chocola has been really excited since yesterday.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力從昨天開始就興奮個不停呢。」",
+            "convert": "「巧克力从昨天开始就兴奋个不停呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁわたしもこうみえて、そこそこテンションたかい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Well, I may not look it, but I'm pretty excited as well.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「倒是別看我這樣，其實我也蠻興奮的。」",
+            "convert": "「倒是别看我这样，其实我也蛮兴奋的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラは顔に出ないだけだもんな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Vanilla, you just don't show it on your face, eh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「畢竟香草只是沒表現在臉上嘛。」",
+            "convert": "「毕竟香草只是没表现在脸上嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「喜んでるって分かってるから大丈夫だよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I can tell you're happy, so it's okay.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別擔心，我看得出妳很開心啦。」",
+            "convert": "「别担心，我看得出你很开心啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そういわれるとムズがゆい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...That remark makes me itchy.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……主人這麼說，讓我有點難為情。」",
+            "convert": "「……主人这么说，让我有点难为情。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「全員で出掛けると、ずいぶんな大所帯になったよなぁ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「When we're all out like this, it looks like we've become quite a big family, huh?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「現在連全家一起出遊都是番大陣仗呢。」",
+            "convert": "「现在连全家一起出游都是番大阵仗呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おらナッツ。オメーもちゃんと前見て歩けや」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, Nuts. Eyes in front when you walk, too.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「欸椰子，妳也看前面走路啦。」",
+            "convert": "「欸椰子，你也看前面走路啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはは、おねーちゃんは心配性だにゃぁ♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahaha, Onee-chan, you're such a worrywart-nyaa♪」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈哈，姊姊真是愛操心♪」",
+            "convert": "「啊哈哈，姐姐真是爱操心♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大丈夫だよ、もう仔ネコじゃあるまいし」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm fine. I'm no kitten anymore.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「沒問題啦，人家又不是小貓了。」",
+            "convert": "「没问题啦，人家又不是小猫了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼくもお姉ちゃんらしく頑張らなくちゃ！　にゃん！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I've gotta try my hardest just like Onee-chan does! Nyan!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「以後人家也要努力表現出姊姊的樣子！喵！」",
+            "convert": "「以后人家也要努力表现出姐姐的样子！喵！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「全っ然わかってねーなコイツ……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Boy, you don't get it at all...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「這小鬼頭根本什麼都不懂……」",
+            "convert": "「这小鬼头根本什么都不懂……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほんとにみんな浮かれてるわねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You sure are giddy, eh?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「看你們期待的。」",
+            "convert": "「看你们期待的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっと出掛けるくらいでテンション上がるなんて可愛いもんね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Just a little trip outside being enough to get you amped up sure is cute.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「不過是出個門就興奮成這樣，還真是可愛呢。」",
+            "convert": "「不过是出个门就兴奋成这样，还真是可爱呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「メーちゃんも素直じゃないんだから～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan, you sure aren't honest with yourself~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「楓真是不坦率～」",
+            "convert": "「枫真是不坦率～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バッチリ髪型とかセットしてたの見てたんだけどな～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I saw you take extra care to do your hair up right, y'know~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我可是有看到，妳出門前把髮型什麼的都整理得漂漂亮亮喔～？」",
+            "convert": "「我可是有看到，你出门前把发型什么的都整理得漂漂亮亮喔～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そりゃあ外出るなら当たり前のことでしょーよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Well, that's only natural if you're going out!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「這是外出時的基本常識好不好。」",
+            "convert": "「这是外出时的基本常识好不好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコだからーって後ろ指さされるのはゴメンだしね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's 'cos I'm a cat... Besides, I don't like having fingers pointed at me while I'm not looking.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我可不想被人家在背後指指點點，說貓娘怎麼樣的。」",
+            "convert": "「我可不想被人家在背后指指点点，说猫娘怎么样的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この辺りは水無月のネコはみんな知ってる人ばっかりだから、そんなことないけどね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Admittedly, the only people around here are ones who know about the Minaduki cats, so there's no way that'd happen~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「附近居民都認識我們水無月家的貓娘，不會發生這種事啦～」",
+            "convert": "「附近居民都认识我们水无月家的猫娘，不会发生这种事啦～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様。今日はデートにお誘い頂き本当にありがとうございます」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama, thank you so much for inviting me on a date today.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥，今天真的很謝謝您邀請我出來約會。」",
+            "convert": "「哥哥，今天真的很谢谢您邀请我出来约会。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私の長年の夢だった、兄様とネコたちとのにゃんにゃんデート……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's been my dream for years now. A nyan nyan date with Nii-sama and the cats...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「跟哥哥還有貓娘們一起來個喵喵約會，我這個長年以來的夢想終於……！」",
+            "convert": "「跟哥哥还有猫娘们一起来个喵喵约会，我这个长年以来的梦想终于……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「恥ずかしながら私もとてもテンションが上がっております。ふんすっ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「While it's embarrassing, I'm getting quite hyped up. Hmph!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「說來不好意思，其實我現在也是興奮得不能自己。（噴氣）」",
+            "convert": "「说来不好意思，其实我现在也是兴奋得不能自己。（喷气）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何だよにゃんにゃんデートって」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「The heck is a nyan nyan date?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「什麼喵喵約會，」",
+            "convert": "「什么喵喵约会，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんなで少し散歩に出るかって言っただけだろ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I just said that we'd all be going on a little walk.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我明明只說要帶大家出來散個步而已啊。」",
+            "convert": "「我明明只说要带大家出来散个步而已啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいえデートです！　これは立派なデートですわ、兄様！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「No, it's a date! This is a fine date, Nii-sama!!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不，是約會！這是場無可挑剔的約會啊，哥哥！",
+            "convert": "「不，是约会！这是场无可挑剔的约会啊，哥哥！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様がなんと言おうと時雨はデートと言い張りますから！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「No matter what you say, Nii-sama, I insist on calling this a date!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「無論哥哥怎麼反駁，時雨我絕不讓哥哥否定約會這兩個字！」",
+            "convert": "「无论哥哥怎么反驳，时雨我绝不让哥哥否定约会这两个字！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……まぁ、何でも良いんだけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Well, suit yourself.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……算了，是什麼都好啦。」",
+            "convert": "「……算了，是什么都好啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさまー？　きょうはどこにいくんですかー？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master? Where are we going today?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人～？今天我們要去哪裡～？」",
+            "convert": "「主人～？今天我们要去哪里～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしもきいてない。ごしゅじんはわりとごういん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I didn't hear either. Master, you're relatively heavy-handed.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我也沒聽說。主人做事風格意外地強硬呢。」",
+            "convert": "「我也没听说。主人做事风格意外地强硬呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日はかなり気温が上がるって言ってたからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「They said that the temperature would be going up quite a bit today.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「聽說今天氣溫會很高，」",
+            "convert": "「听说今天气温会很高，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「せっかくだし、ショコラとバニラが行ったことないところに連れていこうかと思ってな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So, I figured we might as well take the chance to bring you guys somewhere you've never been before, Chocola, Vanilla.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以我想趁這個機會，帶巧克力和香草到沒去過的地方玩玩。」",
+            "convert": "「所以我想趁这个机会，带巧克力和香草到没去过的地方玩玩。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「いったことないところ？」\\n「いったことないところ？」』"
+        },
+        "en": {
+            "name": "Chocola & Vanilla",
+            "content": "「We've never been before?」\\n「We've never been before?」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "『「沒去過的地方？」\\n「沒去過的地方？」』",
+            "convert": "『「没去过的地方？」\\n「没去过的地方？」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ！　わぁーっ！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Wow! Wowie!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哇啊！哇啊──！！」",
+            "convert": "「哇啊！哇啊──！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すっごいおっきな池！　見て見ておねーちゃん！　すっごいおっきー！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「This is such a big pond! Look, look, Onee-chan! This is so big!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「好～大的池塘喔！姊姊妳看妳看！真的好大耶～！」",
+            "convert": "「好～大的池塘喔！姐姐你看你看！真的好大耶～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ばっか、これは池じゃねーよ。海っつーんだよ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Dummy, this isn't a pond. This is called the ocean.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「笨哪妳。這不是池塘，是海啦。」",
+            "convert": "「笨哪你。这不是池塘，是海啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ初めて見たらわかんねーかもしれねーけどな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Then again, if you've never seen it before, you may not have known that.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「不過既然是第一次看到，會分不出差別也不奇怪。」",
+            "convert": "「不过既然是第一次看到，会分不出差别也不奇怪。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この時期の海は人がいなくていいわねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「No one is near the ocean this time of year, so it's nice.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「這時期的海邊沒什麼人，感覺真不錯。」",
+            "convert": "「这时期的海边没什么人，感觉真不错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「夏になると駅前まで人だらけになっててすごかったし」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It sure was something when there'd be people in droves all the way to the train station once summer rolled around.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「一到夏天，人潮可是多到可以把附近車站一起塞滿。」",
+            "convert": "「一到夏天，人潮可是多到可以把附近车站一起塞满。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「前に時雨ちゃんと来た時は人がすごかったもんねぇ」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Last time I came with Shigure-chan, there were a lot of people, too.」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「之前我們跟時雨一起來的時候，人也多得不得了。」",
+            "convert": "「之前我们跟时雨一起来的时候，人也多得不得了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「海どころか砂浜にも入れないくらいだったし～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「So many, in fact, that you couldn't even make it to the beach, let alone hop in the ocean~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「不要說海邊，連沙灘都進不去了呢～」",
+            "convert": "「不要说海边，连沙滩都进不去了呢～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この辺りはサーフィンや海水浴の来客が多いですからね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That's because there are a lot of visitors around these parts who are into surfing and sea-bathing.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「因為這一帶有很多來玩衝浪跟泡海水浴的遊客呀。」",
+            "convert": "「因为这一带有很多来玩冲浪跟泡海水浴的游客呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもこの季節はこんなに人がいないなんて、私も知りませんでした」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I didn't think that there wouldn't be people here around this season myself, though.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過我還真不知道，原來這個季節的人潮這麼少。",
+            "convert": "「不过我还真不知道，原来这个季节的人潮这么少。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はー……！　すごい、すごいひろいよバニラ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Wowww...! Amazing. It's so big, Vanilla...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇……！香草，這裡好寬、好廣喔……！」",
+            "convert": "「哇……！香草，这里好宽、好广喔……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん……！　なんかすごい、しょっぱいにおいがする……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-hmm...! It smells really salty...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……！總覺得有股鹹鹹的氣味……！」",
+            "convert": "「嗯……！总觉得有股咸咸的气味……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それにあしもと、これすっごいさらさら……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Also, this feels super coarse under my feet...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「而且腳邊的沙好細喔……！」",
+            "convert": "「而且脚边的沙好细喔……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しろくてさらさらですごいね……！　これがうみ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's white, coarse, and amazing...! So this is the ocean...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「又白又細的沙灘，真棒……！這就是海邊嗎……！」",
+            "convert": "「又白又细的沙滩，真棒……！这就是海边吗……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「気に入ってくれたか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I take it you like it?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「還喜歡嗎？」",
+            "convert": "「还喜欢吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この時期の海は人が少なくて穴場なんだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Not many people come to the beach this time of year, so it's a great spot off the beaten path.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這時期的海邊沒什麼人，是內行人才知道的景點喔。」",
+            "convert": "「这时期的海边没什么人，是内行人才知道的景点喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時期外れでもすぐ来れるのが地元の強みだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「The fact that we're able to get here so fast even during the off-season means we have a hometown advantage.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「在旺季外也可以隨時拜訪，這就是本地人的好處呢。」",
+            "convert": "「在旺季外也可以随时拜访，这就是本地人的好处呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、すっごくかんどーしました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes, I'm extremely impressed!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯，巧克力覺得好感動！」",
+            "convert": "「嗯，巧克力觉得好感动！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひろくておっきくてさらさらでめっちゃすごいです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's so wide, big, coarse, and amazing!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「又寬又廣，還有細細的沙子，這裡真棒！」",
+            "convert": "「又宽又广，还有细细的沙子，这里真棒！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うみって、おさかながいっぱいいるんだよね？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「The ocean has a lot of fish in it, right?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「記得海裡是不是有很多魚？」",
+            "convert": "「记得海里是不是有很多鱼？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ここにしんせんなおさかながいっぱいいるとおもうと、なんかどきどきする」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Thinking about all the fresh fish here really makes my heart pound.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「一想到這裡面有好多新鮮的魚，就開始興奮起來了。」",
+            "convert": "「一想到这里面有好多新鲜的鱼，就开始兴奋起来了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「魚はもっと沖に行かなきゃ泳いでないけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, but fish are mostly swimming in more open waters.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可惜太岸邊的地方沒什麼魚就是囉。」",
+            "convert": "「可惜太岸边的地方没什么鱼就是咯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日は暖かいし、ちょっとだけ海に入ってみるか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Today is pretty warm, so how about we take a dip in the ocean for just a bit?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「今天天氣蠻溫暖的，要不要下海玩玩？」",
+            "convert": "「今天天气蛮温暖的，要不要下海玩玩？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃはははっ！　すごい！　すっごいねバニラ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nyahahaha! This is amazing! This is amazing, isn't it, Vanilla?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵哈哈哈！好棒！好好玩喔香草！」",
+            "convert": "「喵哈哈哈！好棒！好好玩喔香草！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「このおみず、しょっぱー！　すっごいしょっぱい！　にゃははははー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「This water is salty! It's so salty! Nyahahaha!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「水鹹鹹的！好鹹喔！喵哈哈哈哈！」",
+            "convert": "「水咸咸的！好咸喔！喵哈哈哈哈！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おぉぉぉ……！　このあしもとのすなのかんしょくが、たまらない……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Oooh...! The sensation of this sand under my feet is incredible...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喔喔喔喔……！腳邊這些沙子的感觸真好，真叫人難抗拒……！」",
+            "convert": "「喔喔喔喔……！脚边这些沙子的感触真好，真叫人难抗拒……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なみがくるたびに、なんかこう……！　にゃぉおぉぉぉおぉぉ……っ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Every time a wave comes, it's like, you know...! NyaooOOoh...!!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「只要海浪一打上來，就有種……！喵喔喔喔喔喔喔喔喔……！」",
+            "convert": "「只要海浪一打上来，就有种……！喵喔喔喔喔喔喔喔喔……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何これ！？　何これっ！？　すっごい！　すっごいたのしー！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「What is this?! What is this?! It's amazing! It's so much fun!!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「怎麼會這樣！？怎麼會這樣！？好棒！好好玩喔～！！」",
+            "convert": "「怎么会这样！？怎么会这样！？好棒！好好玩喔～！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おねーちゃん！　もっと、もっとあっち行こ！？　行ってみよ！？　ね！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onee-chan! Let's go more over there, over there! Let's go! Can we?!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「姊姊！我們再過去那邊！！再過去那邊一點看看嘛！！好不好！？」",
+            "convert": "「姐姐！我们再过去那边！！再过去那边一点看看嘛！！好不好！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おいナッツ、沖は深くなってんだからダメだっての！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, Nuts, the ocean is getting deeper, so you can't!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喂，椰子不可以！再過去水很深啦！」",
+            "convert": "「喂，椰子不可以！再过去水很深啦！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょ！　強引に引っ張ってくんじゃねーって！　マジであぶねーから！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Wait a...?! Don't just go ahead and drag me! That's really dangerous!!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「等一下，妳不要硬把我拉過去啊！真的很危險啦！！」",
+            "convert": "「等一下，你不要硬把我拉过去啊！真的很危险啦！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃあぁぁっ！？　な、何か！　何かぬるっとしたのが足に触ったーっ！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Nyaaaah?! S-Something! Something slimy just touched my leg!!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「喵啊啊啊！？好、好像、好像有什麼軟軟的東西碰到我的腳！！」",
+            "convert": "「喵啊啊啊！？好、好像、好像有什么软软的东西碰到我的脚！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何今の！？　いやあぁぁうぞぞぞぞってぇーっ！！　にゃあぁぁああぁぁーっ！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What was that just now?! Hamanahamanahamana!! Nyaaaaahhh!!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「剛才那是什麼！？討厭啦──！兮兮蘇蘇的！！喵啊啊啊啊啊啊──！！」",
+            "convert": "「刚才那是什么！？讨厌啦──！窸窸窣窣的！！喵啊啊啊啊啊啊──！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くすくす、ただのクラゲだから大丈夫だよ～♪　怖がるメーちゃん可愛いにゃ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hehehe. It's just a jellyfish; you're all right~♪ You sure are cute when you're spooked~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，只不過是水母而已，不要緊的啦～♪一臉恐懼的楓真可愛喵～♪」",
+            "convert": "「嘻嘻，只不过是水母而已，不要紧的啦～♪一脸恐惧的枫真可爱喵～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いつもタカビーなメーちゃんが、泣き顔でそんなにぎゅーって抱きつかれたら……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You're always so haughty, May-chan, but seeing you clinch on to me so tight as if about to cry, it's...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「看到平時傲巴巴的楓哭喪著臉抱過來的模樣……」",
+            "convert": "「看到平时傲巴巴的枫哭丧着脸抱过来的模样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何かこう、変なキモチになっちゃうぅぅ～っ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It's making me get such a strange feeliinngg~! ♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「總覺得，心裡好像有種怪怪的開關要打開了……♪」",
+            "convert": "「总觉得，心里好像有种怪怪的开关要打开了……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ、ネコたち全員とっても楽しそうですね♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hee hee, the cats seem to be having fun♪」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呵呵，看來貓娘們好像都玩得很開心♪」",
+            "convert": "「呵呵，看来猫娘们好像都玩得很开心♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「水を怖がるかと思ったけど、みんな楽しそうで良かったよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I thought they would be afraid of water, but I'm glad they're all enjoying themselves.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我還以為她們會怕水呢。不過看大家玩得那麼高興，我就安心了。」",
+            "convert": "「我还以为她们会怕水呢。不过看大家玩得那么高兴，我就安心了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最初の頃は風呂だけでも大騒ぎだったからなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「After all, in the beginning, they'd raise a huge stink over just going in the bath.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「記得一開始光是要幫她們洗澡，就可以把家裡鬧個翻天覆地呢。」",
+            "convert": "「记得一开始光是要帮她们洗澡，就可以把家里闹个翻天覆地呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くすくす、そうですね。そんなこともありましたね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hehehe. It's true, that did happen.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘻嘻嘻，就是說啊，的確有過這樣的時期。」",
+            "convert": "「嘻嘻嘻，就是说啊，的确有过这样的时期。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもさすがは兄様ですね。こんなに素晴らしい穴場スポットをご存知だとは」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But, kudos to you, Nii-sama. To think that you would know of such a superb spot off the beaten path.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過哥哥真不愧是哥哥，居然會知道如此冷門的絕佳景點。」",
+            "convert": "「不过哥哥真不愧是哥哥，居然会知道如此冷门的绝佳景点。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「子供の頃に良く遊びに来たりしたからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, I did use to play here a lot as a kid, after all.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「因為我小時候常來玩嘛。」",
+            "convert": "「因为我小时候常来玩嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「波と戯れる若き兄様、ですって……！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama frolicking amongst the waves, you say...?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「在浪花中嬉戲的年幼哥哥……！？」",
+            "convert": "「在浪花中嬉戏的年幼哥哥……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは……！　それは何とも甘美でまばゆい、神々しささえ見える情景……！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Why, that is...! That is a sight so sweet, so dazzling, that it borders on sublime...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這真是……！真是何等甜美、耀眼又神聖的情景啊……！！」",
+            "convert": "「这真是……！真是何等甜美、耀眼又神圣的情景啊……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな！　そんなことを時雨に想像させてどうするつもりですかー！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「No way! What is the big idea behind making me imagine such a sight?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「怎麼可以、怎麼可以把這樣一個情景灌注進我的腦海裡呢！您到底在打什麼主意！？」",
+            "convert": "「怎么可以、怎么可以把这样一个情景灌注进我的脑海里呢！您到底在打什么主意！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様ったらもうっ！　この妹殺しーっ！　もうーっ！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama, you cad! You're trying to kill your little sister! Geez!!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥真是的！妹妹殺手！討厭！！",
+            "convert": "「哥哥真是的！妹妹杀手！讨厌！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、全然言ってる意味分かんないから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Uh, I don't understand a word of what you're saying.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「等等，我完全聽不懂妳在說什麼啦。」",
+            "convert": "「等等，我完全听不懂你在说什么啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさまー！　みて！　みてくださーい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master! Look! Look here!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人──！你看！看這邊──！」",
+            "convert": "「主人──！你看！看这边──！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラはめっちゃたのしんでますよー！　うれしょんしちゃいそーです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola is having so much fun! I feel like I'm going to pee in excitement!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力玩得很開心喔──！開心到都快失禁了！」",
+            "convert": "「巧克力玩得很开心喔──！开心到都快失禁了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、それはたぶんダメ。だれもいないとはいえ、たぶんダメ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Chocola, that probably isn't good. Maybe if no one else was around, but you probably shouldn't.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力，不可以。雖然附近沒有人，可是還是不可以。」",
+            "convert": "「巧克力，不可以。虽然附近没有人，可是还是不可以。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「楽しいのは良いけど、あんまり沖に行くなよー」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Having fun is fine, but don't go too far into the ocean!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「玩得開心是很好，但記得不要離岸邊太遠喔──」",
+            "convert": "「玩得开心是很好，但记得不要离岸边太远喔──」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だいじょうぶー。ひざから上のところにはいかないからー」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We're okay. We're only going knee-deep!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「別擔心──我們不會跑到水位超過膝蓋的地方──」",
+            "convert": "「别担心──我们不会跑到水位超过膝盖的地方──」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、それなら良いけど――」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, that's good to hear...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，那就好……」",
+            "convert": "「嗯，那就好……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……って、んん？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Uh, hmm?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯？」",
+            "convert": "「……嗯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれ、さっきより水位下がってねーか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Huh? The water level has gone down from earlier, hasn't it?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「怪了，水位是不是比剛才低了不少？」",
+            "convert": "「怪了，水位是不是比刚才低了不少？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだね、さっきはここでも膝の上くらいあったのに」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yeah, the water was above my knees here just a second ago.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「就是啊，剛才明明還淹過膝蓋的說。」",
+            "convert": "「就是啊，刚才明明还淹过膝盖的说。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はー、これくらい浅ければ足下も良く見えて安心だわー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Whew, with the water this shallow, I can see what's below my feet crystal clear, which is a relief.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「呼～水淺得能看到腳下的地方，就是讓人安心～」",
+            "convert": "「呼～水浅得能看到脚下的地方，就是让人安心～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、可愛いメーちゃんが見れないのは残念だけど～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hehe. Still, a shame that I won't be able to see you acting so cute, May-chan~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，沒辦法看到楓可愛的模樣有點可惜就是了～」",
+            "convert": "「嘻嘻，没办法看到枫可爱的模样有点可惜就是了～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……あ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...Oh.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……啊。」",
+            "convert": "「……啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様、あれはもしや引き波というやつでは……？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama, is that what they call a 'riptide'...?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥，海浪是不是退得有點急……？」",
+            "convert": "「哥哥，海浪是不是退得有点急……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっ……！　お、おい、みんなー！！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Wait...! H-Hey, everyone!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「糟糕……！啊、喂，妳們幾個──！！」",
+            "convert": "「糟糕……！啊、喂，你们几个──！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「引き波の後は、大きな波が来るから――」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「After a riptide, a huge wave will come, so...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「海浪要是退得太急，下一波來的就是大浪喔──」",
+            "convert": "「海浪要是退得太急，下一波来的就是大浪喔──」"
+        }
+    },
+    {
+        "jp": {
+            "name": "一同",
+            "content": "『「へ？」「は？」「え？」「ん？」「え？」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "「Huh?」「Huh?」「Wha?」「Huh?」「Hm?」「Huh?」"
+        },
+        "cn": {
+            "name": "一同",
+            "content": "『「咦？」「咦？」「啊？」「咦？」「嗯？」「咦？」』",
+            "convert": "『「咦？」「咦？」「啊？」「咦？」「嗯？」「咦？」』"
+        }
+    },
+    {
+        "jp": {
+            "name": "一同",
+            "content": "『「んにゃあぁあぁあぁぁぁぁああぁぁぁっっっ！！！！！！」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "「NnyaaAAAAaaaaaAAAAAAaaahhh!!!!!」"
+        },
+        "cn": {
+            "name": "一同",
+            "content": "『「嗯喵啊啊啊啊啊啊啊啊啊啊啊啊────！！！！！！」』",
+            "convert": "『「嗯喵啊啊啊啊啊啊啊啊啊啊啊啊────！！！！！！」』"
+        }
+    }
+]

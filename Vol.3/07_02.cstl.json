@@ -1,0 +1,617 @@
+[
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「喵～♪」",
+            "convert": "「喵～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Meaaahhhnnn~! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「にゃあぁぁ～ん♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「人家被哥哥跟姊姊徹底玩弄了耶♪呼嚕呼嚕呼嚕～♪」",
+            "convert": "「人家被哥哥跟姐姐彻底玩弄了耶♪呼噜呼噜呼噜～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan and onee-chan made such a mess out of me! ♪ Purr purr purr~ ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お兄ちゃんとお姉ちゃんに、めちゃくちゃにされちゃったぁ♪　ごろごろごろ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「可惡……沒想到會在椰子面前露出那種醜態……」",
+            "convert": "「可恶……没想到会在椰子面前露出那种丑态……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Dammit... I can't believe Coconut saw me make a fool of myself...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「くそぉ……ナッツの前で、あんな痴態をさらすことになるとは……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「真是失算……失算到家了啦，畜生……」",
+            "convert": "「真是失算……失算到家了啦，畜生……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I can't believe it, I just can't... Dammit...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ほんと不覚……不覚だ、ちくしょう……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "在換好新床單的床上，",
+            "convert": "在换好新床单的床上，"
+        },
+        "en": {
+            "content": "After changing the sheets out, we all lie down."
+        },
+        "jp": {
+            "content": "シーツも新しく張り替えたベッドの上。"
+        }
+    },
+    {
+        "cn": {
+            "content": "喉嚨呼嚕呼嚕響的椰子跟垂頭喪氣的紅豆兩個人坐在一起。",
+            "convert": "喉咙呼噜呼噜响的椰子跟垂头丧气的红豆两个人坐在一起。"
+        },
+        "en": {
+            "content": "Coconut rolls around in glee while Azuki hangs her head in shame."
+        },
+        "jp": {
+            "content": "喉を鳴らすココナツとうなだれてるアズキ。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別這樣嘛。紅豆跟椰子都表現得很可愛啊。」",
+            "convert": "「别这样嘛。红豆跟椰子都表现得很可爱啊。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Now, now, the two of you were really cute.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「まぁまぁ。アズキもココナツも可愛かったしさ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「問題不在那裡好不好……」",
+            "convert": "「问题不在那里好不好……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「That's not the problem here...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「そういう問題じゃねーんだけどな……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「可是啊可是啊？」",
+            "convert": "「可是啊可是啊？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「But... but!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「でも？　でもだよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「可以得到哥哥的寵愛，姊姊應該也覺得很幸福吧～？」",
+            "convert": "「可以得到哥哥的宠爱，姐姐应该也觉得很幸福吧～？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Weren't you really happy that onii-chan gave you so much love~?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お姉ちゃんだって、お兄ちゃんに可愛がってもらって、すっごく幸せだったよね～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「可以跟姊姊一起和哥哥愛愛，人家覺得很開心喔♪」",
+            "convert": "「可以跟姐姐一起和哥哥爱爱，人家觉得很开心喔♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm really happy that I got to do dirty stuff with onee-chan! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お姉ちゃんといっしょにえっち出来るなんて、ぼくはすっごく嬉しかったなぁ♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……唉，說得也是……」",
+            "convert": "「……唉，说得也是……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Well, that's true...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……まぁ、せやな……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「能跟嘉祥上床，那個……是很幸福沒錯……」",
+            "convert": "「能跟嘉祥上床，那个……是很幸福没错……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I'm pretty, well... happy, that we had sex...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「アタシも、まぁ……抱かれて、幸せだったし……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「這樣其實也沒什麼不好啦……」",
+            "convert": "「这样其实也没什么不好啦……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I'll just count this as a positive.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「良かったってことにしとくわ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯？時雨的簡訊？」",
+            "convert": "「……嗯？时雨的短信？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Hm, it's a text from Shigure.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……ん、時雨からメールか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "『巧克力跟香草暫時交給我照顧，』",
+            "convert": "『巧克力跟香草暂时交给我照顾，』"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "『I'll take care of Chocola and Vanilla.』"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "『ショコラとバニラは私が預かりますから』"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "『就麻煩哥哥好好疼愛椰子跟紅豆囉♪』",
+            "convert": "『就麻烦哥哥好好疼爱椰子跟红豆咯♪』"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "『Make sure you give Coconut and Azuki some love, nii-sama! ♪』"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "『ココナツとアズキを可愛がってあげて下さいね、兄様♪』"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……所以巧克力跟香草才不在家裡啊。」",
+            "convert": "「……所以巧克力跟香草才不在家里啊。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...I wondered why Chocola and Vanilla weren't around... That explains it.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……ショコラもバニラもいねーと思ったら、そういうことかよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我就覺得哪裡怪怪的……結果時雨居然也是共犯，可惡……」",
+            "convert": "「我就觉得哪里怪怪的……结果时雨居然也是共犯，可恶……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I figured something was off... So Shigure's in on it, too, huh? Dammit...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「何か不自然だとは思ったんだよな～……時雨もグルか、くそぉ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「與其說是共犯，不如說姊姊的行動實在太容易看破了～♪」",
+            "convert": "「与其说是共犯，不如说姐姐的行动实在太容易看破了～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「'In on it'? I mean, you were so easy to read, onee-chan~ ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「グルっていうか、お姉ちゃんの行動がバレバレだったってことだね～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「這種時候只要乖乖道謝就好了啦，姊姊。」",
+            "convert": "「这种时候只要乖乖道谢就好了啦，姐姐。」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「You should just be grateful here, okay, onee-chan?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「そこは素直にありがとうでしょ、おねーちゃん？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「光看結果的話，姊姊不是如願以償了嗎～♪」",
+            "convert": "「光看结果的话，姐姐不是如愿以偿了吗～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Because it all went according to plan! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「結果としては、お姉ちゃんの希望通りなんだからさー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「哎……話是這麼說沒錯啦……」",
+            "convert": "「哎……话是这么说没错啦……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well... that is true...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「まぁ……そうなんだけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「但我就是覺得，該怎麼說，好像哪裡不對……」",
+            "convert": "「但我就是觉得，该怎么说，好像哪里不对……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「But, like, I dunno. I just can't seem to accept this... or something...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「何かこう、納得行かねーっつーか、なんつーか……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「有什麼關係，這種小事就別太在意了～♪」",
+            "convert": "「有什么关系，这种小事就别太在意了～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Oh, don't mind the little things! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「いいじゃんいいじゃん、細かいことはさー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「只要我們三個都幸幸福福的，這樣不就好了？」",
+            "convert": "「只要我们三个都幸幸福福的，这样不就好了？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「The three of us felt wonderful... Isn't that enough?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「３人ですごく幸せなんだから、それでいいでしょ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……嗯，妳說得對。就當作是這樣吧……」",
+            "convert": "「……嗯，你说得对。就当作是这样吧……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Okay, true. Let's go with that.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……まぁ、せやな。そう思っとくわ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哎，先不管時雨留妳們下來的意圖……」",
+            "convert": "「哎，先不管时雨留你们下来的意图……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, hidden agendas aside...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「まぁ、色々と図ってもらったのは置いといて……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「既然機會難得，紅豆跟椰子今晚要不要住下來？」",
+            "convert": "「既然机会难得，红豆跟椰子今晚要不要住下来？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Do the two of you want to just stay over?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「せっかくだから、今日はアズキもココナツも泊まっていくか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「晚飯我會做妳們喜歡的東西喔。」",
+            "convert": "「晚饭我会做你们喜欢的东西喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'll whip you up whatever you want for dinner, too.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「晩メシに好きなもの作るからさ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「耶──！哥哥要下廚耶～！」",
+            "convert": "「耶──！哥哥要下厨耶～！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yaaay! Onii-chan's home cooking!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「うわーい！　お兄ちゃんの手料理ー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「人家肚子餓了～！現在的人家可以吃下好多東西喲～♪」",
+            "convert": "「人家肚子饿了～！现在的人家可以吃下好多东西哟～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm so hungryyyy! I'm gonna eat a ton! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ぼくおなか空いちゃったー！　すっごいたくさん食べるー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「好～當然好～那今天就受你照顧啦～」",
+            "convert": "「好～当然好～那今天就受你照顾啦～」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「All right, I guess we're in your hands for today.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「へーへー、じゃあ今日はよろしく世話になるわー」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「……等等，這樣一來，」",
+            "convert": "「……等等，这样一来，」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「...You know what that means?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「……ってことはだよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「就表示今天可以不必在意時間，盡情跟哥哥愛愛囉♪」",
+            "convert": "「就表示今天可以不必在意时间，尽情跟哥哥爱爱咯♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「We don't need to bother with going back home, so we can do even more dirty things! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「今日は時間を気にしないで、またえっちできちゃうね♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「妳滿腦子只知道要上床喔……」",
+            "convert": "「你满脑子只知道要上床喔……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Is that the only thing in your head...?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「オメーの頭ん中はそればっかりかよ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……不過，偶爾一次……其實也不錯啦。」",
+            "convert": "「……不过，偶尔一次……其实也不错啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Well, that isn't such a bad thing, once in a while...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……まぁ、たまにゃあそんなのも……悪くねーけど」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子＆紅豆",
+            "content": "『「盯～」\u001f\\n　「盯～」』",
+            "convert": "『「盯～」\u001f\\n　「盯～」』"
+        },
+        "en": {
+            "name": "Coconut & Azuki",
+            "content": "『「......」\u001f\\n　「......」』"
+        },
+        "jp": {
+            "name": "ココナツ＆アズキ",
+            "content": "『「じー」\u001f\\n　「じー」』"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……我會盡力的。」",
+            "convert": "「……我会尽力的。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...I'll try to do my best.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……出来るだけ、頑張ります」"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人紛紛對我投以期待的眼神。",
+            "convert": "两人纷纷对我投以期待的眼神。"
+        },
+        "en": {
+            "content": "Seeing the two of them stare at me with so much expectation..."
+        },
+        "jp": {
+            "content": "２匹の期待を含んだ視線を向けられて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……身體不知道撐不撐得住。",
+            "convert": "……身体不知道撑不撑得住。"
+        },
+        "en": {
+            "content": "...I have to wonder if my body can hold up."
+        },
+        "jp": {
+            "content": "……身体、保つかな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "在擔心自己身體的同時，我還是摸了摸眼前兩位貓娘情人的頭。",
+            "convert": "在担心自己身体的同时，我还是摸了摸眼前两位猫娘情人的头。"
+        },
+        "en": {
+            "content": "I worry to myself as I pat my two catpanions on the head."
+        },
+        "jp": {
+            "content": "そんな心配をしながら、恋ネコたちをそっと撫でていた。"
+        }
+    }
+]

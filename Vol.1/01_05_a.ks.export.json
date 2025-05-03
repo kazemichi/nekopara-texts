@@ -1,0 +1,5218 @@
+[
+    {
+        "jp": {
+            "content": "「ただいま戻りましたー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;We're back~!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我們回來了～！」",
+            "convert": "「我们回来了～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ただいま戻りー」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;We're back~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「回來了～」",
+            "convert": "「回来了～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おーお帰り、二匹とも」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Oh, welcome home, you two.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔，妳們兩個回來啦。」",
+            "convert": "「喔，你们两个回来啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「配達先もお金も大丈夫だったか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Any problems with delivery or payment?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「地點跟錢都沒問題吧？」",
+            "convert": "「地点跟钱都没问题吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろんです！　ばっちり完璧なデリバリーでした！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Of course not! It was a totally perfect delivery!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那當然！這次的外送完美得很喔！」",
+            "convert": "「那当然！这次的外送完美得很喔！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「無事、任務達成。パーフェクト」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Mission completed without incident. Perfect.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「順利達成任務。Perfect。」",
+            "convert": "「顺利达成任务。Perfect。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんて言ったって、ショコラたちは――」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;After all, Chocola and Vanilla...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「再怎麼說，我們兩個都是──」",
+            "convert": "「再怎么说，我们两个都是──」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「立派な鈴持ちのネコですから♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;... are splendid, Bell-holding catgirls! %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「優秀的帶鈴貓嘛♪」",
+            "convert": "「优秀的带铃猫嘛♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「鈴持ちのネコが二匹揃えば心配なんて不要」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Worrying is unnecessary with two Bell-holding catgirls around.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「只要有我們這兩支帶鈴貓在，主人什麼都不用擔心。」",
+            "convert": "「只要有我们这两支带铃猫在，主人什么都不用担心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラとバニラの首で真新しい鈴がキラリと光る。"
+        },
+        "en": {
+            "content": "The brand new Bells around Chocola and Vanilla's necks glittered brightly."
+        },
+        "cn": {
+            "content": "現在，巧克力跟香草脖子上各掛了一只閃閃發亮的全新鈴鐺。",
+            "convert": "现在，巧克力跟香草脖子上各挂了一只闪闪发亮的全新铃铛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラには銀色の鈴。"
+        },
+        "en": {
+            "content": "Chocola had a silver colored Bell..."
+        },
+        "cn": {
+            "content": "巧克力的銀色鈴鐺，",
+            "convert": "巧克力的银色铃铛，"
+        }
+    },
+    {
+        "jp": {
+            "content": "バニラには金色の鈴。"
+        },
+        "en": {
+            "content": "... And Vanilla a gold colored one."
+        },
+        "cn": {
+            "content": "還有香草的金色鈴鐺。",
+            "convert": "还有香草的金色铃铛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "二匹とも一人前のネコの証を自慢気に笑顔を咲かせていた。"
+        },
+        "en": {
+            "content": "With proof that they had become independent catgirls, they both had blossoming smiles, full of pride on their faces."
+        },
+        "cn": {
+            "content": "只見掛著優秀貓娘證明的兩人露出了得意的笑容。",
+            "convert": "只见挂着优秀猫娘证明的两人露出了得意的笑容。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁギリギリではあったけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Well, they were really close to failing though.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「雖然成績是低空飛過就是了。」",
+            "convert": "「虽然成绩是低空飞过就是了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ギリギリでも合格は合格ですから♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Even if it was just by a hair, a pass is a pass~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「就算是低空飛過，及格還是及格呀♪」",
+            "convert": "「就算是低空飞过，及格还是及格呀♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「一発合格の確率は５％程度って言ってた」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;They say that the rate of passing on the first try is 5 percent.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我聽人家說一次及格的機率只有５％左右，」",
+            "convert": "「我听人家说一次及格的几率只有５％左右，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それにショコラと私は最年少合格ネコ。もっと褒めていいと思う」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Besides, Chocola and I were the youngest catgirls in our group to pass. I think that calls for a bit more praise.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「而且巧克力跟我還是史上最年輕的合格者。主人可以多稱讚我們一點沒關係。」",
+            "convert": "「而且巧克力跟我还是史上最年轻的合格者。主人可以多称赞我们一点没关系。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「分かってるよ。お前らはソレイユの立派な看板ネコたちだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;All right, all right. You two are La Soleil's star poster catgirls.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我知道。妳們兩個都是Soleil最棒的看板貓娘。」",
+            "convert": "「我知道。你们两个都是Soleil最棒的看板猫娘。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "そう答えていつものように頭を撫でてやる。"
+        },
+        "en": {
+            "content": "I answered, rubbing their heads as always."
+        },
+        "cn": {
+            "content": "說完，我像平常一樣摸了摸兩人的頭。",
+            "convert": "说完，我像平常一样摸了摸两人的头。"
+        }
+    },
+    {
+        "jp": {
+            "content": "実は初回は常連さんにお願いして配達させてもらったり。"
+        },
+        "en": {
+            "content": "Actually, this was the first time we had received a delivery order from a customer."
+        },
+        "cn": {
+            "content": "其實，這次的外送是我偷偷請熟客幫忙下訂的。",
+            "convert": "其实，这次的外送是我偷偷请熟客帮忙下订的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "自分の携帯を持たせたり、鈴のＧＰＳで数分置きに安全を確認したり。"
+        },
+        "en": {
+            "content": "With my cell phone I was able to check up on them to make sure everything was all right every few minutes through the GPS in their Bells."
+        },
+        "cn": {
+            "content": "而為了以防萬一，我不僅幫她們兩個準備了手機，而且在她們出門以後還每隔幾分鐘就確認一次鈴鐺的GPS位置。",
+            "convert": "而为了以防万一，我不仅帮她们两个准备了手机，而且在她们出门以后还每隔几分钟就确认一次铃铛的GPS位置。"
+        }
+    },
+    {
+        "jp": {
+            "content": "いっそ後ろから付いて行きたくもあったけど、それはさすがに自重して。"
+        },
+        "en": {
+            "content": "I really did want to follow behind them, but I restrained myself."
+        },
+        "cn": {
+            "content": "雖然也有想過要直接跟在她們背後，不過最後還是忍下來了。",
+            "convert": "虽然也有想过要直接跟在她们背后，不过最后还是忍下来了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "初めてのお使いに、飼い主の俺の方が心配でそわそわしっぱなしだった。"
+        },
+        "en": {
+            "content": "It was their first errand, so naturally as their owner, I was fraught with worry and couldn't sit still."
+        },
+        "cn": {
+            "content": "明明是她們倆的第一次外送，結果我這個飼主卻反而比本人還要不安呢……",
+            "convert": "明明是她们俩的第一次外送，结果我这个饲主却反而比本人还要不安呢……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちゃんとご近所さんのヒトたちにも、元気に挨拶しました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;We made sure to say hi to everyone along the way too!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「路上我們有大聲跟鄰居們打招呼喔！」",
+            "convert": "「路上我们有大声跟邻居们打招呼喔！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「歩く看板ネコのお陰で、お店の宣伝もバッチリ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;We made sure to advertise the store perfectly as walking poster catgirls.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「身為這家店的活動看板，我們當然也有好好宣傳。」",
+            "convert": "「身为这家店的活动看板，我们当然也有好好宣传。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お店の売上が上がったらきっと、私たちにもご褒美があるはずと信じて」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;If we raise the sales of the cafe, then I'll hope that we'll receive a reward.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「只要店裡的營收增加，相信主人一定會幫我們準備獎賞吧？」",
+            "convert": "「只要店里的营收增加，相信主人一定会帮我们准备奖赏吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わーい♪　ショコラはご主人さまとお風呂入れる権でいいです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Yay~ %fSourceHanSansCN-M;♪%f; Chocola is fine with gaining the privilege to take baths with Master!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇～♪那巧克力想要跟主人一起洗澡的權利！」",
+            "convert": "「哇～♪那巧克力想要跟主人一起洗澡的权利！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、でもお洋服とかも買ってもらえたら嬉しいです♪　たまにでいいので！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, but Chocola would also be happy if you bought clothes and stuff for her too~ %fSourceHanSansCN-M;♪%f; That's good from time to time!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，不過能送幾件新衣服給巧克力的話巧克力也會很高興喔♪就算偶爾一次也沒關係！」",
+            "convert": "「啊，不过能送几件新衣服给巧克力的话巧克力也会很高兴喔♪就算偶尔一次也没关系！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私もお洋服欲しい。多少はご主人のヘンタイ趣味でも我慢する」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I also desire clothing. At the very least, I will put up with Master's perverted interests.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我也想要新衣服。至於主人的變態興趣我就多少忍耐一下吧。」",
+            "convert": "「我也想要新衣服。至于主人的变态兴趣我就多少忍耐一下吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「一応ツッコんどくけど、俺がいつそんな趣味を持った」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I wasn't going to acknowledge you, but since when did I have such interests?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我倒想問問妳，我什麼時候有過變態興趣了？」",
+            "convert": "「我倒想问问你，我什么时候有过变态兴趣了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「一応ボケておいた方がいいかと思って。鈴持ちとして」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I was thinking it would be a good idea to throw in a joke as a proud Bell-holder.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「身為帶鈴貓，我覺得這種時候應該要稍微裝個傻比較好。」",
+            "convert": "「身为带铃猫，我觉得这种时候应该要稍微装个傻比较好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "鈴は芸人の資格じゃないと思ったけどなぁ。"
+        },
+        "en": {
+            "content": "I didn't think having a Bell was a qualification to become an entertainer..."
+        },
+        "cn": {
+            "content": "妳們脖子上的鈴鐺應該不是搞笑藝人證照吧。",
+            "convert": "你们脖子上的铃铛应该不是搞笑艺人证照吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "これも鈴の資格勉強で増えたボキャブラリーなんだろうか。"
+        },
+        "en": {
+            "content": "Perhaps this was some of the additional vocabulary they had learned when studying for the exam."
+        },
+        "cn": {
+            "content": "難道這也是在準備考試期間學來的？",
+            "convert": "难道这也是在准备考试期间学来的？"
+        }
+    },
+    {
+        "jp": {
+            "content": "元と変わってない気もするけど。"
+        },
+        "en": {
+            "content": "It didn't seem like they were any different from before though."
+        },
+        "cn": {
+            "content": "不對，我記得香草好像打從一開始就是這個樣子了。",
+            "convert": "不对，我记得香草好像打从一开始就是这个样子了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「分かった、何か考えとく。あんまり期待はすんなよ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Okay, I'll think up something special. Don't get your hopes up though, okay?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好吧，我會考慮的。不過妳們可別太期待喔？」",
+            "convert": "「好吧，我会考虑的。不过你们可别太期待喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うわーい！　ご主人さま大好きー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Yay! Chocola loves Master~!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「耶～！人家最喜歡主人了～！」",
+            "convert": "「耶～！人家最喜欢主人了～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人、最高……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Master is the best...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人真慷慨……！」",
+            "convert": "「主人真慷慨……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "お風呂は却下だけど。"
+        },
+        "en": {
+            "content": "Taking a bath with me is completely out of the question though."
+        },
+        "cn": {
+            "content": "至於洗澡權嘛，想都別想。",
+            "convert": "至于洗澡权嘛，想都别想。"
+        }
+    },
+    {
+        "jp": {
+            "content": "でも言っても面倒そうなので黙っておく。"
+        },
+        "en": {
+            "content": "But saying that is a bit of a pain, so I won't mention anything."
+        },
+        "cn": {
+            "content": "不過我要是真這麼說的話一定會招來許多麻煩，所以還是別說出來比較好。",
+            "convert": "不过我要是真这么说的话一定会招来许多麻烦，所以还是别说出来比较好。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃーん♪　でもご主人さまが喜んでくれて嬉しいですにゃー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow~ %fSourceHanSansCN-M;♪%f; Chocola's so happy that you're pleased with us meow~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵～♪不過，看到主人那麼高興真是太好了～♪」",
+            "convert": "「喵～♪不过，看到主人那么高兴真是太好了～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「『お前らはソレイユの立派な看板ネコたちだ』」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;\"You two are La Soleil's star poster catgirls.\"%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「『妳們兩個都是Soleil最棒的看板貓娘。』」",
+            "convert": "「『你们两个都是Soleil最棒的看板猫娘。』」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃんてにゃんて～！　もう、ショコラ死にそうですにゃ～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;That's what you said~! Chocola is about to die from happiness~%fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「討厭啦～！巧克力都快被主人迷死了～♪」",
+            "convert": "「讨厌啦～！巧克力都快被主人迷死了～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いてっ！　いてっ！　ちょ、痛いって！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Ouch! Ouch! Stop, that hurts!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "content": "「好痛！好痛！等等，就說很痛了啊！」",
+            "convert": "「好痛！好痛！等等，就说很痛了啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これでご主人も私たち無しではいられない身体に」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Now Master can't live without us.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這樣一來主人就變成沒辦法離開我們的體質了。」",
+            "convert": "「这样一来主人就变成没办法离开我们的体质了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃんとそんにゃことも！？　鈴ってすごい！　すごいんだね！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow, do you really think so?! Bells are amazing! So amazing!!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「真的喵！？不愧是鈴鐺，沒想到威力這麼強大！！」",
+            "convert": "「真的喵！？不愧是铃铛，没想到威力这么强大！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラをわざわざ誤解させる言い方すんな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Don't say things to deliberately confuse Chocola.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不要故意害巧克力誤會好不好！」",
+            "convert": "「不要故意害巧克力误会好不好！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっぱりそうデスヨネー。鈴もらったくらいじゃネー。あはは……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola guesses that's true. We only just got our Bells after all. Ahaha...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我想也是……畢竟只不過是個鈴鐺而已嘛～啊哈哈……」",
+            "convert": "「我想也是……毕竟只不过是个铃铛而已嘛～啊哈哈……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ショコラが強烈にしぼんだ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, Chocola just got super depressed.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「啊，巧克力突然洩氣了。」",
+            "convert": "「啊，巧克力突然泄气了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから言っただろボケ芸人」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I told you not to do that, you trickster.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以我不是說了嗎，搞笑藝人。」",
+            "convert": "「所以我不是说了吗，搞笑艺人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人の株が上がり過ぎてたからちょうどいい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Master's worth went way up, so now it's just right.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「因為她對主人的評價實在高過頭了，這樣剛好可以中和一下。」",
+            "convert": "「因为她对主人的评价实在高过头了，这样刚好可以中和一下。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラならすぐに元にもどるし」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola will be back to normal soon anyways.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「反正過不了多久就會恢復原樣，」",
+            "convert": "「反正过不了多久就会恢复原样，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それにしょぼくれてるショコラも可愛い」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Besides, Chocola looks so cute when she's down.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「而且失望的巧克力也很可愛呀。」",
+            "convert": "「而且失望的巧克力也很可爱呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クレバーだなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Aren't you clever.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「真是鬼靈精耶妳。」",
+            "convert": "「真是鬼灵精耶你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "まぁ確かに俺も同意だけど。"
+        },
+        "en": {
+            "content": "Well, I suppose I agree with her though."
+        },
+        "cn": {
+            "content": "不過我這次倒是完全同意香草。",
+            "convert": "不过我这次倒是完全同意香草。"
+        }
+    },
+    {
+        "jp": {
+            "content": "しょぼくれてるのも可愛いっちゃ可愛いし。"
+        },
+        "en": {
+            "content": "She looks beyond cute when she's all sulky like this."
+        },
+        "cn": {
+            "content": "沒辦法，誰叫巧克力失望的模樣就是那麼可愛呢。",
+            "convert": "没办法，谁叫巧克力失望的模样就是那么可爱呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、材料足りなくなりそうだし休憩中に買い物行かないとな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, looks like we're running low on supplies. I'm going to have to go out and buy a couple things on my break.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，我看材料好像不太夠，只能趁休息時間去買了。」",
+            "convert": "「啊，我看材料好像不太够，只能趁休息时间去买了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お買い物！　ショコラも行きます！　お買い物デート！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Shopping?! Chocola also wants to go! A shopping date!!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「買東西！巧克力也要去！跟主人一邊血拼一邊約會！！」",
+            "convert": "「买东西！巧克力也要去！跟主人一边血拼一边约会！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほらもう元通り」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;See, she's already back to normal.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「你看馬上就恢復了吧。」",
+            "convert": "「你看马上就恢复了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ時間もないしとっとと行かないとな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Well, there isn't a lot of time, so we need to get going.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「要去的話就快點準備，不然沒時間囉～」",
+            "convert": "「要去的话就快点准备，不然没时间咯～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい、お着替えしてきまーす♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Okay! Chocola's going to go get changed~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好～我們馬上去換衣服～♪」",
+            "convert": "「好～我们马上去换衣服～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "今日もソレイユは平常運転だった。"
+        },
+        "en": {
+            "content": "Today was just another normal day at La Soleil."
+        },
+        "cn": {
+            "content": "今天的Soleil也是一如往常。",
+            "convert": "今天的Soleil也是一如往常。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれ、今日もたこ焼き屋さんいないんですね？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Huh? The takoyaki seller isn't here today either.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哎呀？今天那家章魚燒還是沒開耶。」",
+            "convert": "「哎呀？今天那家章鱼烧还是没开耶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「開店前にしか会ったことない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;We haven't seen them since the bakery opened.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「結果我們只有在開張前遇過她們一次呢。」",
+            "convert": "「结果我们只有在开张前遇过她们一次呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「休日とか、人が多い時だけなのかもな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Maybe it's their day off today or maybe they're only open when there's a lot of people around.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「人家說不定只在假日人潮多的時候開店啊。」",
+            "convert": "「人家说不定只在假日人潮多的时候开店啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あの仔ネコちゃんもウチのお店に来て欲しいのににゃあ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;I was hoping that young catgirl would drop by our bakery too, meow.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「真想介紹那隻小貓娘來我們店裡玩呢。」",
+            "convert": "「真想介绍那只小猫娘来我们店里玩呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「渡す用のショップカード持ってるのに残念」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I even brought our bakery's business card to give to her. How unfortunate.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「難得我還拿了小卡要來給她，真可惜。」",
+            "convert": "「难得我还拿了小卡要来给她，真可惜。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁそのうち会うこともあるだろ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Well, we'll see them again some day.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「反正遲早都能碰得見嘛。」",
+            "convert": "「反正迟早都能碰得见嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この先もまだまだ時間はあるんだし」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;You never know! We'll probably see them sometime in the future.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「又不是說以後都沒時間見面了。」",
+            "convert": "「又不是说以后都没时间见面了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですね、まだまだ、あるんですもんね♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;That's true. It's definitely possible~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「就是說呀，時間還多得是嘛♪」",
+            "convert": "「就是说呀，时间还多得是嘛♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私たちの戦いはまだまだこれから」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;After all, our battle has only just begun.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們的戰鬥現在才正要開始呢。」",
+            "convert": "「我们的战斗现在才正要开始呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "歩き慣れた公園通りを横切っていく。"
+        },
+        "en": {
+            "content": "We crossed the park path that we had grown used to walking."
+        },
+        "cn": {
+            "content": "我們三個就這麼穿過了平時見慣的公園。",
+            "convert": "我们三个就这么穿过了平时见惯的公园。"
+        }
+    },
+    {
+        "jp": {
+            "content": "今日も海沿いの緩やかな風が吹いている。"
+        },
+        "en": {
+            "content": "There was a gentle breeze blowing in from the coast."
+        },
+        "cn": {
+            "content": "今天這座海濱公園也吹著清涼的海風。",
+            "convert": "今天这座海滨公园也吹着清凉的海风。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん～ここの風、気持ち良いですよね。ショコラ大好きです」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Mm~ This breeze feels nice. Chocola loves it.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯～這裡的風真舒服。巧克力很喜歡這裡喔。」",
+            "convert": "「嗯～这里的风真舒服。巧克力很喜欢这里喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「住めば都。新しい街も悪くない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;This is a place you can get used to living in. A new town isn't bad, either.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「久居則安，就算是新環境住久了也一樣舒服。」",
+            "convert": "「久居则安，就算是新环境住久了也一样舒服。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "薄く潮の香りがする風に目を細める二匹。"
+        },
+        "en": {
+            "content": "The faintly salty breeze blew into their squinted eyes."
+        },
+        "cn": {
+            "content": "兩隻貓娘閉上眼，開始享受起這道帶著些微海水味的徐徐微風。",
+            "convert": "两只猫娘闭上眼，开始享受起这道带着些微海水味的徐徐微风。"
+        }
+    },
+    {
+        "jp": {
+            "content": "後ろを振り返ると視界の端にベンチが入ってくる。"
+        },
+        "en": {
+            "content": "I turned around and saw a bench enter my line of vision."
+        },
+        "cn": {
+            "content": "這時我回過頭，發現背後有條長椅。",
+            "convert": "这时我回过头，发现背后有条长椅。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあまだ時間あるし、ちょっと休んでくか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Well, there's still time, so why don't we take a break?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「現在還有一點時間，要不要在這裡休息一下？」",
+            "convert": "「现在还有一点时间，要不要在这里休息一下？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁいいですねー♪　休んできましょう！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Yay, that sounds good~ %fSourceHanSansCN-M;♪%f; Let's take a break!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好啊好啊～♪休息一下再回去吧！」",
+            "convert": "「好啊好啊～♪休息一下再回去吧！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「では私は飲み物買ってくる。健気にも。お金下さい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;In that case, I shall go buy some drinks. With courageous heroism. Please give me money.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那麼我去買點喝的。看我是不是很勤勉？所以賞點零錢給我吧。」",
+            "convert": "「那么我去买点喝的。看我是不是很勤勉？所以赏点零钱给我吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうございます、バニラ嬢」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Thank you very much, Miss Vanilla.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那可真是謝謝妳了，香草大小姐。」",
+            "convert": "「那可真是谢谢你了，香草大小姐。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "健気な看板ネコにお金を渡す。"
+        },
+        "en": {
+            "content": "I gave the graceful poster catgirl money."
+        },
+        "cn": {
+            "content": "將錢交給香草後，",
+            "convert": "将钱交给香草后，"
+        }
+    },
+    {
+        "jp": {
+            "content": "バニラが軽い足取りで自販機へと向かって行った。"
+        },
+        "en": {
+            "content": "With light steps, Vanilla walked towards the vending machine."
+        },
+        "cn": {
+            "content": "這位自稱勤勉的貓娘立刻踩著輕快的步伐跑向自動販賣機。",
+            "convert": "这位自称勤勉的猫娘立刻踩着轻快的步伐跑向自动贩卖机。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「前もここでおんなじように座りましたね」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;We sat here like this last time too, huh.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「之前我們也在這裡休息過呢。」",
+            "convert": "「之前我们也在这里休息过呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな、同じように座ったな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;That's right. Just like this, huh.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊，而且一樣都是坐在這張椅子上。」",
+            "convert": "「是啊，而且一样都是坐在这张椅子上。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "引越の翌日のこと。"
+        },
+        "en": {
+            "content": "She was talking about the day after I moved."
+        },
+        "cn": {
+            "content": "事情明明發生在搬家隔天而已，",
+            "convert": "事情明明发生在搬家隔天而已，"
+        }
+    },
+    {
+        "jp": {
+            "content": "もうずいぶん前のことみたいだ。"
+        },
+        "en": {
+            "content": "It seemed like it was quite a while ago now."
+        },
+        "cn": {
+            "content": "現在回想起來卻好像是很久很久以前的事了。",
+            "convert": "现在回想起来却好像是很久很久以前的事了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれから一人だったら、どうなってたんだろうなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I wonder how things would've turned out if I had ended up on my own.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「當初要是我堅持一個人營業的話，現在不知道變得怎麼樣了呢。」",
+            "convert": "「当初要是我坚持一个人营业的话，现在不知道变得怎么样了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうなってたんでしょうねぇ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola wonders too.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「誰知道呢。」",
+            "convert": "「谁知道呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、ひとつだけ確かなのは、そんなこと考えても意味ないってことです」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;But one thing is certain. There's no point in thinking about it.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不過唯一可以確定的是，現在再回頭來想這個一點意義也沒有。」",
+            "convert": "「不过唯一可以确定的是，现在再回头来想这个一点意义也没有。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラが目を細めて俺を覗きこんで来る。"
+        },
+        "en": {
+            "content": "Chocola fondly looked at me."
+        },
+        "cn": {
+            "content": "巧克力笑著朝我這裡看過來。",
+            "convert": "巧克力笑着朝我这里看过来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな。たら、れば、って言ってもな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;That's true. No reason to talk about ifs and buts.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說得也對。已經過去的事情再怎麼煩惱也沒用嘛。」",
+            "convert": "「说得也对。已经过去的事情再怎么烦恼也没用嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういうことじゃなくて、ですよ？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;That's not it either, though.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力不是這個意思喔？」",
+            "convert": "「巧克力不是这个意思喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういうことじゃなくてって……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;It's not...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳說不是這個意思……」",
+            "convert": "「你说不是这个意思……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……どういう意味だ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... What do you mean?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……那是什麼意思？」",
+            "convert": "「……那是什么意思？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "意図が分からずに聞き返すと、"
+        },
+        "en": {
+            "content": "Not understanding what she meant, I asked again."
+        },
+        "cn": {
+            "content": "搞不懂她在說什麼的我只能乖乖問道。",
+            "convert": "搞不懂她在说什么的我只能乖乖问道。"
+        }
+    },
+    {
+        "jp": {
+            "content": "もっと目を細めて、いたずらっぽく微笑んで見せた。"
+        },
+        "en": {
+            "content": "She closed her eyes a bit and I could see a faintly mischievous smile creep across her face."
+        },
+        "cn": {
+            "content": "聽完我的疑問，巧克力露出了小惡魔般的微笑。",
+            "convert": "听完我的疑问，巧克力露出了小恶魔般的微笑。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どんなことになってても、ショコラは絶対にご主人さまのところに来ましたから」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;No matter what happens, Chocola will always be there with Master.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「因為不管發生什麼事，巧克力都一定會待在主人身邊呀。」",
+            "convert": "「因为不管发生什么事，巧克力都一定会待在主人身边呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから、『一人だったら』なんて考えても意味ないんです」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;So that's why there's no point in thinking about things if you were by yourself.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「所以主人根本不需要去思考『只有一個人的話該怎麼辦』這種問題。」",
+            "convert": "「所以主人根本不需要去思考『只有一个人的话该怎么办』这种问题。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ショコラ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Chocola.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……巧克力。」",
+            "convert": "「……巧克力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "思わず心臓が大きく跳ねる。"
+        },
+        "en": {
+            "content": "Unexpectedly, my heart began to beat loudly."
+        },
+        "cn": {
+            "content": "心臟重重跳了一下。",
+            "convert": "心脏重重跳了一下。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……顔が熱い。"
+        },
+        "en": {
+            "content": "... My face felt flushed."
+        },
+        "cn": {
+            "content": "……我感到自己的臉開始發燙。",
+            "convert": "……我感到自己的脸开始发烫。"
+        }
+    },
+    {
+        "jp": {
+            "content": "これ以上なく真っ直ぐな笑顔が、まともに見れなくて。"
+        },
+        "en": {
+            "content": "I couldn't bear looking at such a genuine smile any longer."
+        },
+        "cn": {
+            "content": "那道無比真誠的笑容，實在令我難以直視。",
+            "convert": "那道无比真诚的笑容，实在令我难以直视。"
+        }
+    },
+    {
+        "jp": {
+            "content": "逸らした視線の先で、銀色の鈴が目に入る。"
+        },
+        "en": {
+            "content": "As I averted my gaze away, the color of her silver Bell caught my eye."
+        },
+        "cn": {
+            "content": "而就在我移開視線的瞬間，巧克力脖子上的銀色鈴鐺映入了我的眼簾。",
+            "convert": "而就在我移开视线的瞬间，巧克力脖子上的银色铃铛映入了我的眼帘。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……ずっと娘みたいだと思ってたけど、日々成長してるんだよな。"
+        },
+        "en": {
+            "content": "... I always thought of her like a daughter, but she's growing up with each passing day."
+        },
+        "cn": {
+            "content": "雖然我一直把巧克力當成自己的小女兒……不過，她似乎也已經長大不少了呢。",
+            "convert": "虽然我一直把巧克力当成自己的小女儿……不过，她似乎也已经长大不少了呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "そんな当たり前のことを改めて実感する。"
+        },
+        "en": {
+            "content": "Once again, I realized something that obvious."
+        },
+        "cn": {
+            "content": "我又再度體會到這個理所當然的事實。",
+            "convert": "我又再度体会到这个理所当然的事实。"
+        }
+    },
+    {
+        "jp": {
+            "content": "深呼吸をひとつして、顔の火照りを冷ます。"
+        },
+        "en": {
+            "content": "I took a deep breath, cooling my flushed face."
+        },
+        "cn": {
+            "content": "我深深吸了一口氣，好讓臉上的熱度消退。",
+            "convert": "我深深吸了一口气，好让脸上的热度消退。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、これからもずっと傍にいてくれ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Ahh, please always be by my side from here on out.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，麻煩妳今後也一直待在我身邊吧。」",
+            "convert": "「嗯，麻烦你今后也一直待在我身边吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラがいてくれると元気が出てくるから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I'm so happy when you're with me.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「只要有巧克力在，我隨時都能夠打起精神來。」",
+            "convert": "「只要有巧克力在，我随时都能够打起精神来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺も素直な言葉を返して。"
+        },
+        "en": {
+            "content": "I answered her honestly."
+        },
+        "cn": {
+            "content": "接著我坦率道出自己的感情，",
+            "convert": "接着我坦率道出自己的感情，"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつもより優しくショコラの頭を撫でて応える。"
+        },
+        "en": {
+            "content": "I rubbed Chocola's head more gently than usual."
+        },
+        "cn": {
+            "content": "並且用比平時還要溫柔的力道摸了摸巧克力的頭。",
+            "convert": "并且用比平时还要温柔的力道摸了摸巧克力的头。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ご主人さま……！？　へぇっ……？　ふぁっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;M-Master...?! Eh...? Fuwah...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主、主人……！？咦……？啊……！」",
+            "convert": "「主、主人……！？咦……？啊……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………っ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;......%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「…………！」",
+            "convert": "「…………！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　ショコラ、どうした？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Hmm? What's wrong, Chocola?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？巧克力妳怎麼了？」",
+            "convert": "「嗯？巧克力你怎么了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃ、にゃんでも……にゃい、です……！　その、はい……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;I-It's nothing... meow...! Y-Yeah...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「沒、沒沒沒……沒事……！那個，真的沒什麼……！」",
+            "convert": "「没、没没没……没事……！那个，真的没什么……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんでもないって、でも」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;You say it's nothing, but...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳說沒什麼，可是……」",
+            "convert": "「你说没什么，可是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほ、ほんとに……！　にゃんでも、ないんです……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;I-It's really is nothing...! Nothing at all meow...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「是、是真的啦……！巧克力真的沒事……！」",
+            "convert": "「是、是真的啦……！巧克力真的没事……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その、ご主人さまから……何かすごく甘い匂いがして、とろーんって……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Well, actually, there's a really sweet smell... coming from you, Master, which kinda made Chocola space out...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「因為，主人身上……好像散發出一股甜甜的香味，讓人家好像要融化一樣……」",
+            "convert": "「因为，主人身上……好像散发出一股甜甜的香味，让人家好像要融化一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「甘い匂いって……え？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;A sweet smell... Hm?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「甜甜的香味……咦？」",
+            "convert": "「甜甜的香味……咦？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "自分で自分を匂ってみる。"
+        },
+        "en": {
+            "content": "I tried to smell what she was talking about."
+        },
+        "cn": {
+            "content": "我往自己身上嗅了嗅，",
+            "convert": "我往自己身上嗅了嗅，"
+        }
+    },
+    {
+        "jp": {
+            "content": "もちろん甘い匂いなんかするわけもない。"
+        },
+        "en": {
+            "content": "Of course, I didn't smell anything sweet."
+        },
+        "cn": {
+            "content": "結果當然什麼香味都沒聞到。",
+            "convert": "结果当然什么香味都没闻到。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「甘いっていうか……くらくら？　ほわーんって感じがして……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;A sweet like... tingly feeling? It's like everything has become light...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「說甜甜的香味好像不太對……讓人暈頭轉向？總之巧克力現在覺得全身輕飄飄的……」",
+            "convert": "「说甜甜的香味好像不太对……让人晕头转向？总之巧克力现在觉得全身轻飘飘的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「で、でも、イヤとかじゃないんですよ？　むしろすごく心地いいっていうか……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;B-But it's not a bad thing though. It feels kind of nice actually...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「可、可是巧克力不討厭這種感覺喲？反而還有點開心……」",
+            "convert": "「可、可是巧克力不讨厌这种感觉哟？反而还有点开心……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、こないだのまたたびに近いかも……はぁぅぅ～……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, it's a bit like the sensation we had from that catnip before... Hauuu~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，這跟上次聞到木天蓼的感覺說不定有點像……啊嗚嗚～……」",
+            "convert": "「啊，这跟上次闻到木天蓼的感觉说不定有点像……啊呜呜～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "熱のこもった長い溜息。"
+        },
+        "en": {
+            "content": "She let out a long feverish sigh."
+        },
+        "cn": {
+            "content": "吐出一道充滿熱情的嘆息之後，",
+            "convert": "吐出一道充满热情的叹息之后，"
+        }
+    },
+    {
+        "jp": {
+            "content": "赤く火照った顔をうつむかせながら。"
+        },
+        "en": {
+            "content": "As she sighed, she gazed downwards with her face flushed red."
+        },
+        "cn": {
+            "content": "巧克力滿臉通紅地低著頭，",
+            "convert": "巧克力满脸通红地低着头，"
+        }
+    },
+    {
+        "jp": {
+            "content": "上目遣いでとろけた瞳を向けてくる。"
+        },
+        "en": {
+            "content": "She glanced up at me, her eyes gleaming."
+        },
+        "cn": {
+            "content": "用陶醉的眼神直直盯著我看。",
+            "convert": "用陶醉的眼神直直盯着我看。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま……？　ショコラは……その、もっと、もっと頑張りますから……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master...? Chocola will... uhm, will work even harder...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人……？巧克力……那個，會更、更加努力……」",
+            "convert": "「主人……？巧克力……那个，会更、更加努力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまが、もっと元気でいてくれるように……頑張りますから……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;So that Master will be even happier... Chocola will work hard...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「為了讓主人能夠更有元氣，巧克力會加油的……」",
+            "convert": "「为了让主人能够更有元气，巧克力会加油的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "胸の前で両手をぎゅっと握らせて。"
+        },
+        "en": {
+            "content": "She squeezed her hands tightly in front of her chest..."
+        },
+        "cn": {
+            "content": "巧克力兩手握在胸前，",
+            "convert": "巧克力两手握在胸前，"
+        }
+    },
+    {
+        "jp": {
+            "content": "眉を寄せながら切ない声を俺へ向ける。"
+        },
+        "en": {
+            "content": "... as she said that to me with a sorrowful voice and forlorn look on her face."
+        },
+        "cn": {
+            "content": "垂下眉頭對我發出撒嬌般的聲音。",
+            "convert": "垂下眉头对我发出撒娇般的声音。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……何か、いつもと違う雰囲気。"
+        },
+        "en": {
+            "content": "... Things somehow feel a bit different than before."
+        },
+        "cn": {
+            "content": "……好像有點怪怪的。",
+            "convert": "……好像有点怪怪的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "喜んではいるのは分かるけど、何かを堪えてるというか。"
+        },
+        "en": {
+            "content": "I knew that she was happy, but it seemed like she was holding something back at the same time."
+        },
+        "cn": {
+            "content": "我可以看得出她很高興，不過她現在的模樣總讓人覺得好像正在忍耐些什麼，",
+            "convert": "我可以看得出她很高兴，不过她现在的模样总让人觉得好像正在忍耐些什么，"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつもの元気なショコラらしくない、熱っぽい感じで。"
+        },
+        "en": {
+            "content": "She wasn't like her usual feverish and energetic self."
+        },
+        "cn": {
+            "content": "那是帶點熱情，卻又和平時充滿元氣的巧克力完全不同的感覺……",
+            "convert": "那是带点热情，却又和平时充满元气的巧克力完全不同的感觉……"
+        }
+    },
+    {
+        "jp": {
+            "content": "これって、まるで――"
+        },
+        "en": {
+            "content": "It was almost as if--"
+        },
+        "cn": {
+            "content": "簡直就像──",
+            "convert": "简直就像──"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力？」",
+            "convert": "「巧克力？」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「ふにゃああぁあぁぁっ！？」\\n「ふにゃあぁぁっ！？」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Meoooooowwww?!%fSourceHanSansCN-M;」\\n%fSourceHanSansCN-M;「%f;Meoowww?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「喵啊啊啊啊啊！？」",
+            "convert": "「喵啊啊啊啊啊！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うわぁっ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Uwahh?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗚哇！？」",
+            "convert": "「呜哇！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「び、ビックリ！　ビックリしたぁっ！！　にゃにするのバニラはもうっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Y-You surprised Chocola! You really did!! What are you trying to do, Vanilla? Sheesh!!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嚇、嚇、嚇死我了！！香草妳做什麼啦喵！！」",
+            "convert": "「吓、吓、吓死我了！！香草你做什么啦喵！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おぉ、これが言い掛かり。濡れ衣とも言うもの」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Oh, this is what you'd call a false accusation. Or an unfounded suspicion.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喔喔大人，這可是天大的冤枉。」",
+            "convert": "「喔喔大人，这可是天大的冤枉。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、俺も驚いたお前らに驚いた……！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Y-You two surprised me too...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「連、連我都被妳們倆的叫聲嚇到了……！」",
+            "convert": "「连、连我都被你们俩的叫声吓到了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私を使いっぱにして二人でイチャイチャしてるから悪い」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;It's your fault because you were using me to be able to get all close and lovey-dovey with Chocola.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「誰叫妳們要把我支開，自己在這裡打情罵俏。」",
+            "convert": "「谁叫你们要把我支开，自己在这里打情骂俏。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「別にいつものことだろ、ショコラの頭撫でることなんて」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I wasn't doing anything other than rubbing Chocola's head like always.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我只不過是摸摸巧克力的頭而已，這不是常有的事嗎？」",
+            "convert": "「我只不过是摸摸巧克力的头而已，这不是常有的事吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「匂いが違った。ネコの鼻は騙せない。くんくん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Your scent is different. A catgirl's nose can't be fooled. Sniff sniff~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「味道不一樣。別以為可以瞞得過貓娘的鼻子。嗅嗅。」",
+            "convert": "「味道不一样。别以为可以瞒得过猫娘的鼻子。嗅嗅。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とりあえずショコラとご主人の間に私は座ろうと思う。空けて」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;In any case, I think I'm going to sit between Master and Chocola here. Move out of my way.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「總之，我判斷現在必須坐在主人跟巧克力中間比較好。麻煩讓一讓。」",
+            "convert": "「总之，我判断现在必须坐在主人跟巧克力中间比较好。麻烦让一让。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「空けてくれないなら実力行使。そのまま座る」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;If you don't make some space, I'm going to have to use force. I'm going to sit down here either way.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「如果不讓位的話我就要來硬的了。具體來說就是直接坐在主人腿上。」",
+            "convert": "「如果不让位的话我就要来硬的了。具体来说就是直接坐在主人腿上。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いやいやいや。重いんですけどバニラさん」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Wait up, wait up, wait up! You're pretty heavy there, Vanilla-san.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「先等一下，香草。這樣很重耶。」",
+            "convert": "「先等一下，香草。这样很重耶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「重くない。ご主人は失礼」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Am not. Master is so rude.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「一點也不重。主人真沒禮貌。」",
+            "convert": "「一点也不重。主人真没礼貌。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうじゃなくてだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;That's not what I mean.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「問題不在這裡……」",
+            "convert": "「问题不在这里……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃー！　ご主人さまの上ズルい！　ショコラも乗る！　乗ります！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow~! That's not fair, getting to sit on Master's lap like that! Chocola wants to too! Here I go!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵～！居然坐在主人身上，太狡滑了啦！巧克力也要坐！」",
+            "convert": "「喵～！居然坐在主人身上，太狡滑了啦！巧克力也要坐！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまの片足下さい！　そしたら平等！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Give me one of Master's legs! That's fair, okay?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人快分一條腿出來讓巧克力坐！這樣才公平！」",
+            "convert": "「主人快分一条腿出来让巧克力坐！这样才公平！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これヒトは『両手に花』って言うって私知ってる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;This is what humans call \"two blessings at once,\" right.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這就是人類社會所謂的『齊人之福』對吧。」",
+            "convert": "「这就是人类社会所谓的『齐人之福』对吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その前に社会には公序良俗っていう概念があってな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Before that, you two do know about the concept of public morals in society, right...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「在解釋之前拜託妳們遵守一下人類社會的善良習俗行嗎？」",
+            "convert": "「在解释之前拜托你们遵守一下人类社会的善良习俗行吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とりあえず降りて欲しい。わりと本気で」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;In any case, please get off my lap. Seriously, now.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「總之先請妳們下來好不好？我是說真的。」",
+            "convert": "「总之先请你们下来好不好？我是说真的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嬉しいくせに。却下」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;But you're enjoying this though. Denied.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人你明明就高興得很，所以駁回。」",
+            "convert": "「主人你明明就高兴得很，所以驳回。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあショコラも却下します～ごろごろ～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Okay then, Chocola also denies your request~ Purr purr~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那巧克力也一樣駁回～咕嚕咕嚕～♪」",
+            "convert": "「那巧克力也一样驳回～咕噜咕噜～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつの間にかすっかりいつも通りのショコラに。"
+        },
+        "en": {
+            "content": "Before I knew it, Chocola was her old self again."
+        },
+        "cn": {
+            "content": "不知不覺間，巧克力又變回原來的樣子了。",
+            "convert": "不知不觉间，巧克力又变回原来的样子了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "まぁ元気になったなら何よりってことだけど……。"
+        },
+        "en": {
+            "content": "Well, as long as she's happy, there's nothing to worry about, but..."
+        },
+        "cn": {
+            "content": "雖然說巧克力能恢復精神是很好，",
+            "convert": "虽然说巧克力能恢复精神是很好，"
+        }
+    },
+    {
+        "jp": {
+            "content": "結局、休憩らしい休憩は無いまま、"
+        },
+        "en": {
+            "content": "In the end, my breaktime ended up not feeling like a break at all..."
+        },
+        "cn": {
+            "content": "不過到最後我還是成了兩隻貓娘打發時間的玩具，",
+            "convert": "不过到最后我还是成了两只猫娘打发时间的玩具，"
+        }
+    },
+    {
+        "jp": {
+            "content": "ネコたちの相手をしてただけで時間が過ぎていった。"
+        },
+        "en": {
+            "content": "... and was completely spent with the two of them."
+        },
+        "cn": {
+            "content": "一點也沒有休息到什麼。",
+            "convert": "一点也没有休息到什么。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ。この伝票、ご主人にお願い」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola, can you give this invoice to Master?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力，麻煩妳把這張訂單交給主人。」",
+            "convert": "「巧克力，麻烦你把这张订单交给主人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、う、うん、分かった！　行ってくるね！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, o-okay. Understood! Chocola will go do that now!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，呃、嗯！知道了！我馬上回來！」",
+            "convert": "「啊，呃、嗯！知道了！我马上回来！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま、これ明日のオーダー伝票です」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master, here is the invoice for tomorrow's order.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，這是明天的訂單。」",
+            "convert": "「主人，这是明天的订单。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「了解、後で確認しとく」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Sounds good, I'll take a look at it later.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「了解，我待會會看。」",
+            "convert": "「了解，我待会会看。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「分かりました、いつもの場所に入れときますね」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Okay, I'll put it in the usual place then.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「知道了，那巧克力就放在老地方囉。」",
+            "convert": "「知道了，那巧克力就放在老地方咯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………（じー）」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;...... Stare.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「…………（盯～）」",
+            "convert": "「…………（盯～）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;......%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………（ぴとっ）」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;...... Pat.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「…………（抱住）」",
+            "convert": "「…………（抱住）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………ん？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;...... Hmm?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………嗯？」",
+            "convert": "「…………嗯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くんくん、くんくんくん……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Sniff, sniff. Sniff, sniff, sniff...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗅嗅、嗅嗅嗅……」",
+            "convert": "「嗅嗅、嗅嗅嗅……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すーはぁ～……すぅぅーはぁぁ～……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Huff~ Pant... Huff~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「吸──哈～……吸──哈～……♪」",
+            "convert": "「吸──哈～……吸──哈～……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………あの、ショコラさん？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Uhm, Chocola-san?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………我說，巧克力？」",
+            "convert": "「…………我说，巧克力？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃんでしょうか、ご主人さまぁ～……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow. What's up, Master~?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「怎麼了，主人～……？」",
+            "convert": "「怎么了，主人～……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、にゃんでしょうか、じゃなくて……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Uh, \"Meow. What's up?\" isn't the answer I'm looking for...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「什麼怎麼了……」",
+            "convert": "「什么怎么了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んん～？　んんん～～？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Hmm~? Mmm~?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯嗯～？　嗯嗯嗯～～？」",
+            "convert": "「嗯嗯～？　嗯嗯嗯～～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃっ！？　にゃにゃにゃぁっ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow?! Meow, meow, meow?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵！？喵喵喵！？」",
+            "convert": "「喵！？喵喵喵！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃ、にゃんでご主人さまの背中とショコラが合体してるのですかっ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Wh-Why is Chocola stuck to Master's back?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「為、為什麼巧克力會跟主人的背黏在一起！？」",
+            "convert": "「为、为什么巧克力会跟主人的背黏在一起！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまっ、ショコラに背中押し付けちゃダメにゃのですよっ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master, you shouldn't force Chocola onto your back, okay?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，不可以把背靠在巧克力身上啦！？」",
+            "convert": "「主人，不可以把背靠在巧克力身上啦！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いやいやいや。ショコラがくっついて来たろ、明らかに」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Hold up, hold up. Clearly, you stuck yourself onto me, Chocola.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「等一下，明明就是巧克力自己靠上來的吧？」",
+            "convert": "「等一下，明明就是巧克力自己靠上来的吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「へっ……？　ショコラが？　ご主人さまに？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Huh...? Chocola did? To Master?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咦……？是巧克力，自己靠到主人背上？」",
+            "convert": "「咦……？是巧克力，自己靠到主人背上？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん。そう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah. Exactly that.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，沒錯。」",
+            "convert": "「嗯，没错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んん……？　んんんん……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Hmm...? Hmmmm...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯嗯……？　嗯嗯嗯嗯……？」",
+            "convert": "「嗯嗯……？　嗯嗯嗯嗯……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そう言われてみれば、そんな気も……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;... Even with that said, I don't think I would've...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……這麼說起來，好像是這樣沒錯……？」",
+            "convert": "「……这么说起来，好像是这样没错……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "必死に頭を抱えながら首をひねる。"
+        },
+        "en": {
+            "content": "Puzzled, she frantically tilted her head left and right."
+        },
+        "cn": {
+            "content": "只見她抱著頭拼命回想著自己剛才到底做了什麼。",
+            "convert": "只见她抱着头拼命回想着自己刚才到底做了什么。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……なんか悪い病気にでもかかってしまったんだろうか？"
+        },
+        "en": {
+            "content": "... Is she sick with some terrible disease?"
+        },
+        "cn": {
+            "content": "……該不會是染上什麼不好的病了吧？",
+            "convert": "……该不会是染上什么不好的病了吧？"
+        }
+    },
+    {
+        "jp": {
+            "content": "つい数秒前のことなんだけども。"
+        },
+        "en": {
+            "content": "This just started happening mere seconds ago though."
+        },
+        "cn": {
+            "content": "雖然她是幾秒鐘前才突然變成這樣就是了。",
+            "convert": "虽然她是几秒钟前才突然变成这样就是了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何か調子悪いのか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Are you all right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「有哪裡不舒服嗎？」",
+            "convert": "「有哪里不舒服吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「休憩後から上の空っぽかったけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;You've been kind of out of it since we got back from our break.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我看妳從剛剛休息完以後就一直心不在焉的。」",
+            "convert": "「我看你从刚刚休息完以后就一直心不在焉的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だ、大丈夫です！　ショコラはもう鈴持ちのネコにゃんですのよ？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ch-Chocola is fine! Chocola is a Bell-holding catgirl after all!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不、不要緊啦！巧克力可是堂堂帶鈴貓喔？」",
+            "convert": "「不、不要紧啦！巧克力可是堂堂带铃猫喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とりあえず、伝票そこに置いときましたから！　では！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Anyways, I left the invoice over there! Later!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「收據就先放在這裡囉！拜拜！」",
+            "convert": "「收据就先放在这里咯！拜拜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……まぁ、本人が大丈夫って言うならいいか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Well, if she says she's fine, then I guess there's nothing wrong.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……本人都說不要緊了，應該沒什麼問題吧。」",
+            "convert": "「……本人都说不要紧了，应该没什么问题吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "仕事では特にミスをしてるわけでもなさそうだし。"
+        },
+        "en": {
+            "content": "It didn't seem like she was making any particular mistakes while working either."
+        },
+        "cn": {
+            "content": "反正對工作似乎沒什麼影響，",
+            "convert": "反正对工作似乎没什么影响，"
+        }
+    },
+    {
+        "jp": {
+            "content": "もうちょっと様子見てから考えよう。"
+        },
+        "en": {
+            "content": "I'll think about things after observing her a bit more."
+        },
+        "cn": {
+            "content": "還是先看看情況再說吧。",
+            "convert": "还是先看看情况再说吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "そう思いながら頼りない背中を見送った。"
+        },
+        "en": {
+            "content": "I thought about that as I watched her head back."
+        },
+        "cn": {
+            "content": "我就這麼看著她不太可靠的背影消失在門外。",
+            "convert": "我就这么看着她不太可靠的背影消失在门外。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……ふぅ……はぁぁ～……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Sigh... pant... sigh~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈……呼……哈啊啊～……」",
+            "convert": "「哈……呼……哈啊啊～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、大丈夫？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Are you all right, Chocola?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不要緊吧？」",
+            "convert": "「不要紧吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃ？　あ、うん、今日はちょっと暑いにゃーってだけだから」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow? Ah, yeah, Chocola was just thinking that today is kinda hot.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵？啊，嗯。只是覺得今天有點熱而已啦。」",
+            "convert": "「喵？啊，嗯。只是觉得今天有点热而已啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いつもと別に変わらないと思うけど……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I don't think it's any hotter than usual though...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我怎麼覺得沒什麼差別……」",
+            "convert": "「我怎么觉得没什么差别……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、もうすぐミルフィーユがなくなりそうだね」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, we're almost out of mille-feuille.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，千層派快要賣光了呢。」",
+            "convert": "「啊，千层派快要卖光了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっとご主人さまに言ってくる」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola's going to go let Master know.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力去跟主人說一聲喔。」",
+            "convert": "「巧克力去跟主人说一声喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ショコラ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, Chocola...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「啊，巧克力……」",
+            "convert": "「啊，巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おーショコラ。どうした？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Oh, Chocola. What's wrong?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔，巧克力？怎麼了嗎？」",
+            "convert": "「喔，巧克力？怎么了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ご主人さま……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, Master...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，主人……」",
+            "convert": "「啊，主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃ、えっと……あれ、えっと……なんでしたっけ？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow, uhm... well, uhm... What did Chocola need to tell you again?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵，那個……咦？就是……我是來做什麼的？」",
+            "convert": "「喵，那个……咦？就是……我是来做什么的？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それを俺に聞かれても」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;You're telling me...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳問我我也不知道啊……」",
+            "convert": "「你问我我也不知道啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "またしてもふわふわしながら首を傾げるショコラ。"
+        },
+        "en": {
+            "content": "Chocola spaced out as she tilted her head in confusion again."
+        },
+        "cn": {
+            "content": "腳步有些不穩的巧克力又再度露出一副疑惑的表情。",
+            "convert": "脚步有些不稳的巧克力又再度露出一副疑惑的表情。"
+        }
+    },
+    {
+        "jp": {
+            "content": "わざとやってる感じではないけど……。"
+        },
+        "en": {
+            "content": "It didn't seem like she was doing it on purpose..."
+        },
+        "cn": {
+            "content": "雖然我不認為她是故意的……",
+            "convert": "虽然我不认为她是故意的……"
+        }
+    },
+    {
+        "jp": {
+            "content": "さっきからどうしたんだろうか？"
+        },
+        "en": {
+            "content": "I wonder what's gotten into her?"
+        },
+        "cn": {
+            "content": "不論是剛剛也好，現在也好，巧克力到底是怎麼了？",
+            "convert": "不论是刚刚也好，现在也好，巧克力到底是怎么了？"
+        }
+    },
+    {
+        "jp": {
+            "content": "明らかにいつもとは様子がおかしい。"
+        },
+        "en": {
+            "content": "It was clear that she wasn't herself."
+        },
+        "cn": {
+            "content": "不僅樣子明顯和平常不太一樣，",
+            "convert": "不仅样子明显和平常不太一样，"
+        }
+    },
+    {
+        "jp": {
+            "content": "心なしか顔が赤いようにも見える気がする。"
+        },
+        "en": {
+            "content": "Somehow, she looks a bit flushed too."
+        },
+        "cn": {
+            "content": "而且我總覺得她的臉看起來好像紅紅的。",
+            "convert": "而且我总觉得她的脸看起来好像红红的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっとおでこ触るぞ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I'm just going to feel your forehead here, okay?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「讓我摸一下額頭看看。」",
+            "convert": "「让我摸一下额头看看。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃう……！　ご、ご主人さま……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Hyaugh...! M-Master...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊嗚……！主、主人……！」",
+            "convert": "「啊呜……！主、主人……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "小さな額に手を当てると。"
+        },
+        "en": {
+            "content": "I touched her small forehead."
+        },
+        "cn": {
+            "content": "被我摸到額頭的同時，",
+            "convert": "被我摸到额头的同时，"
+        }
+    },
+    {
+        "jp": {
+            "content": "身体をぴくんと震えさせた。"
+        },
+        "en": {
+            "content": "Her body shivered with a twitch."
+        },
+        "cn": {
+            "content": "巧克力的身體突然震了一下。",
+            "convert": "巧克力的身体突然震了一下。"
+        }
+    },
+    {
+        "jp": {
+            "content": "手のひらからショコラが小さく震えてるのが伝わってくる。"
+        },
+        "en": {
+            "content": "I could feel Chocola shivering slightly through the palm of my hand."
+        },
+        "cn": {
+            "content": "不僅如此，從手心傳來的觸感也明確地告訴我巧克力正在發抖。",
+            "convert": "不仅如此，从手心传来的触感也明确地告诉我巧克力正在发抖。"
+        }
+    },
+    {
+        "jp": {
+            "content": "特に熱っぽい感じではなさそうだけど……。"
+        },
+        "en": {
+            "content": "It didn't particularly seem like she had a fever or anything..."
+        },
+        "cn": {
+            "content": "雖然感覺不像是在發燒……",
+            "convert": "虽然感觉不像是在发烧……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あぅ……はぁ、ご主人さま……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Au... haa, Master...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊嗚……哈啊，主人……」",
+            "convert": "「啊呜……哈啊，主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え、ショコラ……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Huh, Chocola...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦，巧克力……？」",
+            "convert": "「咦，巧克力……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁ……♪　くんくん……にゃあん、ご主人さまぁ……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meow~ %fSourceHanSansCN-M;♪%f; Sniff, sniff... meowww, Master~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵……♪嗅嗅……喵～主人～……♪」",
+            "convert": "「喵……♪嗅嗅……喵～主人～……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょ、ショコラ……？　お、おい……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Wait, Chocola...? H-Hey...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧、巧克力……？啊，喂……」",
+            "convert": "「巧、巧克力……？啊，喂……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くんくん……ご主人さまのにおい、あまくて……♪　はぁ、にゃぁん……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Sniff, sniff... Master smells so sweet~ %fSourceHanSansCN-M;♪%f; Haah, meow~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗅嗅……主人身上的味道好甜好香……♪哈啊，喵～……♪」",
+            "convert": "「嗅嗅……主人身上的味道好甜好香……♪哈啊，喵～……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "聞いたことない甘い声を出しながら。"
+        },
+        "en": {
+            "content": "She cooed in a sweet voice I hadn't heard before."
+        },
+        "cn": {
+            "content": "這時巧克力突然發出一聲我從沒聽過的嬌聲，",
+            "convert": "这时巧克力突然发出一声我从没听过的娇声，"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺に抱きついたまま頬をこすり付けてくる。"
+        },
+        "en": {
+            "content": "Still clinging to me, she rubbed her cheek against mine."
+        },
+        "cn": {
+            "content": "還不斷把臉往我身上蹭。",
+            "convert": "还不断把脸往我身上蹭。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまぁ……ご主人さまぁ……♪　ごろごろごろ～……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master... Master~ %fSourceHanSansCN-M;♪%f; Purr, purr, purr~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人……主人……♪　咕嚕咕嚕咕嚕～……♪」",
+            "convert": "「主人……主人……♪　咕噜咕噜咕噜～……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "明らかにいつもとは違う。"
+        },
+        "en": {
+            "content": "It was clear that she wasn't feeling like herself."
+        },
+        "cn": {
+            "content": "總之她的模樣明顯和平時不一樣，",
+            "convert": "总之她的模样明显和平时不一样，"
+        }
+    },
+    {
+        "jp": {
+            "content": "甘ったるい甘え声と言うか。"
+        },
+        "en": {
+            "content": "Her voice was especially sugary sweet."
+        },
+        "cn": {
+            "content": "總之巧克力就這樣不停地用嬌滴滴，",
+            "convert": "总之巧克力就这样不停地用娇滴滴，"
+        }
+    },
+    {
+        "jp": {
+            "content": "粘りつくような声色と言うか。"
+        },
+        "en": {
+            "content": "You could even say that there was a stickiness to it."
+        },
+        "cn": {
+            "content": "或者也可以說是妖媚的聲音對我撒嬌。",
+            "convert": "或者也可以说是妖媚的声音对我撒娇。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺の背中に回してる腕の力加減まで。"
+        },
+        "en": {
+            "content": "Her grip on my back tightened."
+        },
+        "cn": {
+            "content": "就連抱著我的力道，",
+            "convert": "就连抱着我的力道，"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつもとは違う色っぽさを感じる。"
+        },
+        "en": {
+            "content": "I could feel a certain degree of sensuality in her actions."
+        },
+        "cn": {
+            "content": "也充滿了和平常不同的妖豔感。",
+            "convert": "也充满了和平常不同的妖艳感。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ……！　ご、ごめんなさいっ……！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah...! Ch-Chocola is sorry...!!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊……！　對、對不起……！！」",
+            "convert": "「啊……！　对、对不起……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え、えっと……その、用事！　用事でしたよね！？　えっと、えっとですね……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;U-Uhm... Oh, errands! Chocola had errands to do, right?! Uhm... uhm, well...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那、那個……對了！我應該是有事來找主人才對！！那個，就是……！」",
+            "convert": "「那、那个……对了！我应该是有事来找主人才对！！那个，就是……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "急に我に返ったように離れる。"
+        },
+        "en": {
+            "content": "She suddenly came to her senses and let go of me."
+        },
+        "cn": {
+            "content": "這時巧克力突然回過神來，猛然從我身邊退開。",
+            "convert": "这时巧克力突然回过神来，猛然从我身边退开。"
+        }
+    },
+    {
+        "jp": {
+            "content": "手をぱたぱたと振りながら、声を唸らせて頭を抱えていた。"
+        },
+        "en": {
+            "content": "She flailed her arms about as she howled in confusion."
+        },
+        "cn": {
+            "content": "只見她拼命揮著雙手，嘴巴也像是在回想什麼似地嘟囔個不停。",
+            "convert": "只见她拼命挥着双手，嘴巴也像是在回想什么似地嘟囔个不停。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、ミルフィーユの補充」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola, about the mille-feuille...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力，千層派該補了。」",
+            "convert": "「巧克力，千层派该补了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、そう！　それだ！　ナイスアシストバニラ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, yes! That's it! Thanks for the help, Vanilla!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，對了！就是這個！謝謝妳提醒，香草！」",
+            "convert": "「啊，对了！就是这个！谢谢你提醒，香草！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま、ミルフィーユがもうないので出しますね！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master, we're almost out of mille-feuille, so Chocola's going to bring out some more!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，千層派快賣完了，所以巧克力先拿一些出去囉！」",
+            "convert": "「主人，千层派快卖完了，所以巧克力先拿一些出去咯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「奥の冷蔵庫でしたよね？　ミルフィーユ、ミルフィーユ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;It's in the back refrigerator, right? Mille-feuille, mille-feuille...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「記得是放在裡面的冰櫃對不對？千層派，千層派……」",
+            "convert": "「记得是放在里面的冰柜对不对？千层派，千层派……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;......%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なぁバニラ。ショコラはどうしたんだ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Hey, Vanilla. Do you know what's with Chocola?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「香草，巧克力是怎麼了？」",
+            "convert": "「香草，巧克力是怎么了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日のショコラ、変だよな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;She's acting weird today, right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不覺得今天的巧克力很奇怪嗎？」",
+            "convert": "「不觉得今天的巧克力很奇怪吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たまにおかしくなるけど、今日のは変だと思う」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;She can be silly sometimes, but she's definitely being weird today.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「她偶爾是會變得怪怪的沒錯，不過今天特別不對勁。」",
+            "convert": "「她偶尔是会变得怪怪的没错，不过今天特别不对劲。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "断定。"
+        },
+        "en": {
+            "content": "A breakthrough."
+        },
+        "cn": {
+            "content": "斷言。",
+            "convert": "断言。"
+        }
+    },
+    {
+        "jp": {
+            "content": "頼もしさすら感じる。"
+        },
+        "en": {
+            "content": "This felt promising."
+        },
+        "cn": {
+            "content": "老實說，她這副口氣聽起來還挺可靠的。",
+            "convert": "老实说，她这副口气听起来还挺可靠的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちなみに聞きたいんだけどさ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;By the way, I've been curious, but...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對了，順便問妳一個問題。」",
+            "convert": "「对了，顺便问你一个问题。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺って何か変な匂いする？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Do I smell strange or something?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我身上有什麼奇怪的味道嗎？」",
+            "convert": "「我身上有什么奇怪的味道吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふつう」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Normal.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「很普通。」",
+            "convert": "「很普通。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……だよな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……我想也是。」",
+            "convert": "「……我想也是。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "普通って言われてもアレだけど。"
+        },
+        "en": {
+            "content": "It was somewhat relieving to hear that I smelled normal."
+        },
+        "cn": {
+            "content": "雖然香草這個回答讓我感覺有些微妙，",
+            "convert": "虽然香草这个回答让我感觉有些微妙，"
+        }
+    },
+    {
+        "jp": {
+            "content": "まぁ特別甘い匂いとかはしてないってことで。"
+        },
+        "en": {
+            "content": "Well, it meant that I didn't smell especially sweet or anything."
+        },
+        "cn": {
+            "content": "但至少可以確定我身上沒有什麼特別的味道了。",
+            "convert": "但至少可以确定我身上没有什么特别的味道了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もしかしたら……うーん。でも確証ないし……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Could it be...? Hrmm. There's no proof though...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「難不成……嗯～可是又沒有確切證據……」",
+            "convert": "「难不成……嗯～可是又没有确切证据……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「？」",
+            "convert": "「？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "バニラも珍しく言葉を濁している。"
+        },
+        "en": {
+            "content": "Vanilla was drawn in by what I had said."
+        },
+        "cn": {
+            "content": "難得香草會語帶保留。",
+            "convert": "难得香草会语带保留。"
+        }
+    },
+    {
+        "jp": {
+            "content": "何か心当たりはあるっぽいけども……。"
+        },
+        "en": {
+            "content": "It seemed as if she realized something."
+        },
+        "cn": {
+            "content": "不過我看她似乎知道些什麼……。",
+            "convert": "不过我看她似乎知道些什么……。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とりあえず今は、ショコラを部屋で休ませてきてやってくれるか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Either way, can you tell Chocola to go up to her room to rest?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「總之，可以先幫我帶巧克力回房休息嗎？」",
+            "convert": "「总之，可以先帮我带巧克力回房休息吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいけど、お店は？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Okay, but what about the bakery?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「可以是可以，店要怎麼辦？」",
+            "convert": "「可以是可以，店要怎么办？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もう客足も落ち着いてるし、後は俺がやっとくから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;It's starting to calm down out there, so I'll take care of things afterwards.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「反正現在沒什麼客人，我一個人也可以應付得來。」",
+            "convert": "「反正现在没什么客人，我一个人也可以应付得来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃ、にゃんですとっ！？　ショコラは全然いけますです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Wh-What?! Chocola is totally fine though!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「什、什麼！？巧克力沒問題的！」",
+            "convert": "「什、什么！？巧克力没问题的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃんたって鈴持ちですよ、鈴持ち！　これは立派なネコの証で――」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;After all, Chocola has a Bell, a Bell! This is proof that Chocola is a mature catgir--%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「再怎麼說人家好歹也是帶鈴貓，帶鈴貓喔！這可是身為傑出貓娘的證據――」",
+            "convert": "「再怎么说人家好歹也是带铃猫，带铃猫喔！这可是身为杰出猫娘的证据――」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「任務了解。ショコラ捕獲。強制退去モード」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Mission acknowledged. Chocola has been captured. Engaging Eviction Mode.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「收到。目標巧克力，啟動強制退場模式。」",
+            "convert": "「收到。目标巧克力，启动强制退场模式。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃあぁあぁーーーっ！　ご主人さま、た、助けっ……！　ショコラ、ショコラはっアッーーーっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meowwwwwww! Master, s-save me...! Chocola... Chocola is--!!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵啊啊啊────！主人救、救命……！巧克力還可以、巧克力還可以……！！」",
+            "convert": "「喵啊啊啊────！主人救、救命……！巧克力还可以、巧克力还可以……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;......%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えーっと、ミルフィーユの補充だっけか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Let's see, we needed some more mille-feuille, right.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃──記得是千層派該補了是嗎？」",
+            "convert": "「呃──记得是千层派该补了是吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "バニラも意外にやる時はやるタイプだなぁ。"
+        },
+        "en": {
+            "content": "Surprisingly, Vanilla was the type who could rise to a challenge when necessary."
+        },
+        "cn": {
+            "content": "沒想到香草意外的有行動力呢。",
+            "convert": "没想到香草意外的有行动力呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "開けっ放しになっている冷蔵庫の前に立って、"
+        },
+        "en": {
+            "content": "I stood in front of the wide-open refrigerator..."
+        },
+        "cn": {
+            "content": "總之我現在只能站在門戶大開的冰櫃前，",
+            "convert": "总之我现在只能站在门户大开的冰柜前，"
+        }
+    },
+    {
+        "jp": {
+            "content": "遠くなっていく看板ネコの叫び声に背を向けた。"
+        },
+        "en": {
+            "content": "... and despite the distance, I could still hear the voices of my poster catgirls right behind me."
+        },
+        "cn": {
+            "content": "聽著我們家看板貓娘的求救聲逐漸遠去。",
+            "convert": "听着我们家看板猫娘的求救声逐渐远去。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……ん、はぁぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Pant... mm, pant...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊……嗯，哈啊……」",
+            "convert": "「啊……嗯，哈啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だめにゃ……ぜんぜん、どきどきがおさまらないにゃぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Oh no... Chocola can't stop her heart from beating so fast...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不行……心臟從剛才開始就跳得好快……」",
+            "convert": "「不行……心脏从刚才开始就跳得好快……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさまの、におい……思い出すだけで……はぁぅぅっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Just thinking about... Master's scent... Hauuu...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「只要一想到……主人的、味道……啊嗚嗚嗚……」",
+            "convert": "「只要一想到……主人的、味道……啊呜呜呜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すごい、からだのおく……あつくて……きゅん、きゅんする……はぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;This feeling... inside Chocola's body... it's so hot... and overwhelming... Haah...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「身體裡面……好熱……而且，心臟跳得好快……哈啊……」",
+            "convert": "「身体里面……好热……而且，心脏跳得好快……哈啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……あ、ここ……さわると、きもちぃ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Mm... ah, it... it feels good to touch Chocola here...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯……啊，這邊……摸起來好舒服……」",
+            "convert": "「嗯……啊，这边……摸起来好舒服……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ、にゃ……は、あぅっ……ん、んんっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Mmph, myah... haah, auu... M-mmph...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯，喵……哈、啊嗚……嗯、嗯嗯……」",
+            "convert": "「嗯，喵……哈、啊呜……嗯、嗯嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、具合はどうだ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Are you feeling any better, Chocola?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力，身體還好吧？」",
+            "convert": "「巧克力，身体还好吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んにゃああぁあっぁああぁあああぁっ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Meeeeeeeeeeowwwww?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵啊啊啊啊啊啊啊啊啊啊！？」",
+            "convert": "「喵啊啊啊啊啊啊啊啊啊啊！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うおぉあっ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Uwaagh?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗚喔哇！？」",
+            "convert": "「呜喔哇！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ご主人さまっ！　お、お部屋に入る時はノックが基本ですにゃあっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;M-Master! I-It's common courtesy to knock when coming into someone's room meow!!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主、主人！進房間時先敲門應該是基本禮儀吧！！」",
+            "convert": "「主、主人！进房间时先敲门应该是基本礼仪吧！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「へ？　あ、ああ。そうか？　それはすまん……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Huh? A-Ahh. Really? Sorry about that...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？啊、啊啊，說得也是。抱歉……」",
+            "convert": "「咦？啊、啊啊，说得也是。抱歉……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "良く分からないけど怒られた。"
+        },
+        "en": {
+            "content": "I didn't really get why, but she was pretty mad at me."
+        },
+        "cn": {
+            "content": "雖然不知道怎麼回事，不過我似乎是惹她生氣了。",
+            "convert": "虽然不知道怎么回事，不过我似乎是惹她生气了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "別に今までもノックなんかしてなかったんだけどな……。"
+        },
+        "en": {
+            "content": "I've never knocked on their doors before now though..."
+        },
+        "cn": {
+            "content": "可是我平常不也很少敲門嗎？",
+            "convert": "可是我平常不也很少敲门吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "というかショコラもノックなしで部屋に入ってくるくせに。"
+        },
+        "en": {
+            "content": "Besides, Chocola would enter my room without knocking too."
+        },
+        "cn": {
+            "content": "先不說我，就連巧克力自己也老是不敲門就闖進我的房間啊。",
+            "convert": "先不说我，就连巧克力自己也老是不敲门就闯进我的房间啊。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁそれはいいけど、具合はどうだ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Okay, well, I'll be sure to be careful next time, but more importantly, how are you feeling?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「先不管這個，身體怎麼樣了？」",
+            "convert": "「先不管这个，身体怎么样了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「病院行くけど、自分で歩けそうか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I'd like to take you to the clinic, but do you feel up to walking there?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「有辦法自己走嗎？我們到醫院去。」",
+            "convert": "「有办法自己走吗？我们到医院去。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「へ……？　病院って……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Huh...? The clinic...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咦……？醫院……？」",
+            "convert": "「咦……？医院……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ご主人さま……お店は……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ah, Master... What about the bakery...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，主人……店呢……？」",
+            "convert": "「啊，主人……店呢……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「閉めてきた。今日は臨時休業」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;We're closed. We decided to close up early today.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「今天臨時停業，不做生意了。」",
+            "convert": "「今天临时停业，不做生意了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「閉めてきたって……えっ、な、なんでですか？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Closed... Huh, wh-why?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「臨時停業……咦？為、為什麼？」",
+            "convert": "「临时停业……咦？为、为什么？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラが具合悪そうなのにほっとけるか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Do you think I could leave you be when you're not feeling well?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「看妳病成這樣，我怎麼可能放著妳不管呢？」",
+            "convert": "「看你病成这样，我怎么可能放着你不管呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいから病院行くぞ。立てるか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Just listen to me and let's go up to the clinic. Do you think you can stand?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「總之我先帶妳去醫院。站得起來嗎？」",
+            "convert": "「总之我先带你去医院。站得起来吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だ、だめですっ……！　いま、近くに来ちゃ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;D-Don't...! If you come too close...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不、不可以……！現在不可以過來……！」",
+            "convert": "「不、不可以……！现在不可以过来……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何言ってんだ、そんなフラフラなくせに」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;What are you talking about? You look like you're about to fall over.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這是什麼話，看妳現在連坐都坐不穩了。」",
+            "convert": "「这是什么话，看你现在连坐都坐不稳了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほら、手貸すから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Come on, I'll give you a hand.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「來，把手給我。」",
+            "convert": "「来，把手给我。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "隣からショコラの背中に手を回す。"
+        },
+        "en": {
+            "content": "I stood next to Chocola and put my arm around her."
+        },
+        "cn": {
+            "content": "我走向巧克力身旁，用手扶住她的背。",
+            "convert": "我走向巧克力身旁，用手扶住她的背。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んぁぁっ……！　ご、ご主人さま……は、にゃぅうぅっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ahhh...! M-Master... Haah, meowwww...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯啊啊……！主、主人……嗚、喵嗚～……！」",
+            "convert": "「嗯啊啊……！主、主人……呜、喵呜～……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ど、どうした？　痛かったか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Wh-What's wrong? Did I hurt you?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎、怎麼了？會痛嗎？」",
+            "convert": "「怎、怎么了？会痛吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「い、痛いとかじゃなくて……！　ふぁぁっ……甘いにおいもぉ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;I-It isn't pain...! Fuwahh... It's just that sweet smell of yours...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「沒、沒有，一點也不痛……！呼啊啊……甜甜的香味……」",
+            "convert": "「没、没有，一点也不痛……！呼啊啊……甜甜的香味……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ、はぁ……ほんとに、病気とかじゃにゃくてぇ……にゃぁぁっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Pant, pant... Chocola really doesn't need to go to the clinic, so... myaahhh...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈啊、哈啊……倫家、倫家真的沒有生病……喵～……」",
+            "convert": "「哈啊、哈啊……伦家、伦家真的没有生病……喵～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "歯切れ悪くイヤイヤをする。"
+        },
+        "en": {
+            "content": "She slurred her words as she refused my request."
+        },
+        "cn": {
+            "content": "但巧克力卻只是支支唔唔地拒絕跟我去醫院。",
+            "convert": "但巧克力却只是支支唔唔地拒绝跟我去医院。"
+        }
+    },
+    {
+        "jp": {
+            "content": "明らかにさっきよりもろれつが怪しい。"
+        },
+        "en": {
+            "content": "She was definitely acting a lot stranger than before."
+        },
+        "cn": {
+            "content": "跟剛才比起來，她已經連話都講不太清楚了。",
+            "convert": "跟刚才比起来，她已经连话都讲不太清楚了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいから早く病院行くぞ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Enough with that now. I'm taking you to the clinic, okay?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「總之我們還是快點去醫院好了。」",
+            "convert": "「总之我们还是快点去医院好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そのために店閉めて来たんだから、ほら」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;That's the whole reason why I decided to close the bakery today anyways. Come on now.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不然我特地關店就沒有意義啦。來吧。」",
+            "convert": "「不然我特地关店就没有意义啦。来吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショ、ショコラはもうりっぱにゃ鈴もちにゃのですよっ……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ch-Chocola ishh a mature Bell-holdin' catgrrrl thoughhh...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧、巧克力可是堂堂帶鈴喵喲……？」",
+            "convert": "「巧、巧克力可是堂堂带铃喵哟……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「鈴は、理性的なしょうこで、ほんのーが、がまんできるしょうこにゃのれすっ……はぅん……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola's Bell ishh rational proof that sheesh a catgrrrl that can hold back from her instinctshh... Hauun...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「鈴鐺是理性的證據、有鈴鐺就代表巧克力可以忍住本能……啊嗚……」",
+            "convert": "「铃铛是理性的证据、有铃铛就代表巧克力可以忍住本能……啊呜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「理性的？　本能が我慢出来るって……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Rational? Hold back from your instincts...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「理性？忍住本能？這是……」",
+            "convert": "「理性？忍住本能？这是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ。もしかして……くんくん、くんくん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola, could it be... sniff, sniff, sniff, sniff~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力，妳該不會……（嗅嗅嗅）」",
+            "convert": "「巧克力，你该不会……（嗅嗅嗅）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "バニラがすんすんとショコラの身体に顔を押し当てる。"
+        },
+        "en": {
+            "content": "Vanilla pushed her face against Chocola's body as she sniffed her."
+        },
+        "cn": {
+            "content": "只見香草不斷在巧克力的身體和臉上聞來聞去。",
+            "convert": "只见香草不断在巧克力的身体和脸上闻来闻去。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっぱり。きちゃったの？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I knew it. You came?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「果然。來了對吧？」",
+            "convert": "「果然。来了对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きちゃったって……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;\"Came...?\"%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳說來了……」",
+            "convert": "「你说来了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……もしかして、発情期ってやつか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... You don't mean, that mating season thing, right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……該不會是發情期吧？」",
+            "convert": "「……该不会是发情期吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "そういえば買った本にも載ってた。"
+        },
+        "en": {
+            "content": "Now that she mentioned it, that was noted in the book I bought before."
+        },
+        "cn": {
+            "content": "這麼說來，之前買的書上好像也有提到。",
+            "convert": "这么说来，之前买的书上好像也有提到。"
+        }
+    },
+    {
+        "jp": {
+            "content": "年齢的にもうちょっと先だと思ってたけど……。"
+        },
+        "en": {
+            "content": "I thought that it was still a bit early for them though..."
+        },
+        "cn": {
+            "content": "可是我一直以為要等到她們年紀再大一點以後才會來……",
+            "convert": "可是我一直以为要等到她们年纪再大一点以后才会来……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わ、分かってます！　分かってますからっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ch-Chocola gets it! Chocola gets it already...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「別、別說了！巧克力自己知道……！」",
+            "convert": "「别、别说了！巧克力自己知道……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「別に、ご主人さまが褒めてくれたのは、そういう意味じゃないって……分かってますけど……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola understands that Master didn't mean anything else when he was praising Chocola, but...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力明知道主人的誇講不是那個意思……可是就算知道……！」",
+            "convert": "「巧克力明知道主人的夸讲不是那个意思……可是就算知道……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、これからもずっと傍にいてくれ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Ahh, please always be by my side from here on out.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，麻煩妳今後也一直待在我身邊吧。」",
+            "convert": "「嗯，麻烦你今后也一直待在我身边吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラがいてくれると元気が出てくるから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I'm so happy when you're with me.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「只要有巧克力在，我隨時都能夠打起精神來。」",
+            "convert": "「只要有巧克力在，我随时都能够打起精神来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ご主人さま……！？　へぇっ……？　ふぁっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;M-Master...?! Huh...? Fuwah...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主、主人……！？咦……？啊……！」",
+            "convert": "「主、主人……！？咦……？啊……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その、ご主人さまから……何かすごく甘い匂いがして、とろーんって……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Well, actually, there's a really sweet smell... coming from you, Master, which kinda made Chocola space out...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「因為，主人身上……好像散發出一股甜甜的香味，讓人家好像要融化一樣……」",
+            "convert": "「因为，主人身上……好像散发出一股甜甜的香味，让人家好像要融化一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……あの時からか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Since back then, huh.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……從那個時候就開始了嗎。」",
+            "convert": "「……从那个时候就开始了吗。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "『早いネコならキッカケがあれば』"
+        },
+        "en": {
+            "content": "\"Situations When Dealing With A Fast Maturing Catgirl\""
+        },
+        "cn": {
+            "content": "『比較早熟的貓娘只要有契機的話──』",
+            "convert": "『比较早熟的猫娘只要有契机的话──』"
+        }
+    },
+    {
+        "jp": {
+            "content": "本にそう書いてあったのを思い出す。"
+        },
+        "en": {
+            "content": "I remembered that a section inside the book was titled that."
+        },
+        "cn": {
+            "content": "我想起來了，書上好像是這麼寫的。",
+            "convert": "我想起来了，书上好像是这么写的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "しまった。"
+        },
+        "en": {
+            "content": "Crap."
+        },
+        "cn": {
+            "content": "糟糕，",
+            "convert": "糟糕，"
+        }
+    },
+    {
+        "jp": {
+            "content": "まだ先のことだと思って全然目を通してない。"
+        },
+        "en": {
+            "content": "I thought that it was still too early to worry about stuff like that and totally glossed over it."
+        },
+        "cn": {
+            "content": "我還以為短期內不會遇上這個問題，結果完全沒有翻過有關發情的部分。",
+            "convert": "我还以为短期内不会遇上这个问题，结果完全没有翻过有关发情的部分。"
+        }
+    },
+    {
+        "jp": {
+            "content": "これは、その……どうすれば……？"
+        },
+        "en": {
+            "content": "Well, just what... should I do in a situation like this...?"
+        },
+        "cn": {
+            "content": "這……這下我該怎麼辦？",
+            "convert": "这……这下我该怎么办？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……あぅぅっ……ご主人さまぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Haah... Auuuh... Master...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈啊……啊嗚嗚……主人～……」",
+            "convert": "「哈啊……啊呜呜……主人～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "瞳を切なく潤ませて俺を見上げてくる。"
+        },
+        "en": {
+            "content": "She looked up at me with pained, tear-stained eyes."
+        },
+        "cn": {
+            "content": "巧克力抬起頭用濕潤的雙眼盯著我。",
+            "convert": "巧克力擡起头用湿润的双眼盯着我。"
+        }
+    },
+    {
+        "jp": {
+            "content": "助けを求めるような、苦しいような、『女』の顔。"
+        },
+        "en": {
+            "content": "It was the look of a woman desperately pleading for help."
+        },
+        "cn": {
+            "content": "那是一張既無助，又痛苦不已的──『女人』的表情。",
+            "convert": "那是一张既无助，又痛苦不已的──『女人』的表情。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力……」",
+            "convert": "「巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "思わぬ不意打ちに一瞬で顔が熱くなる。"
+        },
+        "en": {
+            "content": "She had completely caught me off guard, and in an instant, my face began to redden."
+        },
+        "cn": {
+            "content": "這個意想不到的場面讓我的臉一瞬間就熱了起來。",
+            "convert": "这个意想不到的场面让我的脸一瞬间就热了起来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "……まずい。"
+        },
+        "en": {
+            "content": "... This is bad."
+        },
+        "cn": {
+            "content": "……不好。",
+            "convert": "……不好。"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラがショコラじゃないように見えた。"
+        },
+        "en": {
+            "content": "I could see that Chocola was not herself."
+        },
+        "cn": {
+            "content": "我開始覺得巧克力不再是巧克力了。",
+            "convert": "我开始觉得巧克力不再是巧克力了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "心臓が遅れてどくどくと脈打ち始める。"
+        },
+        "en": {
+            "content": "My heartbeat started to slow down as it began to throb profusely."
+        },
+        "cn": {
+            "content": "心臟直到這時才開始怦怦作響。",
+            "convert": "心脏直到这时才开始怦怦作响。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Master.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人。」",
+            "convert": "「主人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「発情期のネコは、ちゃんと発散してあげないと体調を崩すよ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;If a catgirl in heat isn't able to let out her feelings properly, it could have an adverse effect on her health.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「貓娘進入發情期的時候要是沒有好好發散精力，是會搞壞身體的喔。」",
+            "convert": "「猫娘进入发情期的时候要是没有好好发散精力，是会搞坏身体的喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「は、発散って……バニラ……！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;By let out, you mean...? Vanilla...?!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳、妳說發散……香草……！？」",
+            "convert": "「你、你说发散……香草……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "耳元に寄せて来たバニラの顔を見る。"
+        },
+        "en": {
+            "content": "Vanilla was right next to my ears as I looked over at her face."
+        },
+        "cn": {
+            "content": "我不禁瞪大眼看著耳邊的香草。",
+            "convert": "我不禁瞪大眼看着耳边的香草。"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつもの冗談にはとても見えない。"
+        },
+        "en": {
+            "content": "This didn't seem like one of her usual jokes."
+        },
+        "cn": {
+            "content": "可是她看起來一點也不像在開玩笑，",
+            "convert": "可是她看起来一点也不像在开玩笑，"
+        }
+    },
+    {
+        "jp": {
+            "content": "まっすぐに俺を見ていた。"
+        },
+        "en": {
+            "content": "She was looking straight at me."
+        },
+        "cn": {
+            "content": "只是直直盯著我看而已。",
+            "convert": "只是直直盯着我看而已。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それに、ショコラだってご主人のことが好きだからこうなってる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Besides, it's because Chocola loves Master that this happened.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「而且，巧克力是因為喜歡主人才變成這樣的。」",
+            "convert": "「而且，巧克力是因为喜欢主人才变成这样的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコとヒトじゃ赤ちゃんは出来ないって知ってるけど……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I know that catgirls and humans can't have children together...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「雖然貓娘和人類沒辦法生小孩……」",
+            "convert": "「虽然猫娘和人类没办法生小孩……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、ちゃんと愛し合うことは出来るんだよ？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;... But they can express their love for each other physically.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「但只是要相愛的話一點問題都沒有喔？」",
+            "convert": "「但只是要相爱的话一点问题都没有喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「愛し合うって……！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;\"Express their love for each other physically...?!\"%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「相、相愛……！？」",
+            "convert": "「相、相爱……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "遠慮のないハッキリとした言葉。"
+        },
+        "en": {
+            "content": "What unreserved and certain words."
+        },
+        "cn": {
+            "content": "香草那毫不遮掩的口氣，",
+            "convert": "香草那毫不遮掩的口气，"
+        }
+    },
+    {
+        "jp": {
+            "content": "思わず息を呑んでしまう。"
+        },
+        "en": {
+            "content": "I felt like I couldn't breathe."
+        },
+        "cn": {
+            "content": "讓我不禁倒吞了一口口水。",
+            "convert": "让我不禁倒吞了一口口水。"
+        }
+    },
+    {
+        "jp": {
+            "content": "そんな俺に構わず囁くように続ける。"
+        },
+        "en": {
+            "content": "Vanilla paid no attention to me and continued to whisper into my ear."
+        },
+        "cn": {
+            "content": "即使如此，香草還是不斷在我耳邊呢喃著。",
+            "convert": "即使如此，香草还是不断在我耳边呢喃着。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコを人生のパートナーにするヒトだっているでしょ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;There are humans out there who make catgirls their life partners, right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「現實中不也有人把貓娘當成人生的伴侶嗎？」",
+            "convert": "「现实中不也有人把猫娘当成人生的伴侣吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、それは……そう、だけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Well, you... y-you are right, but...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「話、話是這樣……沒錯……」",
+            "convert": "「话、话是这样……没错……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "もちろん、そういう人がいるのは知ってる。"
+        },
+        "en": {
+            "content": "Of course, I knew there were people like that."
+        },
+        "cn": {
+            "content": "當然，我不可能不知道這回事。",
+            "convert": "当然，我不可能不知道这回事。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺だってネコの可愛さは分かるし偏見は無い。"
+        },
+        "en": {
+            "content": "I knew just how cute catgirls were, so I wasn't one to judge them."
+        },
+        "cn": {
+            "content": "我的確是能夠理解貓娘的可愛之處，而且對這種事也沒有什麼偏見。",
+            "convert": "我的确是能够理解猫娘的可爱之处，而且对这种事也没有什么偏见。"
+        }
+    },
+    {
+        "jp": {
+            "content": "でも、いざそう言われると……。"
+        },
+        "en": {
+            "content": "But that being said..."
+        },
+        "cn": {
+            "content": "可是，如果要我現在做出抉擇……",
+            "convert": "可是，如果要我现在做出抉择……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人は、ショコラのこと……好きじゃない？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Master, you like Chocola... right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「難道主人不喜歡巧克力嗎？」",
+            "convert": "「难道主人不喜欢巧克力吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは……大事だからこそ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Well... Of course, she's important to me...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那是……因為我很重視你們兩個……」",
+            "convert": "「那是……因为我很重视你们两个……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラもバニラもかけがえのない大事な家族だ。"
+        },
+        "en": {
+            "content": "Chocola and Vanilla were important, irreplaceable members of my family."
+        },
+        "cn": {
+            "content": "巧克力和香草對我來說的確是無可取代的家人沒錯。",
+            "convert": "巧克力和香草对我来说的确是无可取代的家人没错。"
+        }
+    },
+    {
+        "jp": {
+            "content": "好きか嫌いかなんて言うまでもないことで。"
+        },
+        "en": {
+            "content": "This wasn't a matter of liking or disliking them."
+        },
+        "cn": {
+            "content": "如果要我在喜歡跟討厭中選一個回答，答案當然是不用說的。",
+            "convert": "如果要我在喜欢跟讨厌中选一个回答，答案当然是不用说的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "でもだからこそ、こんな勢いに流されては……。"
+        },
+        "en": {
+            "content": "But that's why in the current of all this..."
+        },
+        "cn": {
+            "content": "可是正因為如此，我才不想被一時的情慾給沖昏頭……",
+            "convert": "可是正因为如此，我才不想被一时的情欲给冲昏头……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人はヒトのくせに、もう忘れたの？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Even though you're a human, have you already forgotten, Master?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人你不是人類嗎，怎麼會那麼健忘呢？」",
+            "convert": "「主人你不是人类吗，怎么会那么健忘呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「忘れたって……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Forgotten...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「健忘……？」",
+            "convert": "「健忘……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私たちはネコだから、自分に素直なだけ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;We're catgirls, so we have to be honest.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們貓娘只是對自己的慾望比較忠實罷了。」",
+            "convert": "「我们猫娘只是对自己的欲望比较忠实罢了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私たちはネコだから、自分に素直なだけ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;We're catgirls, so we have to be honest.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們貓娘只是對自己的慾望比較忠實罷了。」",
+            "convert": "「我们猫娘只是对自己的欲望比较忠实罢了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「本当に好きなら、迷惑かけたって一緒にいたい。それでも一緒にいたいものだと思う」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;If we really love you, then even if it's troublesome, we want to be with you. That is a reason to want to be with you.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「真的在乎對方的話，就算會給對方添麻煩還是想要陪在對方身邊。我覺得這是很理所當然的一件事。」",
+            "convert": "「真的在乎对方的话，就算会给对方添麻烦还是想要陪在对方身边。我觉得这是很理所当然的一件事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私たちが幸せかどうかなんて、いくらご主人でも決めつけるのは違うと思う」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Stuff like whether we'd be happy or not... Even though you're our Master, don't you think it's wrong for you to decide that?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們的幸福……就算是主人，也不該隨便幫我們決定喔？」",
+            "convert": "「我们的幸福……就算是主人，也不该随便帮我们决定喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから本当にショコラのことを想うなら……ね？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;So if you really feel that way about Chocola, then... Got it?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「所以主人，如果你是真心為巧克力著想……應該懂吧？」",
+            "convert": "「所以主人，如果你是真心为巧克力着想……应该懂吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……バニラ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Vanilla.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……香草。」",
+            "convert": "「……香草。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "バニラの細い指が俺の頬を撫でる。"
+        },
+        "en": {
+            "content": "Her slender fingers caressed my cheek."
+        },
+        "cn": {
+            "content": "香草的纖細手指撫上我的臉頰。",
+            "convert": "香草的纤细手指抚上我的脸颊。"
+        }
+    },
+    {
+        "jp": {
+            "content": "あの時と同じ言葉で。"
+        },
+        "en": {
+            "content": "They were the same words as before..."
+        },
+        "cn": {
+            "content": "沒想到當時的那句話，",
+            "convert": "没想到当时的那句话，"
+        }
+    },
+    {
+        "jp": {
+            "content": "あの時と同じように俺の中に沁み込んで来る。"
+        },
+        "en": {
+            "content": "... And they pierced right through me again, just like back then."
+        },
+        "cn": {
+            "content": "會再一次讓我的心如此動搖。",
+            "convert": "会再一次让我的心如此动摇。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ご主人さま」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;... Master.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……主人。」",
+            "convert": "「……主人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラは、本当にご主人さまのことが好きなんです……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola really loves Master...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力真的很喜歡主人喔……」",
+            "convert": "「巧克力真的很喜欢主人喔……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「好きだから、大切な人の役に立ちたくて……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola loves you, so Chocola wants to be someone important to you...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「因為喜歡，所以才會拼命想幫上主人的忙……」",
+            "convert": "「因为喜欢，所以才会拼命想帮上主人的忙……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……褒めてもらいたくて、頑張ったんです」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;... Chocola wanted to be praised by you, so Chocola did her best.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……就是為了得到主人的誇獎，巧克力才能努力到現在的。」",
+            "convert": "「……就是为了得到主人的夸奖，巧克力才能努力到现在的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力……」",
+            "convert": "「巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラもあの時と同じように、"
+        },
+        "en": {
+            "content": "Just like back then..."
+        },
+        "cn": {
+            "content": "和那個時候一樣，",
+            "convert": "和那个时候一样，"
+        }
+    },
+    {
+        "jp": {
+            "content": "一生懸命な瞳と言葉で。"
+        },
+        "en": {
+            "content": "... you could feel the determination behind Chocola's eyes and words."
+        },
+        "cn": {
+            "content": "巧克力的語氣十分認真。",
+            "convert": "巧克力的语气十分认真。"
+        }
+    },
+    {
+        "jp": {
+            "content": "まっすぐに俺のことを見つめてくる。"
+        },
+        "en": {
+            "content": "She gazed right at me."
+        },
+        "cn": {
+            "content": "接著，用真誠的眼神看著我的巧克力又繼續說道。",
+            "convert": "接着，用真诚的眼神看着我的巧克力又继续说道。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「身体が反応しちゃうきっかけは、発情期かもしれないです……でも」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;The reason why Chocola's body is like this could be because Chocola's in heat... but still...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「身體會產生反應或許是因為發情期的影響沒錯，不過……」",
+            "convert": "「身体会产生反应或许是因为发情期的影响没错，不过……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、ご主人さまのことが好きなのは……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;But still, the reason why Chocola loves Master is...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不過，巧克力喜歡主人的心情……」",
+            "convert": "「不过，巧克力喜欢主人的心情……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまに触ってもらいたいのは、発情期だからじゃないですよ……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;And the reason why Chocola wants to be touched by Master isn't because Chocola's in heat... It's, well, you know...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「想要被主人撫摸的心情，跟發情期一點關係都沒有喲……？」",
+            "convert": "「想要被主人抚摸的心情，跟发情期一点关系都没有哟……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラは……ショコラは、大好きなご主人さまだから……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;It's because... Chocola... Chocola really loves Master...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力是……巧克力是因為，面前站著最喜歡的主人才會……！」",
+            "convert": "「巧克力是……巧克力是因为，面前站着最喜欢的主人才会……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力……」",
+            "convert": "「巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え……ご主人、さま……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Hm... M-Master...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咦……主人……」",
+            "convert": "「咦……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Mm...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯……」",
+            "convert": "「嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁぁ……ご主人、さま……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Haah... Master...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈啊～……主、人……」",
+            "convert": "「哈啊～……主、人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラが戸惑いを滲ませながら、"
+        },
+        "en": {
+            "content": "I returned her gaze..."
+        },
+        "cn": {
+            "content": "輕輕喘著氣的巧克力打開雙眼，",
+            "convert": "轻轻喘着气的巧克力打开双眼，"
+        }
+    },
+    {
+        "jp": {
+            "content": "熱くなった吐息を浅く繰り返して俺を見つめ返す。"
+        },
+        "en": {
+            "content": "... as Chocola took hot, shallow breaths, still caught in her bewilderment."
+        },
+        "cn": {
+            "content": "露出困惑的神情看向我的臉。",
+            "convert": "露出困惑的神情看向我的脸。"
+        }
+    },
+    {
+        "jp": {
+            "content": "泣きそうな頬に手を優しく添える。"
+        },
+        "en": {
+            "content": "I gently placed my hand to her tear-stained cheek."
+        },
+        "cn": {
+            "content": "我輕輕捧起她那張快要哭出來的臉。",
+            "convert": "我轻轻捧起她那张快要哭出来的脸。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……俺も、ショコラのこと好きだから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... I love you too, Chocola.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……我也喜歡巧克力。」",
+            "convert": "「……我也喜欢巧克力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラがそう望んでくれるなら、正しいかどうかとかじゃなくて……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;If you really desire to, then rather than deciding whether it's right or wrong...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果巧克力這麼希望的話，那麼我也不想再管什麼正不正確了……」",
+            "convert": "「如果巧克力这么希望的话，那么我也不想再管什么正不正确了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺も、自分に素直でいるよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I'll be honest too.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我決定誠實面對自己的感情。」",
+            "convert": "「我决定诚实面对自己的感情。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "そう誓ってから、もう一度キスをする。"
+        },
+        "en": {
+            "content": "With those words as my vow to her, I kissed her again."
+        },
+        "cn": {
+            "content": "發完誓，我又給了眼前的巧克力一個吻。",
+            "convert": "发完誓，我又给了眼前的巧克力一个吻。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま……ご主人さまぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Master... Master...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人……主人……」",
+            "convert": "「主人……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、本当に手間のかかるご主人さまだね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Teehee, you really are a complex person, Master.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘻嘻。真是個愛給人添麻煩的主人呢。」",
+            "convert": "「嘻嘻。真是个爱给人添麻烦的主人呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、そうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Ahh, that's right.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「一點也沒錯。」",
+            "convert": "「一点也没错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "涙ぐむショコラと得意気なバニラの頭を撫でた。"
+        },
+        "en": {
+            "content": "I gently rubbed both the teary eyed Chocola and the proud Vanilla's heads."
+        },
+        "cn": {
+            "content": "我摸了摸雙眼含著淚光的巧克力跟一臉得意的香草，",
+            "convert": "我摸了摸双眼含着泪光的巧克力跟一脸得意的香草，"
+        }
+    },
+    {
+        "jp": {
+            "content": "それからそっと二匹の頭を抱き寄せる。"
+        },
+        "en": {
+            "content": "I then gently embraced both of them."
+        },
+        "cn": {
+            "content": "接著把她們倆給抱進懷裡。",
+            "convert": "接着把她们俩给抱进怀里。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ、態度で示さないとね？　ご主人」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Okay, you better get going then, Master.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那麼，就麻煩你用態度來證明囉，主人？」",
+            "convert": "「那么，就麻烦你用态度来证明咯，主人？」"
+        }
+    }
+]

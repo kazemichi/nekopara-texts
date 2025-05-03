@@ -1,0 +1,326 @@
+[
+    {
+        "jp": {
+            "name": "ココナツ＆メイプル",
+            "content": "『「午後８時、食休み(テレビ編)」\\n「午後８時、食休み(テレビ編)」』"
+        },
+        "en": {
+            "name": "Coconut&Maple",
+            "content": "8 pm, watching TV."
+        },
+        "cn": {
+            "name": "椰子＆楓",
+            "content": "晚上８点，饭后小憩（看电视篇）",
+            "convert": "晚上８点，饭后小憩（看电视篇）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラテレビ見て！　ぞーさんだ！　ぞーさんがいるよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Vanilla, look! Look at the TV! It's an elephant! An elephant!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "香草你看电视！是大象！有大象耶！",
+            "convert": "香草你看电视！是大象！有大象耶！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あははは、でっかい！　超でっかい！　鼻ながーい！　ぱおーん！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Ahahaha! It's so big! Like, waaaaaaay big! And its nose is soooooo long! Toot toot~!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "啊哈哈哈，好大！超大的！鼻子好长！咆喔──！",
+            "convert": "啊哈哈哈，好大！超大的！鼻子好长！咆喔──！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぱおーんだね。それに目がとっても優しい。でも全体的にしわしわでごつごつ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Yes, 'toot toot' indeed. What gentle eyes they have, too. They're really wrinkled and rugged though."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "咆喔～而且眼神很温柔。不过整体外表看起来又皱又粗糙。",
+            "convert": "咆喔～而且眼神很温柔。不过整体外表看起来又皱又粗糙。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おおお、サバンナすげぇ……！　これはネコ科の血が騒ぐぜ……！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Yeahhh! The Savannah is totally wicked...! It really gets my catgirl blood boilin'!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喔喔喔，热带雨林真不得了……！连我的猫科血统都沸腾起来了……！",
+            "convert": "喔喔喔，热带雨林真不得了……！连我的猫科血统都沸腾起来了……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いけ、チーター！　ガゼルなんか一撃でしとめろ！　そこだー！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Go! Go cheetah! Take that gazelle out in one blow! Yeeaaahhhh!!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "上啊，猎豹！一爪干掉那只羚羊！就是那里──！",
+            "convert": "上啊，猎豹！一爪干掉那只羚羊！就是那里──！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「広いし怖い動物いっぱいだし、こんなところで生きていける気がしないなぁ……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "It's so wide open and full of scary animals. I don't think I could survive in a place like that..."
+        },
+        "cn": {
+            "name": "桂",
+            "content": "地方又大又有好多恐怖的动物，要在这种地方活下去好像很难……",
+            "convert": "地方又大又有好多恐怖的动物，要在这种地方活下去好像很难……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしは水無月家の家ネコで良かったぁ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I'm so glad I'm the Minadzuki family's catgirl"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "还好我是水无月家养的猫～",
+            "convert": "还好我是水无月家养的猫～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、ぼくもこんなところで思いっきり身体動かしてみたいなあ。気持ちいいんだろうなあ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Still, I'd love to really give my legs a good stretch there someday. I'm sure it'd feel great."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "不过，可以的话我倒是有点想在其中尽情活动身体。想必应该很畅快吧。",
+            "convert": "不过，可以的话我倒是有点想在其中尽情活动身体。想必应该很畅快吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあそのうちみんなで行きましょうか。サバンナの野生動物が観れるツアーもあるって聞きますし」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Well, we should go for a trip together sometime then. I've heard of tours around the Savannah where you can go wildlife watching."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "那下次大家一起去玩如何？我听说最近有旅行社推出可以观赏到栖息在雨林里的野生动物的行程。",
+            "convert": "那下次大家一起去玩如何？我听说最近有旅行社推出可以观赏到栖息在雨林里的野生动物的行程。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ケータイも使えないところなんてやーよ。行くならハワイかラスベガスがいいわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I don't want to go someplace without any reception! If we're travelling, let's go to Hawaii or Las Vegas instead."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "我才不想去那种连手机都打不通的地方。要出去玩还是得去夏威夷或拉斯维加斯比较好。",
+            "convert": "我才不想去那种连手机都打不通的地方。要出去玩还是得去夏威夷或拉斯维加斯比较好。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、今度は海のどーぶつだ！　シャチだ、バニラの好きなシャチが出てる！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh, now it's sea animals on TV! It's a killer whale! Look, Vanilla, it's your favorite!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "啊，这次换播海里的动物了！虎鲸，香草你最喜欢的虎鲸出来咯！",
+            "convert": "啊，这次换播海里的动物了！虎鲸，香草你最喜欢的虎鲸出来咯！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おおお、シャチまじでカッコいい……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Ohhh! Killer whales are way, way cool!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "喔喔喔，虎鲸真是太帅了……！",
+            "convert": "喔喔喔，虎鲸真是太帅了……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クジラ出ないかなシロナガスクジラ……！　ネコ生で一回くらい生で見てみたい……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "I wonder if any whales'll show up? Like, a blue whale...! I want to see one on a NekoNama livecast one day...!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "不知道蓝鲸之类的鲸鱼会不会出来……这辈子真想亲眼见识一下……！",
+            "convert": "不知道蓝鲸之类的鲸鱼会不会出来……这辈子真想亲眼见识一下……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おお、サカナだ。次はサカナ特集か」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Ohh, next is fish -- a special on fish."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喔喔，是鱼啊。接着是鱼类特集吗？",
+            "convert": "喔喔，是鱼啊。接着是鱼类特集吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クロマグロおっきーですね～、すごいおいしそ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "The bluefin tuna is so biiiig~ It looks so delicious~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "黑鲔鱼好大只喔～看起来好好吃的样子～♪",
+            "convert": "黑鲔鱼好大只喔～看起来好好吃的样子～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「イワシの群れもすごいきれーで美味しそうだよ。こんなにいたら食べ放題なんだろうなぁ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "The school of pilchards look so beautiful and tasty too. If we were there, it'd practically be all-you-can-eat!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "沙丁鱼群看起来好壮观，好好吃的样子喔。要是有这么多的话，想必一定能尽情吃个够吧。",
+            "convert": "沙丁鱼群看起来好壮观，好好吃的样子喔。要是有这幺多的话，想必一定能尽情吃个够吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「新鮮なサカナを生で食べるのっていいわよねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Eating freshly caught, raw fish sounds absolutely lovely!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "可以吃到新鲜生鱼这点倒是挺诱人的。",
+            "convert": "可以吃到新鲜生鱼这点倒是挺诱人的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まんぼーって食べれるらしいよ。美味しいのかな？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "hey say you can actually eat Mola Mola. Does it taste yummy?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "听说翻车鱼可以吃耶。不知道好不好吃？",
+            "convert": "听说翻车鱼可以吃耶。不知道好不好吃？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「南の方だと普通に売ってるらしいし食べてみたいねー」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Apparently it's pretty easy to buy down south. I'd like to try what it tastes like one day."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "在南国好像随处都可以买到，我也想尝尝看是什么味道呢。",
+            "convert": "在南国好像随处都可以买到，我也想尝尝看是什幺味道呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん、やっぱりネコにはサカナは餌に見えるんですねぇ。ズズッ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Hmm, I guess catgirls only see fish as food, huh?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "唔～嗯，果然鱼在猫娘眼中就只是食物而已呢。嘶嘶──",
+            "convert": "唔～嗯，果然鱼在猫娘眼中就只是食物而已呢。嘶嘶──"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さぁさ、ぼちぼちお風呂に入りますからテレビは終わりですよー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Come on now, we should get in the bath so TV time is over!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "好啦，你们差不多也该洗澡了，把电视关了吧。",
+            "convert": "好啦，你们差不多也该洗澡了，把电视关了吧。"
+        }
+    },
+    {
+        "jp": {
+            "name": "全員",
+            "content": "『「「「「「「はーい」」」」」」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "Okaaaaay~"
+        },
+        "cn": {
+            "name": "全員",
+            "content": "好～",
+            "convert": "好～"
+        }
+    }
+]

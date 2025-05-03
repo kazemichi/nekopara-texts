@@ -1,0 +1,440 @@
+[
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「午前８時！　起床！」\\n「午前８時。起床」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "8 am! Rise and shine!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "早上８点！起床！",
+            "convert": "早上８点！起床！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、バニラ。朝ですよーおきなさーい」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Chocola, Vanilla, it's morning! Time to get up!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "巧克力，香草，早上咯～该起床咯～",
+            "convert": "巧克力，香草，早上咯～该起床咯～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んぁ……？　しぐれちゃん……もうあさ……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Huh...? Shigure-chan...? Morning already?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯啊……？时雨……已经早上了吗……？",
+            "convert": "嗯啊……？时雨……已经早上了吗……？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うむぅ……わたしのしかばねを、こえてゆけ……Ｚｚｚ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Uhnnghh...  Over... my dead body... Zzz..."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "嗯呣……踩着我的尸体前进吧……Ｚｚｚ……",
+            "convert": "嗯呣……踩着我的尸体前进吧……Ｚｚｚ……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだまだ仔猫ちゃんたちねぇ。まったく手間がかかるのですからー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Gosh, you two really are just kittens, aren't you. You two sure are a handful!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "所以说你们俩还是小鬼头呢。老是要劳烦人家挖你们起来。",
+            "convert": "所以说你们俩还是小鬼头呢。老是要劳烦人家挖你们起来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「――水無月流起床術、その三十二。隔靴掻痒」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "--Minaduki Special Wake-Up Technique, Number 32: Insatiable Itch!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "──水无月流起床术三十二式，隔靴搔痒",
+            "convert": "──水无月流起床术三十二式，隔靴搔痒"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こちょこちょこちょこちょこちょこちょ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Tickle tickle tickle tickle tickle!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "我搔我搔我搔我搔我搔我搔",
+            "convert": "我搔我搔我搔我搔我搔我搔"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「「にゃはははっははははははっはははははｈ！！」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "Myahahahah! Hahahahahahahah!!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "喵哈哈哈，哈哈哈哈哈哈啊哈哈哈哈哈！！",
+            "convert": "喵哈哈哈，哈哈哈哈哈哈啊哈哈哈哈哈！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こーちょこちょこちょこちょこちょこちょー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Take this! Tickle tickle tickle tickle tickle~!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "我搔我搔我搔搔搔～",
+            "convert": "我搔我搔我搔搔搔～"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「「にゃーっはっははひいぃいぃあああっはっはっははは！！！！」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "Myaahh!! Hahahah! Aheehee! Ahahahahahhahahahah!!!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "喵──哈、哈哈嘻嘻嘻啊啊啊哈、哈、哈哈哈！！！！",
+            "convert": "喵──哈、哈哈嘻嘻嘻啊啊啊哈、哈、哈哈哈！！！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまー！　朝です、朝ですよー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Master! It's morning, it's morning~!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "主人──！早上了，早上了哟──！",
+            "convert": "主人──！早上了，早上了哟──！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれ、ご主人いない。覚えたての起床術が不発」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Huh? Master isn't here. That wakeup technique I just learned is all for naught."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "咦，主人不在呢。这下刚学来的起床术就派不上用场了。",
+            "convert": "咦，主人不在呢。这下刚学来的起床术就派不上用场了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あらあら、今日も洋菓子の修行ですかねぇ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Oh? Maybe he's practicing his baking again?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "哎呀哎呀，今天大概也是去做西点修行了吧。",
+            "convert": "哎呀哎呀，今天大概也是去做西点修行了吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「と言うことは、今日はお父さまもお母さまもいらっしゃらないので家には私たちだけですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Which means that both mother and father are out... So it's just me and the catgirls in the house today."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "父亲大人跟母亲大人也都不在，这么说今天家里就只剩我们几个而已了呢。",
+            "convert": "父亲大人跟母亲大人也都不在，这幺说今天家里就只剩我们几个而已了呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あらま。じゃあ今日はご飯も自給自足なんだねー」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh my! That must mean we're in charge of our own meals for today, huh?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "哎呀呀，那今天的饭就只能自给自足咯～",
+            "convert": "哎呀呀，那今天的饭就只能自给自足咯～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最悪は一日くらい食べなくても死なないしね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "If worse comes to worst, we won't die from just one day of not eating, anyway."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "最惨也就一天不吃而已，饿不死人的。",
+            "convert": "最惨也就一天不吃而已，饿不死人的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ～……最近兄さまが構ってくれないので、兄さま成分が不足して欲求不満です～……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Sigh~ Recently, Nii-sama isn't spending much time with me, so not getting my daily dose of him is leaving me quite unsatisfied~"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "唉～……最近哥哥都不理人，害得人家哥哥成分摄取不足，都快欲求不满了说～……",
+            "convert": "唉～……最近哥哥都不理人，害得人家哥哥成分摄取不足，都快欲求不满了说～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「欲求不満って知ってる！　えっちなやつだ！　時雨ちゃん、朝からえっちだ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh! 'Unsatisfied!' Chocola knows that! It's that pervy thing! Shigure-chan, you sure are such a perv so early in the morning!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "巧克力知道什么是欲求不满！是色色的事情对不对！时雨一大早就想做色色的事！",
+            "convert": "巧克力知道什幺是欲求不满！是色色的事情对不对！时雨一大早就想做色色的事！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふふ、それほどでもないわよ？　このくらい妹の嗜みです。ぽっ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Teehee, I don't think so! This is normal for a little sister! Hmph!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "哼哼哼，承蒙抬举。这点程度只不过是当妹妹的基本而已。（脸红）",
+            "convert": "哼哼哼，承蒙抬举。这点程度只不过是当妹妹的基本而已。（脸红）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも布団が温かい。ご主人が姿を消してからまだそう時間は経ってない模様」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Master's futon is still warm though. It seems like he didn't leave that long ago."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "不过被窝还是暖的。看来主人应该才离开不久而已。",
+            "convert": "不过被窝还是暖的。看来主人应该才离开不久而已。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どれどれ、ふむふむ。確かにまだあったかくてご主人さまの匂いがして気持ち良いにゃぁ～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Let's see here... Hmm... You're right, it's warm and smells like Master, meow~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "我看看。嗯嗯，的确还留着主人的味道，闻起来感觉好好喔喵～♪",
+            "convert": "我看看。嗯嗯，的确还留着主人的味道，闻起来感觉好好喔喵～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くんくん、くんくん。確かにこれはスパイシーな兄さまの残り香……♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Sniff sniff, sniff sniff. This is indeed Nii-sama's fresh and spicy scent! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "嗅嗅、嗅嗅。这有点刺激的味道确实是哥哥的余香没错……♪",
+            "convert": "嗅嗅、嗅嗅。这有点刺激的味道确实是哥哥的余香没错……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「香水にして私が独占したくなりますね、うほほ、うほほほほっ……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "It makes me want to turn it into a perfume and keep it all to myself! Hoho, ohohohoh!!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "真想作成香水一个人独占起来呢，唔呵呵、唔呵呵呵呵……！",
+            "convert": "真想作成香水一个人独占起来呢，唔呵呵、唔呵呵呵呵……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私も仲間外れは寂しい。おふとん入る。もぞもぞ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Don't leave me out here, I'll get under the futon too! Nuzzle nuzzle"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "一个人被排挤在外有点寂寞呢。分一点棉被给我。我钻我钻。",
+            "convert": "一个人被排挤在外有点寂寞呢。分一点棉被给我。我钻我钻。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃっ！　枕は、枕はショコラのものですよ時雨ちゃん！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Meow! Chocola has the pillow, Shigure-chan! The pillow is Chocola's!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵！枕头，枕头是巧克力的啦，时雨！",
+            "convert": "喵！枕头，枕头是巧克力的啦，时雨！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、シーツの素晴らしさがわからないとはショコラも青いですねぇ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Teehee, how naïve, Chocola! You still don't know the grandeur of sheets!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "嘻嘻。居然不晓得床单的好，看来巧克力功力还不够到家呢～",
+            "convert": "嘻嘻。居然不知道床单的好，看来巧克力功力还不够到家呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あとで新品と交換しておくとしましょう」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Let's switch these out for a new ones later."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "待会拿张新的跟这张交换好了。",
+            "convert": "待会拿张新的跟这张交换好了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん、ご主人のおふとんも悪くない……眠くなってくる……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Mmm... Master's futon is quite comfortable... It sure makes me sleepy..."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "嗯～睡在主人被窝里的感觉也不错……开始想睡了……",
+            "convert": "嗯～睡在主人被窝里的感觉也不错……开始想睡了……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そう言われればショコラも……また夢の続きがおいでおいでって……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Now that you mention it... Dreamland is calling for Chocola to come back..."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "这样说来巧克力也觉得……刚刚做的梦好像又在跟自己招手了……",
+            "convert": "这样说来巧克力也觉得……刚刚做的梦好像又在跟自己招手了……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄さまの魔性の香りが……そうさせ、るの……で、す……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Nii-sama's devilish scent... has... that... effect..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "一切都是哥哥的魔性余香……惹的……祸……",
+            "convert": "一切都是哥哥的魔性余香……惹的……祸……"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ＆時雨",
+            "content": "『「「「Ｚｚｚ、Ｚｚｚ」」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla&Shigure",
+            "content": "Zzz... Zzz..."
+        },
+        "cn": {
+            "name": "巧克力＆香草＆時雨",
+            "content": "Ｚｚｚ、Ｚｚｚ",
+            "convert": "Ｚｚｚ、Ｚｚｚ"
+        }
+    }
+]

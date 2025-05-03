@@ -1,0 +1,325 @@
+[
+    {
+        "jp": {
+            "name": "ココナツ＆シナモン",
+            "content": "『「午後６時、嘉祥さま帰宅」\\n「午後６時、嘉祥さん帰宅～」』"
+        },
+        "en": {
+            "name": "Coconut&Cinnamon",
+            "content": "6 pm.  Master Kashou comes home~"
+        },
+        "cn": {
+            "name": "椰子＆桂",
+            "content": "下午６点，嘉祥少爷归宅。",
+            "convert": "下午６点，嘉祥少爷归宅。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふんふん、ふふーん、ふーん♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Lala, la la, laaa~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "哼哼哼～哼哼～哼～♪",
+            "convert": "哼哼哼～哼哼～哼～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いー匂いがしてきたにゃー♪　みんなで作ったカレー楽しみだにゃー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "It's starting to smell really yummy now, meow~ %fSourceHanSansCN-M;♪%f; We all worked so hard on it! Chocola is really looking forward to having some~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "越煮越香咯～♪好想快点吃到大家一起做的咖喱喵～♪",
+            "convert": "越煮越香咯～♪好想快点吃到大家一起做的咖喱喵～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「作ったのほとんどあたしとバニラだけどね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Except it was mostly just me and Vanilla who made it."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "几乎都是我跟香草在动手做就是了。",
+            "convert": "几乎都是我跟香草在动手做就是了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ポジション的に仕方ない。まとなごはんが食べれそうで良かった」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "That's just how it is. I'm just glad we have a decent dinner for tonight."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "没办法，每个人负责的项目不同。看来晚上可以吃到正常点的东西，太好了。",
+            "convert": "没办法，每个人负责的项目不同。看来晚上可以吃到正常点的东西，太好了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃっ！？　この玄関の開く音、ご主人さまにゃ！　ご主人さまのお帰りにゃ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Meow?! This sound... The front door is opening! It's Master! Master's back home!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵！？这个开门的声音，一定是主人！主人回来了！",
+            "convert": "喵！？这个开门的声音，一定是主人！主人回来了！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココちゃん！　ちょっとお出迎えに行ってくるから、カレーの見張り番お願いしてもいいかにゃ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Coco-chan! Chocola is going to go welcome him back, so could you take over and keep an eye on the curry?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "椰子！巧克力要去迎接主人，你可以帮忙顾一下咖喱吗！？",
+            "convert": "椰子！巧克力要去迎接主人，你可以帮忙顾一下咖喱吗！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、いいよ。行ってらっしゃい」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Heh, of course. Have fun~"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "嘻嘻，没问题。快去吧。",
+            "convert": "嘻嘻，没问题。快去吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなに尻尾ぴーんと立てて、本当にショコラは嘉祥さまが大好きで仕方ないんだね？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Look at you, with your tail is standing up so straight! You really do love Kashou-sama, don't you?"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "瞧你尾巴翘得半天高的，巧克力真的很喜欢嘉祥少爷呢？",
+            "convert": "瞧你尾巴翘得半天高的，巧克力真的很喜欢嘉祥少爷呢？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん！　ショコラはご主人さまが大好きなのです！　それではご主人のお出迎え行って来ますにゃ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Yeah! Chocola loves Master soooo much! Anyway, I'm gonna go greet him now, meow!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯！巧克力最喜欢主人了！那么，巧克力要出发去迎接主人了喵！",
+            "convert": "嗯！巧克力最喜欢主人了！那幺，巧克力要出发去迎接主人了喵！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おかえりなさいませにーさまああぁあぁぁぁーっっ！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Welcome home, Nii-samaaaaa!!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "欢迎回来，哥哥──────！！",
+            "convert": "欢迎回来，哥哥──────！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日は私が作ったカレーですよ！　ぜひ、ぜひご賞味あれー！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I made curry for dinner tonight! Please have some!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "今晚的咖喱是我做的喔！请您务必、务必好好品尝～！",
+            "convert": "今晚的咖喱是我做的喔！请您务必、务必好好品尝～！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うにゃっ！？　時雨ちゃんにもう先を越されてるっ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Mreow?! Shigure-chan beat Chocola to the punch!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵！？居然已经被时雨抢先了！？",
+            "convert": "喵！？居然已经被时雨抢先了！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨はむしろドアが開く前から玄関に走ってってた」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Actually , she ran to the entrance before the door had even opened."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "时雨在门还没打开以前就已经冲进玄关了。",
+            "convert": "时雨在门还没打开以前就已经冲进玄关了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨の嘉祥センサーはパねぇからなぁ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Nothing gets past Shigure's Kashou-sensor, huh?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "时雨的嘉祥雷达真是准得吓死人。",
+            "convert": "时雨的嘉祥雷达真是准得吓死人。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この間はお部屋で『――兄さまが私を呼んでいます』って言ったら電話が鳴ったりしてたしね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "There was even one time when we were in her room and she said, 'Nii-sama is calling me!', right before her phone rang~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "上次在房间的时候，时雨只是说了句『──哥哥正在呼唤我。』电话就响了呢～",
+            "convert": "上次在房间的时候，时雨只是说了句『──哥哥正在呼唤我。』电话就响了呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そこまでいくとさすがにキモいわねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Wow, that's just creepy."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "准成这样老实说还挺恶心的。",
+            "convert": "准成这样老实说还挺恶心的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「一言で言えば兄さまへの愛です」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "To put it simply, it's the power of love for her brother."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "简单来说就是对自己哥哥的爱。",
+            "convert": "简单来说就是对自己哥哥的爱。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ご飯たけたみたい」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Ah, it looks like the rice is ready!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "啊，饭好像煮好了。",
+            "convert": "啊，饭好像煮好了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もうすぐ追い返されてくると思うし、ご飯の準備しよっか？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "They'll be coming back soon, so should we get the table ready?"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "反正她们俩很快就会被赶回来，我们先开始准备吧。",
+            "convert": "反正她们俩很快就会被赶回来，我们先开始准备吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね、そうしましょー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Yes, shall we?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "也好，就这么办吧。",
+            "convert": "也好，就这幺办吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あーん、兄さまー！　そんなつれない、晩御飯ご一緒に～。あわよくばお背中もお流し致しますわ～♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Oh, Nii-samaaa~! Don't be so cold! Let's have dinner together~ And if possible, oh pretty please me wash your back too! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "嗯～哥哥，别这么冷淡，跟人家一起共进晚餐嘛～您高兴的话要我帮您洗背也没问题喔～♪",
+            "convert": "嗯～哥哥，别这幺冷淡，跟人家一起共进晚餐嘛～您高兴的话要我帮您洗背也没问题喔～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラも一緒にお風呂入ります！　ご主人さまはショコラの背中洗って下さいー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh! Chocola will take a bath with you, too! Master, please wash Chocola's back!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "巧克力也要一起洗！拜托主人帮巧克力洗背好不好～！",
+            "convert": "巧克力也要一起洗！拜托主人帮巧克力洗背好不好～！"
+        }
+    }
+]

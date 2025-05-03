@@ -1,0 +1,971 @@
+[
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「來！大家再站近一點～！」",
+            "convert": "「来！大家再站近一点～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Come on! Line up, everyone!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「さぁさ！　みんな寄ってー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「再把身體靠緊一點～！」",
+            "convert": "「再把身体靠紧一点～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Squeeze in!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「もっと身体を寄せるのですよー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「紅豆！桂！再往哥哥身上貼！」",
+            "convert": "「红豆！桂！再往哥哥身上贴！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Azuki! Cinnamon! Get closer to nii-sama!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「はい、アズキ！　シナモン！　もっとしっかり兄様にくっつく！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「其他人也表現得更像貓娘情人一點，把哥哥圍起來！」",
+            "convert": "「其他人也表现得更像猫娘情人一点，把哥哥围起来！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Catpanions, surround nii-sama like you mean it!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「他のネコたちも恋ネコらしく兄様を囲むように！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「拿出要跟哥哥合為一體的氣勢抱上去也沒關係～！」",
+            "convert": "「拿出要跟哥哥合为一体的气势抱上去也没关系～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Feel free to hug him to the point of becoming one with him!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「何なら溶けて一体化するくらい抱きついてもいいのですよー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那個，我說時雨……差不多要開始營業了……」",
+            "convert": "「那个，我说时雨……差不多要开始营业了……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Um, Shigure-san... we need to open the shop soon...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「あの、時雨さん……その、もう開店時間になるんで……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我還得準備開店……」",
+            "convert": "「我还得准备开店……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We need to get ready...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「店を開ける準備をしないと……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「您這是什麼話呢，哥哥！看看時鐘！」",
+            "convert": "「您这是什么话呢，哥哥！看看时钟！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「What are you saying, nii-sama?! Look at your watch!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「何をおっしゃいますか兄様！　時計をご覧下さいませ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「還有五分鐘！還有五分鐘才開店，您大可不用擔心！」",
+            "convert": "「还有五分钟！还有五分钟才开店，您大可不用担心！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「We have five minutes! There is no need to worry!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「あと５分！　あと５分もありますから心配はご無用です！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「要是有什麼問題，頂多只是晚點開店而已！」",
+            "convert": "「要是有什么问题，顶多只是晚点开店而已！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Worst comes to worst, we open the shop a little late!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「何ならちょっとくらい開店遅らせればいいのです！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「在這樣一個大好日子裡，就算是哥哥也不能說太多掃興話喔？」",
+            "convert": "「在这样一个大好日子里，就算是哥哥也不能说太多扫兴话喔？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「As much as I respect you, I won't let you say such foolish things on such a bright day.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「いくら兄様とは言え、このような晴れの日に野暮なことは言うものではありませんよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不是想掃興，可是這實在有點……」",
+            "convert": "「我不是想扫兴，可是这实在有点……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's a little much...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いやそういうのはちょっと……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「畢竟還牽扯到做生意的信用……」",
+            "convert": "「毕竟还牵扯到做生意的信用……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「There's the matter of the shop's credibility...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「一応、店の信用とかあるんで……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "在完全不聽人說話的時雨面前，",
+            "convert": "在完全不听人说话的时雨面前，"
+        },
+        "en": {
+            "content": "Shigure refuses to listen."
+        },
+        "jp": {
+            "content": "まったく聞く耳を持たない時雨に。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我試著做出微弱的抵抗。",
+            "convert": "我试着做出微弱的抵抗。"
+        },
+        "en": {
+            "content": "I guess my complaints are a little weak, though."
+        },
+        "jp": {
+            "content": "僅かばかりの抵抗を示してみる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「你還是乖乖聽她的話，早點結束這場鬧劇比較好。」",
+            "convert": "「你还是乖乖听她的话，早点结束这场闹剧比较好。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Just do as she says so we can get it over with.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「もう言うこと聞いて、とっとと終わらせた方がいーぞ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我也這麼覺得。時雨一旦變成那樣，就沒人能阻止她了。」",
+            "convert": "「我也这么觉得。时雨一旦变成那样，就没人能阻止她了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Agreed. No one can stop Shigure when she's like this.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「同感。ああなった時雨は誰にも止められないし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……哎，說得也是。」",
+            "convert": "「……哎，说得也是。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Yeah, you're right.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……まぁ、そうだな」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我聳聳肩同意兩人的話，放棄掙扎。",
+            "convert": "我耸耸肩同意两人的话，放弃挣扎。"
+        },
+        "en": {
+            "content": "My shoulders slump in resignation as I heave a sigh of agreement."
+        },
+        "jp": {
+            "content": "肩をすくめる２匹に同意して諦める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「我要按快門囉，OK我按了～！」",
+            "convert": "「我要按快门咯，OK我按了～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Okay, I've pressed the shutter!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「はいシャッター押した、押しましたよー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「大家看前面的鏡頭～！不要別開眼神喔～！」",
+            "convert": "「大家看前面的镜头～！不要别开眼神喔～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Look at the camera, everyone! Make sure you look!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「みんな前にあるカメラ見てー！　見るのですよー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「來～笑一個！拿出最像貓娘情人的甜蜜笑容～！」",
+            "convert": "「来～笑一个！拿出最像猫娘情人的甜蜜笑容～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Smile! The sweetest smile a catpanion can muster!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「はーい、笑ってー！　恋ネコらしく、甘々でとろけた笑顔でー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「沒錯！很好～大家表現得太好了～！」",
+            "convert": "「没错！很好～大家表现得太好了～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes! There you go~ You're all doing great!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「そう！　いいですわよー、みんな良い感じですわよー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「保險起見，我們再多拍個兩、三張喔～！」",
+            "convert": "「保险起见，我们再多拍个两、三张喔～！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Let's take two or three more while we're at it!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「念のためもう２、３枚続けて来ますからねー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「耶～紀念照！」",
+            "convert": "「耶～纪念照！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yaaay, it's our anniversary picture!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「わーい、記念写真！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「是大家都當上貓娘情人的紀念照喔，主人～♪」",
+            "convert": "「是大家都当上猫娘情人的纪念照喔，主人～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's our catpanion anniversary picture, Master ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「みんな恋ネコの記念写真ですよ、ご主人さまー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「嗯，回頭仔細一看，還真是豪華的後宮呢。」",
+            "convert": "「嗯，回头仔细一看，还真是豪华的后宫呢。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hmm, look at this extravagant harem.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「うーん、改めて見るとなんて贅沢なハーレム」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「就算主人是色情糕點師，這結果未免也太誇張了。」",
+            "convert": "「就算主人是色情糕点师，这结果未免也太夸张了。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's almost like you're a pervy patissier, Master.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「マジでご主人エロパティシエ過ぎじゃないかな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈哈，有什麼辦法。誰叫哥哥就是這麼帥氣呢～」",
+            "convert": "「啊哈哈，有什么办法。谁叫哥哥就是这么帅气呢～」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahaha, onii-chan's so cool that we can't help ourselves.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「あはは、お兄ちゃんはカッコいいから仕方ないねー」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「人家倒是很開心可以跟大家一起當哥哥的情人♪」",
+            "convert": "「人家倒是很开心可以跟大家一起当哥哥的情人♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm glad we all get along ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ぼくはみんな仲良しでうれしーけど♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「喂，楓？妳最拿手的招牌拍照表情哪裡去了？」",
+            "convert": "「喂，枫？你最拿手的招牌拍照表情哪里去了？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, Pull-may? What happened to your usual victory pose?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「おい、プルメー？　お得意のキメ顔はどーしたよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「還是說，妳該不會害羞起來了吧？嘿嘿嘿♪」",
+            "convert": "「还是说，你该不会害羞起来了吧？嘿嘿嘿♪」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「What, did you get embarrassed for once? Kekeke ♪」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「もしかしていっちょ前に照れてんのか？　けけけ♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳很囉唆喔。反正事情都已經演變成這樣了，再逞強也沒用。」",
+            "convert": "「你很咯唆喔。反正事情都已经演变成这样了，再逞强也没用。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Shut up. I can't help it because of what's happened so far.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「るっさいわねー。こうなっちゃった以上は仕方ないでしょ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「要是打死不認自己喜歡上人家，反而還更難看。」",
+            "convert": "「要是打死不认自己喜欢上人家，反而还更难看。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Not admitting that I've fallen for someone isn't cool.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「惚れた事実を認めないのもカッコ悪いだけだしね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，現在楓跟紅豆都一樣是貓娘情人了，就別再吵了吧～」",
+            "convert": "「嘻嘻，现在枫跟红豆都一样是猫娘情人了，就别再吵了吧～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Azu-nyan, you're a catpanion, too, so don't fight~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす、アズにゃんだって同じ恋ネコなんだから、喧嘩しないの～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「既然大家都喜歡上同一個人，再吵下去也不是辦法，對不對～♪」",
+            "convert": "「既然大家都喜欢上同一个人，再吵下去也不是办法，对不对～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「What are we supposed to do when we've all fallen for the same person~? ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「みんな同じヒトを好きになっちゃったんだから、仕方ないね～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥？身處在由時雨我一手拉拔大的貓娘們組成的後宮中心，有什麼感想呀♪」",
+            "convert": "「哥哥？身处在由时雨我一手拉拔大的猫娘们组成的后宫中心，有什么感想呀♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama? How do you feel about being king of the cat harem? ♪」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「兄様？　どうですかこの時雨によるネコハーレムの王となった感想は♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃，怎麼說……我現在不只對自己的妹妹充滿感謝之情……」",
+            "convert": "「呃，怎么说……我现在不只对自己的妹妹充满感谢之情……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well... I'm very grateful to my sister who made this possible...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「まぁ、その……妹には、感謝の気持ちでいっぱいと言いますか……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「同時……也對她過意不去到極點……」",
+            "convert": "「同时……也对她过意不去到极点……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「On the other hand... I feel very regretful...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「逆にその……本当に申し訳ない気持ちでいっぱいと言うか……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「總之，心情很複雜……就是了……」",
+            "convert": "「总之，心情很复杂……就是了……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's... complicated, I guess...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「色々と、複雑な感じ……かな……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我笑著環顧起周圍可愛的貓娘情人們，",
+            "convert": "我笑着环顾起周围可爱的猫娘情人们，"
+        },
+        "en": {
+            "content": "I look at all my cute catpanions..."
+        },
+        "jp": {
+            "content": "改めて見る可愛い恋ネコたちの姿に。"
+        }
+    },
+    {
+        "cn": {
+            "content": "同時把複雜的心情全部藏進心底。",
+            "convert": "同时把复杂的心情全部藏进心底。"
+        },
+        "en": {
+            "content": "...and smile at all the complicated feelings in my heart."
+        },
+        "jp": {
+            "content": "色々と複雑な想いを胸にしつつ目を細める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人～！」",
+            "convert": "「主人～！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ごっしゅじんさまー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「不管主人的貓娘情人再多，巧克力對主人的愛都不會變喔～♪」",
+            "convert": "「不管主人的猫娘情人再多，巧克力对主人的爱都不会变喔～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola's love for you won't change no matter how many catpanions you have ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ご主人さまに恋ネコがいっぱいでも、ショコラの愛は変わりませんからねー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「我也會盡力做好我該做的。」",
+            "convert": "「我也会尽力做好我该做的。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Well, I'll do my best to get the job done.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「まぁ私も頑張って務めを果たす」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「至於要做到什麼程度，就差不多大家都有滿意到就好。」",
+            "convert": "「至于要做到什么程度，就差不多大家都有满意到就好。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「That feels like the right thing to do.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「何かこう、そこそこいい感じに」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「哥哥♪人家也最喜歡哥哥囉？」",
+            "convert": "「哥哥♪人家也最喜欢哥哥咯？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan ♪ I love you, too, all right?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お兄ちゃん♪　ぼくだってお兄ちゃんのこと、大好きだからね？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「哎～畢竟這種事情先愛上的人就輸了。」",
+            "convert": "「哎～毕竟这种事情先爱上的人就输了。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Yeah, I lost by falling in love with him, I guess.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「まーこういうのは惚れた方の負けってな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我會盡量不造成大家麻煩，再來就拜託你啦～」",
+            "convert": "「我会尽量不造成大家麻烦，再来就拜托你啦～」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I'll do the best I can, so you better take care of me.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「アタシも上手くやってくから、色々と頼むわー」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我也早就下定決心要讓嘉祥拜倒在我的石榴裙下了。」",
+            "convert": "「我也早就下定决心要让嘉祥拜倒在我的石榴裙下了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I've decided to be all over you, Kashou.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あたしは嘉祥をベタ惚れさせるって決めたし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「只要嘉祥偶爾疼愛我一下，我就滿足囉～♪」",
+            "convert": "「只要嘉祥偶尔疼爱我一下，我就满足咯～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「All I need is a little bit of loving~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「わたしはほどほどに可愛がってもらえれば～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這個嘛，該怎麼說……」",
+            "convert": "「这个嘛，该怎么说……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, uh...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いやまぁ、何というか……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我會好好珍惜妳們大家，還請妳們多多指教了。」",
+            "convert": "「我会好好珍惜你们大家，还请你们多多指教了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'll take care of all, of you so I hope you'll do the same for me.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「みんな大事にするから、俺の方こそよろしく頼む」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我不好意思地搔搔臉頰，",
+            "convert": "我不好意思地搔搔脸颊，"
+        },
+        "en": {
+            "content": "I scratch my cheek to hide my embarrassment..."
+        },
+        "jp": {
+            "content": "照れ隠しに頬を掻きながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "再一次摸了摸所有人的頭。",
+            "convert": "再一次摸了摸所有人的头。"
+        },
+        "en": {
+            "content": "...and give them all headpats."
+        },
+        "jp": {
+            "content": "改めて全員を撫でていく。"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「啊啊……♪這正是我長久以來一直期望，由女兒們組成的，屬於哥哥的後宮……♪」",
+            "convert": "「啊啊……♪这正是我长久以来一直期望，由女儿们组成的，属于哥哥的后宫……♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Ahh... ♪ At long last, my daughters are now part of nii-sama's harem... ♪」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「あぁ……♪　長年待ち焦がれた、私の娘たちによる兄様のハーレム……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「沒想到這個夢想能有成真的一天……！」",
+            "convert": "「没想到这个梦想能有成真的一天……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「To think that the blessed day would finally come...!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「まさかこんな大望が叶う日が本当に来るとは……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「真的沒人知道人生中會遇上什麼事呢，哥哥！」",
+            "convert": "「真的没人知道人生中会遇上什么事呢，哥哥！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You never know where life will take you, nii-sama!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「人生本当に何があるか分かりませんね、兄様！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「這下子，搞不好連我也有機會囉！」",
+            "convert": "「这下子，搞不好连我也有机会咯！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Maybe, there are doggirls in our future!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「これはもしかしたら、まだ私にもワンチャンあるかもですよワンチャン！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我是不曉得妳想要什麼機會啦……」",
+            "convert": "「我是不知道你想要什么机会啦……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Uh, I don't know why you're talking about doggirls all of a sudden...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いや、何がワンチャンなのか分からないけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……不過妳說得對。真的沒人知道人生會遇上什麼事呢。」",
+            "convert": "「……不过你说得对。真的没人知道人生会遇上什么事呢。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Yeah. You never know what's going to happen.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……でもま。何があるかは分からないよな、ほんとに」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我笑著看向六位貓娘情人，",
+            "convert": "我笑着看向六位猫娘情人，"
+        },
+        "en": {
+            "content": "I look at my six catpanions..."
+        },
+        "jp": {
+            "content": "６匹の恋ネコたちと。"
+        }
+    },
+    {
+        "cn": {
+            "content": "以及一切的起點，Soleil。",
+            "convert": "以及一切的起点，Soleil。"
+        },
+        "en": {
+            "content": "...and La Soleil, where it all began, and smile to myself."
+        },
+        "jp": {
+            "content": "全部の始まりになったソレイユに目を細める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……只要現在過得幸福，也就夠了吧。」",
+            "convert": "「……只要现在过得幸福，也就够了吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...We're happy now, so that's what counts.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……今が幸せなら、まぁいっか」"
+        }
+    },
+    {
+        "cn": {
+            "content": "帶著滿足的心情，我獨自低語。",
+            "convert": "带着满足的心情，我独自低语。"
+        },
+        "en": {
+            "content": "I mutter to myself, satisfied."
+        },
+        "jp": {
+            "content": "ひとり満足気にそう呟いて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "屬於我的真正貓娘樂園，",
+            "convert": "属于我的真正猫娘乐园，"
+        },
+        "en": {
+            "content": "Another day begins..."
+        },
+        "jp": {
+            "content": "正真正銘の俺のネコパラダイスが。"
+        }
+    },
+    {
+        "cn": {
+            "content": "就在今天重新揭開了序幕──",
+            "convert": "就在今天重新揭开了序幕──"
+        },
+        "en": {
+            "content": "...in my genuine catgirl paradise."
+        },
+        "jp": {
+            "content": "改めて今日からまた始まることになった――"
+        }
+    }
+]

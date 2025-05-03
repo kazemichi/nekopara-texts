@@ -1,0 +1,834 @@
+[
+    {
+        "jp": {
+            "content": "「本当の本当に、背中を洗ってやるだけだかんなー……？　他のことはしねぇかんなー？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I'm dead, DEAD serious when I say that I'm only gonna wash your back, okay...? We're not gonna be doin' anything else, right?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我真的真的只是幫你洗背而已——……不做其他事情喔——」",
+            "convert": "「我真的真的只是帮你洗背而已——……不做其他事情喔——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼくは、お兄ちゃんのこと全部洗ってあげたいなー。隅々までピカピカに！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I want to wash all of Onii-chan's body! Every nook and cranny until it's sparkling!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「但人家想幫哥哥好好地洗乾淨——全身上下都洗得乾乾淨淨的！」",
+            "convert": "「但人家想帮哥哥好好地洗干净——全身上下都洗得干干净净的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おい、やめろ。アタシが働かねぇダメネコみてーだろ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, quit it. You're makin' me look like some deadbeat catgirl who doesn't pull her weight.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喂喂，妳這樣說不就顯得我是個不做事的懶貓了嗎？」",
+            "convert": "「喂喂，你这样说不就显得我是个不做事的懒猫了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……そんなことないさ、アズキ。さっきも相談に乗ってくれたじゃないか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah, you know that's not true, Azuki. You helped talk things out with me earlier, didn't you?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……放心啦，紅豆。妳剛才不也聽我吐露煩惱了嗎？」",
+            "convert": "「哈哈……放心啦，红豆。你刚才不也听我吐露烦恼了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっ……そ、それは……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Wait... W-Well...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喂……那、那是我……」",
+            "convert": "「喂……那、那是我……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはっ……お姉ちゃん、本当は面倒見がいいんだよね」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahah... Onee-chan, you really are good at taking care of people.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈……姊姊其實真的很愛照顧人。」",
+            "convert": "「啊哈……姐姐其实真的很爱照顾人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、アズキはよく気がつくし、優しいネコだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yup, Azuki is a kind and considerate catgirl for sure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒錯，紅豆是一隻很貼心又溫柔的貓娘。」",
+            "convert": "「没错，红豆是一只很贴心又温柔的猫娘。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あーもう、うるせー！　めそめそするヤツがいると、暗くなっからイヤだっての！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ah, geez, shut your holes! I just can't stand things gettin' all bleak when there's someone around blubberin', that's all!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「啊——你們兩個吵死了——！我只是看到有個意志消沉的傢伙，討厭他把氣氛弄得很陰鬱而已！！」",
+            "convert": "「啊——你们两个吵死了——！我只是看到有个意志消沉的家伙，讨厌他把气氛弄得很阴郁而已！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あははは……お姉ちゃんらしいね！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahahaha... That's so you, Onee-chan!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈哈哈……不愧是姊姊！」",
+            "convert": "「啊哈哈哈……不愧是姐姐！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふんっ……ぐちぐち悩みすぎなんだよ、嘉祥は！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Humph... You just worry too damn much, Kashou!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「哼……誰教嘉祥那麼扭扭捏捏，一堆煩惱！」",
+            "convert": "「哼……谁教嘉祥那么扭扭捏捏，一堆烦恼！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ははは……そうかもしれないなー」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ahaha... Yeah, you might be right about that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈哈……或許真的是這樣吧。」",
+            "convert": "「哈哈哈……或许真的是这样吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしごし……ごしごし……お兄ちゃん、背中を洗うのって、こんな感じ？　もっと強くする？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Rub, rub... Rub, rub... Onii-chan, how does this feel for washing your back? Should I scrub harder?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「擦擦……擦擦……哥哥，這樣的力道還可以嗎？還是要更強一點？」",
+            "convert": "「擦擦……擦擦……哥哥，这样的力道还可以吗？还是要更强一点？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょうどいいよ、ココナツ。気持ちいい」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's just perfect, Coconut. It feels great.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這樣恰到好處，椰子。很舒服。」",
+            "convert": "「这样恰到好处，椰子。很舒服。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やった！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yay!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「太好了！」",
+            "convert": "「太好了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ゴリゴリゴリゴリゴリゴリゴリゴリ……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Scrape, scrape, scrape, scrape, scrape, scrape, scrape, scrape, scrape...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「刮刮刮……」",
+            "convert": "「刮刮刮……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「い、痛たたた……アズキ、痛い」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Y-Yow, ow, ow... Azuki, that hurts.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好痛……紅豆，妳太用力了啦。」",
+            "convert": "「好痛……红豆，你太用力了啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふん……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Heh heh...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嘻嘻……」",
+            "convert": "「嘻嘻……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、ちょっとは元気が出たみたいだな、嘉祥？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well, looks like you've got a little pep in your step now, eh, Kashou?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「打起點精神了吧？嘉祥。」",
+            "convert": "「打起点精神了吧？嘉祥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……アズキのおかげでね。もちろん、ココナツも」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah... Thanks to you, Azuki. And you too, of course, Coconut.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊……多虧有妳幫忙打氣。當然，也要謝謝椰子。」",
+            "convert": "「是啊……多亏有你帮忙打气。当然，也要谢谢椰子。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えへへ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ehehe...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「欸嘿嘿嘿……」",
+            "convert": "「欸嘿嘿嘿……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それなら、ぼく……ご褒美がほしいなー」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「In that case... I want a reward.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「既然這樣，人家想要獎勵……」",
+            "convert": "「既然这样，人家想要奖励……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごほうび？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「A reward?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「獎勵？」",
+            "convert": "「奖励？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんだ、ご褒美って？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「'Reward'? Like what?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「什麼獎勵？」",
+            "convert": "「什么奖励？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「……」",
+            "convert": "「……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もったいぶってねーで言えよ、ナッツ！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Quit beating around the bush and spit it out, Nuts!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「別賣關子，直接說啊，椰子。」",
+            "convert": "「别卖关子，直接说啊，椰子。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「キ、キスとか……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「A-A kiss, or something...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「像、像是親吻之類……」",
+            "convert": "「像、像是亲吻之类……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh?!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「欸！？」",
+            "convert": "「欸！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラは、してもらったって言ってたから……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Chocola and Vanilla said you've done it for them before...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「我聽巧克力和香草說，哥哥會跟她們親吻……」",
+            "convert": "「我听巧克力和香草说，哥哥会跟她们亲吻……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "……あれか。"
+        },
+        "en": {
+            "content": "...So that's what she wants, huh?"
+        },
+        "cn": {
+            "content": "……是那個啊。",
+            "convert": "……是那个啊。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……ダメなら、いいんだけど！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Oh... But if it's not okay, don't worry!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「啊……如果不行的話也沒關係的！」",
+            "convert": "「啊……如果不行的话也没关系的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ダメじゃないよ……ほら……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course it's fine... Come here...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「當然不會不行……來……」",
+            "convert": "「当然不会不行……来……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mmm...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯……」",
+            "convert": "「嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mm...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……」",
+            "convert": "「嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅ……ちゅっ……ちゅちゅっ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mm-smooch... Smooch... Smak, smak...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯啾……啾……啾啾……」",
+            "convert": "「嗯啾……啾……啾啾……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅっ……ちゅっ……ちゅ……ちゅちゅ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mm-smooch... Smooch... Smooch... Smak, smak...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯啾……啾……啾……啾啾……」",
+            "convert": "「嗯啾……啾……啾……啾啾……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ココナツのキスは、遠慮がちで優しいものだった。"
+        },
+        "en": {
+            "content": "Coconut's kiss feels very reserved and gentle."
+        },
+        "cn": {
+            "content": "椰子的親吻有點拘謹，很溫柔。",
+            "convert": "椰子的亲吻有点拘谨，很温柔。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んはー……はぁー……はぁー……息するの、忘れちゃう……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mm-hah... Haaah... Haaah... I almost forgot to breath...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯哈——……哈啊——……哈啊——……都要忘記呼吸了……」",
+            "convert": "「嗯哈——……哈啊——……哈啊——……都要忘记呼吸了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……」",
+            "convert": "「哈哈……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキは、どうする？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「How about you, Azuki?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆，妳也要來嗎？」",
+            "convert": "「红豆，你也要来吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ア、アタシは、べつに……！　してほしいって頼んだりしねーっての！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I-I'll pass...! I didn't even ask you for one!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我、我沒什麼興趣啦……！我才不會去拜託你親我呢！」",
+            "convert": "「我、我没什么兴趣啦……！我才不会去拜托你亲我呢！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺が『したい』って頼んだら？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What if 'I' asked 'you' for one?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果是我拜託妳呢？」",
+            "convert": "「如果是我拜托你呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……そ、それなら、まぁ……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Urk... I-In that case, I guess...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「唔……如、如果是那樣的話……」",
+            "convert": "「唔……如、如果是那样的话……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ……な？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Then... yeah?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那麼……要嗎？」",
+            "convert": "「那么……要吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仕方ねーなー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well, if you insist.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「真拿你沒辦法……」",
+            "convert": "「真拿你没办法……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……んっ……んんっ……んぷ……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mm... Mm... Mmmm... Mm-phh...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯……嗯……嗯嗯……嗯噗……」",
+            "convert": "「嗯……嗯……嗯嗯……嗯噗……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅっ……ん……んちゅ……んんんーっ！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mm-smooch... Mm... Mm-smak... Hmmghh!!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯啾……嗯……嗯啾……嗯嗯嗯——！！」",
+            "convert": "「嗯啾……嗯……嗯啾……嗯嗯嗯——！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "気乗りしないようなことを言っていたわりに、\\nキスしはじめたら、アズキは熱烈だった。"
+        },
+        "en": {
+            "content": "Azuki said that like she wasn't onboard, but once I start kissing her, she gets really into it."
+        },
+        "cn": {
+            "content": "雖然紅豆嘴上說沒興趣，\\n一開始接吻，卻表現得異常熱情。",
+            "convert": "虽然红豆嘴上说没兴趣，\\n一开始接吻，却表现得异常热情。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅ……ちゅっ……ちゅっ……はふぅ……んちゅ……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mm-smooch... Smak... Smak... Hah-fhh... Mm-smooch...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯啾……啾……啾……哈呼……嗯啾……」",
+            "convert": "「嗯啾……啾……啾……哈呼……嗯啾……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んちゅっ！　ちゅっちゅっちゅっ……ちゅ～～～～っっ！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mm-smooch! Smak, smak, smak... Smooooch~!!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯啾！啾、啾、啾……啾～～～～！！」",
+            "convert": "「嗯啾！啾、啾、啾……啾～～～～！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぷはっ！　はぁ……はぁ……はぁ……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Phh-hah! Hah, hah... Hah...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「噗哈！哈啊……哈啊……哈啊……」",
+            "convert": "「噗哈！哈啊……哈啊……哈啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hah, hah...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈啊……哈啊……」",
+            "convert": "「哈啊……哈啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふわぁー……お姉ちゃんのキス……すっごい」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Oh wow... Onee-chan, that was one heck of a kiss...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「呼哇——……姊姊的接吻……好激烈。」",
+            "convert": "「呼哇——……姐姐的接吻……好激烈。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……ふ、普通だろ……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Urk... I-It was normal.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗚……這、這很平常吧……」",
+            "convert": "「呜……这、这很平常吧……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃ、じゃあ、ぼく、お兄ちゃんと普通のキスしたい！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I-In that case, I want a normal kiss with Onii-chan, too!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「那、那麼，人家也想和哥哥來個平常的接吻！」",
+            "convert": "「那、那么，人家也想和哥哥来个平常的接吻！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ！？　ま、まぁ……いいけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh?! W-Well... I don't mind.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦！？呃，倒是可以……」",
+            "convert": "「咦！？呃，倒是可以……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……んじゃ、そのあと……アタシも２回目な？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...So, after that... do I get a second one?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「……既然如此，在椰子親完後……我也要親第二次！」",
+            "convert": "「……既然如此，在椰子亲完后……我也要亲第二次！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、おう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「S-Sure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好、好啊。」",
+            "convert": "「好、好啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄ちゃんー！！　普通のキスー！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan!! Normal kiss time!!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哥哥——！！來個平常的接吻吧——！！」",
+            "convert": "「哥哥——！！来个平常的接吻吧——！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "――その夜は、風呂場の中で、キスしまくった。"
+        },
+        "en": {
+            "content": "—For the rest of the night, I dished out kisses left and right in the bathroom."
+        },
+        "cn": {
+            "content": "——當晚，我們在浴場之中親吻了無數次。",
+            "convert": "——当晚，我们在浴场之中亲吻了无数次。"
+        }
+    }
+]

@@ -1,0 +1,1166 @@
+[
+    {
+        "jp": {
+            "content": "「ではみんな、居間に集合してー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Okay, everyone, meet in the living room!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那麼，大家到客廳集合～」",
+            "convert": "「那么，大家到客厅集合～」"
+        }
+    },
+    {
+        "jp": {
+            "name": "一同",
+            "content": "『「はーい！」「はーい」「へーい」「はーい」「は～い」「はーい！」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "「Okay!」「Okay.」「Gotcha.」「Okay.」「Okie dokie~」「Okay!」"
+        },
+        "cn": {
+            "name": "一同",
+            "content": "『「好～！」「好～」「是～」「好～」「好～」「好～！」』",
+            "convert": "『「好～！」「好～」「是～」「好～」「好～」「好～！」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラの身長が１２５ｃｍ、体重が２４．５ｋｇ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Chocola, you're 125 cm tall and weigh 24.5 kg.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「巧克力身高125公分，體重24.5公斤。」",
+            "convert": "「巧克力身高125公分，体重24.5公斤。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラが１２３ｃｍ、２３．６ｋｇですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Vanilla, you're in at 123 cm and 23.6 kg.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「香草是123公分，23.6公斤。」",
+            "convert": "「香草是123公分，23.6公斤。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、ショコラもバニラも順調に成長してるようで何よりです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Mm-hmm, great to see the two of you are developing at a fine rate.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯，巧克力跟香草都很順利地在成長，真是太好了。」",
+            "convert": "「嗯，巧克力跟香草都很顺利地在成长，真是太好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ねぇねぇしぐれちゃん？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Say, say, Shigure-chan?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「時雨，問妳喔？」",
+            "convert": "「时雨，问你喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうしてせをはかったり、たいじゅうをはかったりするの？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Why are you weighing and measuring us?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「為什麼要量我們的身高跟體重呀？」",
+            "convert": "「为什么要量我们的身高跟体重呀？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「月に１度の健康管理ですよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's your monthly health monitoring.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這是每個月一次的健康檢查。」",
+            "convert": "「这是每个月一次的健康检查。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキやメイプル、シナモンはもうほとんど止まっていますが……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Though, Azuki, Maple, and Cinnamon have pretty much stopped growing...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「雖然紅豆、楓跟桂都幾乎沒有再長大了……」",
+            "convert": "「虽然红豆、枫跟桂都几乎没有再长大了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツとショコラとバニラは特に成長期ですからね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You two, and Coconut in particular, are in a growth spurt.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過椰子、巧克力和香草都還在成長期，」",
+            "convert": "「不过椰子、巧克力和香草都还在成长期，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「体調を把握しておくのも、ネコの飼い主としての大事な務めですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's an important duty as a cat owner to have a grasp on how healthy your cats are.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「掌握家中貓娘的身體狀況，也是身為飼主的重要責任喔。」",
+            "convert": "「掌握家中猫娘的身体状况，也是身为饲主的重要责任喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だからこうやって色々と測って記録しておくのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That is why I have to measure and log these kinds of things.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「所以才需要像這樣做各種測量，加以記錄。」",
+            "convert": "「所以才需要像这样做各种测量，加以记录。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんだかいろいろとかたじけない。かんしゃ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We're very much obliged. Thank you.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「總覺得在各方面都得感謝妳呢。多謝。」",
+            "convert": "「总觉得在各方面都得感谢你呢。多谢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「１３７ｃｍ、３１．８ｋｇ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「137 cm, 31.8 kg...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「137公分，31.8公斤……」",
+            "convert": "「137公分，31.8公斤……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こないだの時が１３１ｃｍだったから、また背が伸びてる……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I was 131 cm the other day, which means I'm growing some more...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「上次量的時候是131公分，身高又長高了……」",
+            "convert": "「上次量的时候是131公分，身高又长高了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「このままじゃ、あっという間に天井まで届いちゃうよ～！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「At this rate, I'm gonna reach the ceiling before I know it~!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「再這樣下去，沒多久人家就要撞上天花板了啦～！」",
+            "convert": "「再这样下去，没多久人家就要撞上天花板了啦～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことになったらどうしよう！　おねーちゃぁーん！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「What am I gonna do if that happens? Onee-chaaan!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「要是真變成那樣的話該怎麼辦！姊姊啊──！」",
+            "convert": "「要是真变成那样的话该怎么办！姐姐啊──！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ンなわけねーだろーがアホ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Yeah, get real, dummy.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「少呆了，那怎麼可能呢。」",
+            "convert": "「少呆了，那怎么可能呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁでもオメーは猫種的にまだまだでかくなるだろーけどな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Then again, given your breed, you've probably got a long time before you stop getting bigger.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「不過以品種來說，妳將來還會長得更大就是了。」",
+            "convert": "「不过以品种来说，你将来还会长得更大就是了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキは１４２ｃｍに３５．１ｋｇですからね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Azuki, you're 142 cm, 35.1 kg, after all.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「紅豆是142公分，35.1公斤。」",
+            "convert": "「红豆是142公分，35.1公斤。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキはもう成ネコですし、来月にはもうココナツの方が大きくなっているでしょうね。くす」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You're already a mature cat, and Coconut is going to outgrow you by next month, I reckon. Hehe.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「紅豆已經是成貓了，照這樣看來到下個月椰子就會長得比紅豆還高囉，嘻嘻。」",
+            "convert": "「红豆已经是成猫了，照这样看来到下个月椰子就会长得比红豆还高咯，嘻嘻。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えぇ～……ぼくもおねーちゃんくらいが可愛くて良いのに～、うぅ～……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Wha~... I want to be as cute and petite as Onee-chan. Uu~...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「咦～人家想要像姊姊一樣嬌小可愛啦～嗚嗚～」",
+            "convert": "「咦～人家想要像姐姐一样娇小可爱啦～呜呜～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたしは１５７ｃｍの５１．７ｋｇかー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I'm 157 cm, 51.7 kg, huh?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我是157公分，51.7公斤啊。」",
+            "convert": "「我是157公分，51.7公斤啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「前回も変わらなかったし、もう背も伸びなさそうね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Last time was the same, so I don't think I'll be doing any more growing.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「上次量的時候也沒長高，看來已經不會再長了呢。」",
+            "convert": "「上次量的时候也没长高，看来已经不会再长了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも１５０ｃｍと４５．３ｋｇでほんの少し体重が増えちゃったな～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「And I'm 150 cm, 45.3 kg, which means I've grown just a teensy bit~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我是150公分，45.3公斤，只有體重比上次多一點點而已～」",
+            "convert": "「我是150公分，45.3公斤，只有体重比上次多一点点而已～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもわたしたちはもう成ネコだし、また胸おっきくなっちゃってたその分かな～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「All of us are already grown cats, though. Maybe that's how much bigger my boobs have gotten, you think~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「不過我們都已經是成貓了，重量應該都是增加在胸部吧～？」",
+            "convert": "「不过我们都已经是成猫了，重量应该都是增加在胸部吧～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「５００ｇくらい胸がおっきくなっちゃったかな～？　かな～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Maybe my boobs grew by about 500 grams~? Maybe~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「這500克難道全都長在胸部嗎～？會是這樣嗎～？」",
+            "convert": "「这500克难道全都长在胸部吗～？会是这样吗～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「別にいちいちそんなことアピールしなくていいわよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You don't have to give us the wink-wink, nudge-nudge for that.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「這種事不用一直提出來強調好不好。」",
+            "convert": "「这种事不用一直提出来强调好不好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え～、確かめてくれないの～？　メーちゃ～ん？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Huh, you're not going to affirm it for me~? May-ch~an?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「咦～楓妳不想親手確認看看嗎～？」",
+            "convert": "「咦～枫你不想亲手确认看看吗～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたしは自分が悪くない数字ならどうでもいいし」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「As long as my numbers are fine, I don't really care.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「只要量出來的數字讓我滿意，其他都無所謂啦。」",
+            "convert": "「只要量出来的数字让我满意，其他都无所谓啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はいはい。では次は３サイズを測りますよー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Okay, okay. Next, I'll be taking your three sizes.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好啦，再來要幫大家量三圍囉～」",
+            "convert": "「好啦，再来要帮大家量三围咯～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんな服を脱いで整列ー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Everyone take off your clothes and form a line.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「大家衣服脫掉，站成一排～」",
+            "convert": "「大家衣服脱掉，站成一排～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えーと、ココナツは上から……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Let's see, Coconut, from top to bottom...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我看看，椰子從上圍開始……」",
+            "convert": "「我看看，椰子从上围开始……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バスト６８ｃｍ、ウェスト５２ｃｍ、ヒップが７０ｃｍですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Bust 68 cm, waist 52 cm, hips 70cm.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「上圍68公分，腰圍52公分，臀圍70公分。」",
+            "convert": "「上围68公分，腰围52公分，臀围70公分。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツは胸もだいぶ大きくなってきましたね～」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Coconut, your breasts have gotten considerably bigger, I see~」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「椰子的胸部也長大不少呢～」",
+            "convert": "「椰子的胸部也长大不少呢～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「素晴らしいスタイルになって、私も飼い主として鼻が高いです♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You've got a superb figure now; it makes me proud as your owner♪」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「見到妳長成一副好身材，我身為飼主也覺得與有榮焉♪」",
+            "convert": "「见到你长成一副好身材，我身为饲主也觉得与有荣焉♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そろそろブラジャーを買わないとですね～♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「We're going to have to start buying you bras soon~♪」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「看來差不多該幫妳買胸罩了呢～」",
+            "convert": "「看来差不多该帮你买胸罩了呢～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うぅ、嫌だなぁ……背も胸もだんだんおっきくなってきて……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Uu, I don't like this... I'm getting taller, and my breasts are getting bigger...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗚嗚，真討厭……個子跟胸部都變得越來越大……」",
+            "convert": "「呜呜，真讨厌……个子跟胸部都变得越来越大……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼく、メインクーンだしこれからどんどんおっきくなっちゃうのかなぁ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm a Maine Coon, so I'm probably just going to keep getting bigger and bigger...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「因為人家是緬因貓，所以以後還會越長越大嗎……」",
+            "convert": "「因为人家是缅因猫，所以以后还会越长越大吗……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ブラもきつそうだし、動きにくそうだし……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Bras seem like they'll be tough, and hard to move in, too...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「總覺得胸罩穿起來會很緊，又不好活動……」",
+            "convert": "「总觉得胸罩穿起来会很紧，又不好活动……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「背も胸もおっきいのなんて、かわいくないよぉ……う～……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Tall with big breasts isn't cute at all... Uu~...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「像這樣大個子大胸部的，根本一點也不可愛……唔～」",
+            "convert": "「像这样大个子大胸部的，根本一点也不可爱……唔～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいじゃない、健康な発育の証拠だよ～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「What's the harm? It's a sign of healthy development~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「有什麼關係，這是發育良好的證據嘛～」",
+            "convert": "「有什么关系，这是发育良好的证据嘛～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも８７、５６、８３で、胸だけはどんどん育ってるし～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mine are 87, 56, and 83, so only my breasts are growing more and more~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我現在是87、56、83，一樣只有胸前一直在長大呀～？」",
+            "convert": "「我现在是87、56、83，一样只有胸前一直在长大呀～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「胸が大きいのは、女の子としては良いことだよ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Big boobs are a good thing for girls, y'know~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「對女孩子來說，胸部大是好事啦～♪」",
+            "convert": "「对女孩子来说，胸部大是好事啦～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういうものかなぁ……う～ん……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Is that how it works? Hmm...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「是這樣嗎……唔～嗯……」",
+            "convert": "「是这样吗……唔～嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アタシは６９、５０、７２か」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「So, I'm 69, 50, 72, huh?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我是69、50、72啊。」",
+            "convert": "「我是69、50、72啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もうまったく変わんねーな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Haven't changed a bit, I see.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「已經很久沒變過了呢。」",
+            "convert": "「已经很久没变过了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ま、胸のでかさがステータスなんて思わねーし、どうでもいいけどな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Then again, my status isn't reliant on how big my rack is, so it doesn't really matter.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「哎，反正我也不覺得胸部大小算得上什麼屬性，無所謂啦。」",
+            "convert": "「哎，反正我也不觉得胸部大小算得上什么属性，无所谓啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうよね、バランスよねー。あたしみたいに」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「That's true, you're balanced! Like me.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「就是說嘛，還是像我一樣的勻稱身材最好了。」",
+            "convert": "「就是说嘛，还是像我一样的匀称身材最好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほら見て？　上から８１、５７、８４」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「See, take a look. From top to bottom: 81, 57, 84.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「看到沒？從上圍開始81、57、84。」",
+            "convert": "「看到没？从上围开始81、57、84。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はー、やっぱりあたしはあたしが一番だわー♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ahh~ Being yourself really is the best♪」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「哎呀～果然還是我自己的身材最讓人滿意～♪」",
+            "convert": "「哎呀～果然还是我自己的身材最让人满意～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「けっ。言ってろ言ってろこの発情メスネコが」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ugh. Keep talking, keep talking, you cat in heat.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「呿，隨妳這隻發情貓娘怎麼說。」",
+            "convert": "「切，随你这只发情猫娘怎么说。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あーら、ひがまなくてもいいじゃない？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Oh my, no need for the inferiority complex, you know?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「怎麼，不需要自貶身價啊？」",
+            "convert": "「怎么，不需要自贬身价啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキだって需要があるところにはあるわよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You must have some areas that are in-demand, right?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「有些人就是喜歡紅豆這種身材喔？」",
+            "convert": "「有些人就是喜欢红豆这种身材喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「けっ、別にそんなん求めてねーっつーの」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ugh, I don't want anything of the sort, I tell you.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「呿，我才不稀罕咧。」",
+            "convert": "「切，我才不稀罕咧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラはー、６１せんち、５２せんち、６７せんちー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola is... 61 cm, 52 cm, 67 cm!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力是～61公分、52公分、67公分～！」",
+            "convert": "「巧克力是～61公分、52公分、67公分～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしは５９せんち、５１せんち、６６せんちだった」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm 59 cm, 51 cm, 66 cm.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我是59公分、51公分和66公分。」",
+            "convert": "「我是59公分、51公分和66公分。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラたちも、おねーちゃんたちみたいにおっきくなるかなー？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I wonder if the both of us will get as big as the rest of you guys?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我們也能跟姊姊們長得一樣高嗎？」",
+            "convert": "「我们也能跟姐姐们长得一样高吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁわたしたちはミックスだから」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Well, the two of us are mixed breeds, after all.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們的品種是米克斯，」",
+            "convert": "「我们的品种是米克斯，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あんまりおおきさにきたいはしないほうがいいね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We shouldn't be too hopeful on being big.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「對身高還是不要太期待比較好。」",
+            "convert": "「对身高还是不要太期待比较好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもわたしはショコラならなんでもいとしい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「But, I'd love you no matter what you look like.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不過，巧克力不管長成什麼模樣都很可愛。」",
+            "convert": "「不过，巧克力不管长成什么模样都很可爱。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わーい♪　ばにらがすきっていってくれるのうれしー♪　にゃーん♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yay♪ I'm so happy that you said you love me, Vanilla♪ Nyaaan♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇～♪香草說喜歡人家耶～♪真開心，喵～♪」",
+            "convert": "「哇～♪香草说喜欢人家耶～♪真开心，喵～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、ではこれにて終了ですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Okay, that should about wrap things up.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好了，這樣就全部檢查完囉。」",
+            "convert": "「好了，这样就全部检查完咯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんな服着てー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Everyone, get dressed!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「大家把衣服穿上吧～」",
+            "convert": "「大家把衣服穿上吧～」"
+        }
+    },
+    {
+        "jp": {
+            "name": "一同",
+            "content": "『「はーい♪」「はーい」「へーい」「はーい」「はーい」「は～い♪」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "「Okay!」「Okay!」「Got'cha.」「Okay.」「Okay!」「Okie dokie~♪」"
+        },
+        "cn": {
+            "name": "一同",
+            "content": "『「好～♪」「好～」「是～」「好～」「好～」「好～♪」』",
+            "convert": "『「好～♪」「好～」「是～」「好～」「好～」「好～♪」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……（どきどきどき）」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「(...badump badump badump...)」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……（期待又怕受傷害）」",
+            "convert": "「……（期待又怕受伤害）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふー……はぁー……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Phew... Haa...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呼──哈……」",
+            "convert": "「呼──哈……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……はっ！（測り測り）」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...Hah! (Measure, measure...)」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……喝！（測量中）」",
+            "convert": "「……喝！（测量中）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうですかショコラ！　数値は！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Well, Chocola?  What are my measurements?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「怎麼樣，巧克力！結果呢！？」",
+            "convert": "「怎么样，巧克力！结果呢！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しんちょうが１３３せんち、たいじゅうが２８．６きろー」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Height 133 cm, weight 28.6 kg!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「身高133公分，體重28.6公斤，」",
+            "convert": "「身高133公分，体重28.6公斤，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すりーさいず、うえから６２せんち、４９せんち、６５せんち」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Three sizes, from top to bottom: 62 cm, 49 cm, 65 cm.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「三圍從上圍開始是62公分、49公分、65公分。」",
+            "convert": "「三围从上围开始是62公分、49公分、65公分。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ばすとは、ここなつより６せんちすくないね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Bust is 6 cm smaller than Coconut.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「上圍比椰子小6公分呢。」",
+            "convert": "「上围比椰子小6公分呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとぎりぎり１せんちのさ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Barely a centimeter off from Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「跟巧克力比起來勉強多了1公分。」",
+            "convert": "「跟巧克力比起来勉强多了1公分。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わー！　ばにらけいさんできてすごーい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Wow! Vanilla, you did the calculations! You're amazing!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇～香草好會算數喔！」",
+            "convert": "「哇～香草好会算数喔！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「――――っ！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「────！？」",
+            "convert": "「────！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「コ、ココナツに……負けたの、ですね……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I-I... lost to Coconut...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我、我輸給……椰子了嗎……！」",
+            "convert": "「我、我输给……椰子了吗……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うぅぅ……！　私も、ネコくらい成長が早ければっ……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Uuu...! If only my growth was as rapid as a cat, too...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗚嗚嗚……！要是、要是我的成長速度也能像貓娘一樣快……！」",
+            "convert": "「呜呜呜……！要是、要是我的成长速度也能像猫娘一样快……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きっと、きっと色々と将来的にはまだ希望がっ……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Surely... Surely my near future will hold so much more hope...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「可是將來、將來一定還有很大希望的……！」",
+            "convert": "「可是将来、将来一定还有很大希望的……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぅおぉぉぉおぉおぉぉおぉぉっ……！　しくしくしく……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Bwaaaaaaaaahh...! Sob sob sob...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗚喔喔喔喔喔喔喔喔喔喔喔喔……！嗚嗚嗚……！」",
+            "convert": "「呜喔喔喔喔喔喔喔喔喔喔喔喔……！呜呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうしてしぐれちゃんはないてるの？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Why is Shigure-chan crying?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「時雨為什麼要哭啊？」",
+            "convert": "「时雨为什么要哭啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おんなのぷらいどってやつらしーよ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Probably what they call 'womanly pride'.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「好像是因為女人的尊嚴什麼的。」",
+            "convert": "「好像是因为女人的尊严什么的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「へー、おんなってたいへんなんだねー」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Wowie, being a woman is tough work, I guess.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喔～當女人還真辛苦呢～」",
+            "convert": "「喔～当女人还真辛苦呢～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うんうん。たいへんだね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-hmm, mm-hmm. It sure is.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯嗯，真的很辛苦呢。」",
+            "convert": "「嗯嗯，真的很辛苦呢。」"
+        }
+    }
+]

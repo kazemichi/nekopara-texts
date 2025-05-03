@@ -1,0 +1,1832 @@
+[
+    {
+        "jp": {
+            "content": "「気をつけて帰りなさい、嘉祥」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Have a safe trip back home, Kashou.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「嘉祥，回程一路小心。」",
+            "convert": "「嘉祥，回程一路小心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、それはもう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yes, of course.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，我知道的。」",
+            "convert": "「嗯，我知道的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨、来てくれて本当に嬉しかったわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Shigure, I'm so glad you came along.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「時雨，妳能來我真的很開心。」",
+            "convert": "「时雨，你能来我真的很开心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私も、すごく貴重な経験をさせていただき、とても楽しかったです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「As am I. It was an invaluable experience that I thoroughly enjoyed.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我在這裡收穫了許多寶貴的經驗，我也過得很開心。」",
+            "convert": "「我在这里收获了许多宝贵的经验，我也过得很开心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さん……いろいろと、ありがとうございました」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Onii-san... Thank you so much for everything.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「大哥哥……真的非常感謝你。」",
+            "convert": "「大哥哥……真的非常感谢你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺のほうこそ、世話になったね、フレーズ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I should be the one thanking you for the hospitality, Fraise.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我才是受到妳照顧了，草莓。」",
+            "convert": "「我才是受到你照顾了，草莓。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ま、また……来てくれますか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「W-Will you... come again?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「你還會……再來嗎？」",
+            "convert": "「你还会……再来吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろん。次は悩みの相談なんかじゃなく、もっともっと美味しいケーキを作れるようになって、それを食べてもらいにくるよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure will. Next time I come, I won't be coming for counseling. I'll be able to make even tastier cakes by then, and I'll come back to let you try them.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「當然還會來。下次就不是來找你們商量心事了，我會學會做更美味的蛋糕，來請你們嚐嚐。」",
+            "convert": "「当然还会来。下次就不是来找你们商量心事了，我会学会做更美味的蛋糕，来请你们尝尝。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい……楽しみにしています、お兄さん」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Okay. I look forward to it, Onii-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「好的，我期待那一天的到來，大哥哥。」",
+            "convert": "「好的，我期待那一天的到来，大哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「師匠、本当にありがとうございました」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mentor, I really appreciate everything.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「十分感謝您的照顧，師傅。」",
+            "convert": "「十分感谢您的照顾，师傅。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は何もしていないわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I didn't do anything.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我什麼都沒做啊。」",
+            "convert": "「我什么都没做啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、いくらかマシな顔になったわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Still, you've got a better look on your face now.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「不過，你的表情稍微放鬆了一些。」",
+            "convert": "「不过，你的表情稍微放松了一些。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですか？　自分ではわからないけど……そうかもしれませんね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Do I? I can't really tell, but... perhaps you're right.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「真的嗎？我自己是不太清楚……或許正如您所說的吧。」",
+            "convert": "「真的吗？我自己是不太清楚……或许正如您所说的吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今は、いくらかスッキリしています」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I do feel somewhat more refreshed now.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我是覺得有比來的時候要輕鬆一點。」",
+            "convert": "「我是觉得有比来的时候要轻松一点。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「変に必死になっていたけど、自分のやりたいことがハッキリしたというか……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I felt weirdly pressured before, but now I think I've got more of an idea of what I want to do...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「經過一番橫衝直撞，與其說我搞清楚了自己想做什麼……」",
+            "convert": "「经过一番横冲直撞，与其说我搞清楚了自己想做什么……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やるべきことが明瞭になった、と言ったほうがいいかな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Or maybe I should say that what I NEED to do is clearer now.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不如說是終於明白了現在我應該做什麼。」",
+            "convert": "「不如说是终于明白了现在我应该做什么。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そう……よかったわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I see. That's great news.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「是嗎……那就好。」",
+            "convert": "「是吗……那就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あの……結局、お兄さんは、何を見つけたのですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Um... What were you able to find in the end, Onii-san?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「是說……大哥哥到底明白了什麼呢？」",
+            "convert": "「是说……大哥哥到底明白了什么呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん……言葉にするのは難しいけれど……『皆を笑顔にする』という言葉の意味かな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmm... It's hard to describe in words, but... I guess you could say I found what the words 'putting smiles on people's faces' really means.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……這個有點難用言語解釋……應該就是『讓大家展露笑顏』這句話的意義吧。」",
+            "convert": "「嗯……这个有点难用言语解释……应该就是『让大家展露笑颜』这句话的意义吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「言葉の意味……ですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What it really means...?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「這句話的意義……？」",
+            "convert": "「这句话的意义……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「よくわからないんですが、きっと大切なものなのですね」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I don't quite understand, but I'm sure it's something important.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「雖然我不太明白，但一定是很重要的事情吧。」",
+            "convert": "「虽然我不太明白，但一定是很重要的事情吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、そう思うよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, I think so, at least.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊，我也這麼覺得。」",
+            "convert": "「是啊，我也这么觉得。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ、あなたにもお世話になりました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Fraise, I appreciate all you've done.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「草莓，這次真的承蒙妳照顧了。」",
+            "convert": "「草莓，这次真的承蒙你照顾了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしこそ、とても勉強になりました。一緒に働けて、楽しかったです」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「The pleasure is mine. I learned so much from you. It was so much fun being able to work with you.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「不會，我才是學到了很多。跟你們一起工作非常愉快。」",
+            "convert": "「不会，我才是学到了很多。跟你们一起工作非常愉快。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「カメラは、ちょっと慣れそうにないのですが……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「That said, I don't think I'll be getting used to cameras any time soon...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「不過我還是不太習慣面對鏡頭……」",
+            "convert": "「不过我还是不太习惯面对镜头……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……ささやかなお礼です、どうぞ受け取ってください」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hehe... I know it's not much, but please take this.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘻嘻……這是我的一點心意，請妳收下吧。」",
+            "convert": "「嘻嘻……这是我的一点心意，请你收下吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんでしょうか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What is this?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「這是什麼？」",
+            "convert": "「这是什么？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私からの、プレゼントです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「A present. From me to you.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這是我送妳的禮物。」",
+            "convert": "「这是我送你的礼物。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フレーズが封筒を受け取り、中を確かめる。"
+        },
+        "en": {
+            "content": "Fraise takes the envelope and checks the contents."
+        },
+        "cn": {
+            "content": "草莓接過時雨手中的信封，打開一看。",
+            "convert": "草莓接过时雨手中的信封，打开一看。"
+        }
+    },
+    {
+        "jp": {
+            "content": "入っていたのは、旅行券だった。"
+        },
+        "en": {
+            "content": "Inside the envelope is a travel voucher."
+        },
+        "cn": {
+            "content": "裡面裝的是旅行券。",
+            "convert": "里面装的是旅行券。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これって……！？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Is this...?!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「這是……！？」",
+            "convert": "「这是……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いつか、お店がお休みのとき、ぜひ日本の『ラ・ソレイユ』にいらしてください……できれば、お２人で」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Please stop by La Soleil in Japan one day when you have time away from the shop. The both of you, if you can spare the time.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哪天妳們店裡放假的時候，請一定要來日本的『La Soleil』……最好是兩個人一起來。」",
+            "convert": "「哪天你们店里放假的时候，请一定要来日本的『La Soleil』……最好是两个人一起来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぜひ！　ぜひ、行かせてください！」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Yes! Yes, please let us come!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「好的，我一定會去的！」",
+            "convert": "「好的，我一定会去的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そうね……気持ちが固まったら、いつか」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Right... Some day, when we have a solid idea on plans.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……是啊……等我下定決心的時候，一定會過去拜訪。」",
+            "convert": "「……是啊……等我下定决心的时候，一定会过去拜访。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい。きっと……喜びます。きっと」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Okay. I'm sure... they'll be pleased. I'm sure of it.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯。他一定……會很開心的。」",
+            "convert": "「嗯。他一定……会很开心的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨、いつの間に、旅行券なんか用意してたんだ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「When did you have the time to get a travel voucher, Shigure?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時雨，妳什麼時候準備好了旅行券？」",
+            "convert": "「时雨，你什么时候准备好了旅行券？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……備えあれば、憂いなしです、兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hehe... Preparation is the key to success, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘿嘿，這就是有備無患啊，哥哥。」",
+            "convert": "「嘿嘿，这就是有备无患啊，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フランスに到着してからは、ずっと一緒にいたはずなのに。\\n相変わらず行動力の塊だった。"
+        },
+        "en": {
+            "content": "How did she do that if she was with me ever since I stepped foot in France? She's a woman of action, as always."
+        },
+        "cn": {
+            "content": "到了法國後我們明明都在一起行動，\\n這傢伙依然是行動力超群。",
+            "convert": "到了法国后我们明明都在一起行动，\\n这家伙依然是行动力超群。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そろそろ、時間かな。師匠、どうぞお元気で！　また来ます！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's about time. Mentor, please take care! I'll be back again!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時間差不多了。師傅，請多保重身體！我會再來的！」",
+            "convert": "「时间差不多了。师傅，请多保重身体！我会再来的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとう、嘉祥。貴方こそ、無理しすぎないように。周りに心配をかけてはダメよ？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Thanks, Kashou. You make sure not to push yourself too hard. Don't go worrying everyone, all right?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「謝謝你。倒是你可別太拼命啊，不要讓大家擔心你。」",
+            "convert": "「谢谢你。倒是你可别太拼命啊，不要让大家担心你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい……気をつけます」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right, duly noted.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好……我會注意的。」",
+            "convert": "「好……我会注意的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、あの……ベニエさん……お世話になりました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「U-Um, Beignet-san... Thank you for your hospitality.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那、那個……謝謝妳這幾天的照顧，貝涅女士。」",
+            "convert": "「那、那个……谢谢你这几天的照顾，贝涅女士。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨も、また来てくれるかしら？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Will you be making another visit, too, Shigure?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「時雨，妳也要再來玩喔。」",
+            "convert": "「时雨，你也要再来玩喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、必ず……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes, absolutely.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好，我會的……」",
+            "convert": "「好，我会的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「絶対に、また来ます！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I promise you, I'll be back!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我絕對還會再來的！」",
+            "convert": "「我绝对还会再来的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「楽しみに……楽しみにしているわ……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes... I look forward to your return...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我會期待著……你們再來。」",
+            "convert": "「我会期待着……你们再来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！　はい！　また………………様のケーキを……食べに、来ます」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes! Yes! I'll be back...-sama. To eat your cake.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我會來！一定來！我會再來品嘗奶……您做的……蛋糕！」",
+            "convert": "「我会来！一定来！我会再来品尝奶……您做的……蛋糕！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ッ。ありがとう、時雨」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「...! Thank you, Shigure.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「……唔。謝謝妳，時雨。」",
+            "convert": "「……唔。谢谢你，时雨。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズは素敵なネコでしたねー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Fraise sure was a wonderful catgirl.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「草莓真是一隻優秀的貓娘啊。」",
+            "convert": "「草莓真是一只优秀的猫娘啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、そうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「She sure was.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，是啊。」",
+            "convert": "「嗯，是啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「日本に来てくれたら、いいのですが」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I wish she would come to Japan.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「如果她能來日本玩就好了。」",
+            "convert": "「如果她能来日本玩就好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「師匠が長々と店を休みにするとは思えないけど……まぁ、数日でも来てくれたらいいな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I can't imagine my mentor closing the shop for an extended period of time, but yeah, it'd be nice if they could come for even a few days.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「師傅應該不會把店關太久……不過還是希望她能來待幾天。」",
+            "convert": "「师傅应该不会把店关太久……不过还是希望她能来待几天。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きっと、うちのネコたちとも仲良くなれると思います」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「She would get along so well with our catgirls.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「她一定可以跟我們家的貓娘成為好朋友。」",
+            "convert": "「她一定可以跟我们家的猫娘成为好朋友。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん。フレーズは上品なネコだからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, Fraise is a great catgirl.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，因為草莓是隻氣質優雅的貓娘啊。」",
+            "convert": "「嗯，因为草莓是只气质优雅的猫娘啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "しばらく、ネコ談義をして歩いた。"
+        },
+        "en": {
+            "content": "The two of us walk and chat about catgirls."
+        },
+        "cn": {
+            "content": "我們就這樣邊走邊聊著貓娘的話題。",
+            "convert": "我们就这样边走边聊着猫娘的话题。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……さすがに冷えるな……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Urk... Sure got cold...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唔……外頭還真冷……」",
+            "convert": "「唔……外头还真冷……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「本当ですね……風邪を引かないようにしてください、兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It sure did. You should be careful not to catch a cold, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「是真的很冷……注意別感冒了，哥哥。」",
+            "convert": "「是真的很冷……注意别感冒了，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それを言うのは、俺の役目だなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I should be the one telling YOU that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這句話應該是我要對妳說吧。」",
+            "convert": "「这句话应该是我要对你说吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういえば、今さらだけど……帰りのチケットは手配してあるんだよな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「By the way, a little late to be asking now, but I assume you have a return ticket?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說到這個，我現在才想到……妳有準備回程的機票吧？」",
+            "convert": "「说到这个，我现在才想到……你有准备回程的机票吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨にかぎって、そんなヘマはしないと思うが。"
+        },
+        "en": {
+            "content": "I wouldn't think Shigure, of all people, would make an oversight like that, but I ask regardless."
+        },
+        "cn": {
+            "content": "雖然我覺得時雨應該不會犯這種錯誤。",
+            "convert": "虽然我觉得时雨应该不会犯这种错误。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろんです、兄様。ご迷惑は、おかけしません。同じ飛行機です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Of course I do, Nii-sama. I wouldn't inconvenience you like that. I booked the same flight.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「當然，我才不會給你添麻煩，哥哥。我們搭乘的是同一班飛機。」",
+            "convert": "「当然，我才不会给你添麻烦，哥哥。我们搭乘的是同一班飞机。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺のフライトの予約、どうやって調べたんだ……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「How did you search for my flight itinerary...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳是怎麼查到我預約的航班的……？」",
+            "convert": "「你是怎么查到我预约的航班的……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お店を休めるのは３日間です。なるべく長くフランスに滞在しようと思ったら、スケジュールは限られます」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You're away from the shop for three days. If you were planning on staying in France for as long as possible, then your schedule would be limited.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥只離開三天，如果想要盡可能地在法國待久一點，那行程的選擇就很有限了。」",
+            "convert": "「哥哥只离开三天，如果想要尽可能地在法国待久一点，那行程的选择就很有限了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クリスマスが近いため、もう予約可能な便は少ないですから、簡単な推理ですよ、兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「And since Christmas is around the corner, there weren't many flights you could possibly book, so it was an simple deduction, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「再加上臨近聖誕節，可以預約的班次也不多，這是很簡單的推理啦，哥哥。」",
+            "convert": "「再加上临近圣诞节，可以预约的班次也不多，这是很简单的推理啦，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「簡単かなぁ……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Simple, eh...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這很簡單嗎……？」",
+            "convert": "「这很简单吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んしょ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Heave...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘿咻……」",
+            "convert": "「嘿咻……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨は大きめのキャリーケースを引っ張っている。\\nけっこう重そうだ。"
+        },
+        "en": {
+            "content": "Shigure pulls her rather big carry-on case. Looks pretty heavy."
+        },
+        "cn": {
+            "content": "時雨拖著一個很大的行李箱，看起來十分沉重。",
+            "convert": "时雨拖着一个很大的行李箱，看起来十分沉重。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今回は飛行機で２泊だから、ほぼ１泊の旅行だろう？　ずいぶんと大荷物だな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「This was a two-night trip by plane, which means it was roughly a one-night stay. You're packing quite the load for such a short time.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這次會在飛機上過兩晚，等於我們只住了一個晚上吧，妳怎麼帶這麼多行李？」",
+            "convert": "「这次会在飞机上过两晚，等于我们只住了一个晚上吧，你怎么带这么多行李？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「女性は身だしなみに小道具がいっぱい必要なのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「A girl needs many tools to keep up appearances.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「女生需要帶很多整理儀容的小道具。」",
+            "convert": "「女生需要带很多整理仪容的小道具。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あと、このドレスと和服とで、同じ靴、同じ下着というわけにはいきませんし、部屋着も必要でしたし」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Also, I couldn't just use the same shoes and underwear for this dress and kimono. I also needed loungewear, as well.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「還有這套洋裝總不能跟和服搭配同一雙鞋子，內衣也不能穿同一套，睡衣也是必要的。」",
+            "convert": "「还有这套洋装总不能跟和服搭配同一双鞋子，内衣也不能穿同一套，睡衣也是必要的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フランスの宅配便の使い方は、調べていませんでしたので」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「And I didn't research on how to use the French luggage delivery services.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「而且我沒查到法國的快遞要怎麼用。」",
+            "convert": "「而且我没查到法国的快递要怎么用。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あー……フランスの宅配便は、あまり頼りにしないほうがいいかな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Aah, I wouldn't put too much faith in getting your luggage delivered to the airport in France.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊……法國的快遞啊，那還是別用比較好。」",
+            "convert": "「啊……法国的快递啊，那还是别用比较好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そうなんですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「O-Oh, is that so?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「是這樣的嗎？」",
+            "convert": "「是这样的吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「個人的な経験によるが……運に左右されると思うぞ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Coming from personal experience... you're pretty much leaving it to chance.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「根據我個人的經驗……在法國寄快遞是要靠運氣的。」",
+            "convert": "「根据我个人的经验……在法国寄快递是要靠运气的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは困ります……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Well, that sounds no good.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那還真是麻煩……」",
+            "convert": "「那还真是麻烦……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "バス停までは、少し歩く。\\nかといって、タクシーを使うほどの距離でもなかった。"
+        },
+        "en": {
+            "content": "It's a short walk to the bus stop. Or rather, it's not far enough to justify taking a cab."
+        },
+        "cn": {
+            "content": "我們到巴士停靠站需要走一段路，\\n但是路程又沒有遠到需要搭乘計程車。",
+            "convert": "我们到巴士停靠站需要走一段路，\\n但是路程又没有远到需要搭乘出租车。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨、大変なら持ってあげるから、無理をする前に言ってくれよ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Shigure, I can take that for you if it's too much, so just ask before you break your back.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時雨，妳拿不動的話我可以幫妳拿，撐不住的時候要馬上跟我說。」",
+            "convert": "「时雨，你拿不动的话我可以帮你拿，撑不住的时候要马上跟我说。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Oh...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様、ちょっと変わりましたね……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama, I think you've changed a bit...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥，你有點改變了……」",
+            "convert": "「哥哥，你有点改变了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ、重たい荷物を運んでいる妹を気遣うくらい、今までだってしただろ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh? Looking out for my little sister carrying a bunch of heavy luggage isn't something new for me, is it? 」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？擔心搬運重物的妹妹，這種事我以前也會做吧？」",
+            "convert": "「咦？担心搬运重物的妹妹，这种事我以前也会做吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなに薄情な人間ではなかったと思うぞ。むしろ、お節介なくらいで……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I don't think that I've ever been THAT heartless before. Actually, I just might dote a little too much...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我以前應該不是那麼無情的人吧。甚至可以說我經常多管閒事……」",
+            "convert": "「我以前应该不是那么无情的人吧。甚至可以说我经常多管闲事……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい。今も昔も、兄様はとっても優しくて、素敵です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes. Past and present, you've always been a kind and wonderful person.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「是的，哥哥不管是以前還是現在，都是個很溫柔的人。」",
+            "convert": "「是的，哥哥不管是以前还是现在，都是个很温柔的人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、以前なら、私の言葉を待つことなく、『重そうだから持ってあげるよ』と言うかと思います」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But, in the past, I feel as though you wouldn't wait for me to say anything and you would just say, 'Hey, that looks heavy; I'll take that off your hands'.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過，以前的哥哥不會等我開口，而是會直接說『看起來很重，我幫妳拿吧』。」",
+            "convert": "「不过，以前的哥哥不会等我开口，而是会直接说『看起来很重，我帮你拿吧』。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そう、かな……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, would I...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是這樣的嗎……？」",
+            "convert": "「是这样的吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それはそれで、とても嬉しいことですし、私は感謝したと思いますが」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That being the case, it's an extremely kind gesture, and I would appreciate it.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「雖然說那樣也不錯，我會很開心，也會很感激，但是……」",
+            "convert": "「虽然说那样也不错，我会很开心，也会很感激，但是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、今の兄様は、私に判断を任せてくれました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「However, you seem to let me make the decision for myself now.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「現在的哥哥會讓我自己做判斷。」",
+            "convert": "「现在的哥哥会让我自己做判断。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それが当然だと思ったから、そう言ったんだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I just said what I said because it felt natural.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我覺得這是當然的，所以就這麼說啊。」",
+            "convert": "「我觉得这是当然的，所以就这么说啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きっと自覚はないのでしょう。ちょっとした変化です。兄様マニアの私でなければ、見逃してしまいますわ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You probably don't realize it yourself since it's such a minor change. If I weren't such a Nii-sama fanatic, I would have overlooked it myself.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥是自己沒有感覺而已，畢竟變化很細微。只有身為哥哥狂粉的我才能發現。」",
+            "convert": "「哥哥是自己没有感觉而已，毕竟变化很细微。只有身为哥哥狂粉的我才能发现。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、おう……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「U-Uh, sure...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔、喔……」",
+            "convert": "「喔、喔……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺自身のことなのに、妹のほうが把握しているというのも、\\nどうかと思うが……"
+        },
+        "en": {
+            "content": "Not sure how I feel about my sister being able to pick up on something about me better than... well, me."
+        },
+        "cn": {
+            "content": "明明是我自己的事情，我妹妹卻比我更了解，\\n這說起來也不太正常吧……",
+            "convert": "明明是我自己的事情，我妹妹却比我更了解，\\n这说起来也不太正常吧……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ここ数日のことだけでなく……きっと、これまでの日々の積み重ねが、兄様を変えたのでしょうね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I'm sure that the past few days alone haven't changed you... but rather, the culmination of the days leading up until now have.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這並不是這幾天才有的變化，應該是長久以來的日積月累，讓哥哥發生了改變。」",
+            "convert": "「这并不是这几天才有的变化，应该是长久以来的日积月累，让哥哥发生了改变。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は何も変わったつもりはないけれど、時雨が言うのなら、変わったのかもしれない」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I don't really think I've changed any, but maybe I did if you say so.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不覺得我有什麼改變，但既然妳這麼說的話，那我可能真的變了吧。」",
+            "convert": "「我不觉得我有什么改变，但既然你这么说的话，那我可能真的变了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ネコたちと過ごした日々があって、\\n師匠の言葉があって、\\n今の俺が形作られているのだろう。"
+        },
+        "en": {
+            "content": "The days I spent with the girls, my mentor's words— all those things have probably helped shape the person I am now."
+        },
+        "cn": {
+            "content": "跟貓娘們一起度過的日子，\\n還有師傅跟我說過的話，\\n這些經歷造就了現在的我。",
+            "convert": "跟猫娘们一起度过的日子，\\n还有师傅跟我说过的话，\\n这些经历造就了现在的我。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、師匠があれだけの話をしてくれたんだ。俺だって少しは学ぶさ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, Mentor was willing to share that much of her story with me. I could learn a thing or two myself.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，師傅畢竟跟我說了那麼多話，我好歹也有學到一點東西。」",
+            "convert": "「嗯，师傅毕竟跟我说了那么多话，我好歹也有学到一点东西。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「学びはありましたか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Were you able to learn anything?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「有學到什麼嗎？」",
+            "convert": "「有学到什么吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たぶんな。俺も、自分が洋菓子を作る理由を考えてみたよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, I think. I tried thinking of my own reasons for pastry-making.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可能有吧。我也思考了一下我做西式糕點的理由。」",
+            "convert": "「可能有吧。我也思考了一下我做西式糕点的理由。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　皆を笑顔にって……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Huh? Putting smiles on people's faces...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「咦？哥哥不是說過要讓大家展露笑顏……」",
+            "convert": "「咦？哥哥不是说过要让大家展露笑颜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それが言葉だけだったんじゃないか、と思ってな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, I'm starting to think those were just words.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我在想，這句話我是不是嘴上說說而已。」",
+            "convert": "「我在想，这句话我是不是嘴上说说而已。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな！　言葉だけなんてこと……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「No way! No way they're just words...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「怎麼可能只是嘴上說說……！」",
+            "convert": "「怎么可能只是嘴上说说……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、本当の心の奥底にある理由を……俺は自分自身の気持ちを、深く考えてみたんだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No, I mean the real reason deep in my heart... I tried giving my own feelings some deep thought.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我內心深處還有一個真正的理由……我仔細地思考了自己到底有什麼想法。」",
+            "convert": "「我内心深处还有一个真正的理由……我仔细地思考了自己到底有什么想法。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「結局のところ、俺は……親父に認められたいんだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ultimately, I... just want dad to approve of me.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「到頭來，我還是……想要得到父親的認同。」",
+            "convert": "「到头来，我还是……想要得到父亲的认同。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いい歳して、反抗期なんじゃないか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「A little too old to be going through my rebellious teenager phase, I know.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我都這麼大了，這還算是叛逆期嗎？」",
+            "convert": "「我都这么大了，这还算是叛逆期吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は、承認欲求に満ちたエゴイストなんだろう、きっと」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm pretty sure I'm being egotistical and trying to seek approval.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我可能就只是一個想要得到別人認同的利己主義者。」",
+            "convert": "「我可能就只是一个想要得到别人认同的利己主义者。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すまないな、時雨……幻滅させたかな……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sorry, Shigure. Did I shatter your illusion of me...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對不起，時雨……我在妳心中的形象是不是破滅了……？」",
+            "convert": "「对不起，时雨……我在你心中的形象是不是破灭了……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それが、兄様が洋菓子を作っている理由なんですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Is that your reason for making pastries, Nii-sama?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這就是哥哥做西式糕點的理由嗎？」",
+            "convert": "「这就是哥哥做西式糕点的理由吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうじゃなければ、親父に否定されたくらいで、こんなにも悩んだりはしないだろう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「If it wasn't, I wouldn't be this broken up about dad disapproving of me.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果不是這個原因的話，僅僅是被老爸否定而已，我何必煩惱成這樣。」",
+            "convert": "「如果不是这个原因的话，仅仅是被老爸否定而已，我何必烦恼成这样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もしかしたら、そういう気持ちはあるのかもしれません」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That could very well play a part in it, yes.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥心中可能確實是有這種想法。」",
+            "convert": "「哥哥心中可能确实是有这种想法。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、兄様が洋菓子を作りはじめたときは、まだ父様と対立していなかったはずです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But, I don't remember you butting heads with Father when you first started making Western sweets.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「可是哥哥開始製作西式糕點的時候，應該還沒有跟爸爸鬧翻吧。」",
+            "convert": "「可是哥哥开始制作西式糕点的时候，应该还没有跟爸爸闹翻吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、それは……そうだけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「W-Well... That's true, but...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳這樣說……好像也對……」",
+            "convert": "「你这样说……好像也对……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、あれこれ命令されて、釈然としない気持ちがあったのは間違いない」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「But I definitely felt frustrated after having him boss me around.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過，一直被老爸命令這命令那，我肯定對他心生不滿。」",
+            "convert": "「不过，一直被老爸命令这命令那，我肯定对他心生不满。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「素直に従う気になれなくて、フランスに留学したんだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I couldn't find it in me to comply, so I went to study abroad in France.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我就是因為不想乖乖聽他的話，所以才跑到法國留學。」",
+            "convert": "「我就是因为不想乖乖听他的话，所以才跑到法国留学。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「父様に認められたいだけなら、ネコたちを喜ばせるためにケーキを作る必要はなかったと思います」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「If you just wanted father's approval, then I wouldn't think you'd need to bake cakes to please the girls.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「如果只是想要得到爸爸的認同，哥哥沒有必要為了讓貓娘們開心而做蛋糕給她們吃。」",
+            "convert": "「如果只是想要得到爸爸的认同，哥哥没有必要为了让猫娘们开心而做蛋糕给她们吃。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、それは……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No, that was just...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃，那個是……」",
+            "convert": "「呃，那个是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お客さんに認めてもらうために頑張るのは、お店をやっている以上は、当然のことだと思いますが」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I do think that trying your best for your customer's approval is natural so long as you operate a business.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「你經營著一間蛋糕店，那麼你為了得到客人的認同而努力奮鬥是很合理的事情。」",
+            "convert": "「你经营着一间蛋糕店，那么你为了得到客人的认同而努力奋斗是很合理的事情。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う、む……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Um, yeah...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唔，嗯……」",
+            "convert": "「唔，嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様は、対抗心だけでお菓子を作っているわけじゃないです。そのことは、私がよく知っています」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But you're not making pastries just to be a rebel. That much I know well.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥並不是只抱著對抗的心態來做糕點的，這一點沒人能比我更清楚。」",
+            "convert": "「哥哥并不是只抱着对抗的心态来做糕点的，这一点没人能比我更清楚。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコたちに喜んでもらえたときの、兄様の笑顔……どこに、父様への反抗心があるというのですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「The smile on your face when you make the girls happy... What part of that has to do with rebelling against Father?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「看到貓娘們喜歡自己做的蛋糕的時候，哥哥露出的笑容之中……難道說還有對爸爸的叛逆心理嗎？」",
+            "convert": "「看到猫娘们喜欢自己做的蛋糕的时候，哥哥露出的笑容之中……难道说还有对爸爸的叛逆心理吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「父様に認めさせたい気持ちがある――と兄様が言うのならきっと、あるのでしょう」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「If you say that a part of you wants Father's approval, then I'm sure you do.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「想得到父親的認同——既然哥哥這麼說了，那你心中一定有這樣的想法。」",
+            "convert": "「想得到父亲的认同——既然哥哥这么说了，那你心中一定有这样的想法。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも『皆を笑顔にするお菓子を』という気持ちも、間違いなくあるはずです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But, I have no doubt that you're also doing it because you want to make 'sweets that put smiles on people's faces'.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「可是『想做出讓大家展露笑顏的糕點』的這份心情，也沒有半點虛假。」",
+            "convert": "「可是『想做出让大家展露笑颜的糕点』的这份心情，也没有半点虚假。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どちらも兄様で……私は、そんな兄様が大好きです。全て」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Those both represent you. I love those parts of you, Nii-sama. I love all of you.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不管哪個都是哥哥的真實想法……我最喜歡這樣的哥哥了，全部都喜歡。」",
+            "convert": "「不管哪个都是哥哥的真实想法……我最喜欢这样的哥哥了，全部都喜欢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「全て……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「All of me...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「全部都……」",
+            "convert": "「全部都……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ベニエさんのご子息は『ママはお日様みたいだね』と言ったそうですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Beignet-san's son said, 'Mommy, you're just like the sun', right?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「貝涅女士的兒子曾說『媽媽就像太陽一樣溫暖』。」",
+            "convert": "「贝涅女士的儿子曾说『妈妈就像太阳一样温暖』。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私にとっては――兄様こそが、お日様です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Well, to me, you are my sun.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「對我而言，哥哥就是我的太陽。」",
+            "convert": "「对我而言，哥哥就是我的太阳。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「皆を笑顔にする、素敵な方です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「A wonderful person who brings smiles to people's faces.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥是能讓大家露出笑容的人。」",
+            "convert": "「哥哥是能让大家露出笑容的人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとう……たしかに、俺の気持ちは１つじゃない」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thank you... You're right. I'm allowed to feel more than one way.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝……妳說的沒錯，我的想法並不只一種。」",
+            "convert": "「谢谢……你说的没错，我的想法并不只一种。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「親父に認められたいという欲はある。でも、皆を笑顔にするお菓子を作りたいという気持ちも、嘘じゃない」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I do have a desire for dad's approval, but at the same time, I can't deny that I want to make sweets that put smiles on people's faces.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我內心渴望得到老爸的認可。同時我也想做出讓大家展露笑顏的甜點，這份心情也不是虛假的。」",
+            "convert": "「我内心渴望得到老爸的认可。同时我也想做出让大家展露笑颜的甜点，这份心情也不是虚假的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は、褒められたもんじゃない欲望のほうを、無視しようとして、変にバランスを崩していた気がする」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I have a feeling that trying to ignore that unseemly desire was throwing me off balance.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我一直想要無視這點不足為外人道的慾望，可是這麼做反而讓我的心中的天平失衡。」",
+            "convert": "「我一直想要无视这点不足为外人道的欲望，可是这么做反而让我的心中的天平失衡。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうかもしれません」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That very well could be the case.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「可能正是如此。」",
+            "convert": "「可能正是如此。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうな、時雨。おかげで、もう少しだけ前に進めそうだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thanks, Shigure. I feel like I can move forward a little bit more now.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝妳，時雨。拜妳所賜，我好像又可以向前邁出一步了。」",
+            "convert": "「谢谢你，时雨。拜你所赐，我好像又可以向前迈出一步了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様……もったいないお言葉です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama... I am humbled.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥……這是對我最好的稱讚了。」",
+            "convert": "「哥哥……这是对我最好的称赞了。」"
+        }
+    }
+]

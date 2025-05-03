@@ -1,0 +1,294 @@
+[
+    {
+        "jp": {
+            "content": "「すー……すー……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Zzz... Zzz..."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "呼～……呼～……",
+            "convert": "呼～……呼～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさまぁ～……♪　にへへへ……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Master~%fSourceHanSansCN-M;♪%f; Nyehehehe...%fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "主人～……♪嘿嘿嘿……♪",
+            "convert": "主人～……♪嘿嘿嘿……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラぁ～……ごしゅじん～……♪　にゃへへ……♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Chocola... Master...%fSourceHanSansCN-M;♪%f; Nyahehe...%fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "巧克力～……主人～……♪喵嘿嘿……♪",
+            "convert": "巧克力～……主人～……♪喵嘿嘿……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……大人なんだか、幼いんだか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "...You two sure are childish for grown catgirls."
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "……真搞不懂她们俩到底是成熟还是小孩子气。",
+            "convert": "……真搞不懂她们俩到底是成熟还是小孩子气。"
+        }
+    },
+    {
+        "jp": {
+            "content": "両手の重みを心地よく思いながら。"
+        },
+        "en": {
+            "content": "I sit there comfortably, thinking, as my two catgirls lean on either arm."
+        },
+        "cn": {
+            "content": "我一面细细品味着左右两手所承担的幸福重量，",
+            "convert": "我一面细细品味着左右两手所承担的幸福重量，"
+        }
+    },
+    {
+        "jp": {
+            "content": "天井に向かって幸せな笑いが溢れる。"
+        },
+        "en": {
+            "content": "I stare up at the ceiling, a content smile spreading across my face."
+        },
+        "cn": {
+            "content": "仰望着天花板的脸上也自然而然地洋溢出笑容来。",
+            "convert": "仰望着天花板的脸上也自然而然地洋溢出笑容来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ここが開店したばっかの頃は、どうなるかと思ったけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "...I had a vague idea of what it'd be like when I open the shop, but..."
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "……刚开店的时候，明明还很担心将来的说。",
+            "convert": "……刚开店的时候，明明还很担心将来的说。"
+        }
+    },
+    {
+        "jp": {
+            "content": "ショコラとバニラがいてくれて。"
+        },
+        "en": {
+            "content": "I can really live out each day in happiness..."
+        },
+        "cn": {
+            "content": "多亏了有巧克力跟香草在，",
+            "convert": "多亏了有巧克力跟香草在，"
+        }
+    },
+    {
+        "jp": {
+            "content": "本当に幸せな日々を過ごせてるなぁ。"
+        },
+        "en": {
+            "content": "...Having Chocola and Vanilla here by my side."
+        },
+        "cn": {
+            "content": "让我每一天都过得很幸福。",
+            "convert": "让我每一天都过得很幸福。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……飼い主らしく、な」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "...Sounds like something a pet owner would say."
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "……要更有饲主的样子，是吗。",
+            "convert": "……要更有饲主的样子，是吗。"
+        }
+    },
+    {
+        "jp": {
+            "content": "可愛らしい寝顔を見ながらそんなことを思って。"
+        },
+        "en": {
+            "content": "I stare lovingly at their adorable, sleeping faces..."
+        },
+        "cn": {
+            "content": "在看着她们俩可爱睡脸的同时，我想起了这句话。",
+            "convert": "在看着她们俩可爱睡脸的同时，我想起了这句话。"
+        }
+    },
+    {
+        "jp": {
+            "content": "２匹一緒に優しく頭を撫でる。"
+        },
+        "en": {
+            "content": "...And gently rub their heads."
+        },
+        "cn": {
+            "content": "接着我轻轻摸了摸两只猫娘的头。",
+            "convert": "接着我轻轻摸了摸两只猫娘的头。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んふふ～……きもちーです、ご主人さまぁ～……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Mmfufu~ That feels nice, Master...%fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯哼哼～……这样好舒服喔，主人～……♪",
+            "convert": "嗯哼哼～……这样好舒服喔，主人～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もっと、なでなで～……もっと～……♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Pet us... more~ More...%fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "再多摸一点～……还不够～……♪",
+            "convert": "再多摸一点～……还不够～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほら、もっとこっち来て布団入れ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "Come on now, get over here and hop in your futons."
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "好啦，快点到被窝这边来。",
+            "convert": "好啦，快点到被窝这边来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまがこっちに来て下さい～……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Master should come over here~"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "主人你过来嘛～……",
+            "convert": "主人你过来嘛～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はげしく同意～……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "I strongly agree~"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "不能同意她更多～……",
+            "convert": "不能同意她更多～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「左右で無理言うな。ほら集合」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "Don't be ridiculous, you two. Come on, let's go."
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "妳们一左一右我是要去哪边。集合！",
+            "convert": "你们一左一右我是要去哪边。集合！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃーん、ご主人さまのえっち～……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Nya~n, Master's a perv~%fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵～主人大色狼～……♪",
+            "convert": "喵～主人大色狼～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほんとエロパティシエ……でも嫌いじゃない……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "He's a such a pervy patissier... Not that I mind..."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "果然是色狼糕点师……不过我完全不讨厌……",
+            "convert": "果然是色狼糕点师……不过我完全不讨厌……"
+        }
+    },
+    {
+        "jp": {
+            "content": "何の変わり映えもない、いつも通りの。"
+        },
+        "en": {
+            "content": "Nothing's really changed. It's the same as always."
+        },
+        "cn": {
+            "content": "就这样，我们过了一个如往常般没有任何变化，",
+            "convert": "就这样，我们过了一个如往常般没有任何变化，"
+        }
+    },
+    {
+        "jp": {
+            "content": "穏やかで幸せな夜が過ぎて行った。"
+        },
+        "en": {
+            "content": "The calm of night then quietly washed over us."
+        },
+        "cn": {
+            "content": "但却十分安祥、又幸福的夜晚。",
+            "convert": "但却十分安祥、又幸福的夜晚。"
+        }
+    }
+]

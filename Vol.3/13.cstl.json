@@ -1,0 +1,6428 @@
+[
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「歡迎光臨～♪歡迎來到Soleil～♪」",
+            "convert": "「欢迎光临～♪欢迎来到Soleil～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hello! ♪ Welcome to La Soleil! ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「いにゃっしゃいませー♪　ソレイユへよーこそー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「現在馬上為三位客人帶位～」",
+            "convert": "「现在马上为三位客人带位～」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Table for three.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「お客様３名様ごあんなーい」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「好傢伙，妳說什麼～？」",
+            "convert": "「好家伙，你说什么～？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「What was that?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ンだテメー、コノヤロー」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「想打嗎？想跟我打嗎，長毛種？」",
+            "convert": "「想打吗？想跟我打吗，长毛种？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「You wanna go? You really wanna go, long hair?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「やんのか？　あたしとやろうってのか、長毛種？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「要打嗎？要跟人家打嗎？要跟人家來一場嗎，姊姊？」",
+            "convert": "「要打吗？要跟人家打吗？要跟人家来一场吗，姐姐？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Do you? Do you really want to? Are you sure you can take me on, onee-chan?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「やんの？　ぼくとやんの？　やる気なのお姉ちゃん？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好了，妳們兩個。」",
+            "convert": "「好了，你们两个。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Cut it out, you two.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「こら２匹とも」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「明明感情就很好，別老是為了一點小事吵架嘛。」",
+            "convert": "「明明感情就很好，别老是为了一点小事吵架嘛。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You know you get along with each other. You shouldn't fight over something so small.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ほんとは仲良いんだから、細かいことでケンカすんなって」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆＆椰子",
+            "content": "『「…………」\u001f\\n　「…………」』",
+            "convert": "『「…………」\u001f\\n　「…………」』"
+        },
+        "en": {
+            "name": "Azuki & Coconut",
+            "content": "『「......」\u001f\\n　「......」』"
+        },
+        "jp": {
+            "name": "アズキ＆ココナツ",
+            "content": "『「…………」\u001f\\n　「…………」』"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……哎，老為了這點小事吵起來也不是辦法。」",
+            "convert": "「……哎，老为了这点小事吵起来也不是办法。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Well, we really shouldn't fight over every little thing.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……ま、いちいち揉めてもしゃーねーしな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「……對不起。」",
+            "convert": "「……对不起。」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「...I'm sorry.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「……ごめんなさい」"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人很快就乖乖停止爭吵。",
+            "convert": "两人很快就乖乖停止争吵。"
+        },
+        "en": {
+            "content": "I stop the fight before it begins."
+        },
+        "jp": {
+            "content": "２匹が素直にケンカを止める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好乖好乖。妳們倆都變成熟了呢。」",
+            "convert": "「好乖好乖。你们俩都变成熟了呢。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「There you go. You two are growing up.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「よしよし。２匹ともオトナになったな」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我在互相別過臉的紅豆跟椰子頭上溫柔地摸了摸。",
+            "convert": "我在互相别过脸的红豆跟椰子头上温柔地摸了摸。"
+        },
+        "en": {
+            "content": "I turn to give Azuki and Coconut a gentle headpat."
+        },
+        "jp": {
+            "content": "そっぽ向いてるアズキとココナツの頭を優しく撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「耶嘿嘿，感覺好舒服喵～♪」",
+            "convert": "「耶嘿嘿，感觉好舒服喵～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ehehe, that feels good~ ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「えへへ、きもち～にゃ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「人家最喜歡給哥哥摸頭了～呼嚕呼嚕呼嚕～♪」",
+            "convert": "「人家最喜欢给哥哥摸头了～呼噜呼噜呼噜～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I love it when you coddle me, onii-chan. Purrr~ ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お兄ちゃんのナデナデ大好きだ～ごろごろごろ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "content": "而椰子也把臉湊過來，在我的肩膀上蹭個不停。",
+            "convert": "而椰子也把脸凑过来，在我的肩膀上蹭个不停。"
+        },
+        "en": {
+            "content": "Coconut is rubbing her cheek against my shoulder."
+        },
+        "jp": {
+            "content": "ココナツが俺の肩に頬をすり寄せてくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「感覺是還不錯啦。雖然我不是為了被嘉祥誇獎才安分下來就是了。」",
+            "convert": "「感觉是还不错啦。虽然我不是为了被嘉祥夸奖才安分下来就是了。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「This isn't half bad. I didn't expect to be praised after you stopped us.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「まぁ悪かねーな。別に褒められるために止めたわけじゃねーけど」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆不喜歡被我摸頭？」",
+            "convert": "「红豆不喜欢被我摸头？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You don't like being petted, Azuki?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキは撫でられるの嫌なのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……還用說，當然喜歡啊。」",
+            "convert": "「……还用说，当然喜欢啊。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Of course I do.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……うれしーに、決まってんだろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「這種小事不需要特地問好不好，呆子……」",
+            "convert": "「这种小事不需要特地问好不好，呆子……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「You don't have to ask every time, dumbass...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「いちいち聞くなよ、アホ……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "板著臉的紅豆，",
+            "convert": "板着脸的红豆，"
+        },
+        "en": {
+            "content": "Azuki's blunt, as usual."
+        },
+        "jp": {
+            "content": "ぶっきらぼうにしつつも。"
+        }
+    },
+    {
+        "cn": {
+            "content": "輕輕地把背靠在我手臂上。",
+            "convert": "轻轻地把背靠在我手臂上。"
+        },
+        "en": {
+            "content": "...That doesn't stop her from rubbing her back against my arm, though."
+        },
+        "jp": {
+            "content": "背中を俺の腕にくっつけて寄りかかって来る。"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人撒嬌時的態度可說是180度相反，",
+            "convert": "两人撒娇时的态度可说是180度相反，"
+        },
+        "en": {
+            "content": "Their favorite coddling method is symmetrical to one other."
+        },
+        "jp": {
+            "content": "それぞれ対称的な甘え方。"
+        }
+    },
+    {
+        "cn": {
+            "content": "但在我眼裡，兩人都坦率得惹人憐愛。",
+            "convert": "但在我眼里，两人都坦率得惹人怜爱。"
+        },
+        "en": {
+            "content": "Each is just as adorable as the other."
+        },
+        "jp": {
+            "content": "でもどっちも素直で可愛らしい。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆跟椰子都很可愛喔。」",
+            "convert": "「红豆跟椰子都很可爱喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You're both very cute, Azuki, Coconut.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキもココナツも可愛いぞ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「喵～♪」",
+            "convert": "「喵～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Meoow~ ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「にゃ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「是，是。」",
+            "convert": "「是，是。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Yes, yes.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「はいはい」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「盯～…………」",
+            "convert": "「盯～…………」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「じー…………」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「（壞心眼的笑容）」",
+            "convert": "「（坏心眼的笑容）」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Heh, heh, heh.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「にやにや、にやにや～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人──！不好了！不好了啦！」",
+            "convert": "「主人──！不好了！不好了啦！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master! I'm in trouble! Big trouble!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ご主人さまー！　大変！　大変なんです！」"
+        }
+    },
+    {
+        "cn": {
+            "content": "一道人影衝進廚房，",
+            "convert": "一道人影冲进厨房，"
+        },
+        "en": {
+            "content": "Chocola comes scrambling out of the kitchen..."
+        },
+        "jp": {
+            "content": "厨房に駆け込んで。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我連忙把飛撲上來的巧克力一把抱住。",
+            "convert": "我连忙把飞扑上来的巧克力一把抱住。"
+        },
+        "en": {
+            "content": "...and runs straight into my arms."
+        },
+        "jp": {
+            "content": "飛びついて来たショコラを抱き留める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「發生什麼事了，怎麼那麼慌張？」",
+            "convert": "「发生什么事了，怎么那么慌张？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Whoa, where's the fire?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「どうした、そんな慌てて」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力的鈕扣！制服的鈕扣掉下來了啦～！」",
+            "convert": "「巧克力的钮扣！制服的钮扣掉下来了啦～！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's Chocola's button! One of them came off!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ショコラのボタンが！　制服のボタンが取れちゃったんですー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「這可是主人特地為巧克力準備的制服耶！喵～！！」",
+            "convert": "「这可是主人特地为巧克力准备的制服耶！喵～！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「The uniform you made for her is ruined! Meooow!!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「せっかくご主人さまが用意してくれた制服がー！　にゃーん！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過是個鈕扣而已，有什麼好哭的呢？」",
+            "convert": "「不过是个钮扣而已，有什么好哭的呢？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's just a button. There's no need to cry over it.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ボタンくらい、そんな泣くようなことじゃないだろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「樓上有針線盒，」",
+            "convert": "「楼上有针线盒，」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We have a sewing kit upstairs.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「上にソーイングセットがあるから」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可以找香草或紅豆幫妳補啊。」",
+            "convert": "「可以找香草或红豆帮你补啊。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ask Vanilla or Azuki to fix it for you.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「バニラかアズキに頼めば直してくれるって」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別為了這種小事哭成這樣嘛。好乖好乖。」",
+            "convert": "「别为了这种小事哭成这样嘛。好乖好乖。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Don't cry, all right? It's okay.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「だからそんなことで泣くなって。よしよし」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我摸摸快要哭出來的巧克力，安慰起她來。",
+            "convert": "我摸摸快要哭出来的巧克力，安慰起她来。"
+        },
+        "en": {
+            "content": "I stroke Chocola's head as tears well up in her eyes."
+        },
+        "jp": {
+            "content": "泣きそうになってるショコラを撫でてなだめる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「對喔！紅豆跟香草手都很巧嘛！」",
+            "convert": "「对喔！红豆跟香草手都很巧嘛！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「You're right! Azu-nyan and Vanilla are handy!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「そっか！　アズにゃんもバニラも器用だもんね！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「真不愧是主人！巧克力慌得都不知道該怎麼辦了呢！呼嚕呼嚕～♪」",
+            "convert": "「真不愧是主人！巧克力慌得都不知道该怎么办了呢！呼噜呼噜～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Good thinking, Master! Chocola just started panicking! Purrr~ ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「さっすがご主人さま！　ショコラは思わずパニくっちゃいました！　ごろごろ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「所以我不是說過了嗎。」",
+            "convert": "「所以我不是说过了吗。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I've told you before...」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「だから私もそう言ったのに」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「不過，巧克力那毫無脈絡的撒嬌方式，我倒是不討厭。」",
+            "convert": "「不过，巧克力那毫无脉络的撒娇方式，我倒是不讨厌。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...but I don't hate that sloppy spoiled side of yours, Chocola.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「でもショコラのその雑な甘え方、嫌いじゃない」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「香草也挺辛苦的呢～」",
+            "convert": "「香草也挺辛苦的呢～」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You sure have it rough, Vanilla.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「バニラも苦労してんなー」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我抱著同情摸摸香草的頭。",
+            "convert": "我抱着同情摸摸香草的头。"
+        },
+        "en": {
+            "content": "I pet Vanilla's head out of sympathy."
+        },
+        "jp": {
+            "content": "バニラに同情しつつ頭を撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「我的行動完全出自對巧克力的愛，不用慰勞我沒關係。」",
+            "convert": "「我的行动完全出自对巧克力的爱，不用慰劳我没关系。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I do it because I like Chocola. There's no need for thanks.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「まぁショコラが好きでやってることですので。労いは不要」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「而且，這不過只是巧克力趁機找個藉口跟主人撒嬌罷了。」",
+            "convert": "「而且，这不过只是巧克力趁机找个借口跟主人撒娇罢了。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Besides, it made for a good excuse to see her come running to you, Master.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「それにショコラはご主人に甘える口実にしたかっただけだし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「沒錯！我只是隨便找了個理由來跟主人撒嬌而已！」",
+            "convert": "「没错！我只是随便找了个理由来跟主人撒娇而已！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「That's right! It was all an excuse!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「そうですよ！　甘える口実にしたかっただけですから！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「因為鈕扣我自己就能縫了嘛！」",
+            "convert": "「因为钮扣我自己就能缝了嘛！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I can sew a mere button on my own!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「何ならボタンくらい自分で縫えますもん！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「騙人。」",
+            "convert": "「骗人。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Lies.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「それは嘘だ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「騙人的吧。」",
+            "convert": "「骗人的吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Definitely lies.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「それは嘘だな」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我跟香草不約而同地點起頭來。",
+            "convert": "我跟香草不约而同地点起头来。"
+        },
+        "en": {
+            "content": "Vanilla and I nod in agreement."
+        },
+        "jp": {
+            "content": "うんうんと、バニラと一緒に頷く。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「香草也可以多撒點嬌啊。妳不也是我的貓娘情人嗎。」",
+            "convert": "「香草也可以多撒点娇啊。你不也是我的猫娘情人吗。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You don't have to be shy about coddling either, Vanilla. You're one of my catpanions after all.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「バニラも甘えてくれていいんだぞ。恋ネコとして」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「最好不要把我看得那麼隨便。」",
+            "convert": "「最好不要把我看得那么随便。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'd appreciate it if you didn't take me so lightly.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「私をそんなに安く見ない方がいい」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「就算是貓娘情人，也不見得會時時感到寂寞──」",
+            "convert": "「就算是猫娘情人，也不见得会时时感到寂寞──」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Just because I'm your catpanion doesn't mean I get lonely—」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「恋ネコだからって常に寂しがってると思われては――」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「搔搔喉嚨～」",
+            "convert": "「搔搔喉咙～」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Who's a good girl—」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「喉元ごろごろー」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「呼嚕呼嚕呼嚕～♪」",
+            "convert": "「呼噜呼噜呼噜～♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Ahhh, my chin. Purrrr~ ♪」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「ごろごろごろ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「…………啊！居然趁人不備，太卑鄙了！」",
+            "convert": "「…………啊！居然趁人不备，太卑鄙了！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Huh! That sneak attack!」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「…………はっ！　不意打ちとは卑怯！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別逞強嘛。我搔我搔～」",
+            "convert": "「别逞强嘛。我搔我搔～」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, stop fronting. Come here.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「強がるなって、ほらほら」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「嗚……呼嚕、呼嚕……！呼嚕呼嚕……呼嚕……！」",
+            "convert": "「呜……呼噜、呼噜……！呼噜呼噜……呼噜……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Gah... Purr...! Purr...!」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「くっ……ごろ、ごろ……！　ごろごろ……ごろ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵哈哈哈！香草的聲音超怪的！喵哈哈哈哈哈！」",
+            "convert": "「喵哈哈哈！香草的声音超怪的！喵哈哈哈哈哈！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Meahaha! Vanilla, you sound weird! Meahahaha!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「にゃははは！　バニラ変な声！　にゃははははは！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「唔唔……唔唔唔……！」",
+            "convert": "「唔唔……唔唔唔……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Uhhh...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「うぅ……うぅぅ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘩啊～……♪」",
+            "convert": "「哈啊～……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Haaaaa... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁぁぁぁ……っ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「楓嫉妒的模樣真是、真是太萌了～……♪」",
+            "convert": "「枫嫉妒的模样真是、真是太萌了～……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan, you're so cute when you're jealous... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん、嫉妬してるメーちゃん萌えぇぇ……っ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘉祥，我上去休息囉。」",
+            "convert": "「嘉祥，我上去休息咯。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Kashou, I'm taking a break.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「嘉祥、休憩もらうわね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔，楓。辛苦了。」",
+            "convert": "「喔，枫。辛苦了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure thing, Maple. Take it easy.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「おうメイプル。お疲れさん」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我一面揉著派皮，一面出聲回答楓。",
+            "convert": "我一面揉着派皮，一面出声回答枫。"
+        },
+        "en": {
+            "content": "I answer Maple as I'm kneading some pie dough."
+        },
+        "jp": {
+            "content": "パイ生地を練りながらメイプルに声だけで応える。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「…………」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……妳不去休息嗎？」",
+            "convert": "「……你不去休息吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...I thought you were going for a break.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……休憩入らないのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「咦……！？」",
+            "convert": "「咦……！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Huh...?!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「えっ……！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊、沒有啦……那個，我……」",
+            "convert": "「啊、没有啦……那个，我……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Uh, no... It was nothing...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あ、ああいや……その、別に……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我是要休息沒錯啊？不過……」",
+            "convert": "「我是要休息没错啊？不过……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I-I'm going. I am, but...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「は、入るわよ？　入るけど、その……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過？」",
+            "convert": "「不过？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「But?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「その？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「…………」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓的視線落在我手上，看起來有點不好意思。",
+            "convert": "枫的视线落在我手上，看起来有点不好意思。"
+        },
+        "en": {
+            "content": "Maple looks embarrassed as she shifts her gaze towards my hands."
+        },
+        "jp": {
+            "content": "メイプルが恥ずかしそうに俺の手元に視線を落とす。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我也跟著看向自己手邊。",
+            "convert": "我也跟着看向自己手边。"
+        },
+        "en": {
+            "content": "I look at my hands, too."
+        },
+        "jp": {
+            "content": "俺も自分の手元を見る。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，休息時間妳想吃蘋果派？」",
+            "convert": "「啊，休息时间你想吃苹果派？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, did you want to have apple pie during your break?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「あ、休憩にアップルパイ食べたいのか？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我兩手一敲，朝楓問道。",
+            "convert": "我两手一敲，朝枫问道。"
+        },
+        "en": {
+            "content": "I clap my hands as I realize what she might be looking for."
+        },
+        "jp": {
+            "content": "手を叩いてメイプルに尋ねる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「…………唉。」",
+            "convert": "「…………唉。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ahhh...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「…………はぁ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……我先去休息了。」",
+            "convert": "「……我先去休息了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...I'll be taking my break now.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……休憩行ってくるわ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……？？？」",
+            "convert": "「……？？？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...???」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……？？？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "搞不懂楓為何嘆氣的我，",
+            "convert": "搞不懂枫为何叹气的我，"
+        },
+        "en": {
+            "content": "She leaves after heaving an exasperated sigh."
+        },
+        "jp": {
+            "content": "何で溜息を吐かれたのか分からないまま。"
+        }
+    },
+    {
+        "cn": {
+            "content": "決定還是先把做到一半的派皮完成再說。",
+            "convert": "决定还是先把做到一半的派皮完成再说。"
+        },
+        "en": {
+            "content": "I continue preparing my pie dough, oblivious to the reason why."
+        },
+        "jp": {
+            "content": "とりあえず作りかけのパイ生地を終わらせることにした。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「唉～……」",
+            "convert": "「唉～……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ahhh...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「はぁぁ～……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「為什麼嘉祥可以遲鈍成這樣呢？」",
+            "convert": "「为什么嘉祥可以迟钝成这样呢？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Why is Kashou so dense about some things? Mnah.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「何でああも嘉祥は察しが悪いかなぁぺろぺろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「明明跟其他貓娘就那麼親熱的說啾噗啾噗」",
+            "convert": "「明明跟其他猫娘就那么亲热的说啾噗啾噗」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I mean he flirts with the other catgirls a lot... Mlem, mlem...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「他のネコたちとはあんなにイチャイチャしてるくせにさぁちゅぷちゅぷ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「不過我自己也不夠坦率，只能說半斤八兩吧呸囉呸囉」",
+            "convert": "「不过我自己也不够坦率，只能说半斤八两吧呸咯呸咯」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Though I can't be honest with him, so I'm one to talk... Mnah...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「でもあたしも素直じゃないから同じかなぁぺろぺろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「而且，在那之後我也沒有做出什麼貓娘情人應有的表現啾噗啾噗」",
+            "convert": "「而且，在那之后我也没有做出什么猫娘情人应有的表现啾噗啾噗」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「We haven't done anything catpanion related since then. Mnah, mlemmlem...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あれから全然恋ネコっぽいことしないじゃないちゅぷちゅぷ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「可是，話雖然這麼說啾噗啾噗」",
+            "convert": "「可是，话虽然这么说啾噗啾噗」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Well, why should we? Mlem, mlem, mlem.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「でもそんなこと言ってもなぁちゅぷちゅぷ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「要是一個人的性格那麼簡單就能改變，我也不用這麼辛苦了呸囉呸囉」",
+            "convert": "「要是一个人的性格那么简单就能改变，我也不用这么辛苦了呸咯呸咯」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You don't just change how you treat someone overnight. 」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「そう簡単に性格変わったら苦労しないわよねぇぺろぺろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊啊，剛才我應該接受人家好意，跟他要塊蘋果派上來吃才對啾噗啾噗」",
+            "convert": "「啊啊，刚才我应该接受人家好意，跟他要块苹果派上来吃才对啾噗啾噗」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I should have just asked him for some apple pie earlier. Mnah, mlem... Mnah...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あぁいっそのことアップルパイだけでももらってくれば良かったなぁちゅぷちゅぷ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "喀啦。",
+            "convert": "喀啦。"
+        },
+        "en": {
+            "content": "Crunch."
+        },
+        "jp": {
+            "content": "がりっ。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯啊！？」",
+            "convert": "「嗯啊！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Nha?!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んぁっ！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「糟糕，一不小心就咬起指甲來了……！」",
+            "convert": "「糟糕，一不小心就咬起指甲来了……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Crap, I bit myself...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「危ない、つい噛んじゃったわ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗚嗚嗚，我居然會為了這種事煩躁成這樣，真是難看死了……！」",
+            "convert": "「呜呜呜，我居然会为了这种事烦躁成这样，真是难看死了……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ugh, getting frustrated over nothing looks so bad...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「うぅぅ、こんなことでイライラしてるのもカッコ悪いし……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「連指甲都被咬得歪七扭八，這下更丟人了啦……！」",
+            "convert": "「连指甲都被咬得歪七扭八，这下更丢人了啦……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I look even worse now that my nails are ruined...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「爪ぼろぼろにしてたらもっとカッコ悪いし……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「要是我這個樣子被人看到──」",
+            "convert": "「要是我这个样子被人看到──」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What if someone saw me cleaning myself here—」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「そもそもこんなところ誰かに見られたら――」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「盯～……♪」",
+            "convert": "「盯～……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hmm... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「じー……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「喵啊！？」",
+            "convert": "「喵啊！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Meow?!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「んにゃぁっ！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「桂……！？妳、妳是什麼時候……！？」",
+            "convert": "「桂……！？你、你是什么时候……！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「C-Cinnamon...?! Wh-When did you...?!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「シ、シナモン……！？　い、いつからそこに……！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「什麼時候～？」",
+            "convert": "「什么时候～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「When~?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「いつからって～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「我可是一直都在看著楓喲～？」",
+            "convert": "「我可是一直都在看着枫哟～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I'm always watching over you, May-chan~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「わたしはず～っとメーちゃんを見てるよ～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「一、一直……？」",
+            "convert": "「一、一直……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「A-Always...?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ず、ずっと……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳說的一直……呃，那個……是從什麼時候開始……」",
+            "convert": "「你说的一直……呃，那个……是从什么时候开始……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Wh-When is... always?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ずっとって……その、えっと……いつから……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啊啊，太萌了……！原來這就是真正的『萌』……！」",
+            "convert": "「啊啊，太萌了……！原来这就是真正的『萌』……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahhh, so cute...! This is the true essence of cuteness...!」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「あぁ、萌え……！　これが本物の萌えなんですね……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哼、哼哼哼……♪」",
+            "convert": "「哼、哼哼哼……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Heh. Heheheh... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ぐふ、ぐふふふ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘩啊啊……我的口水、口水都快停不下來了咻嚕嚕嚕嚕……♪」",
+            "convert": "「哈啊啊……我的口水、口水都快停不下来了咻噜噜噜噜……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oooh, I'm drooling... I can't stop drooling... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁぁ……よだれが、よだれが止まらないよぉぢゅるじゅりゅるるるるっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「等、等一下，桂！？」",
+            "convert": "「等、等一下，桂！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「C-Cinnamon!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょ、ちょっとシナモン！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「妳可不能、可不能隨便跟別人說喔！？」",
+            "convert": "「你可不能、可不能随便跟别人说喔！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You can't tell anyone! You can't tell anyone about this, okay?!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「余計なこと！　誰にも余計なこと言わないでよね！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「我不會說啦～♪這是我跟楓之間的秘密～♪」",
+            "convert": "「我不会说啦～♪这是我跟枫之间的秘密～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Of course not~ ♪ This will be me and May-chan's little secret~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「言わないよ～♪　わたしとメーちゃんだけの秘密だよ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「應該吧。」",
+            "convert": "「应该吧。」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Probably.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「多分」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「什麼叫應該！給我等一下！」",
+            "convert": "「什么叫应该！给我等一下！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What do you mean 'probably'?! Hey!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「多分って何よ！　ちょっと！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「看著我的眼睛，好好回答我！我說妳啊！！」",
+            "convert": "「看着我的眼睛，好好回答我！我说你啊！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Look at me when you answer! Come on!!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちゃんとこっち見て答えなさいよ！　ねぇってば！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「發生什麼事了，怎麼那麼大聲？」",
+            "convert": "「发生什么事了，怎么那么大声？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What's all the yelling about?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「どうした、大声出して」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「什、什麼都沒有哇！？」",
+            "convert": "「什、什么都没有哇！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「N-Nothing!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「な、何でもないわよ！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「只是稍微做個發聲練習而已！！」",
+            "convert": "「只是稍微做个发声练习而已！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I was just practicing my vocals!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょっと発声練習をね！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「對吧，桂？對不對？」",
+            "convert": "「对吧，桂？对不对？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Right, Cinnamon? That's what I was doing, wasn't it?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ね、シナモン？　そうよね？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「應該吧。」",
+            "convert": "「应该吧。」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Probably.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「多分」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「就叫妳不要應該了嘛！給我看這邊！」",
+            "convert": "「就叫你不要应该了嘛！给我看这边！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Will you stop it with the 'probably'?! Look at me!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「だから多分って何よ！　こっち見なさいってば！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「我有在看～別擔心嘛～」",
+            "convert": "「我有在看～别担心嘛～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I'm looking, don't worry~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「見てるよ～大丈夫だよ～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「她們兩個感情還真好。」",
+            "convert": "「她们两个感情还真好。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You two sure get along with each other.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「仲良さそうだなぁ、２匹とも」"
+        }
+    },
+    {
+        "cn": {
+            "content": "在她們倆打打鬧鬧的同時，",
+            "convert": "在她们俩打打闹闹的同时，"
+        },
+        "en": {
+            "content": "I place some cake on the table."
+        },
+        "jp": {
+            "content": "２匹を横目で眺めながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我將手中的蛋糕擺到桌子上。",
+            "convert": "我将手中的蛋糕摆到桌子上。"
+        },
+        "en": {
+            "content": "At the same time, I glance at them out of the corner of my eye."
+        },
+        "jp": {
+            "content": "持ってきたケーキをテーブルに置く。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嗯？這個蛋糕是？」",
+            "convert": "「嗯？这个蛋糕是？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hm? What's that cake for?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ん？　何ですかそのケーキ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「沒看過的蛋糕呢，而且還挺豪華的。」",
+            "convert": "「没看过的蛋糕呢，而且还挺豪华的。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Haven't seen that one before. It looks flashy.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「見たことない随分派手なケーキね」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我幫在場所有人沖好紅茶，",
+            "convert": "我帮在场所有人冲好红茶，"
+        },
+        "en": {
+            "content": "I prepare several cups of warm tea."
+        },
+        "jp": {
+            "content": "人数分の温かい紅茶を淹れて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "然後把盯著蛋糕看的楓跟桂兩人請到桌前。",
+            "convert": "然后把盯着蛋糕看的枫跟桂两人请到桌前。"
+        },
+        "en": {
+            "content": "Then I lead Maple and Cinnamon to a table as they peek at the cake."
+        },
+        "jp": {
+            "content": "ケーキを覗き込むメイプルとシナモンをテーブルにつかせる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「楓跟桂應該不知道吧。」",
+            "convert": "「枫跟桂应该不知道吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You wouldn't know about this, I guess.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプルとシナモンは知らないだろうな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這是我那天在派對上做過的蛋糕。」",
+            "convert": "「这是我那天在派对上做过的蛋糕。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「This is the cake from the party.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「これは、この間のパーティで出したケーキだから」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊～原來如此。」",
+            "convert": "「啊～原来如此。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ooh, I see.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あーなるほどね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「結果我們到最後還是沒機會吃到嘛～」",
+            "convert": "「结果我们到最后还是没机会吃到嘛～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「We didn't get to have any, did we~?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「結局わたしたちは食べてられなかったもんね～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以我才想讓妳們兩個也嚐嚐看。」",
+            "convert": "「所以我才想让你们两个也尝尝看。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's why I want you to have some now.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「だから、お前たちにも食べて欲しくて」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「就當作是讓我聽了一場美好演奏的回禮吧。」",
+            "convert": "「就当作是让我听了一场美好演奏的回礼吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Consider it thanks for your amazing performance.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「良い演奏を聴かせてくれたお返しに」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘉祥……」",
+            "convert": "「嘉祥……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Kashou...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「嘉祥……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「…………っ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「…………唉～」",
+            "convert": "「…………唉～」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...Ahhhh~」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「…………はぁ～」"
+        }
+    },
+    {
+        "cn": {
+            "content": "只見楓紅著臉低下頭，",
+            "convert": "只见枫红着脸低下头，"
+        },
+        "en": {
+            "content": "She heaves a long sigh."
+        },
+        "jp": {
+            "content": "赤くした顔を俯かせて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "長長地嘆了一口氣。",
+            "convert": "长长地叹了一口气。"
+        },
+        "en": {
+            "content": "Maple buries her blushing face in her hands."
+        },
+        "jp": {
+            "content": "メイプルが長い溜息を吐き出す。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「楓？怎麼了嗎？」",
+            "convert": "「枫？怎么了吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Maple? What's wrong?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプル？　どうした？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「真是敵不過嘉祥呢～妳是這個意思對吧，楓♪」",
+            "convert": "「真是敌不过嘉祥呢～你是这个意思对吧，枫♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I'm sure she's thinking of how she can't outdo you, Kashou-san ♪ Right?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「嘉祥さんには敵わないな～ってことだよね、メーちゃん♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「俗話說愛到卡慘死，還真是一點不錯……唉～……」",
+            "convert": "「俗话说爱到卡惨死，还真是一点不错……唉～……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Whoever falls first, loses... Ahhh...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ほんと、惚れた方の負けよね……はぁ～……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「愛到卡慘死……」",
+            "convert": "「爱到卡惨死……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Whoever falls first, loses...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「惚れた方の負けって……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯嗯？什麼意思？」",
+            "convert": "「……嗯嗯？什么意思？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Hm? What do you mean by that?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……んん？　どういうことだ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「你這麼遲鈍，會害我們吃上不少苦頭的意思。」",
+            "convert": "「你这么迟钝，会害我们吃上不少苦头的意思。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You're so dense that you give me headaches is what it means.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あんたがニブいから、こっちが苦労するわねって話よ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「楓，不可以講這種話啦～」",
+            "convert": "「枫，不可以讲这种话啦～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, May-chan. You know that's not true.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん、そうじゃないでしょ～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「妳不是已經決定，以後要坦率點了嗎～？」",
+            "convert": "「你不是已经决定，以后要坦率点了吗～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You should just tell him how you really feel.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「もっと素直になるって決めたんじゃないの～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊──！吵死了吵死了吵死了──！！拜託誰來殺了我好不好！！」",
+            "convert": "「啊──！吵死了吵死了吵死了──！！拜托谁来杀了我好不好！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ahhhh!! Shut up, shut up, shut up!! Just kill me!!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あー！　もううるさいうるさいうるさーい！！　もういっそ殺してー！！」"
+        }
+    },
+    {
+        "cn": {
+            "content": "只見楓整張臉紅到耳根，",
+            "convert": "只见枫整张脸红到耳根，"
+        },
+        "en": {
+            "content": "Maple blushes all the way to her ears."
+        },
+        "jp": {
+            "content": "メイプルが耳まで顔を真赤にして。"
+        }
+    },
+    {
+        "cn": {
+            "content": "趴在桌上對自己的頭大抓特抓。",
+            "convert": "趴在桌上对自己的头大抓特抓。"
+        },
+        "en": {
+            "content": "She buries her face in the table like she's trying to hide."
+        },
+        "jp": {
+            "content": "机に突っ伏して頭をわしわしと掻きむしる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哈啊哈啊哈啊……♪哈啊哈啊哈啊哈啊……♪」",
+            "convert": "「哈啊哈啊哈啊……♪哈啊哈啊哈啊哈啊……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Heh. ♪ Heheh. Hehehheh... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はぁはぁはぁっ……♪　はぁはぁはぁはぁっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不、不行……♪楓實在、實在太可愛……♪」",
+            "convert": "「不、不行……♪枫实在、实在太可爱……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「M-May-chan... Stop that ♪ You're too cute... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「だ、だめぇ……♪　メーちゃん、メーちゃん可愛い……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「可愛到我都快、快滋潤起來了啦～～～～～～～～……♪」",
+            "convert": "「可爱到我都快、快滋润起来了啦～～～～～～～～……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Cinnamon's losing her mind over how cute May-chan is... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃんが可愛すぎて、シナモン潤っちゃううぅぅぅうぅぅっっ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……那個，」",
+            "convert": "「……那个，」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Um...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……あの」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「總之我蛋糕跟紅茶先放在這裡囉……」",
+            "convert": "「总之我蛋糕跟红茶先放在这里咯……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'll just leave your cake and tea here...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「とりあえずケーキと紅茶置いとくんで……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "面對兩位不知道在high些什麼的貓娘，",
+            "convert": "面对两位不知道在high些什么的猫娘，"
+        },
+        "en": {
+            "content": "I give the strange pair a bit of space..."
+        },
+        "jp": {
+            "content": "テンションの良く分からない２匹を置いて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我決定還是先回廚房繼續工作再說。",
+            "convert": "我决定还是先回厨房继续工作再说。"
+        },
+        "en": {
+            "content": "...and head back to the kitchen instead."
+        },
+        "jp": {
+            "content": "とりあえず俺は厨房へ戻ることにした。"
+        }
+    },
+    {
+        "cn": {
+            "content": "──幾天後。",
+            "convert": "──几天后。"
+        },
+        "en": {
+            "content": "A few days later."
+        },
+        "jp": {
+            "content": "――数日後。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘉祥，可以打擾一下嗎？」",
+            "convert": "「嘉祥，可以打扰一下吗？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Kashou, you got a second?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「嘉祥、ちょっといい？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "在我休息的時候，楓突然跑上二樓來。",
+            "convert": "在我休息的时候，枫突然跑上二楼来。"
+        },
+        "en": {
+            "content": "Maple stops by my room on the second floor during my break."
+        },
+        "jp": {
+            "content": "俺の休憩中にメイプルが２階に上がって来る。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可以啊，怎麼了？」",
+            "convert": "「可以啊，怎么了？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure. What's up?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ああ、どうした？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「能不能幫我試喝這杯紅茶？」",
+            "convert": "「能不能帮我试喝这杯红茶？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Could you try drinking this tea for me?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょっとこの紅茶、飲んでみてくれる？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "接著她從手中的托盤，",
+            "convert": "接着她从手中的托盘，"
+        },
+        "en": {
+            "content": "She lifts a steaming teacup off the tray that she is holding."
+        },
+        "jp": {
+            "content": "手に持っていたトレーから。"
+        }
+    },
+    {
+        "cn": {
+            "content": "拿起一杯冒著熱氣的紅茶擺在我眼前，",
+            "convert": "拿起一杯冒着热气的红茶摆在我眼前，"
+        },
+        "en": {
+            "content": "It's carefully placed in front of me."
+        },
+        "jp": {
+            "content": "湯気立つティーカップを俺の前に置いて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "然後就這麼站在我身旁，用緊張的神情盯著我看。",
+            "convert": "然后就这么站在我身旁，用紧张的神情盯着我看。"
+        },
+        "en": {
+            "content": "She sits beside and stares, nervous with anticipation."
+        },
+        "jp": {
+            "content": "隣に立ったまま、緊張した面持ちで俺を見つめてくる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我沒有多說什麼，總之先照著楓的要求嚐了一口紅茶。",
+            "convert": "我没有多说什么，总之先照着枫的要求尝了一口红茶。"
+        },
+        "en": {
+            "content": "I do as she says and press my lips against the teacup."
+        },
+        "jp": {
+            "content": "勧められるがまま、とりあえず紅茶に口を付ける。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯？這是……」",
+            "convert": "「……嗯？这是……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Hm? What's this...?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……ん？　これは……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「香味聞起來是伯爵茶……不，不對……」",
+            "convert": "「香味闻起来是伯爵茶……不，不对……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It smells like Earl Grey... but then again...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アールグレイの香りがするけど……いや、違うな……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「味道中好像帶了點，不像紅茶會有的甜味……？」",
+            "convert": "「味道中好像带了点，不像红茶会有的甜味……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「There's a subtle sweetness to it that's not coming from the tea...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ほのかに、紅茶じゃないような甘み……？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "在有些特別的香味背後，",
+            "convert": "在有些特别的香味背后，"
+        },
+        "en": {
+            "content": "Within the fragrance that I'm so accustomed to..."
+        },
+        "jp": {
+            "content": "少し癖のある香りの奥に。"
+        }
+    },
+    {
+        "cn": {
+            "content": "隱藏著些許細緻的甜味。",
+            "convert": "隐藏着些许细致的甜味。"
+        },
+        "en": {
+            "content": "...lies a subtle yet distinct sweetness."
+        },
+        "jp": {
+            "content": "ほのかに、でもしっかりとした甘み。"
+        }
+    },
+    {
+        "cn": {
+            "content": "擴散在口中的新奇滋味，讓我不禁疑惑起來。",
+            "convert": "扩散在口中的新奇滋味，让我不禁疑惑起来。"
+        },
+        "en": {
+            "content": "I tilt my head to the side as the unfamiliar taste spreads over my tongue."
+        },
+        "jp": {
+            "content": "口の中に広がる記憶にない味に首を傾げる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「店裡有進這種茶葉嗎？」",
+            "convert": "「店里有进这种茶叶吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Do we even carry this tea?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「こんな茶葉、ウチにあったか？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我又再度嚐了一口，試圖想找出這股滋味的來源。",
+            "convert": "我又再度尝了一口，试图想找出这股滋味的来源。"
+        },
+        "en": {
+            "content": "I take another sip in search of the flavor."
+        },
+        "jp": {
+            "content": "もうひとくち含んで、改めて味を探る。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「不愧是專業糕點師，果然察覺到了呢。」",
+            "convert": "「不愧是专业糕点师，果然察觉到了呢。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You're a pro. I knew you'd pick up on it.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「プロなんだし、さすがに気付くわよね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我在普通的伯爵茶裡，加了幾滴楓糖漿調味。」",
+            "convert": "「我在普通的伯爵茶里，加了几滴枫糖浆调味。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I added a drop of maple syrup into our Earl Grey. Just enough to taste.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「いつものアールグレイに、ほんの少しメイプルシロップで味付けをしてみたの」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我在想，若是把味道比較清淡的餅乾、司康餅或磅蛋糕搭上用楓糖調味的紅茶……」",
+            "convert": "「我在想，若是把味道比较清淡的饼干、司康饼或磅蛋糕搭上用枫糖调味的红茶……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I thought since it went well with plain cookies and scones and pound cakes...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「味の薄いクッキーとかスコーン、パウンドケーキに合わせるなら……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「這種另類搭配說不定會蠻有趣的，所以就試著開發看看了。」",
+            "convert": "「这种另类搭配说不定会蛮有趣的，所以就试着开发看看了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...it would make an interesting novelty, so I gave it a shot.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「こういうのも変わり種として面白いんじゃないかって思って、試してみたの」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔，原來是混合茶嗎。」",
+            "convert": "「喔，原来是混合茶吗。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oooh, tea blends.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「へぇ、ブレンドティーか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這個嘛，確實是很有趣的發想。」",
+            "convert": "「这个嘛，确实是很有趣的发想。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, I think that'll work.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「そうだな、面白いと思うよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「既然我們家有位紅茶專家，在菜單裡加入原創紅茶似乎也不錯。」",
+            "convert": "「既然我们家有位红茶专家，在菜单里加入原创红茶似乎也不错。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We do have a selection of teas, so it would be nice to have an original blend.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ウチには紅茶担当がいるわけだし、オリジナルがあっても良いな」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓沒有讓楓糖的味道太過突出，",
+            "convert": "枫没有让枫糖的味道太过突出，"
+        },
+        "en": {
+            "content": "It doesn't taste like a rash mixing of flavors."
+        },
+        "jp": {
+            "content": "あからさまな味付けじゃなくて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "而是只加了一點點楓糖增添風味，這樣的調味反倒讓紅茶滋味多了幾分高雅。",
+            "convert": "而是只加了一点点枫糖增添风味，这样的调味反倒让红茶滋味多了几分高雅。"
+        },
+        "en": {
+            "content": "I feel a subtle elegance to how the tea was blended."
+        },
+        "jp": {
+            "content": "僅かに感じる程度の混ぜ方が上品に感じる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "如她所說，把她的紅茶跟蛋糕組合起來的話，說不定會是很有趣的搭配。",
+            "convert": "如她所说，把她的红茶跟蛋糕组合起来的话，说不定会是很有趣的搭配。"
+        },
+        "en": {
+            "content": "It will be interesting to see how this pairs with our cakes."
+        },
+        "jp": {
+            "content": "ケーキと合わせるのには確かに面白そうだ。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「因為你上次拿來的蛋糕味道很棒，」",
+            "convert": "「因为你上次拿来的蛋糕味道很棒，」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's because your cake was so good.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「こないだのあんたのケーキ、美味しかったからさ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「讓我覺得，既然你努力考慮了那麼多，那我是不是也能幫上你什麼忙呢……」",
+            "convert": "「让我觉得，既然你努力考虑了那么多，那我是不是也能帮上你什么忙呢……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It showed me that you put a lot of thought into it, so I figured there must be something I can do, too.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あんたが色々考えて頑張ってるんだから、あたしにも出来ることないかなって考えて……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以才會開始調查起混合茶來？」",
+            "convert": "「所以才会开始调查起混合茶来？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So you looked into tea blends?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「それでブレンドティーのことを調べたのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……嗯。我花了不少功夫調查。」",
+            "convert": "「……嗯。我花了不少功夫调查。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...Yeah. It took some doing.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……うん。結構調べた」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「雖然都是網路上查來的知識就是了。」",
+            "convert": "「虽然都是网络上查来的知识就是了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Most of it is stuff I looked up on the internet, though...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「言ってもネット知識レベルだけど……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓紅著臉，",
+            "convert": "枫红着脸，"
+        },
+        "en": {
+            "content": "She nods slightly."
+        },
+        "jp": {
+            "content": "頬を赤らめながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "有些尷尬地點點頭。",
+            "convert": "有些尴尬地点点头。"
+        },
+        "en": {
+            "content": "Her cheeks flush red with embarrassment."
+        },
+        "jp": {
+            "content": "少しバツが悪そうに小さく頷く。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「或許妳的知識都是網路上查來的……」",
+            "convert": "「或许你的知识都是网络上查来的……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Okay, so you looked it up on the internet.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「調べたのはインターネットかもしれないけどさ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過我喝得出來，這一定是妳經過多方嘗試才調出來的結果。」",
+            "convert": "「不过我喝得出来，这一定是你经过多方尝试才调出来的结果。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I can still tell that this took some trial and error to figure out.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「でも試行錯誤したんだなってのは、飲めば分かるよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不僅如此，妳還特地調整味道來配合我做的蛋糕……」",
+            "convert": "「不仅如此，你还特地调整味道来配合我做的蛋糕……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Especially since you were trying to make it pair well with my cakes...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「俺の作るケーキに味を合わせてくれてるし……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝妳，我很開心喔。」",
+            "convert": "「谢谢你，我很开心喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thanks. I appreciate it.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ありがとうな。嬉しいよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「楓願意為我這麼努力，對我來說是很大的一劑強心針。」",
+            "convert": "「枫愿意为我这么努力，对我来说是很大的一剂强心针。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's heartening to see you working so hard, Maple.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプルが頑張ってくれたのが、すごく心強い」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我放下杯子，衷心地對楓表達謝意。",
+            "convert": "我放下杯子，衷心地对枫表达谢意。"
+        },
+        "en": {
+            "content": "I set the cup aside as I thank her."
+        },
+        "jp": {
+            "content": "カップを置いて素直にお礼を伝える。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「這沒什麼啦，又不是什麼值得道謝的事……！」",
+            "convert": "「这没什么啦，又不是什么值得道谢的事……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Y-You don't have to thank me. It's no big deal...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「そんな、改まって御礼を言われるようなことじゃないわよ……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「畢竟我受雇於你，而且又受了你這麼多照顧……！」",
+            "convert": "「毕竟我受雇于你，而且又受了你这么多照顾……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You're my employer, but you've already done so much to help me...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「雇われてるんだし、こっちだって色々と助けてもらったし……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「再說這只是試作品而已，還不到可以拿出去賣的程度……！」",
+            "convert": "「再说这只是试作品而已，还不到可以拿出去卖的程度……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's still the first iteration... It's not ready to be on the menu yet...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「それにまだ試作段階で商品として出せるレベルじゃないし……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「～～～～……！」",
+            "convert": "「～～～～……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「～～～～……っ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……不過，那個……」",
+            "convert": "「……不过，那个……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「But... Well...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……でも、その……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……聽到你這麼說……讓我還、還蠻開心的……耶嘿嘿……♪」",
+            "convert": "「……听到你这么说……让我还、还蛮开心的……耶嘿嘿……♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I'm still glad that you think so... Ehehe ♪」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……あんたが、そう言ってくれるなら……すごい、嬉しいけど……えへへ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓先是紅著臉慌了好一會兒，",
+            "convert": "枫先是红着脸慌了好一会儿，"
+        },
+        "en": {
+            "content": "Her face gets even redder than before."
+        },
+        "jp": {
+            "content": "あたふたと顔を赤くして焦りながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "最後才抓著圍裙裙襬對我露出微笑。",
+            "convert": "最后才抓着围裙裙摆对我露出微笑。"
+        },
+        "en": {
+            "content": "Maple grips the hem of her apron and smiles."
+        },
+        "jp": {
+            "content": "メイプルがぎゅっとエプロンの裾を握り締めて微笑む。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……楓還真可愛。",
+            "convert": "……枫还真可爱。"
+        },
+        "en": {
+            "content": "...Maple sure is cute."
+        },
+        "jp": {
+            "content": "……可愛いな、メイプル。"
+        }
+    },
+    {
+        "cn": {
+            "content": "見到楓坦率的模樣，我不禁這麼想。",
+            "convert": "见到枫坦率的模样，我不禁这么想。"
+        },
+        "en": {
+            "content": "That's what I think when I see her honest reaction."
+        },
+        "jp": {
+            "content": "メイプルらしい素直な反応を見て素直にそう思う。"
+        }
+    },
+    {
+        "cn": {
+            "content": "於是我從椅子上站起身，在楓的頭上輕輕摸了摸。",
+            "convert": "于是我从椅子上站起身，在枫的头上轻轻摸了摸。"
+        },
+        "en": {
+            "content": "I get up from my seat and start petting Maple's head."
+        },
+        "jp": {
+            "content": "椅子から立ち上がってメイプルをそっと撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝妳，楓。」",
+            "convert": "「谢谢你，枫。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thanks, Maple.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ありがとうな、メイプル」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「見到楓願意提供自己的想法，為店裡做那麼多努力……」",
+            "convert": "「见到枫愿意提供自己的想法，为店里做那么多努力……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thanks for your effort and initiative.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプルが自分から色々と考えて、頑張ってくれて」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「身為店長跟妳的情人，我覺得很高興喔。」",
+            "convert": "「身为店长跟你的情人，我觉得很高兴喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You don't know how happy that makes me as a manager and as your lover.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「店長としても恋人としても、本当に嬉しいよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「沒那回……事……」",
+            "convert": "「没那回……事……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Wha... I...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「そんな……こと……っ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……～～！」",
+            "convert": "「……～～！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……～～っ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？有什麼問題嗎？」",
+            "convert": "「嗯？有什么问题吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hm? What is it?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ん？　どうした？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「沒、沒有什麼問題啦……」",
+            "convert": "「没、没有什么问题啦……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「N-No, it's nothing...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「べ、別に、どうしたとかじゃなくて……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……只、只是有點高興……而已。」",
+            "convert": "「……只、只是有点高兴……而已。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I'm just... really happy.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……う、嬉しい……だけ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過是摸摸頭而已，想要的時候隨時都可以跟我說啊。」",
+            "convert": "「不过是摸摸头而已，想要的时候随时都可以跟我说啊。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm always willing to do this any time you want.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「別にこんなことくらい、いつでもするのに」"
+        }
+    },
+    {
+        "cn": {
+            "content": "看到楓拼命強忍笑意的模樣，",
+            "convert": "看到枫拼命强忍笑意的模样，"
+        },
+        "en": {
+            "content": "I pet Maple's head again..."
+        },
+        "jp": {
+            "content": "必死に笑顔を噛み殺そうとするメイプルを。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我不禁感到一陣溫馨，於是又再度摸了摸她的頭。",
+            "convert": "我不禁感到一阵温馨，于是又再度摸了摸她的头。"
+        },
+        "en": {
+            "content": "She desperately clenches her teeth to keep from breaking into a grin."
+        },
+        "jp": {
+            "content": "微笑ましく思いながらもう一度撫でてあげる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……畢竟一個人的性格沒辦法說改就改嘛。",
+            "convert": "……毕竟一个人的性格没办法说改就改嘛。"
+        },
+        "en": {
+            "content": "...She hasn't changed much, I guess."
+        },
+        "jp": {
+            "content": "……なかなか性格も変わらないもんだしな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "不知道該怎麼撒嬌的楓，其實也挺可愛的。",
+            "convert": "不知道该怎么撒娇的枫，其实也挺可爱的。"
+        },
+        "en": {
+            "content": "I think Maple's just as lovable when she gets awkward while being petted."
+        },
+        "jp": {
+            "content": "甘え下手なメイプルが愛おしく思える。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我說，嘉……祥……？」",
+            "convert": "「我说，嘉……祥……？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Um, Kashou...?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あの、嘉祥って……さ……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「那個，下次休假的時候……」",
+            "convert": "「那个，下次休假的时候……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「On our next day off, could we...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「その、今度の休みとかって……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「…………啊。」",
+            "convert": "「…………啊。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...Ah.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「…………あ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？抱歉，我沒聽清楚。」",
+            "convert": "「嗯？抱歉，我没听清楚。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hm? Sorry, I didn't catch that.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ん？　ごめん、よく聞こえなかった」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊，不是，其實……那個……什、什麼都沒有啦……！」",
+            "convert": "「啊，不是，其实……那个……什、什么都没有啦……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Uh, nothing... Never mind...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あ、いや、別に……その……な、なんでもない……！」"
+        }
+    },
+    {
+        "cn": {
+            "content": "這時楓突然撇開視線，",
+            "convert": "这时枫突然撇开视线，"
+        },
+        "en": {
+            "content": "Maple averts her eyes from mine..."
+        },
+        "jp": {
+            "content": "メイプルが急いで視線を逸らす。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我循著她的視線看過去，發現她正瞄著牆上的月曆。",
+            "convert": "我循着她的视线看过去，发现她正瞄着墙上的月历。"
+        },
+        "en": {
+            "content": "Instead, she looks at the calendar on the wall."
+        },
+        "jp": {
+            "content": "その先を追うと壁にあるカレンダー。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……楓？」",
+            "convert": "「……枫？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Maple?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……メイプル？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我再度看向話說到一半就沒再說下去的楓。",
+            "convert": "我再度看向话说到一半就没再说下去的枫。"
+        },
+        "en": {
+            "content": "She looks like she has something to say."
+        },
+        "jp": {
+            "content": "何か言い掛けたメイプルの顔を覗き込む。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「真是的～楓真的很不會表現感情耶～」",
+            "convert": "「真是的～枫真的很不会表现感情耶～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, May-chan, you're so awkward~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「もー、メーちゃんはほんっと不器用だねぇ～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「桂。」",
+            "convert": "「桂。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Cinnamon.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「シナモン」"
+        }
+    },
+    {
+        "cn": {
+            "content": "帶著一如往常的困惑笑容，",
+            "convert": "带着一如往常的困惑笑容，"
+        },
+        "en": {
+            "content": "Cinnamon walks into the living room."
+        },
+        "jp": {
+            "content": "いつも通りの困り笑いを浮かべながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "桂走進客廳來。",
+            "convert": "桂走进客厅来。"
+        },
+        "en": {
+            "content": "She's smiling in a worried way, as usual."
+        },
+        "jp": {
+            "content": "シナモンがリビングに入ってくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「有什麼辦法，就算妳這麼說……」",
+            "convert": "「有什么办法，就算你这么说……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I mean, what do you want me to do...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「だって、そんなこと言われても……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓嘟起嘴，活像在鬧彆扭般一般。",
+            "convert": "枫嘟起嘴，活像在闹别扭般一般。"
+        },
+        "en": {
+            "content": "Maple who has pursed her lips from her growing timidity..."
+        },
+        "jp": {
+            "content": "いじけるように口を尖らせるメイプルを見て。"
+        }
+    },
+    {
+        "cn": {
+            "content": "見到這情景，桂輕輕笑了幾聲，",
+            "convert": "见到这情景，桂轻轻笑了几声，"
+        },
+        "en": {
+            "content": "Cinnamon looks at her and giggles, just a little bit."
+        },
+        "jp": {
+            "content": "シナモンがくすりと小さな笑い声を漏らす。"
+        }
+    },
+    {
+        "cn": {
+            "content": "然後將視線轉向我這邊來。",
+            "convert": "然后将视线转向我这边来。"
+        },
+        "en": {
+            "content": "She turns her attention to me."
+        },
+        "jp": {
+            "content": "それから俺の方へと顔を向ける。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘉祥，我們最近想到樂器行去買點耗材……」",
+            "convert": "「嘉祥，我们最近想到乐器行去买点耗材……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Kashou-san, we wanted to go to the music store to buy some supplies...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「嘉祥さん、消耗品を買いに楽器屋に行きたいんですけれど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不管是下次休假還是什麼時候都好，有空陪我們一起去嗎～？」",
+            "convert": "「不管是下次休假还是什么时候都好，有空陪我们一起去吗～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Will you come with us on your next day off?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「今度のお休みとか、お付き合いして頂けませんか～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊，等一下啦……桂……！」",
+            "convert": "「啊，等一下啦……桂……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Hey, Cinnamon...!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あ、ちょ……シナモン……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「下次休假啊……」",
+            "convert": "「下次休假啊……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「My day off...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「今度の休みか……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我側眼看了一下楓剛才偷瞄的月曆。",
+            "convert": "我侧眼看了一下枫刚才偷瞄的月历。"
+        },
+        "en": {
+            "content": "I look at the calendar to my side to make sure."
+        },
+        "jp": {
+            "content": "さっきのカレンダーを横目で確認する。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可以啊，就這麼決定了。」",
+            "convert": "「可以啊，就这么决定了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「All right. Let's go.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いいぞ、じゃあ行こうか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「咦……」",
+            "convert": "「咦……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Huh...?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「えっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「可是，嘉祥你不是有其他事要辦……」",
+            "convert": "「可是，嘉祥你不是有其他事要办……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I thought you had plans...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「でも、嘉祥は予定が入ってるんじゃ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「其實也不是什麼急事啦。」",
+            "convert": "「其实也不是什么急事啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's nothing urgent.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「別に急いでやることでもないからな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果楓跟桂想找我出去的話，我可以把原本的行程往後延。」",
+            "convert": "「如果枫跟桂想找我出去的话，我可以把原本的行程往后延。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I can just postpone them if you two want to do something on that day.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプルとシナモンの予定が入るならそっちをずらせばいいし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘉祥……」",
+            "convert": "「嘉祥……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Kashou...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「嘉祥……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……那個，真的……可以嗎？」",
+            "convert": "「……那个，真的……可以吗？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Are... Are you sure?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……その、ほんとに……いいの？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓抬起頭，露出有些過意不去，又有些開心的表情看著我。",
+            "convert": "枫擡起头，露出有些过意不去，又有些开心的表情看着我。"
+        },
+        "en": {
+            "content": "Maple looks at me with a mixture of guilt and happiness."
+        },
+        "jp": {
+            "content": "申し訳無さそうな、嬉しそうな顔で俺を見上げる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「當然。妳大可不必為我操心的。」",
+            "convert": "「当然。你大可不必为我操心的。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course. You don't have to tiptoe around me.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いいって。そんな変な気を回すな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「雖然跟絕對不能延的行程衝到的話我也沒辦法……」",
+            "convert": "「虽然跟绝对不能延的行程冲到的话我也没办法……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It'd be a different matter if it was something important...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「どうにもならない予定なら仕方ないけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過對我來說，跟自己情人相處的時間也是很重要的行程喔。」",
+            "convert": "「不过对我来说，跟自己情人相处的时间也是很重要的行程喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...but spending time with my catpanions is matters, too.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「恋ネコたちとの時間だって、大事な予定だしな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「再說，我剛好也開始覺得自己不能只把重心放在工作上呢。」",
+            "convert": "「再说，我刚好也开始觉得自己不能只把重心放在工作上呢。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I was just thinking of backing off from work for a bit, so this works out great.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「あんまり仕事仕事って考えるのは止めようって、ちょうど思ってたしな？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘉祥……」",
+            "convert": "「嘉祥……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Kashou...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「嘉祥……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……謝謝你。我很高興喔……真的。」",
+            "convert": "「……谢谢你。我很高兴喔……真的。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...Thanks. I'm glad to hear that... I really am.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……ありがと。嬉しい……ほんとに」"
+        }
+    },
+    {
+        "cn": {
+            "content": "像是在忍住不綻放出笑容似的，",
+            "convert": "像是在忍住不绽放出笑容似的，"
+        },
+        "en": {
+            "content": "Maple bites down on her lip."
+        },
+        "jp": {
+            "content": "笑顔を噛み締めるように。"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓低著頭，小小地微笑起來。",
+            "convert": "枫低着头，小小地微笑起来。"
+        },
+        "en": {
+            "content": "A moment later, she's grinning at the floor."
+        },
+        "jp": {
+            "content": "メイプルが俯いたまま小さく微笑む。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻。我就說吧～？」",
+            "convert": "「嘻嘻。我就说吧～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「See~?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす。ほらね～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「要是不坦率點，吃虧的一定是自己喔？」",
+            "convert": "「要是不坦率点，吃亏的一定是自己喔？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You have everything to lose when you're not honest with yourself.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「素直にならなくちゃ、損するのは自分だよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「最後決定要不要接受我們任性要求的人，畢竟還是嘉祥……」",
+            "convert": "「最后决定要不要接受我们任性要求的人，毕竟还是嘉祥……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Kashou-san will hear you out even when you're being selfish...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「ワガママを言っても、選ぶのは嘉祥さんなんだから……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「這跟好朋友之間相處的道理不是一模一樣嗎？嘻嘻。」",
+            "convert": "「这跟好朋友之间相处的道理不是一模一样吗？嘻嘻。」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It's the same with best friends, isn't it?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「親友だって同じでしょ？　くす」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「桂……」",
+            "convert": "「桂……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Cinnamon...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「シナモン……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……嗯，妳說的或許沒有錯。」",
+            "convert": "「……嗯，你说的或许没有错。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Yeah... You might be right.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……そうね、そうかもね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「因為我們是嘉祥的貓娘情人嘛。」",
+            "convert": "「因为我们是嘉祥的猫娘情人嘛。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「We are Kashou's catpanion's, after all.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あたしたちは、嘉祥の恋ネコだもんね」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓跟桂相視而笑。",
+            "convert": "枫跟桂相视而笑。"
+        },
+        "en": {
+            "content": "Maple and Cinnamon giggle to each other."
+        },
+        "jp": {
+            "content": "メイプルとシナモンが小さく笑い合う。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那，就約在下次休假囉。」",
+            "convert": "「那，就约在下次休假咯。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Then we'll go on our next day off.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあ今度の休みはその予定だな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯，麻煩你了。」",
+            "convert": "「嗯，麻烦你了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Yeah. Looking forward to it.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「うん、よろしく」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「好～到時請多多指教～♪」",
+            "convert": "「好～到时请多多指教～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Yes. I hope you'll take care of us~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はーい、よろしくお願いします～♪」"
+        }
+    },
+    {
+        "cn": {
+            "content": "像是被兩人的笑容給影響般，",
+            "convert": "像是被两人的笑容给影响般，"
+        },
+        "en": {
+            "content": "I walk over to the calendar."
+        },
+        "jp": {
+            "content": "嬉しそうな２匹の笑顔に釣られるように。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我也滿心雀躍地改寫起月曆上的行程來。",
+            "convert": "我也满心雀跃地改写起月历上的行程来。"
+        },
+        "en": {
+            "content": "Infected with happiness by their smiles, I mark the date."
+        },
+        "jp": {
+            "content": "俺まで嬉しくなりながら、カレンダーの予定を書き直した。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「這一帶人潮果然很多呢～」",
+            "convert": "「这一带人潮果然很多呢～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「There sure are a lot of people here.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「やっぱりここは人が多いですね～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「畢竟是縣內最熱鬧的一站嘛。」",
+            "convert": "「毕竟是县内最热闹的一站嘛。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's the most crowded station in the prefecture.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「県内で一番栄えてる駅だしね」"
+        }
+    },
+    {
+        "cn": {
+            "content": "下一個休假日，",
+            "convert": "下一个休假日，"
+        },
+        "en": {
+            "content": "Our day off."
+        },
+        "jp": {
+            "content": "次の休み。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我依照約定，陪兩人前往樂器行所在的橫濱車站。",
+            "convert": "我依照约定，陪两人前往乐器行所在的横滨车站。"
+        },
+        "en": {
+            "content": "We've arrived at Yokohama Station to go to the music store."
+        },
+        "jp": {
+            "content": "約束通りに楽器屋のある横浜駅に来ていた。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「抱歉喔，老是要你陪我們來。」",
+            "convert": "「抱歉喔，老是要你陪我们来。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Sorry for always dragging you around with us.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「いつも付き合わせて悪いわね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「純粹是我自己想陪妳們來而已啦。」",
+            "convert": "「纯粹是我自己想陪你们来而已啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I came here because I wanted to.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「俺が付き合いたくて来てるだけだから」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「雖然妳們倆都有帶鈴資格，完全不需要我操心就是了。」",
+            "convert": "「虽然你们俩都有带铃资格，完全不需要我操心就是了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You two have bells, so I'm not that worried.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「鈴持ちが２匹いたら心配はないけどな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「有嘉祥陪著我們，我們也比較安心嘛～」",
+            "convert": "「有嘉祥陪着我们，我们也比较安心嘛～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「We feel braver when you're around, Kashou-san.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「わたしたちも嘉祥さんが一緒だと心強いですしね～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「畢竟有些店不太適合貓娘自己去。」",
+            "convert": "「毕竟有些店不太适合猫娘自己去。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It'd be awkward if catgirls just walked into a store unattended.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「お店によってはネコだけで入るのも気が引けるところあるしね」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我們三個就這麼肩並著肩，一面聊天一面走在路上。",
+            "convert": "我们三个就这么肩并着肩，一面聊天一面走在路上。"
+        },
+        "en": {
+            "content": "We walk together side by side as we talk."
+        },
+        "jp": {
+            "content": "そんな会話をしながら３人で肩を並べて歩く。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「話說回來，妳們到樂器行要做什麼？」",
+            "convert": "「话说回来，你们到乐器行要做什么？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「By the way, what do you want from the music store?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「そういえば楽器屋って、何が欲しいんだ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊，這個……因為我的吉他弦差不多該換了。」",
+            "convert": "「啊，这个……因为我的吉他弦差不多该换了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Um... I was thinking I needed a change of strings.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あ、えっと……そろそろ替えの弦が欲しいなって思って」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「也對，吉他弦算是耗材嘛。」",
+            "convert": "「也对，吉他弦算是耗材嘛。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So that's what you meant by supplies.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「弦は消耗品って話だもんな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那就多買點回去備用吧。」",
+            "convert": "「那就多买点回去备用吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We should buy a couple sets to keep a backstock.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあいくつかまとめて買っとくか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊，我可以自己出錢喔？」",
+            "convert": "「啊，我可以自己出钱喔？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Oh, I'll buy them on my own.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あ、もちろん自分で買うわよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「畢竟又不是多貴的東西。」",
+            "convert": "「毕竟又不是多贵的东西。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「They aren't that expensive anyway.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「そんなに高いものじゃないし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別客氣嘛。都跟妳們一起出來了，這點小錢我來出沒關係啊。」",
+            "convert": "「别客气嘛。都跟你们一起出来了，这点小钱我来出没关系啊。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Don't worry about it. I'm here, so let me treat you.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いいって。俺がいるんだから、そのくらい甘えてくれよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「不用了啦，我又不是為了這個找你出來的……」",
+            "convert": "「不用了啦，我又不是为了这个找你出来的……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's okay. That's not why I asked you to come with us today...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「いいわよ、そんなことのために付き合ってもらってるわけじゃないし……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「就說了不用這麼客氣嘛。」",
+            "convert": "「就说了不用这么客气嘛。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You really don't have to be so reserved.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「そんな遠慮しなくて大丈夫だって」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這可是楓努力練習過的證據，不是嗎？」",
+            "convert": "「这可是枫努力练习过的证据，不是吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「The fact that we're buying them shows how hard you've been practicing, Maple.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプルが頑張って練習してる証拠なんだから」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「就拜託妳收下我這點好意吧，好不好？」",
+            "convert": "「就拜托你收下我这点好意吧，好不好？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So let me buy them for you.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「それくらいは俺に買わせてくれよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘉祥……」",
+            "convert": "「嘉祥……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Kashou...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「嘉祥……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，嘉祥真的超寵貓娘的呢，對不對～？」",
+            "convert": "「嘻嘻，嘉祥真的超宠猫娘的呢，对不对～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Kashou-san, you're always ready to spoil us~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす、嘉祥さんってばほんと甘々ですね～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「身為貓娘情人，真是被嘉祥這點給迷得團團轉呢～♪」",
+            "convert": "「身为猫娘情人，真是被嘉祥这点给迷得团团转呢～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「That's exactly what makes us catpanions shiver with delight ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「そんなところも恋ネコ的にはきゅんきゅんしちゃいますけど～♪」"
+        }
+    },
+    {
+        "cn": {
+            "content": "桂倒是毫不客氣地一把抱住我的手腕。",
+            "convert": "桂倒是毫不客气地一把抱住我的手腕。"
+        },
+        "en": {
+            "content": "Cinnamon latches on to my arm without hesitation."
+        },
+        "jp": {
+            "content": "シナモンが遠慮なく腕にぎゅっと抱きついてくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……那，我可以接受你的好意嗎？」",
+            "convert": "「……那，我可以接受你的好意吗？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...So, can I ask you to treat me?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……じゃあ、甘えちゃってもいい？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，那當然。」",
+            "convert": "「嗯，那当然。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course you can.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ああ、もちろんだ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘻嘻，謝謝你。我很開心喔。」",
+            "convert": "「嘻嘻，谢谢你。我很开心喔。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Thanks. I'm happy to hear that.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「くす、ありがと。嬉しい」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我伸手在坦率向我撒嬌的楓頭上摸了摸。",
+            "convert": "我伸手在坦率向我撒娇的枫头上摸了摸。"
+        },
+        "en": {
+            "content": "I pet Maple's head for accepting my favor."
+        },
+        "jp": {
+            "content": "素直に甘えてくれるメイプルの頭を撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "見到楓像這樣跟我撒嬌，",
+            "convert": "见到枫像这样跟我撒娇，"
+        },
+        "en": {
+            "content": "The fact that I can pet her like this makes me happy."
+        },
+        "jp": {
+            "content": "メイプルがこうやって甘えてくれることも。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我感到好像又跟她拉近了些許距離，讓我有點開心。",
+            "convert": "我感到好像又跟她拉近了些许距离，让我有点开心。"
+        },
+        "en": {
+            "content": "It means that we've grown closer than before."
+        },
+        "jp": {
+            "content": "前よりも距離感が近くなった感じがして嬉しい。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我一邊想著這些事，一邊帶著兩人往樂器行的方向走去。",
+            "convert": "我一边想着这些事，一边带着两人往乐器行的方向走去。"
+        },
+        "en": {
+            "content": "We make our way to the music store."
+        },
+        "jp": {
+            "content": "そんなことを考えながら楽器屋へと向かっていく。"
+        }
+    },
+    {
+        "cn": {
+            "name": "情侶",
+            "content": "「耶嘿嘿，這是我們第一次約會的紀念呢♪好開心～♪」",
+            "convert": "「耶嘿嘿，这是我们第一次约会的纪念呢♪好开心～♪」"
+        },
+        "en": {
+            "name": "カップル女＠カップル",
+            "content": "「Ehehe, it's a reminder of our first date ♪ I'm so stoked ♪」"
+        },
+        "jp": {
+            "name": "カップル女＠カップル",
+            "content": "「えへへ、初デートの記念だね♪　うれしー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "情侶",
+            "content": "「拍這個是可以貼在哪裡？」",
+            "convert": "「拍这个是可以贴在哪里？」"
+        },
+        "en": {
+            "name": "カップル男＠カップル",
+            "content": "「Where are you going to stick that picture?」"
+        },
+        "jp": {
+            "name": "カップル男＠カップル",
+            "content": "「そんな写真なんてどこに貼るんだよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "情侶",
+            "content": "「貼在只有自己看得見的小東西上啊♪」",
+            "convert": "「贴在只有自己看得见的小东西上啊♪」"
+        },
+        "en": {
+            "name": "カップル女＠カップル",
+            "content": "「I'll slap it on one of my accessories. The one only I get to see ♪」"
+        },
+        "jp": {
+            "name": "カップル女＠カップル",
+            "content": "「自分だけが見える小物とかに貼るのがいいの♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "情侶",
+            "content": "「反正又不是拍給別人看的，而且這可是我們的甜蜜回憶喔？」",
+            "convert": "「反正又不是拍给别人看的，而且这可是我们的甜蜜回忆喔？」"
+        },
+        "en": {
+            "name": "カップル女＠カップル",
+            "content": "「It's not exactly something you show off to other people, but it makes for a great reminder.」"
+        },
+        "jp": {
+            "name": "カップル女＠カップル",
+            "content": "「人に見せるためのものじゃないし、それにデートの思い出でしょ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "情侶",
+            "content": "「能讓妳開心的話，是沒什麼不好啦。」",
+            "convert": "「能让你开心的话，是没什么不好啦。」"
+        },
+        "en": {
+            "name": "カップル男＠カップル",
+            "content": "「As long as you're happy, babe.」"
+        },
+        "jp": {
+            "name": "カップル男＠カップル",
+            "content": "「それでお前が喜んでくれるなら良いけどな？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "情侶",
+            "content": "「嗯，人家超開心的～♪」",
+            "convert": "「嗯，人家超开心的～♪」"
+        },
+        "en": {
+            "name": "カップル女＠カップル",
+            "content": "「I'm very happy ♪」"
+        },
+        "jp": {
+            "name": "カップル女＠カップル",
+            "content": "「うん、めっちゃ嬉しいよー♪」"
+        }
+    },
+    {
+        "cn": {
+            "content": "這時，一對看似親密的情侶，",
+            "convert": "这时，一对看似亲密的情侣，"
+        },
+        "en": {
+            "content": "A couple walks out of an arcade we happen to pass by."
+        },
+        "jp": {
+            "content": "通りにあるゲームセンターから。"
+        }
+    },
+    {
+        "cn": {
+            "content": "正拿著機器印好的大頭貼走出路旁的一間電玩中心。",
+            "convert": "正拿着机器印好的大头贴走出路旁的一间电玩中心。"
+        },
+        "en": {
+            "content": "They're holding freshly printed photo stickers."
+        },
+        "jp": {
+            "content": "仲良さそうなカップルが、プリントマシンで出力されたシールを手にして出て来る。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「…………」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「楓？」",
+            "convert": "「枫？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Maple?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプル？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「咦？啊，抱歉抱歉。」",
+            "convert": "「咦？啊，抱歉抱歉。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Huh? Oh, sorry, sorry.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「え？　あ、ごめんごめん」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我不小心發了一下呆而已。」",
+            "convert": "「我不小心发了一下呆而已。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I was just spacing out.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょっとボケっとしてただけ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「倒是我們也快走吧，樂器行是往那裡對不對？」",
+            "convert": "「倒是我们也快走吧，乐器行是往那里对不对？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「We should hurry. The shop's that way, isn't it?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「それよりも早く行こっか？　お店あっちよね？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "正當楓想要往樂器行出發時，我拉住她的手。",
+            "convert": "正当枫想要往乐器行出发时，我拉住她的手。"
+        },
+        "en": {
+            "content": "I grab Maple's hand as she's about to walk in the direction of the music store."
+        },
+        "jp": {
+            "content": "楽器屋の方へ向かおうとするメイプルの手を掴む。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「機會難得，我們要不要也去玩一下？」",
+            "convert": "「机会难得，我们要不要也去玩一下？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「How about we stop by, since we have the chance?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「せっかくだし、俺たちも寄ってくか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「咦…………」",
+            "convert": "「咦…………」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Huh...?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「え…………」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……那個……可、可以嗎？」",
+            "convert": "「……那个……可、可以吗？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Um... Can we?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……その……い、いいの？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這點小事用不著徵求我同意吧？」",
+            "convert": "「这点小事用不着征求我同意吧？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course we can. It's no big deal.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「良いも何もないだろ、そんなことくらいで」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「桂也沒問題嗎？」",
+            "convert": "「桂也没问题吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Cinnamon, are you in?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「シナモンは良いか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「是的，我個人非常贊成～♪」",
+            "convert": "「是的，我个人非常赞成～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Yes. Very much so~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はい、わたしは大賛成です～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「因為我也想要三個人一起合照的大頭貼嘛～♪」",
+            "convert": "「因为我也想要三个人一起合照的大头贴嘛～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I'd love to have photo stickers of the three of us ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「わたしも３人のプリントシール欲しいですし～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那楓呢？」",
+            "convert": "「那枫呢？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What about you, Maple?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプルはどうだ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……其實，我也有點想要。」",
+            "convert": "「……其实，我也有点想要。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...I've been wanting some, too.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……わたしも、欲しいなって思ってたから」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「所以，我還蠻開心的……耶嘿嘿……♪」",
+            "convert": "「所以，我还蛮开心的……耶嘿嘿……♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「This'll be so fun... Ehehe... ♪」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「だから、嬉しい……えへへ……♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那我們就順道去玩一下吧。」",
+            "convert": "「那我们就顺道去玩一下吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Then it's time for a detour.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあちょっと寄り道な」"
+        }
+    },
+    {
+        "cn": {
+            "content": "於是我便帶著兩人一起走進電玩中心大門。",
+            "convert": "于是我便带着两人一起走进电玩中心大门。"
+        },
+        "en": {
+            "content": "Maple and Cinnamon pass through the door of the arcade."
+        },
+        "jp": {
+            "content": "２匹と一緒にゲームセンターのドアをくぐる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "大頭貼機",
+            "content": "「準備好了嗎～？記得笑一個喔～？」",
+            "convert": "「准备好了吗～？记得笑一个喔～？」"
+        },
+        "en": {
+            "name": "プリントマシン",
+            "content": "「Are you ready? Smile!」"
+        },
+        "jp": {
+            "name": "プリントマシン",
+            "content": "「準備はいいかなー？　はい笑ってー？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "大頭貼機",
+            "content": "「三、二、一……」",
+            "convert": "「三、二、一……」"
+        },
+        "en": {
+            "name": "プリントマシン",
+            "content": "「Three, two, one...」"
+        },
+        "jp": {
+            "name": "プリントマシン",
+            "content": "「３、２、１……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "大頭貼機",
+            "content": "「笑一個！」",
+            "convert": "「笑一个！」"
+        },
+        "en": {
+            "name": "プリントマシン",
+            "content": "「Say cheese!」"
+        },
+        "jp": {
+            "name": "プリントマシン",
+            "content": "「はい、チーズ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我說嘉祥？」",
+            "convert": "「我说嘉祥？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Hey, Kashou.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょっと嘉祥？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「難得一起來拍大頭貼，你那個僵硬的笑容是怎樣啦。」",
+            "convert": "「难得一起来拍大头贴，你那个僵硬的笑容是怎样啦。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「We're getting our picture taken. Why are you being so stiff?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「せっかく撮ってるのに、どうしてそんなに引きつってんのよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「拜託你正經點好不好。」",
+            "convert": "「拜托你正经点好不好。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It wouldn't kill you to take this seriously.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「真面目にやりなさい真面目に」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可是，就算妳這麼說……」",
+            "convert": "「可是，就算你这么说……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm trying, but...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いや、そんなこと言われても……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我拿這種東西實在沒輒啊……」",
+            "convert": "「我拿这种东西实在没辄啊……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm just not very good with these things...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「俺こういうの苦手なんだよな……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈哈，這樣也很可愛呀。很有嘉祥的風格～」",
+            "convert": "「啊哈哈，这样也很可爱呀。很有嘉祥的风格～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahaha, that's just like you, Kashou-san. You're so cute~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「あはは、嘉祥さんらしくて可愛いですね～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「雖然操作機器的時候也有點笨手笨腳的……」",
+            "convert": "「虽然操作机器的时候也有点笨手笨脚的……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You couldn't even operate the machine...」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「機械の操作も全然でしたし……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不過，明知道自己不擅長還願意找我們一起合照，這點真的是帥氣到不行呢～♪喵～♪」",
+            "convert": "「不过，明知道自己不擅长还愿意找我们一起合照，这点真的是帅气到不行呢～♪喵～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「...but you brought us in anyway. That was cool of you ♪ Meooow~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「でも、それなのに誘ってくれちゃう辺りがまたカッコいいんですけど～♪　にゃぁ～ん♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "大頭貼機",
+            "content": "「要開始拍第二張囉～準備好了嗎？」",
+            "convert": "「要开始拍第二张咯～准备好了吗？」"
+        },
+        "en": {
+            "name": "プリントマシン",
+            "content": "「Second shot now? Are you ready?」"
+        },
+        "jp": {
+            "name": "プリントマシン",
+            "content": "「２枚目を撮影するよー？　準備はいいかなー？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊，聽到沒，要拍下一張囉？」",
+            "convert": "「啊，听到没，要拍下一张咯？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ah, come on. Get ready for the next one.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あ、ほら、もう次来るわよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「記得擺出正經點的表情，知道嗎？」",
+            "convert": "「记得摆出正经点的表情，知道吗？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Try to smile a little better this time, all right?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「次はまともな顔して写りなさいよね？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我盡力就是……」",
+            "convert": "「我尽力就是……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm doing my absolute best here...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「最大限努力はしてみるけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓＆桂",
+            "content": "『「喵啊啊啊啊啊啊啊！？」\u001f\\n　「喵啊啊啊啊啊啊啊！？」』",
+            "convert": "『「喵啊啊啊啊啊啊啊！？」\u001f\\n　「喵啊啊啊啊啊啊啊！？」』"
+        },
+        "en": {
+            "name": "Maple & Cinnamon",
+            "content": "『「Meooow?!」\u001f\\n　「Meooow?!」』"
+        },
+        "jp": {
+            "name": "メイプル＆シナモン",
+            "content": "『「にゃあぁぁああぁぁっ！？」\u001f\\n　「にゃあぁぁああぁぁっ！？」』"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘉、嘉祥！？」",
+            "convert": "「嘉、嘉祥！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「H-Hey, Kashou!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょ、ちょっと嘉祥！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「不要在這種時候讓電話響好不好！你嚇到我們了！」",
+            "convert": "「不要在这种时候让电话响好不好！你吓到我们了！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Don't let your phone ring right now! That scared me!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「このタイミングで電話鳴らさないでよ！　びっくりしたじゃない！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「心、心臟跳到我以為胸部要蹦出來了……！」",
+            "convert": "「心、心脏跳到我以为胸部要蹦出来了……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「My heart jumped so much I thought my boobs were going to fall off...!」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「し、心臓が跳ね過ぎて、おっぱいがこぼれちゃうかと思いました……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「這樣子嚇人太狡猾了啦～……！」",
+            "convert": "「这样子吓人太狡猾了啦～……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「That was too much...!」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「こんなドッキリはずるいですよ～……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉抱歉。」",
+            "convert": "「抱歉抱歉。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sorry about that.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いや悪い悪い」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不是故意的啦，啊哈哈……」",
+            "convert": "「我不是故意的啦，啊哈哈……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's not like I did it on purpose. Ahaha...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「俺もわざとやったわけじゃないんだけど、あはは……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊！？等、等一下！！」",
+            "convert": "「啊！？等、等一下！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ah?! H-Hey!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あっ！？　こ、こらっ！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我說你，幹嘛偏偏選在這個時候拍！給我等一下！」",
+            "convert": "「我说你，干嘛偏偏选在这个时候拍！给我等一下！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Don't go taking a picture of us now! Wait!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ちょっと、あんたもこんなところ撮るんじゃないわよ！　待ってってば！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「楓，就算妳跟機器發火，它也聽不懂喔～？」",
+            "convert": "「枫，就算你跟机器发火，它也听不懂喔～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan, it's no use getting angry at the machine~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「メーちゃん、機械に怒っても通じないよ～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別那麼大聲，會給周圍的人添麻煩的。」",
+            "convert": "「别那么大声，会给周围的人添麻烦的。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Come on, don't make so much noise. You'll bother the other customers.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「こらこら、騒いだら周りに迷惑だってば」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「喵！？就、就說了現在不可以拍啦！」",
+            "convert": "「喵！？就、就说了现在不可以拍啦！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Meow?! I-I said don't take a picture of us now!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「にゃぁっ！？　だ、だから撮るんじゃないって言ってるでしょ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「這可是難得的紀念照，拜託幫我們拍張正經點的照片好不好！你有沒有在聽！？」",
+            "convert": "「这可是难得的纪念照，拜托帮我们拍张正经点的照片好不好！你有没有在听！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's our first date and I want a proper picture! Can you hear me?!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「せっかくの記念なんだから、ちゃんとした写真が欲しいの！　聞いてる！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「就說了罵機器沒有用嘛～」",
+            "convert": "「就说了骂机器没有用嘛～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan, the machine can't hear you~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「だからメーちゃん、機械相手に言っても～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「楓，妳先冷靜下來嘛，好不好？」",
+            "convert": "「枫，你先冷静下来嘛，好不好？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Maple, just calm down. Okay?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプルも落ち着けって？　な？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「喵啊啊啊！就說等一下再拍了嘛，討厭──！！」",
+            "convert": "「喵啊啊啊！就说等一下再拍了嘛，讨厌──！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Meoow! I said, wait!!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「にゃあぁぁっ！　だからちょっと待ってってばもーっ！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「真是的～結果只有一張拍得比較正經而已。」",
+            "convert": "「真是的～结果只有一张拍得比较正经而已。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Oooh, we didn't get a single good photo out of that.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「もー、まともに撮れてるの一枚もないじゃない」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「這可是難得的首度約會紀念耶……」",
+            "convert": "「这可是难得的首度约会纪念耶……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「How are we supposed to remember our first date now...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「せっかくの初デート記念だったのに……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈哈。不過，每一張我都很喜歡喲～♪」",
+            "convert": "「啊哈哈。不过，每一张我都很喜欢哟～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahaha, I still like the ones that came out~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「あはは、でもわたしはどれも好きだよ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「不覺得這樣很有我們的風格嗎？」",
+            "convert": "「不觉得这样很有我们的风格吗？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It's very like us.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「何かわたしたちっぽくていいじゃない？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "一邊是嘟著嘴，一邊是一臉開心，",
+            "convert": "一边是嘟着嘴，一边是一脸开心，"
+        },
+        "en": {
+            "content": "Maple and Cinnamon look at the photo stickers."
+        },
+        "jp": {
+            "content": "出てきたプリントシールを眺めながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "帶著不同表情的兩人就這麼一同看著機器吐出來的大頭貼。",
+            "convert": "带着不同表情的两人就这么一同看着机器吐出来的大头贴。"
+        },
+        "en": {
+            "content": "Maple has a grumpy frown on her face, while Cinnamon is all smiles."
+        },
+        "jp": {
+            "content": "スネたように口を尖らせるメイプルと楽しそうなシナモン。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「要不要重拍一次？」",
+            "convert": "「要不要重拍一次？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Are you sure you don't want another set?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「撮り直さなくていいのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「覺得不喜歡的話，再重拍一份也沒關係喔？」",
+            "convert": "「觉得不喜欢的话，再重拍一份也没关系喔？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We could get some better pictures to replace the ones you don't like.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「気に入らないなら撮り直してもいいぞ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「不用了，這樣就好。」",
+            "convert": "「不用了，这样就好。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's okay. These are fine.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ううん。いいの、これで」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「『我們三個第一次一起拍大頭貼』這件事本身，就是很珍貴的回憶了。」",
+            "convert": "「『我们三个第一次一起拍大头贴』这件事本身，就是很珍贵的回忆了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What's important is getting the first shot of all of us together.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「初めてみんなで撮ったっていうのが大事だし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「而且就像桂說的，這樣子其實也挺有趣的嘛。嘻嘻。」",
+            "convert": "「而且就像桂说的，这样子其实也挺有趣的嘛。嘻嘻。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Besides... Cinnamon's right. That was kind of fun.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「それに、シナモンの言う通りこれも楽しそうでいいかなって。くす」"
+        }
+    },
+    {
+        "cn": {
+            "content": "雖然臉上的微笑顯得有些困擾，",
+            "convert": "虽然脸上的微笑显得有些困扰，"
+        },
+        "en": {
+            "content": "Maple smiles in a troubled way."
+        },
+        "jp": {
+            "content": "困ったように微笑みながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "不過，珍惜地摸著手上大頭貼的楓，她的笑聲聽來依然開心。",
+            "convert": "不过，珍惜地摸着手上大头贴的枫，她的笑声听来依然开心。"
+        },
+        "en": {
+            "content": "Yet, she's laughing and caressing the photo sticker at the same time."
+        },
+        "jp": {
+            "content": "それでも楽しそうな笑い声をこぼして、愛おしそうにシールを撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「記得要留給我一份喔～？」",
+            "convert": "「记得要留给我一份喔～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Give me some later~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「後でわたしにもちょうだいね～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯，回去我再剪一半給妳。」",
+            "convert": "「嗯，回去我再剪一半给你。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Sure. We'll divide them up when we get home.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ええ、帰ってから切り分けましょ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "說完，楓便把大頭貼小心地收進口袋。",
+            "convert": "说完，枫便把大头贴小心地收进口袋。"
+        },
+        "en": {
+            "content": "Maple slips the precious photo stickers into her pocket."
+        },
+        "jp": {
+            "content": "そう言いながら大事そうにシールをポケットにしまう。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那，我們往今天的目的地，樂器行出發吧。」",
+            "convert": "「那，我们往今天的目的地，乐器行出发吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right, time to move on to the music store.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあ、目的の楽器屋に行くか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嗯，麻煩你了。」",
+            "convert": "「嗯，麻烦你了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Yes, please.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ええ、お願い」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「好～出發吧出發吧～♪」",
+            "convert": "「好～出发吧出发吧～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Yeah! Let's go, let's go~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「はーい、行きましょう行きましょう～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "樂器行店員",
+            "content": "「謝謝惠顧。」",
+            "convert": "「谢谢惠顾。」"
+        },
+        "en": {
+            "name": "Instrument Shop Keeper",
+            "content": "「Thank you very much.」"
+        },
+        "jp": {
+            "name": "楽器屋店員",
+            "content": "「ありがとうございました」"
+        }
+    },
+    {
+        "cn": {
+            "name": "樂器行店員",
+            "content": "「歡迎再度光顧。」",
+            "convert": "「欢迎再度光顾。」"
+        },
+        "en": {
+            "name": "Instrument Shop Keeper",
+            "content": "「Please come again.」"
+        },
+        "jp": {
+            "name": "楽器屋店員",
+            "content": "「またのご来店をお待ちしております」"
+        }
+    },
+    {
+        "cn": {
+            "content": "走出店門，我把買下的兩組備用弦交給楓。",
+            "convert": "走出店门，我把买下的两组备用弦交给枫。"
+        },
+        "en": {
+            "content": "I give Maple two sets of replacement strings."
+        },
+        "jp": {
+            "content": "２セット買った替えの弦をメイプルに手渡す。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「謝謝你。我會好好練習的。」",
+            "convert": "「谢谢你。我会好好练习的。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Thanks. I'll be sure to practice.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ありがと。ちゃんと練習するから」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，加油喔。」",
+            "convert": "「嗯，加油喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, have at it.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ああ、頑張れよ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我在緊緊把紙袋抱在胸前的楓頭上拍了拍。",
+            "convert": "我在紧紧把纸袋抱在胸前的枫头上拍了拍。"
+        },
+        "en": {
+            "content": "I pet Maple's head as she holds the paper bag close to her chest."
+        },
+        "jp": {
+            "content": "紙袋を胸にぎゅっと抱くメイプルをぽんぽんと撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "接著我看看時間，發現才剛過正午。",
+            "convert": "接着我看看时间，发现才刚过正午。"
+        },
+        "en": {
+            "content": "I look at my watch to find that it's a little after lunchtime."
+        },
+        "jp": {
+            "content": "時計を見ると昼過ぎ。"
+        }
+    },
+    {
+        "cn": {
+            "content": "在送楓跟桂回家之前還有一點時間。",
+            "convert": "在送枫跟桂回家之前还有一点时间。"
+        },
+        "en": {
+            "content": "I still have time before I have to send Maple and Cinnamon off."
+        },
+        "jp": {
+            "content": "今ならまだメイプルとシナモンを送るまで時間もある。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「現在時間還早，要不要去吃個飯？」",
+            "convert": "「现在时间还早，要不要去吃个饭？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We still have time left. Shall we get something to eat?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「まだ時間も早いし、メシでも食ってくか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「畢竟難得有機會到這一帶來嘛。」",
+            "convert": "「毕竟难得有机会到这一带来嘛。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You know, while we're here.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「せっかくここまで出て来たんだし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哇啊，好主意～」",
+            "convert": "「哇啊，好主意～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ooh, that sounds nice.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「わぁ、いいですね～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘉祥時間上沒問題嗎？」",
+            "convert": "「嘉祥时间上没问题吗？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Are you sure you're okay on time, Kashou-san?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「嘉祥さんは時間大丈夫なんですか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「今天巧克力跟香草陪時雨一起出門了，」",
+            "convert": "「今天巧克力跟香草陪时雨一起出门了，」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm going out with Chocola, Vanilla, and Shigure later.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「今日はショコラとバニラも時雨と出掛けてるしな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以妳們不用擔心時間。」",
+            "convert": "「所以你们不用担心时间。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So I'm not pressed for time. Don't worry.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「全然時間あるから心配しないでいいぞ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「……聽到了嗎，楓？」",
+            "convert": "「……听到了吗，枫？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It's just that... May-chan?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「……だって、メーちゃん？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "聽了我的回答，",
+            "convert": "听了我的回答，"
+        },
+        "en": {
+            "content": "Cinnamon listens to my answer..."
+        },
+        "jp": {
+            "content": "俺の返事を聞いて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "桂瞇起眼朝身旁的楓送了一個視線。",
+            "convert": "桂瞇起眼朝身旁的枫送了一个视线。"
+        },
+        "en": {
+            "content": "...while narrowing her eyes at Maple, who is standing next to her."
+        },
+        "jp": {
+            "content": "シナモンが隣のメイプルに目を細める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「就算妳這麼說……我也……」",
+            "convert": "「就算你这么说……我也……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What...? Don't look at me...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「だって、って……言われても……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "被桂這麼一問，",
+            "convert": "被桂这么一问，"
+        },
+        "en": {
+            "content": "Maple, who initially brought up the subject..."
+        },
+        "jp": {
+            "content": "話を振られたメイプルが。"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓尷尬地撇開視線。",
+            "convert": "枫尴尬地撇开视线。"
+        },
+        "en": {
+            "content": "...is now shifting her eyes awkwardly."
+        },
+        "jp": {
+            "content": "気まずそうに視線を逸らす。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼了？有什麼想去的地方嗎？」",
+            "convert": "「怎么了？有什么想去的地方吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What is it? Is there somewhere you want to go?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「どうした？　どこか行きたいところあるのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「該說是想去的地方嗎……」",
+            "convert": "「该说是想去的地方吗……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I guess, but...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「行きたいところって、言うか……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓的眼神飄忽，說話也含糊其辭，",
+            "convert": "枫的眼神飘忽，说话也含糊其辞，"
+        },
+        "en": {
+            "content": "She averts her eyes and trails off."
+        },
+        "jp": {
+            "content": "目を逸らしたまま、言葉尻を濁す。"
+        }
+    },
+    {
+        "cn": {
+            "content": "好像有什麼事想說，卻又說不出口似的。",
+            "convert": "好像有什么事想说，却又说不出口似的。"
+        },
+        "en": {
+            "content": "Her fingers fidget..."
+        },
+        "jp": {
+            "content": "言いたいことが言えなさそうに。"
+        }
+    },
+    {
+        "cn": {
+            "content": "話說到一半的楓扭扭捏捏地玩起手指，",
+            "convert": "话说到一半的枫扭扭捏捏地玩起手指，"
+        },
+        "en": {
+            "content": "It seems she's struggling to get the words off her chest."
+        },
+        "jp": {
+            "content": "指先をもじもじと絡み合わせる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "而站在隔壁的桂只是瞇著眼，",
+            "convert": "而站在隔壁的桂只是瞇着眼，"
+        },
+        "en": {
+            "content": "Cinnamon is standing next to her."
+        },
+        "jp": {
+            "content": "隣ではシナモンが目を細めたまま。"
+        }
+    },
+    {
+        "cn": {
+            "content": "靜靜盯著猶豫不決的楓看。",
+            "convert": "静静盯着犹豫不决的枫看。"
+        },
+        "en": {
+            "content": "She just keeps watching Maple as she hesitates."
+        },
+        "jp": {
+            "content": "躊躇っているメイプルをじっと見つめる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「那個，既然還有時間的話……那個……」",
+            "convert": "「那个，既然还有时间的话……那个……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Well, if we still have time... um...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「その、時間まだあるなら……その……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「難得嘉祥空出時間來陪我們……那個……」",
+            "convert": "「难得嘉祥空出时间来陪我们……那个……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You made time for us today, Kashou... so...」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「せっかく嘉祥が、こういう時間作ってくれたわけだし……その……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我不發一語，",
+            "convert": "我不发一语，"
+        },
+        "en": {
+            "content": "I keep quiet."
+        },
+        "jp": {
+            "content": "俺も黙ったまま。"
+        }
+    },
+    {
+        "cn": {
+            "content": "默默地等著楓繼續說下去。",
+            "convert": "默默地等着枫继续说下去。"
+        },
+        "en": {
+            "content": "I perk my ears for Maple's next words."
+        },
+        "jp": {
+            "content": "メイプルの言葉の続きに耳を傾ける。"
+        }
+    },
+    {
+        "cn": {
+            "content": "只見楓紅著臉，輕輕咬著嘴唇邊緣。",
+            "convert": "只见枫红着脸，轻轻咬着嘴唇边缘。"
+        },
+        "en": {
+            "content": "Her face flushes redder and she bites her lips slightly."
+        },
+        "jp": {
+            "content": "顔を赤くしたまま、口唇の端を小さく噛んで。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「啊～！不行不行不行不行！」",
+            "convert": "「啊～！不行不行不行不行！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ahh! No, no, no!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あー！　だめだめだめだめ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「太難看了，現在的我真是太難看了！」",
+            "convert": "「太难看了，现在的我真是太难看了！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「So lame! I'm being so lame right now!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「ダッサい、ダッサいなー今のあたし！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「不可以老是打腫臉充胖子！」",
+            "convert": "「不可以老是打肿脸充胖子！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I can't keep this front up any longer!」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「カッコばっかつけるのダメだわー！」"
+        }
+    },
+    {
+        "cn": {
+            "content": "只見楓大力在自己臉上拍了幾下，",
+            "convert": "只见枫大力在自己脸上拍了几下，"
+        },
+        "en": {
+            "content": "She pats her cheeks."
+        },
+        "jp": {
+            "content": "自分の頬をパンパンと叩いて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "然後像是在掩飾害羞似地捏起自己的兩邊臉頰。",
+            "convert": "然后像是在掩饰害羞似地捏起自己的两边脸颊。"
+        },
+        "en": {
+            "content": "She uses both hands to pull on one of mine as she tries to chase away her embarrassment."
+        },
+        "jp": {
+            "content": "照れ臭いのをごまかすように自分の両頬を引っ張る。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃，楓……？」",
+            "convert": "「呃，枫……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「M-Maple...?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メ、メイプル……？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "面對不明就裡的我，楓微笑著抬起眼神。",
+            "convert": "面对不明就里的我，枫微笑着擡起眼神。"
+        },
+        "en": {
+            "content": "She looks up and smiles when she sees the confusion on my face."
+        },
+        "jp": {
+            "content": "戸惑う俺を微笑みながら見上げて。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我有個地方想去，能陪我來一趟嗎？」",
+            "convert": "「我有个地方想去，能陪我来一趟吗？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「There is somewhere I'd like to go. Will you accompany me?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「行きたいところあるんだけど、もうちょっと付き合ってくれる？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「這是身為貓娘情人的請求。」",
+            "convert": "「这是身为猫娘情人的请求。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I'm asking you as your catpanion.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「恋ネコとして、お願い」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這倒是沒問題……」",
+            "convert": "「这倒是没问题……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「それはもちろんだけど……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓露出開懷笑容，緊緊抓住我的手。",
+            "convert": "枫露出开怀笑容，紧紧抓住我的手。"
+        },
+        "en": {
+            "content": "Her smiles grows into full bloom and she squeezes my hand."
+        },
+        "jp": {
+            "content": "振り切った笑顔を咲かせて、俺の手をしっかりと握る。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，這樣可是坦率過了頭，變成強迫囉～？」",
+            "convert": "「嘻嘻，这样可是坦率过了头，变成强迫咯～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You're so bold now that you're honest~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす、素直通り越して強引だね～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「有什麼關係，反正我就是想耍一下任性嘛。嘻嘻。」",
+            "convert": "「有什么关系，反正我就是想耍一下任性嘛。嘻嘻。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I'm fine with it. This is what it looks like when I'm being selfish.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「いいの、だってあたしのワガママなんだから。くす」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「那往這邊走。可以嗎？」",
+            "convert": "「那往这边走。可以吗？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Over here. Come on.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「じゃあこっち。来てくれる？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊、喔……」",
+            "convert": "「啊、喔……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「S-Sure...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「あ、ああ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「倒是妳想去哪裡……」",
+            "convert": "「倒是你想去哪里……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Where are we going...?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ってかどこに向かって……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「等等，楓……！？」",
+            "convert": "「等等，枫……！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「M-Maple...?!」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ちょ、メイプル……！？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "被楓拉著走的我，",
+            "convert": "被枫拉着走的我，"
+        },
+        "en": {
+            "content": "Maple drags me along by the hand."
+        },
+        "jp": {
+            "content": "メイプルに手を引かれるまま。"
+        }
+    },
+    {
+        "cn": {
+            "content": "就這麼跟桂三個人再度往樂器店那一帶出發。",
+            "convert": "就这么跟桂三个人再度往乐器店那一带出发。"
+        },
+        "en": {
+            "content": "The three of us head in the direction of the music store once again."
+        },
+        "jp": {
+            "content": "もう一度さっきの楽器屋の方へと３人で向かう。"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「哇啊，愛情賓館的房間原來是長這個樣子啊～♪」",
+            "convert": "「哇啊，爱情宾馆的房间原来是长这个样子啊～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Wow, so this is what a love hotel looks like~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「わぁ、ラブホテルの部屋ってこんな風になってるんですね～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「充滿了色情的氣氛呢。」",
+            "convert": "「充满了色情的气氛呢。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's about as erotic as I imagined.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「何かいかにもって感じでエロいわね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，畢竟這裡本來就是做那種事的地方嘛。」",
+            "convert": "「嘻嘻，毕竟这里本来就是做那种事的地方嘛。」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It's one of those places, after all.」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「くす、そういうコトをするための場所だしね？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人興致勃勃地打量著房間內部。",
+            "convert": "两人兴致勃勃地打量着房间内部。"
+        },
+        "en": {
+            "content": "The two enjoy themselves as they look around the room."
+        },
+        "jp": {
+            "content": "２匹が楽しげに部屋の中を見回す。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「楓，妳說妳想去的地方，就是……？」",
+            "convert": "「枫，你说你想去的地方，就是……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Maple, is this really where you wanted to go...?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「行きたいところって、メイプル……？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "面對還搞不清楚狀況的我，",
+            "convert": "面对还搞不清楚状况的我，"
+        },
+        "en": {
+            "content": "I'm still bewildered."
+        },
+        "jp": {
+            "content": "戸惑っている俺に。"
+        }
+    },
+    {
+        "cn": {
+            "content": "楓露出有點害羞的微笑。",
+            "convert": "枫露出有点害羞的微笑。"
+        },
+        "en": {
+            "content": "Maple gives me a bashful smile."
+        },
+        "jp": {
+            "content": "少しだけ恥ずかしそうにしながら微笑む。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「我們可是你的貓娘情人，就算到這種地方來也沒什麼好奇怪的吧？」",
+            "convert": "「我们可是你的猫娘情人，就算到这种地方来也没什么好奇怪的吧？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's not exactly weird. I am your catpanion, aren't I?」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「恋ネコなんだから、別におかしいことじゃないでしょ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「在嘉祥家做的話，有可能會被巧克力跟香草發現嘛～♪」",
+            "convert": "「在嘉祥家做的话，有可能会被巧克力跟香草发现嘛～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Chocola-chan and Vanilla-chan might hear us if we did it at your place, Kashou-san~ ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「嘉祥さんのおうちじゃ、ショコラちゃんやバニラちゃんにバレちゃうかもですしね～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「雖然被發現也沒什麼問題就是了。」",
+            "convert": "「虽然被发现也没什么问题就是了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Who knows what might happen then.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「バレても何かあるわけじゃないけどね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「楓、桂……」",
+            "convert": "「枫、桂……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Maple, Cinnamon...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「メイプル、シナモン……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人瞇起眼，",
+            "convert": "两人瞇起眼，"
+        },
+        "en": {
+            "content": "The two smile, joy reflected in their eyes..."
+        },
+        "jp": {
+            "content": "２匹が目を細めながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "將身體湊了上來。",
+            "convert": "将身体凑了上来。"
+        },
+        "en": {
+            "content": "...as they make their way towards me."
+        },
+        "jp": {
+            "content": "そっと俺に体を寄せてくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「……我可是你的貓娘情人喔。」",
+            "convert": "「……我可是你的猫娘情人喔。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「...I'm your catpanion, too.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「……あたしだって、恋ネコなんだから」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「既然如此，會想跟你撒撒嬌也是理所當然的吧？」",
+            "convert": "「既然如此，会想跟你撒撒娇也是理所当然的吧？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Of course I want you to spoil me from time to time.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「あたしだって、嘉祥に甘えたいって思うのは当たり前でしょ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「你看楓都已經做到這種程度了喲～？」",
+            "convert": "「你看枫都已经做到这种程度了哟～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan's gone this far~」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「あのメーちゃんがここまでしてるんですよ～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「身為戀人，難道你都不會感動或覺得她很惹人憐愛嗎～？」",
+            "convert": "「身为恋人，难道你都不会感动或觉得她很惹人怜爱吗～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Don't you think she makes for a cute and stubborn lover~?」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「恋人として、意地らしいとか可愛いとか思わないんですか～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這個，當然……會啊……」",
+            "convert": "「这个，当然……会啊……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well... Of course I do...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いや、そりゃあもちろん……そう思うけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "楓",
+            "content": "「嘻嘻，能聽到你這麼說就夠了。」",
+            "convert": "「嘻嘻，能听到你这么说就够了。」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「That's enough of an answer.」"
+        },
+        "jp": {
+            "name": "メイプル",
+            "content": "「くす、その返事だけで十分よ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "桂",
+            "content": "「好，今天就由我們兩個來服務嘉祥吧……♪」",
+            "convert": "「好，今天就由我们两个来服务嘉祥吧……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「That's right. We'll take the lead today... ♪」"
+        },
+        "jp": {
+            "name": "シナモン",
+            "content": "「そうですね、今日はわたしたちがシてあげますから……♪」"
+        }
+    }
+]

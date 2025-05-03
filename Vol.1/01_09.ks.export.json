@@ -1,0 +1,1006 @@
+[
+    {
+        "jp": {
+            "content": "「……よし」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... All right.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……很好。」",
+            "convert": "「……很好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「体調もバッチリ回復したし、今日からまた頑張らないと――」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;My strength has fully returned, so it's time to work hard agai--%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「既然身體已經回復了，今天開始得要好好加油──」",
+            "convert": "「既然身体已经回复了，今天开始得要好好加油──」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………って」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;.... Huh?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………嗯？」",
+            "convert": "「…………嗯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ……？　えぇっ……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Huh...? Whaaaaat...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦……？咦咦……？」",
+            "convert": "「咦……？咦咦……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「な……こ、これは……一体、どういう……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Ju... wh-what... why...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這……這是……怎麼回事……？」",
+            "convert": "「这……这是……怎么回事……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うんめっ！　これマジでうんめーな！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "%fSourceHanSansCN-M;「%f;Delish! This is totes delish!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「好吃！超好吃的這個！」",
+            "convert": "「好吃！超好吃的这个！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「洋菓子はアレだと思ってたけど悪くねーなはぐはぐはぐむぐ！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "%fSourceHanSansCN-M;「%f;I thought Western desserts were a bit \"meh,\" but these aren't bad at all! Gobble, smaurch, munch!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我本來還覺得西式蛋糕沒什麼大不了，沒想到還不錯嘛！（大吃特吃）」",
+            "convert": "「我本来还觉得西式蛋糕没什么大不了，没想到还不错嘛！（大吃特吃）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキってば、本当に食べ方がきちゃないわねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "%fSourceHanSansCN-M;「%f;Azuki, you really don't know how to eat properly, do you.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我說紅豆，妳的吃相真的很難看耶。」",
+            "convert": "「我说红豆，你的吃相真的很难看耶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「誰も盗らないんだから、もう少し上品に食べなさいよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "%fSourceHanSansCN-M;「%f;No one is going to steal it from you, so eat in a more refined manner.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「又沒人會搶妳的蛋糕，拜託妳稍微優雅一點好不好。」",
+            "convert": "「又没人会抢你的蛋糕，拜托你稍微优雅一点好不好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「せっかくの美味しい紅茶がまずくなるでしょーが」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "%fSourceHanSansCN-M;「%f;Your bad manners are ruining the taste of this delicious tea!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「難得一杯好紅茶都被妳搞難喝了啦。」",
+            "convert": "「难得一杯好红茶都被你搞难喝了啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラちゃんバニラちゃんとお揃いの制服だぁ♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "%fSourceHanSansCN-M;「%f;Everyone has matching uniforms just like Chocola-chan and Vanilla-chan~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「跟巧克力還有香草一樣的制服♪」",
+            "convert": "「跟巧克力还有香草一样的制服♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かわいーなぁ、嬉しーなぁ♪　ナッちゃんも一緒だねー？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "%fSourceHanSansCN-M;「%f;How cuuuute! I'm so happyyyy! %fSourceHanSansCN-M;♪%f; And Na-chan's in the same thing~!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「好可愛～好開心～♪椰子也穿得跟我們一樣耶～」",
+            "convert": "「好可爱～好开心～♪椰子也穿得跟我们一样耶～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あう……その、私みたいなネコに……こういうのは似合わないんじゃないかと……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "%fSourceHanSansCN-M;「%f;Auuuh... Th-This might not suit... a catgirl like me...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「啊嗚……那個，像我這樣的貓娘……好像不太適合打扮成這樣……」",
+            "convert": "「啊呜……那个，像我这样的猫娘……好像不太适合打扮成这样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こういうのは、小さくて可愛いネコじゃないと……あうぅぅっ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "%fSourceHanSansCN-M;「%f;These sorts of clothes... unless you're a small, cute catgirl, they... Uuuu...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「這種衣服應該比較適合個頭嬌小又可愛的貓娘吧……啊嗚嗚嗚……」",
+            "convert": "「这种衣服应该比较适合个头娇小又可爱的猫娘吧……啊呜呜呜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことないですよ。素材が良ければ全て良しですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;That's not true. So long as the model is good, it works.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「沒那回事。只要素材夠好，不管穿什麼衣服都合適。」",
+            "convert": "「没那回事。只要素材够好，不管穿什么衣服都合适。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツは私の自慢のネコなんですから、堂々となさい堂々と」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Coconut is one of my prized catgirls, so stand proud, stand proud!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「椰子可是我一向引以為傲的貓娘，不表現得大方點怎麼行。」",
+            "convert": "「椰子可是我一向引以为傲的猫娘，不表现得大方点怎么行。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだよー？　ナッちゃんは背が高くてカッコいいネコだよー♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "%fSourceHanSansCN-M;「%f;It's true, you know~? Na-chan is a tall, cool catgirl~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「就是說啊～難得椰子長得那麼高又那麼帥氣～♪」",
+            "convert": "「就是说啊～难得椰子长得那么高又那么帅气～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うぅ……ぼくはそれがいやなのに……もっと可愛くなりたかったにゃぁ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "%fSourceHanSansCN-M;「%f;Uuuu... That's what I don't like...... I wanted to be cute, myaaah...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "content": "」【椰子】「嗚嗚……我就是不喜歡現在這個樣子嘛……要是能長得可愛點就好了喵……」",
+            "convert": "」【椰子】「呜呜……我就是不喜欢现在这个样子嘛……要是能长得可爱点就好了喵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おかわりいっぱいあるよー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;There's plenty more, everyone~! %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「蛋糕還有很多喲～♪」",
+            "convert": "「蛋糕还有很多哟～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとご主人さまの初めての共同作業でいっぱい作ったから食べて食べてー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;This is Chocola and Master's first joint effort! We made lots and lots, so eat, eat! %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「這是巧克力跟主人第一次共同作業的成果～我們作了很多，大家儘管吃～♪」",
+            "convert": "「这是巧克力跟主人第一次共同作业的成果～我们作了很多，大家尽管吃～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「紅茶もいっぱい種類ある」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;There's a large variety of black teas.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「紅茶也有很多種可以選。」",
+            "convert": "「红茶也有很多种可以选。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「覚えられないくらいいっぱいあるから一覧表作った。その番号で注文お願い」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;There's too many to remember, so I made a catalogue. Please order using the numbers.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「由於種類多到人記不起來，所以我做了張一覽表。要點紅茶的話麻煩照表上的數字點。」",
+            "convert": "「由于种类多到人记不起来，所以我做了张一览表。要点红茶的话麻烦照表上的数字点。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………え？　何これ？　どういうこと？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Huh? What's this? What's going on?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………咦？怎麼回事？現在這是怎樣？」",
+            "convert": "「…………咦？怎么回事？现在这是怎样？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつの間にか俺の店がネコカフェ状態。"
+        },
+        "en": {
+            "content": "Somehow, my bakery had become a sort of catgirl cafe."
+        },
+        "cn": {
+            "content": "我的店不知道什麼時候變成了一間貓娘咖啡廳。",
+            "convert": "我的店不知道什么时候变成了一间猫娘咖啡厅。"
+        }
+    },
+    {
+        "jp": {
+            "content": "朝イチから予想外の光景に頭がついて来てくれない。"
+        },
+        "en": {
+            "content": "The first thing I saw this morning was so unexpected, my brain couldn't process it all."
+        },
+        "cn": {
+            "content": "由於一大早就看見意料之外的景象，害得我現在腦袋有點轉不過來。",
+            "convert": "由于一大早就看见意料之外的景象，害得我现在脑袋有点转不过来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おはようございます、兄さま」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Good morning, Nii-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「早安啊，哥哥。」",
+            "convert": "「早安啊，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は今回の一件で色々と考えたのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;This recent incident has gotten me thinking...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「經過這次事件以後，我想了很多。」",
+            "convert": "「经过这次事件以后，我想了很多。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "晴れ晴れとした曇りの無い笑顔。"
+        },
+        "en": {
+            "content": "She wore a sunny smile that no cloud could cover up."
+        },
+        "cn": {
+            "content": "時雨用十分爽朗的笑容說道。",
+            "convert": "时雨用十分爽朗的笑容说道。"
+        }
+    },
+    {
+        "jp": {
+            "content": "他のネコたちも同じように笑顔を俺に向けている。"
+        },
+        "en": {
+            "content": "The catgirls looked at me with similar smiles."
+        },
+        "cn": {
+            "content": "不僅如此，連貓娘們也用相同的笑容望著我。",
+            "convert": "不仅如此，连猫娘们也用相同的笑容望着我。"
+        }
+    },
+    {
+        "jp": {
+            "content": "つう、と冷たい汗が伝うのを感じながら、"
+        },
+        "en": {
+            "content": "I felt myself break out in a cold sweat..."
+        },
+        "cn": {
+            "content": "我感到臉上流下一道冷汗，",
+            "convert": "我感到脸上流下一道冷汗，"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……考えたって、何を……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Haah... thinking... about what...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃……妳說想了很多，是指……？」",
+            "convert": "「呃……你说想了很多，是指……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "何とかそれだけを口にする。"
+        },
+        "en": {
+            "content": "I only managed to get out that much."
+        },
+        "cn": {
+            "content": "同時好不容易才擠出這句話來。",
+            "convert": "同时好不容易才挤出这句话来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今回の一件で、兄さまに無理をするなというのが無理なことがよく分かりました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;After that incident, I learned that there's no way to keep Nii-sama from attempting to achieve the impossible.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「經過這次事件，我總算了解到要哥哥不要勉強身體是不可能的一件事。」",
+            "convert": "「经过这次事件，我总算了解到要哥哥不要勉强身体是不可能的一件事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ですが、私も妹として夜も眠れぬほど心配をさせられたのもまた事実……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;However, it's also a fact that his dear little sister -- namely me -- is losing sleep from worrying about him so much.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「但是，哥哥您那天讓身為妹妹的我擔心得連覺都睡不好也是事實。」",
+            "convert": "「但是，哥哥您那天让身为妹妹的我担心得连觉都睡不好也是事实。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ならば人員を増やして、兄さまの負担を減らすのが一番の得策と、時雨は考えたのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Then, I thought that maybe having more workers would lessen Nii-sama's burden. That was the best plan.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「所以，我認為只有增加店裡的人手才是減輕哥哥負擔最好的辦法。」",
+            "convert": "「所以，我认为只有增加店里的人手才是减轻哥哥负担最好的办法。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………はぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;...... Huh.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……………唉。」",
+            "convert": "「……………唉。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「人員を増やすって言っても、現状のウチではですね……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Even if you increase the number of staff, right now our situation makes things...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「就算要增派人手，妳知道這家店現在是什麼狀況嗎……？」",
+            "convert": "「就算要增派人手，你知道这家店现在是什么状况吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご心配は無用です、兄さま」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;No need to worry, Nii-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「儘管放一百個心吧，哥哥。」",
+            "convert": "「尽管放一百个心吧，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄さまのためならば、私にお給金など不要ですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;If it's for Nii-sama, I don't need any pay.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「只要是為了哥哥，我可以不要任何薪水。」",
+            "convert": "「只要是为了哥哥，我可以不要任何薪水。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いやいやいや」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;No no no no.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「等等，等等。」",
+            "convert": "「等等，等等。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だってお前門限あるし、平日は学校だってあるんだから……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;You have a curfew, and on weekdays, you have school...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「門限也就算了，妳平常不是還要上學嗎……」",
+            "convert": "「门限也就算了，你平常不是还要上学吗……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい。ですので私一人ではなく、ネコたちが協力してくれるそうですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Yes, that's why it's not just me. The catgirls will be helping, too.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「是啊。所以不只我一個人，家裡的貓娘也全都願意幫忙喔。」",
+            "convert": "「是啊。所以不只我一个人，家里的猫娘也全都愿意帮忙喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨がネコたちへと振り返る。"
+        },
+        "en": {
+            "content": "Shigure turned towards them all."
+        },
+        "cn": {
+            "content": "說完，時雨回頭看向身後的貓娘們。",
+            "convert": "说完，时雨回头看向身后的猫娘们。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥さまのため、時雨さまの命とあれば」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "%fSourceHanSansCN-M;「%f;If Shigure-sama orders are so, I'll work for Kashou-sama.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「只要是為了嘉祥主人，時雨主人的一切吩咐我都會照辦。」",
+            "convert": "「只要是为了嘉祥主人，时雨主人的一切吩咐我都会照办。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しょーがないわね、時雨がお小遣いくらいは出してくれるんでしょ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "%fSourceHanSansCN-M;「%f;I guess it can't be helped, then. At least Shigure will give me some allowance, right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「真拿你們沒辦法耶。既然要我們幫忙，時雨不出點零用錢應該說不過去吧？」",
+            "convert": "「真拿你们没办法耶。既然要我们帮忙，时雨不出点零用钱应该说不过去吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ったく。めんどくせーけど飼いネコのつれーとこだよなぁ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "%fSourceHanSansCN-M;「%f;Geez. It's a pain in the butt, but that's the life of an owned catgirl, I guess.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嘖。雖然麻煩，不過誰叫家貓就是吃人嘴軟呢。」",
+            "convert": "「啧。虽然麻烦，不过谁叫家猫就是吃人嘴软呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしは嘉祥さんの美味しいケーキとお茶を頂ければ十分です♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "%fSourceHanSansCN-M;「%f;If I can have Kashou-sama's delicious cake and tea, that's enough for me! %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我只要有嘉祥作的美味蛋糕跟紅茶就滿足了♪」",
+            "convert": "「我只要有嘉祥作的美味蛋糕跟红茶就满足了♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「全員鈴持ちの即戦力です。文句はありませんね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;All of them have Bells and will be immediate assets. You have no objections, correct?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「所有人都是擁有帶鈴資格的即戰力，哥哥應該沒有意見吧？」",
+            "convert": "「所有人都是拥有带铃资格的即战力，哥哥应该没有意见吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ソレイユの制服に身を包んだネコたちが頷く。"
+        },
+        "en": {
+            "content": "The catgirls, all in La Soleil uniforms, nodded."
+        },
+        "cn": {
+            "content": "身穿Soleil制服的貓娘們也都紛紛點頭同意。",
+            "convert": "身穿Soleil制服的猫娘们也都纷纷点头同意。"
+        }
+    },
+    {
+        "jp": {
+            "content": "すでに揺るがない決定事項。"
+        },
+        "en": {
+            "content": "There was no way this was going to change."
+        },
+        "cn": {
+            "content": "看來事情已經大致底定了，",
+            "convert": "看来事情已经大致底定了，"
+        }
+    },
+    {
+        "jp": {
+            "content": "明らかにここからくつがえる空気じゃない。"
+        },
+        "en": {
+            "content": "The mood made it clear that I wouldn't be able to turn this decision around now."
+        },
+        "cn": {
+            "content": "也就是說這裡似乎沒有我反駁的餘地。",
+            "convert": "也就是说这里似乎没有我反驳的余地。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、だから、ちょっと……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Uhm, no, wait...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不是，妳們先等等……」",
+            "convert": "「不是，你们先等等……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いらっしゃい、みんなー！　先輩として歓迎しちゃうよー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Welcome, everyone~! As your superior, Chocola welcomes you~! %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「歡迎大家～！身為前輩，很高興大家可以加入喲～♪」",
+            "convert": "「欢迎大家～！身为前辈，很高兴大家可以加入哟～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「またみんなと一緒、嬉しい。こうでなくちゃ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I'm happy to be reunited with everyone. This is how it should be.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這樣一來又能跟大家在一起了，真高興。這樣才像一家人嘛。」",
+            "convert": "「这样一来又能跟大家在一起了，真高兴。这样才像一家人嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あぁ、まさか兄さまと一緒にお菓子を作れる日が来ようとは……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Aahh, to think the day would come when I could make sweets with Nii-sama again...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊啊，沒想到我居然有一天能夠跟哥哥站在一起做蛋糕……！」",
+            "convert": "「啊啊，没想到我居然有一天能够跟哥哥站在一起做蛋糕……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨は、時雨は銀河一幸せな妹にございます……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;I'm... I'm the happiest little sister in the galaxy...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「時雨真是，時雨真是全銀河第一幸福的妹妹了……！」",
+            "convert": "「时雨真是，时雨真是全银河第一幸福的妹妹了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「良かったね、時雨ちゃん♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "%fSourceHanSansCN-M;「%f;Isn't that great, Shigure-chan? %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「太好了呢，時雨♪」",
+            "convert": "「太好了呢，时雨♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも新しい門出に涙はダメだよー？　はい、ハンカチつかってー」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "%fSourceHanSansCN-M;「%f;But you know, there shouldn't be tears when setting off on a new journey~ Here, use a handkerchief~%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「不過今天可是難得的大好日子，不適合流眼淚喔～？來，手帕給妳～」",
+            "convert": "「不过今天可是难得的大好日子，不适合流眼泪喔～？来，手帕给你～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うぅ、時雨さまが嬉しいとぼくも嬉しい……！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "%fSourceHanSansCN-M;「%f;Uuuuu, when Shigure-sama is happy, I'm happy too...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗚嗚，看到時雨主人這麼高興，連我也跟著高興起來了……！」",
+            "convert": "「呜呜，看到时雨主人这么高兴，连我也跟着高兴起来了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「良かったですね、良かったですね時雨さま……ほんとに……！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "%fSourceHanSansCN-M;「%f;Good for you, good for you, Shigure-sama... Really...!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「太好了，太好了時雨主人……真的是太好了……！」",
+            "convert": "「太好了，太好了时雨主人……真的是太好了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「指名ナンバー１になったらボーナス出んだよな？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "%fSourceHanSansCN-M;「%f;If we become the No. 1 waitress, we get a bonus, right?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「要是拿到指名率第一的話，應該會有特別獎金吧？」",
+            "convert": "「要是拿到指名率第一的话，应该会有特别奖金吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かーそしたら毎日ボーナスかー大トロ食い放題じゃねーか！　たまんねー！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "%fSourceHanSansCN-M;「%f;Hyahh! Then every day, I can get a bonus and eat as much fatty tuna I want! Sick!%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嘿～這樣一來我不就每天都有獎金拿，還可以用獎金大啖鮪魚肚了嗎！太棒啦！」",
+            "convert": "「嘿～这样一来我不就每天都有奖金拿，还可以用奖金大啖鲔鱼肚了吗！太棒啦！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「またアズキはバカなことばっかり言って」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "%fSourceHanSansCN-M;「%f;Azuki is saying stupid things again...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「紅豆又在說傻話了。」",
+            "convert": "「红豆又在说傻话了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたしがいるのにナンバー１取れる気でいるなんて。あははっ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "%fSourceHanSansCN-M;「%f;Even though I'm around, she thinks she's going to take the title of No. 1?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「在我面前居然敢妄想指名率第一？啊哈哈～」",
+            "convert": "「在我面前居然敢妄想指名率第一？啊哈哈～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、指名とかある店じゃないんですけども……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Uhm, no. This isn't a place that does staff contests and stuff like that...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我們這家店沒有指名制度啦……」",
+            "convert": "「我们这家店没有指名制度啦……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺(店長)の意志など関係なく話が進む。"
+        },
+        "en": {
+            "content": "They kept the conversation going despite me, the owner, objecting."
+        },
+        "cn": {
+            "content": "話題就這麼無視於我（店長）的意願不斷進展，",
+            "convert": "话题就这么无视于我（店长）的意愿不断进展，"
+        }
+    },
+    {
+        "jp": {
+            "content": "進む、というかもう進んでいた。"
+        },
+        "en": {
+            "content": "Even though I said it \"kept going,\" the conversation itself was pretty much done."
+        },
+        "cn": {
+            "content": "或者應該說，結論早就已經出來了。",
+            "convert": "或者应该说，结论早就已经出来了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "いやまぁそりゃあ、助かるっちゃもちろん助かるんだけども……。"
+        },
+        "en": {
+            "content": "Oh well. Of course, having them around would be helpful, I suppose..."
+        },
+        "cn": {
+            "content": "雖然說這樣的確能幫上我不少忙沒錯啦……",
+            "convert": "虽然说这样的确能帮上我不少忙没错啦……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さぁさ、みんなお店を開けますよー？　準備はいいですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "%fSourceHanSansCN-M;「%f;Okay, everyone! We're going to open the store~ Ready?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好了好了，開店時間已經快到囉～？大家都準備好了嗎？」",
+            "convert": "「好了好了，开店时间已经快到咯～？大家都准备好了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "name": "一同",
+            "content": "『「おーっ♪」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "一同",
+            "content": "「喔──♪」",
+            "convert": "「喔──♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ま、いっか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Oh well, I guess this'll work.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……哎，算了。」",
+            "convert": "「……哎，算了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "こうして、パティスリー『ラ・ソレイユ』は。"
+        },
+        "en": {
+            "content": "And so, Patisserie \"La Soleil\"..."
+        },
+        "cn": {
+            "content": "就這樣，",
+            "convert": "就这样，"
+        }
+    },
+    {
+        "jp": {
+            "content": "『ネコパラダイス』と呼ばれるケーキ屋として、"
+        },
+        "en": {
+            "content": "... or rather, the cake shop now known as \"Neko Paradise\"..."
+        },
+        "cn": {
+            "content": "日後被稱為『貓娘樂園』的蛋糕店『La Soleil』，",
+            "convert": "日后被称为『猫娘乐园』的蛋糕店『La Soleil』，"
+        }
+    },
+    {
+        "jp": {
+            "content": "新しい一歩目を踏み出したのだった――"
+        },
+        "en": {
+            "content": "... was taking its first steps into a new future ---"
+        },
+        "cn": {
+            "content": "在今天踏出了新的一步──",
+            "convert": "在今天踏出了新的一步──"
+        }
+    }
+]

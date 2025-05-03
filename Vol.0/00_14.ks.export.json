@@ -1,0 +1,537 @@
+[
+    {
+        "jp": {
+            "name": "時雨＆ココナツ",
+            "content": "『「午後９時３０分、湯上がり」\\n「午後９時３０分、湯上がり」』"
+        },
+        "en": {
+            "name": "Shigure&Coconut",
+            "content": "9:30 pm, after the bath."
+        },
+        "cn": {
+            "name": "時雨＆椰子",
+            "content": "晚上９点３０分，出浴",
+            "convert": "晚上９点３０分，出浴"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んく、んく、んく……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Glug, glug, glug..."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "咕噜、咕噜、咕噜……",
+            "convert": "咕噜、咕噜、咕噜……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぁぁ～♪　やっぱりお風呂上がりの冷たい牛乳はいいわねぇ～♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Pwaahhh~ %fSourceHanSansCN-M;♪%f; A cold glass of milk right after a bath really is wonderful! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "呼啊啊～♪果然洗好澡就是要来瓶冰牛奶才棒～♪",
+            "convert": "呼啊啊～♪果然洗好澡就是要来瓶冰牛奶才棒～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですね～、おっぱいが大きくなりそうな感じで胸にびんびん来るのがいいですよね～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "It sure is~ The way your breasts twitch as you imagine them getting bigger while drinking milk is just wonderful~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "没错～这种胸部好像又要开始变大的感觉真的让人很难以抗拒呢～♪",
+            "convert": "没错～这种胸部好像又要开始变大的感觉真的让人很难以抗拒呢～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ばっか、風呂あがりはコォラだろコォラ！　んぐんぐんぐっ……！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Don't be stupid! If you're gonna drink somethin' after a bath, it's gotta be cola. Cola! Glug glug glug...!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "什么话，洗完澡应该要喝可乐才对！咕噜咕噜咕噜……！",
+            "convert": "什幺话，洗完澡应该要喝可乐才对！咕噜咕噜咕噜……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かぁーっ、のどが焼けるのがたまんねぇ～っ……！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Pwah!! I love the way the bubbles hit the back of your throat!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "哈──！碳酸在喉咙里跳动的感觉超爽的～……！！",
+            "convert": "哈──！碳酸在喉咙里跳动的感觉超爽的～……！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ねぇねぇ時雨ちゃん」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Hey hey, Shigure-chan!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "呐呐，时雨。",
+            "convert": "呐呐，时雨。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「このけーこーとーから伸びてるヒモってなーに？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "What's this stringy thing dangling from the flaw-resunt light?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "电灯上垂下来的这条线是什么？",
+            "convert": "电灯上垂下来的这条线是什幺？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「昨日はなかった不思議ヒモ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "What a mystery, that string wasn't here yesterday."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "昨天还没看到这条怪线。",
+            "convert": "昨天还没看到这条怪线。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、それは引っ張ると電気が消えるスイッチなのですよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Oh, that's the light switch. If you pull it, the light turns off."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "啊啊，那是只要拉一下就能关灯的开关。",
+            "convert": "啊啊，那是只要拉一下就能关灯的开关。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「急に入り口のスイッチが壊れてしまったので、取り急ぎココナツにさっき付けてもらったのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "The switch by the door broke, so I quickly had Coconut fix it with that for now."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "因为门口的开关突然坏掉，所以我才临时请椰子装上的。",
+            "convert": "因为门口的开关突然坏掉，所以我才临时请椰子装上的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「へー、これで電気が消えるんだー、文明ってすごいねー」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Huh... So this string turns off the lights? Technology's pretty amazing!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嘿～原来这样就能关灯啦，文明还真是了不起耶～",
+            "convert": "嘿～原来这样就能关灯啦，文明还真是了不起耶～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「むしろ昔がこういうシステムだったようですけどね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Actually, this was how it was way back, apparently."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "虽然这是旧时代的产物就是了。",
+            "convert": "虽然这是旧时代的产物就是了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふーん、ぶらぶらしてて、何かネコ的にはとても気になる感じ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Hmm... The way it's just swinging back and forth really catches a catgirl's attention, doesn't it."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "嗯～看它晃来晃去的，身为猫娘实在很难不对它感兴趣。",
+            "convert": "嗯～看它晃来晃去的，身为猫娘实在很难不对它感兴趣。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだねぇ。てしってしたくなるよね、こんな感じで……てしっ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "You're right. Kinda makes you wanna swat at it, huh? Like this... Swat!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "就是说啊，让人很想出手打它呢。就像这样……我打。",
+            "convert": "就是说啊，让人很想出手打它呢。就像这样……我打。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……てしっ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "... Swat."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "……（啪）",
+            "convert": "……（啪）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「てしっ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Swat!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "（啪）",
+            "convert": "（啪）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「てしっ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Swat!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "（啪）",
+            "convert": "（啪）"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「「てしてしてしてしてしてし」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "Swat swat swat swat swat swat!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "（啪啪啪啪啪啪啪啪）",
+            "convert": "（啪啪啪啪啪啪啪啪）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「色即是空、空即是色……！　明鏡止水、油断大敵……！　ぼくは大人、ぼくは大人……！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Everything is nothing, nothing is everything! Clear your mind, overconfidence is the enemy! I'm an adult, I am an adult...!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "色即是空，空即是色……！明镜止水，大意失荆州……！我是大人，我是大人……！",
+            "convert": "色即是空，空即是色……！明镜止水，大意失荆州……！我是大人，我是大人……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「気にならない、目の前でショコラとバニラがヒモをてしてししてても気にならない気にならない気にならない……！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "The way Chocola and Vanilla are just swatting away at that thing doesn't bother me at all... It doesn't bother me at all! Nope! Not in the slightest...!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "我不在意，就算巧克力和香草在我面前把线打得乱跳一通我也一点都不在意不在意不在意……！！",
+            "convert": "我不在意，就算巧克力和香草在我面前把线打得乱跳一通我也一点都不在意不在意不在意……！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココちゃんも一緒にてしてしするー？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Coco-chan, wanna swat it with us?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "椰子要一起玩吗～？",
+            "convert": "椰子要一起玩吗～？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「する！　ぼくもてしてしする！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Yeah! Heck yeah! I wanna swat at it too!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "要！人家也要一起打电灯线！",
+            "convert": "要！人家也要一起打电灯线！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ、あんなことに夢中になれるなんて」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Heheh, so entranced by a mere string..."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "呵呵，居然对一条线沉迷成这个样子。",
+            "convert": "呵呵，居然对一条线沉迷成这个样子。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツも身体は大きいくせに子どもねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Coconut may have quite the adult body, but she's still just a kitten."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "椰子身体大归大，性格还是跟个孩子没两样呢。",
+            "convert": "椰子身体大归大，性格还是跟个孩子没两样呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おめーも年食ってる割に十分ビビりだろーが」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "And you're pretty damn old to still be a scaredy-cat."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "我看你年纪大，胆子倒是没有比人大嘛。",
+            "convert": "我看你年纪大，胆子倒是没有比人大嘛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「暗いところが怖いなら、チョウチンアンコウみてーに頭から灯りぶら下げたりしたらどーだ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "If you're so scared of dark places, why don't you hang a freakin' lamp on your head like an anglerfish!!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "怕黑的话，干脆像𩽾𩾌鱼一样在头上挂个灯笼如何？",
+            "convert": "怕黑的话，干脆像𩽾𩾌鱼一样在头上挂个灯笼如何？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、でもそうしたらトイレのドア開けてる時に、そのチョウチンが見えてうぜーな。けけけ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Oh, but if you did that, you'd get scared whenever you go into the bathroom and see yourself in the mirror, wouldn't you? Heheheh."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "啊，不过一打开厕所门就看到个灯笼晃来晃去也挺讨厌的呢。喀喀喀！",
+            "convert": "啊，不过一打开厕所门就看到个灯笼晃来晃去也挺讨厌的呢。喀喀喀！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「殺す。あんただけは今晩中に殺すわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I am going to kill you. I swear, I am going to kill you this very night."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "你死定了。今晚我一定要你的命！",
+            "convert": "你死定了。今晚我一定要你的命！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ハンッ、お嬢カールが笑わせるわ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Hah! You, little miss Curl, is gonna kill me? Don't make me laugh!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "哈，就凭你这只娇娇卷耳猫啊，别笑死人了。",
+            "convert": "哈，就凭你这只娇娇卷耳猫啊，别笑死人了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もうお風呂も入ったんだから止めようよ～。２匹とももう大人なんだし、ね？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Girls, you've already taken a bath, so stop fighting! You're both adults, right?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "都已经洗好澡了，你们就别再吵了嘛～都已经是大人了，不是吗？",
+            "convert": "都已经洗好澡了，你们就别再吵了嘛～都已经是大人了，不是吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ンだとテメー。ちょっとチチがでけーからって調子乗んな、このおっぱいキャットがっ。てしっ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "What didya say, punk?! Don't think you can get away with that just 'cause your boobs are pretty damn big, you freakin' booby-cat! Swat!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "什么～？不要以为胸部大说话就大声好不好，你这只奶子猫！（啪）",
+            "convert": "什幺～？不要以为胸部大说话就大声好不好，你这只奶子猫！（啪）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そのアイデンティティしかないくせに、ゴリ押し差がたまにイラッとするのよね。てしっ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I know they're a part of who you are, but the way you shove them in our faces can tick me off sometimes! Swat!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "虽然说你也只有这点能拿出来说嘴，不过每次都用同一招有时候看了也挺烦的。（啪）",
+            "convert": "虽然说你也只有这点能拿出来说嘴，不过每次都用同一招有时候看了也挺烦的。（啪）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やぁんっ！　お、おっぱいてしてししちゃダメですよ～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "No! D-Don't slap my breasts around like that~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "呀！不、不可以打人家的胸部啦～！",
+            "convert": "呀！不、不可以打人家的胸部啦～！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おぉ(てしてし)、これマジで揺れるんだな(てしてし)。マグニチュード８はあるぞ(てしてしてし)」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Ohh, swat swat! These really do shake, huh! Swat swat! They're causing a magnitude eight on the Richter scale! Swat swat swat!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喔喔～（啪啪）真的会摇呢（啪啪）。我看这震度至少有８吧（啪啪啪）？",
+            "convert": "喔喔～（啪啪）真的会摇呢（啪啪）。我看这震度至少有８吧（啪啪啪）？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんなの付けてて良く生きてられるわね(てしてし)。ものすごい邪魔そうなんだけど(てしてしてし)」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I'm surprised you can live a normal life with these things attached to you, swat swat! They seem to be nothing but a burden, swat swat swat!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "真亏你可以顶着这两颗活到现在（啪啪），看起来实在很碍手碍脚呢（啪啪啪）。",
+            "convert": "真亏你可以顶着这两颗活到现在（啪啪），看起来实在很碍手碍脚呢（啪啪啪）。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あぁ～ん、わたしってばこんなオチばっかりぃいぃぃいぃぃ～～～だめぇぇ～～んっっ♪♪♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Mreowwww~ Why does it always end up like this for meeeeee~ Nooooooo~!! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "喵～为什么人家老是被这种对待啦～～～不要啊～～♪♪♪",
+            "convert": "喵～为什幺人家老是被这种对待啦～～～不要啊～～♪♪♪"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ＆ココナツ",
+            "content": "『「「てしてしてしてしてしてし」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla&Coconut",
+            "content": "Swat swat swat swat swat swat!"
+        },
+        "cn": {
+            "name": "巧克力＆香草＆椰子",
+            "content": "（啪啪啪啪啪啪啪啪）",
+            "convert": "（啪啪啪啪啪啪啪啪）"
+        }
+    }
+]

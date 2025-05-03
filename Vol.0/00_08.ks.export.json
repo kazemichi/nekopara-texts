@@ -1,0 +1,522 @@
+[
+    {
+        "jp": {
+            "name": "バニラ＆シナモン",
+            "content": "『「午後４時、晩御飯（献立編）」\\n「午後４時、晩御飯（献立編）」』"
+        },
+        "en": {
+            "name": "Vanilla&Cinnamon",
+            "content": "4 pm. Preparing for dinner~"
+        },
+        "cn": {
+            "name": "香草＆桂",
+            "content": "下午４点，晚餐（决定菜色篇）",
+            "convert": "下午４点，晚餐（决定菜色篇）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゅ～、ひゅ～……おくちの中が痛いよ～……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Fwooh~ Fwooh~ Chocola's mouth is sore..."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "咻～咻～……嘴巴里面好痛喔～……",
+            "convert": "咻～咻～……嘴巴里面好痛喔～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだ舌がヒリヒリする……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "My tongue still stings..."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "舌头到现在还火辣辣的……",
+            "convert": "舌头到现在还火辣辣的……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「氷もらって来たから口の中でぺろぺろするといいよ？　はい」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I've brought some ice cubes, so suck on them for a bit. Here you go."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "我跟店家要了冰块过来，拿去敷敷舌头吧。来。",
+            "convert": "我跟商店要了冰块过来，拿去敷敷舌头吧。来。"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ＆ココナツ",
+            "content": "『「「「レロレロレロレロレロレロレロレロ」」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla&Coconut",
+            "content": "Rero rero rero rero rero rero rero rero~"
+        },
+        "cn": {
+            "name": "巧克力＆香草＆椰子",
+            "content": "咧咯咧咯咧咯咧咯咧咯咧咯咧咯咧咯",
+            "convert": "咧咯咧咯咧咯咧咯咧咯咧咯咧咯咧咯"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最高にアブない集団ね……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Maybe it's not the best to have the three of them together..."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "怎么看都是危险集团……",
+            "convert": "怎幺看都是危险集团……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ばっか、見んじゃねーって。仲間だと思われんだろーが」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Hey, don't stare! People will think we're with 'em!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "笨蛋，不要看那边！小心人家把我们当成一伙的。",
+            "convert": "笨蛋，不要看那边！小心人家把我们当成一伙的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だめぇ、そんな舌使いを３人でしちゃだめぇえぇえぇぇえぇっっっ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Oh nooo, the way you three use your tongues like that...  It's too muuuuuuch...! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "不行，不可以三个人一起施展这么猛的舌技啦～～～～……♪",
+            "convert": "不行，不可以三个人一起施展这幺猛的舌技啦～～～～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うわ、こっちもダメだわ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Oh god, we've got another strange one."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "呜哇，这边也有个坏掉的人在。",
+            "convert": "呜哇，这边也有个坏掉的人在。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン、お外ですからね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Cinnamon, remember, we're outside."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "桂，记得我们现在在外面喔？",
+            "convert": "桂，记得我们现在在外面喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「は、はいぃ……♪　だ、だいじょうぶ……わかってますからぁっ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Y-Yes~ %fSourceHanSansCN-M;♪%f; I-I understand... I'm... okaaay! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "好、好的……♪不、不要紧……我还记得……♪",
+            "convert": "好、好的……♪不、不要紧……我还记得……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　この匂いは……くんくん、くんくん……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Hm? What's that smell? Sniff sniff, sniff sniff..."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "嗯？这个味道是……嗅嗅，嗅嗅……",
+            "convert": "嗯？这个味道是……嗅嗅，嗅嗅……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「カレーだ！　カレーの匂いがすんぞ！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "It's curry! That smells just like curry!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "咖喱！是咖喱的味道！",
+            "convert": "咖喱！是咖喱的味道！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「確かにカレースパイスの良い匂いがするわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "You're right, that's definitely the wonderful fragrance of curry spices."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "确实是有咖喱香传来呢。",
+            "convert": "确实是有咖喱香传来呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふわぁ、すごく性欲を……じゃない、食欲をそそられる匂いです～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Wow... That aroma really stimulates my sexu-- I-I mean, my appetite~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "哗～真是让人性欲……不对，食欲大开的香味～♪",
+            "convert": "哗～真是让人性欲……不对，食欲大开的香味～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン、二度目ですよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "This is the second time I'm warning you, Cinnamon..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "桂，这是第二次咯？",
+            "convert": "桂，这是第二次咯？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ごめんにゃさいぃ……♪　言われたことすぐに分からないネコでごめんにゃさいぃいぃっ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I-I'm sorry, meow... %fSourceHanSansCN-M;♪%f; I'm sorry for being a naughty catgirl who doesn't do what she's tolddd~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "对、对不起～……♪没办法一教就会真的很对不起～……♪",
+            "convert": "对、对不起～……♪没办法一教就会真的很对不起～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁぁ～、でもカレーってなんでこんな美味しそうな匂いがするんだろ？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Meowww~ Chocola's curious though. Just why does curry smell so good?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵～。不过为什么咖喱的味道会这么香呢？",
+            "convert": "喵～。不过为什幺咖喱的味道会这幺香呢？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだね、不思議と何杯でも食べれちゃうんだよね。飲み物って言われても分かる気がするよ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Yes, it's mysterious how I could just eat bowls and bowls of it. I could even drink the stuff."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "就是啊，让人不管多少盘都能吃得下，真是神奇。难怪有人会说咖喱是饮料。",
+            "convert": "就是啊，让人不管多少盘都能吃得下，真是神奇。难怪有人会说咖喱是饮料。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それはココナツがブラックホールだからレロレロレロレロ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "That's because you've got a black hole for a stomach. Rero rero rero rero~"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "那是因为椰子的胃跟无底洞一样吧咧咯咧咯咧咯咧咯",
+            "convert": "那是因为椰子的胃跟无底洞一样吧咧咯咧咯咧咯咧咯"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ今晩はみんなでカレーを作りましょうか。食材を買って帰って」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Well then, why don't we have curry for dinner tonight? Let's stop by somewhere and get the ingredients."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "既然如此，今晚大家一起来煮咖喱吧。材料就待会儿一起买回去。",
+            "convert": "既然如此，今晚大家一起来煮咖喱吧。材料就待会儿一起买回去。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さんせー！　じゃあ晩御飯はショコラが作ります！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Chocola's all for curry! Leave dinner to Chocola!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "赞成──！那晚饭就交给巧克力来做吧！",
+            "convert": "赞成──！那晚饭就交给巧克力来做吧！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラが作るって……あんたに料理スキルなんてあったっけ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Chocola? Making dinner...? Do you have any cooking skills?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "你说你要做……你知道怎么做菜吗？",
+            "convert": "你说你要做……你知道怎幺做菜吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「壊滅的、というかむしろ台所に立ってる記憶がないような～……？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "They're tragic. I don't think I even remember Chocola ever stepping foot inside the kitchen...?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "要说厨艺惨烈也不对，再说我好像不记得她有下过厨～……？",
+            "convert": "要说厨艺惨烈也不对，再说我好像不记得她有下过厨～……？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ってかショコラはひらがなとカタカナしか読めないんだから、レシピがあっても読めねーだろ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Wait, Chocola can barely read children's books! She wouldn't be able to read the recipe!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "巧克力你明明就只会读片假名跟平假名，就算有食谱你也看不懂吧。",
+            "convert": "巧克力你明明就只会读片假名跟平假名，就算有食谱你也看不懂吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大丈夫です！　こないだキテレツ超百科の歌で覚えました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "It's alright, Chocola recently remembered the cooking song they always sing on TV!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "不要紧！之前巧克力靠奇天烈超百科的主题曲把做法记住了！",
+            "convert": "不要紧！之前巧克力靠奇天烈超百科的主题曲把做法记住了！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれはコロッケだって説明したよね？　３回くらい」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Didn't I already explain to you that that song was about croquettes? Like, three times."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "我不是说过那是可乐饼做法了吗？而且还说了三次。",
+            "convert": "我不是说过那是可乐饼做法了吗？而且还说了三次。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私が付いてるから大丈夫。隠し味に愛情が入ってれば美味しいって聞いた」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Don't worry, I'll help Chocola too. I heard that as long as there's love in it, then it'll taste great."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "有我看着不会有问题的。听说只要加了爱情这道秘方，料理就会变好吃。",
+            "convert": "有我看着不会有问题的。听说只要加了爱情这道秘方，料理就会变好吃。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ完璧だね！　ショコラ、もしかしたらカレーの才能あるかも！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Well that's perfect, then! Chocola here might just be a pro at making curry!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "那就一切ＯＫ了嘛！说不定巧克力有煮咖喱的天份喔！",
+            "convert": "那就一切ＯＫ了嘛！说不定巧克力有煮咖喱的天份喔！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はいはい、みんなで作りましょうね、みんなで」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Yes yes! Let's make it all together, okay?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "好好好，晚点我们再一起做吧。要大家一起喔。",
+            "convert": "好好好，晚点我们再一起做吧。要大家一起喔。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですね、それがいいと思います～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Yeah, I think that's a great idea!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "是呀，我也觉得这样比较好～",
+            "convert": "是呀，我也觉得这样比较好～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　大丈夫だよ、ショコラ頑張るから！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Huh? Don't worry, Chocola will work extra hard!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "咦？不用啦，巧克力会加油的！",
+            "convert": "咦？不用啦，巧克力会加油的！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「朝食に引き続き面倒だけど、たまのことだし仕方ないわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I'd rather not have a repeat of today's breakfast, but well, I guess it's fine every once in a while."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "虽然做完早餐又得做晚餐麻烦得要命，不过既然是偶尔一次那就算了吧。",
+            "convert": "虽然做完早餐又得做晚餐麻烦得要命，不过既然是偶尔一次那就算了吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まー晩飯抜きはきちーからなー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "No dinner is preeeeetty rough though..."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "哎──毕竟没晚餐吃可叫人受不了嘛。",
+            "convert": "哎──毕竟没晚餐吃可叫人受不了嘛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごめんよショコラ……ご飯だけは、ご飯だけは譲れないんだ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Sorry Chocola... Anything... A-Anything but the food...!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "对不起，巧克力……只有晚饭，只有晚饭我绝不能退让……",
+            "convert": "对不起，巧克力……只有晚饭，只有晚饭我绝不能退让……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　んんん？　なんで？　なんでみんな？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Hm? Hmm? Chocola doesn't get it, what's up with everyone?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯？嗯嗯嗯？为什么？为什么是大家一起？",
+            "convert": "嗯？嗯嗯嗯？为什幺？为什幺是大家一起？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ。今度、漢字一緒に勉強しようね？　ほろり」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Chocola... Let's practice reading together, okay? Sniff..."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "巧克力，下次跟我一起练习读汉字吧？（拭泪）",
+            "convert": "巧克力，下次跟我一起练习读汉字吧？（拭泪）"
+        }
+    }
+]

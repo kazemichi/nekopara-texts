@@ -1,0 +1,346 @@
+[
+    {
+        "jp": {
+            "content": "「にゃぁ……ごしゅじん……ちゃんと、満足してくれた……？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Myaow... Master... were we able to satisfy you...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喵……主人……有好好滿足到嗎……？」",
+            "convert": "「喵……主人……有好好满足到吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「デートの最後まで……ショコラたちは、恋ネコらしくできましたか……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Were both of us... able to act like proper catpanions until the very end of our date...?%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「今天的約會……我們到最後都有表現得像個貓娘情人嗎……？」",
+            "convert": "「今天的约会……我们到最后都有表现得像个猫娘情人吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ。ショコラもバニラも、可愛かったぞ？　よしよし」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah, both Chocola and Vanilla were very cute. There, there...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「當然了。巧克力跟香草都很可愛啊？好乖好乖。」",
+            "convert": "「当然了。巧克力跟香草都很可爱啊？好乖好乖。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あは……それなら良かったです……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Ahah... That's great, then~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊哈……真是太好了……♪」",
+            "convert": "「啊哈……真是太好了……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん……ご主人が満足なら、いい……♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Mmhn... If Master is satisfied, then we're happy~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……既然主人滿足的話就好……♪」",
+            "convert": "「嗯……既然主人满足的话就好……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ほとんど寝ぼけたまま、"
+        },
+        "en": {
+            "content": "Mostly talking in their sleep..."
+        },
+        "cn": {
+            "content": "即使在半睡半醒之間，",
+            "convert": "即使在半睡半醒之间，"
+        }
+    },
+    {
+        "jp": {
+            "content": "ごろごろと喉を鳴らしながら頬を擦り寄せて来る。"
+        },
+        "en": {
+            "content": "... they purred and rubbed their cheeks against me."
+        },
+        "cn": {
+            "content": "兩人依然一邊發出呼嚕聲，一遍把臉往我身上蹭。",
+            "convert": "两人依然一边发出呼噜声，一遍把脸往我身上蹭。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺も甘いまどろみの中で浮かびながら、"
+        },
+        "en": {
+            "content": "As I also drifted off into slumber..."
+        },
+        "cn": {
+            "content": "而我在沉浸於甜蜜朦朧感當中的同時，",
+            "convert": "而我在沉浸于甜蜜朦胧感当中的同时，"
+        }
+    },
+    {
+        "jp": {
+            "content": "二匹の頭をそっと撫で続ける。"
+        },
+        "en": {
+            "content": "... I continued to pet them gently on the head."
+        },
+        "cn": {
+            "content": "也不斷摸著她們倆的頭。",
+            "convert": "也不断摸着她们俩的头。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「明日、起きたらみんなで一緒に風呂入って」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;We'll take a bath together tomorrow when we wake up.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「明天起床以後大家一起去洗個澡吧。」",
+            "convert": "「明天起床以后大家一起去洗个澡吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「髪も身体も、綺麗に洗ってやるからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;I'll wash your hair and bodies and clean you both up.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我來幫妳們把頭髮跟身體都洗得乾乾淨淨。」",
+            "convert": "「我来帮你们把头发跟身体都洗得干干净净。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嬉しいです……一緒に、お風呂……ふふ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Chocola's so happy... A bath together... teehee...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好高興……可以跟主人一起洗澡……呵呵……」",
+            "convert": "「好高兴……可以跟主人一起洗澡……呵呵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「髪も、ちゃんと乾かして欲しいにゃぁ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;I'd like you to dry my hair after, too, meow...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「可以的話，也幫我們吹吹頭髮吧……」",
+            "convert": "「可以的话，也帮我们吹吹头发吧……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、もちろん。ちゃんとブラッシングも」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah, of course. I'll brush it, too.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊啊，那當然。而且還附梳頭髮服務喔。」",
+            "convert": "「啊啊，那当然。而且还附梳头发服务喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまに、大事にしてもらえるの嬉しいにゃぁ……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;I'm so happy, being treated so dearly by Master, meow~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人這麼在乎我們，人家好高興喵……♪」",
+            "convert": "「主人这么在乎我们，人家好高兴喵……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「家ネコ以上に、恋ネコの幸せ……♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;The happiness of not only being a house catgirl, but also a catpanion~ %fSourceHanSansCN-M;♪%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這就是比家貓更高一級，身為貓娘情人的幸福……♪」",
+            "convert": "「这就是比家猫更高一级，身为猫娘情人的幸福……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "もにょもにょと口元を緩めながら。"
+        },
+        "en": {
+            "content": "As mumbles spilled from their lips..."
+        },
+        "cn": {
+            "content": "只見兩人微微揚起嘴角，",
+            "convert": "只见两人微微扬起嘴角，"
+        }
+    },
+    {
+        "jp": {
+            "content": "寝言と変わらないトーンの声をくすぶらせる。"
+        },
+        "en": {
+            "content": "... their voices trailed off, making it sound like they were talking in their sleep."
+        },
+        "cn": {
+            "content": "並且用和夢話沒兩樣的音量對我呢喃。",
+            "convert": "并且用和梦话没两样的音量对我呢喃。"
+        }
+    },
+    {
+        "jp": {
+            "content": "二匹の頭をそっと抱き寄せて、"
+        },
+        "en": {
+            "content": "I gently embraced both of their heads..."
+        },
+        "cn": {
+            "content": "我輕輕將她們倆的頭抱進懷中，",
+            "convert": "我轻轻将她们俩的头抱进怀中，"
+        }
+    },
+    {
+        "jp": {
+            "content": "ありったけの愛おしさを込めて耳元で囁く。"
+        },
+        "en": {
+            "content": "... whispering into their ears with all my heart."
+        },
+        "cn": {
+            "content": "用最溫柔的口氣在兩人耳邊細語。",
+            "convert": "用最温柔的口气在两人耳边细语。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……これからも、三人で頑張ろうな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;... Let's do our best together, the three of us.%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……今後我們也要三個人一起加油喔。」",
+            "convert": "「……今后我们也要三个人一起加油喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい……ご主人さまと、ショコラと、バニラで……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "%fSourceHanSansCN-M;「%f;Yes... Master, Chocola, and Vanilla...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好……主人、巧克力跟香草三個人一起……」",
+            "convert": "「好……主人、巧克力跟香草三个人一起……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん……きっと楽しくて、幸せだね……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "%fSourceHanSansCN-M;「%f;Yes... It'll be always so fun and happy...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……一定會過得很快樂又很幸福吧……」",
+            "convert": "「嗯……一定会过得很快乐又很幸福吧……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、きっと楽しくて、幸せだな……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "%fSourceHanSansCN-M;「%f;Yeah, we'll have fun, and we'll be so happy...%fSourceHanSansCN-M;」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊，一定會很快樂，又很幸福的……」",
+            "convert": "「是啊，一定会很快乐，又很幸福的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "愛しい恋ネコたちとそんな約束をして。"
+        },
+        "en": {
+            "content": "I made that promise to my beloved catpanions."
+        },
+        "cn": {
+            "content": "和心愛的貓娘情人們交換完約定，",
+            "convert": "和心爱的猫娘情人们交换完约定，"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつの間にか幸せな時間に溶けて眠りについていた。"
+        },
+        "en": {
+            "content": "At some point, I melted into this blissful moment and drifted off to sleep."
+        },
+        "cn": {
+            "content": "沉浸在幸福時間中的我們就這麼不知不覺地進入了夢鄉。",
+            "convert": "沉浸在幸福时间中的我们就这么不知不觉地进入了梦乡。"
+        }
+    }
+]

@@ -1,0 +1,381 @@
+[
+    {
+        "jp": {
+            "name": "アズキ＆シナモン",
+            "content": "『「午後８時３０分、風呂」\\n「午後８時３０分、お風呂～♪」』"
+        },
+        "en": {
+            "name": "Azuki&Cinnamon",
+            "content": "8:30 pm, bath time~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "紅豆＆桂",
+            "content": "晚上８点３０分，入浴",
+            "convert": "晚上８点３０分，入浴"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あちちっ！　誰だ風呂こんなに熱くしたやつぁ！　風呂はぬるめって昔から相場が決まってんだろーが！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Hot hot hot!! Who turned up the freakin' heat on this bath?! I thought we decided before that baths should be lukewarm!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "烫烫烫！是谁把洗澡水烧得那么热啊！洗澡水烧温点不是常识吗！",
+            "convert": "烫烫烫！是谁把洗澡水烧得那幺热啊！洗澡水烧温点不是常识吗！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何言ってんのよ、お風呂は熱くなきゃ気持よくないじゃない」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "What are you talking about? A bath has to be piping hot, or else it won't feel good."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "什么话，水不热一点洗起来哪舒服。",
+            "convert": "什幺话，水不热一点洗起来哪舒服。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ～一日の最後って感じでいいわぁ～♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Haahh~ Ending the day with a bath like this feels wonderful~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "哈～这种一天终于结束的感觉真不错～♪",
+            "convert": "哈～这种一天终于结束的感觉真不错～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最近、ご主人さまがお風呂も一緒に入ってくれなくなったよねぇ～にゃんでだろ～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Lately, Master hasn't been taking baths with us anymore... Why, meow~?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "最近主人都不跟我们一起洗澡了说～真不知道为什么～",
+            "convert": "最近主人都不跟我们一起洗澡了说～真不知道为什幺～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それはね、ご主人がエロいからだよ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "You know why? It's because Master is a pervert."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "那是因为主人是大色狼的缘故啊。",
+            "convert": "那是因为主人是大色狼的缘故啊。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なになに、それはショコラたちが大人のオンナになったからってことかな？　な？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Hmm? Are you saying it's because we've matured into young women? Is it that?"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "什么什么？你是说我们两个已经变成成熟女性了吗？是这样吗？",
+            "convert": "什幺什幺？你是说我们两个已经变成成熟女性了吗？是这样吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツやシナモンの裸を見てもそう言えるショコラが素敵よね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "It's wonderful how you can honestly wonder that while looking at Coconut's and Cinnamon's bare bodies, Chocola."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "看见椰子跟桂光溜溜的模样还能这么说，巧克力真了不起。",
+            "convert": "看见椰子跟桂光溜溜的模样还能这幺说，巧克力真了不起。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもショコラはちょっと前までは、兄さまと一緒にお風呂に入れてたんだから良いではないですか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Chocola was still able to bathe together with Nii-sama until just recently, though. That must be nice..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "不过巧克力你直到前阵子为止都还能跟哥哥一起洗澡不是吗。",
+            "convert": "不过巧克力你直到前阵子为止都还能跟哥哥一起洗澡不是吗。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私などもう何年も一緒に入ってもらえてないと言うのに……はぁぁ～……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "As for me, it's been years and years since we've last bathed together... Sigh~"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "哪像我，哥哥已经好几年都不肯跟我一起洗澡了……唉～……",
+            "convert": "哪像我，哥哥已经好几年都不肯跟我一起洗澡了……唉～……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「息を殺して真っ暗闇にして嘉祥が入ってくるの待ってたりするのになー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Even though you'd even turn all the lights off, stifle your breathing, and hide inside the bathtub waiting for Kashou, he still wouldn't bathe with you!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "明明连偷偷躲在灯光全暗的浴室里等嘉祥进来这招都用上了说～",
+            "convert": "明明连偷偷躲在灯光全暗的浴室里等嘉祥进来这招都用上了说～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そこまでしても気付かれるって、嘉祥もほんとすごいセンサーしてるわよね。時雨も難儀ね～」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "If he was still able to spot you like that, then he must be quite perceptive. It must be tough for you, Shigure~"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "做到这种程度还会被发现，嘉祥的感觉未免灵敏过头了吧。看来时雨也挺辛苦的呢～",
+            "convert": "做到这种程度还会被发现，嘉祥的感觉未免灵敏过头了吧。看来时雨也挺辛苦的呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……小さい身体、いいなぁ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Sigh... It must be nice to have a small frame..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "唉……身体小小的真好……",
+            "convert": "唉……身体小小的真好……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼくも可愛く生まれたかったなって、お風呂はいる度に思うよ～……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Whenever I take a bath, I think about how I would've liked to have been born cuter..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "每次洗澡的时候，我都会觉得自己要是能长得可爱一点就好了……",
+            "convert": "每次洗澡的时候，我都会觉得自己要是能长得可爱一点就好了……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことないってば～ナッちゃんはめっちゃカッコいいスタイルしてると思うし～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Don't be silly, Nacchan~ You've got a really amazing figure!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "别这么说嘛～我觉得椰子这样的体格很帅气啊～",
+            "convert": "别这幺说嘛～我觉得椰子这样的体格很帅气啊～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それにね、おっぱいは人類の宝なんだよ～？　もっと自信持っていいと思うな～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Besides, breasts are the treasure of humanity, you know~? You should have more confidence in yourself!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "而且，胸部可是人类的至宝喔～？再拿出一点自信来嘛～",
+            "convert": "而且，胸部可是人类的至宝喔～？再拿出一点自信来嘛～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、時雨さまが顔をうずめて気持ちいいと喜んでくれる時だけは、それなりには嬉しいけど……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Well, when Shigure-sama buries her smiling face in them and tells me how nice they are, I do feel sort of happy..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "嗯，见到时雨小姐把脸埋在我胸前还高兴地跟我说很舒服时，我确实是蛮开心的啦……",
+            "convert": "嗯，见到时雨小姐把脸埋在我胸前还高兴地跟我说很舒服时，我确实是蛮开心的啦……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモンほど自分の胸に自信は持てないかな……あはは……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "But I don't know if I can be as confident as you are with your breasts, Cinnamon... Ahahah..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "不过要我跟桂一样对自己胸部那么有自信恐怕是没办法吧……啊哈哈……",
+            "convert": "不过要我跟桂一样对自己胸部那幺有自信恐怕是没办法吧……啊哈哈……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしほどじゃないにしても、ナッちゃんももっと誇るべきだよ～うん、絶対にその方がいいってば～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "They might not be as big as mine, but you've got plenty to be proud of~! Yeah, you really should be more confident in them~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "就算没有我大，椰子还是应该多拿点自信出来啊～嗯，有自信绝对是好事喔～♪",
+            "convert": "就算没有我大，椰子还是应该多拿点自信出来啊～嗯，有自信绝对是好事喔～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「人類全員におっぱいが付いてたら、戦争なんて起きないって聞いたことあるし～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I've even heard that if everyone had breasts, then we would have world peace~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "我听说，只要全人类都长出大胸部的话，世界上就不会有战争咯～",
+            "convert": "我听说，只要全人类都长出大胸部的话，世界上就不会有战争咯～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい、そこのおっぱいキャットさん、お背中流しまーす。ざばーっとなー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Alright, alright, booby-cat! I'm gonna rinse your back niiiiiice and quick now~"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "来～那边那只大奶猫，我帮你洗洗背吧。我冲～",
+            "convert": "来～那边那只大奶猫，我帮你洗洗背吧。我冲～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はあぁあぁぁああぁあぁぁ～～～っっっ♪　冷たい水は、冷たい水責めはだめぇええぇええぇえぇ～～～っっっ♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Hnngggggghhh~!! %fSourceHanSansCN-M;♪%f; No, not that! Not the cold wateeeeeeeerrrr~~!! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "哈啊啊啊啊啊啊啊啊啊啊啊～～～～♪不要用冷水、不要用冷水泼人家啦～～～～♪",
+            "convert": "哈啊啊啊啊啊啊啊啊啊啊啊～～～～♪不要用冷水、不要用冷水泼人家啦～～～～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあもう一杯追加してやっからな？　ほれ、ざばー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Want me to dump another load? Here 'ya go, splaaaash!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "那就再来一盆冷水吧？看招～",
+            "convert": "那就再来一盆冷水吧？看招～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃあぁあぁんっ……♪　せっかく身体洗ったのに、シナモンまた潤っちゃううぅうぅうぅぅぅぅ～～～……っっっ♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Myaowwww...! %fSourceHanSansCN-M;♪%f; I only just cleaned myself, but now I'm wet agaiiiiiiiin~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "喵～～～～……♪人家才刚洗好身体而已，再这样下去又要湿了啦～～～～～～～～……♪",
+            "convert": "喵～～～～……♪人家才刚洗好身体而已，再这样下去又要湿了啦～～～～～～～～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモンは本当に最強ねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "You really are something, Cinnamon."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "桂真是太强了。",
+            "convert": "桂真是太强了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン、後でちゃんと湯船であったまらないとだめですよー？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Cinnamon, don't forget to warm up in the tub after you're done, okay?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "桂，等等记得进浴缸来把身子泡暖喔──？",
+            "convert": "桂，等等记得进浴缸来把身子泡暖喔──？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はあぁぁ～～～い、わかって、まあぁあぁぁあぁぁすうぅぅうっっっ♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Yesssshh!~ I-I've got ittttttttt~! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "好～～～～我、我知～～～～道了～～～～♪",
+            "convert": "好～～～～我、我知～～～～道了～～～～♪"
+        }
+    }
+]

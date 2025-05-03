@@ -1,0 +1,3252 @@
+[
+    {
+        "jp": {
+            "content": "「いにゃっしゃいませー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Meowelcome!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「歡迎光臨——！」",
+            "convert": "「欢迎光临——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ソレイユへ、ようこそ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Welcome to La Soleil.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「歡迎來到Soleil.」",
+            "convert": "「欢迎来到Soleil.」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「店内でお召し上がりですか？　お持ち帰りですか？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Will you be staying with us or taking it to go?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「請問您是要在店內用餐嗎？還是外帶呢？」",
+            "convert": "「请问您是要在店内用餐吗？还是外带呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「店内です～」"
+        },
+        "en": {
+            "name": "Female Customer",
+            "content": "「I'll be eating in~」"
+        },
+        "cn": {
+            "name": "女性顧客",
+            "content": "「我想要內用～」",
+            "convert": "「我想要内用～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！　こちらへどうぞ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Right! This way, if you please.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好的！這邊請。」",
+            "convert": "「好的！这边请。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すいませんー、注文をお願いしますー」"
+        },
+        "en": {
+            "name": "Female Customer A",
+            "content": "「Oh, excuse me! I'd like to place my order!」"
+        },
+        "cn": {
+            "name": "女性顧客A",
+            "content": "「不好意思，我想要點餐～」",
+            "convert": "「不好意思，我想要点餐～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わわっ、朝から大忙しにゃ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Whoa, whoa! Why's it so busy this early in the myorning?!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇哇，怎麼一大早就這麼忙！？」",
+            "convert": "「哇哇，怎么一大早就这么忙！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あちらは、私に任せて、ショコラ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Leave them to me, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力，那位客人就交給我吧。」",
+            "convert": "「巧克力，那位客人就交给我吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラ、ありがとー。助かるにゃ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Thanks, Vanilla. You're a big hyelp!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「謝謝妳～香草，幫了我一個大忙。」",
+            "convert": "「谢谢你～香草，帮了我一个大忙。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……目が回っているショコラも、かわいい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Tee hee... Even with your eyes spinning, you're as cute as ever, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘿嘿……忙到暈頭轉向的巧克力也好可愛。」",
+            "convert": "「嘿嘿……忙到晕头转向的巧克力也好可爱。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "手を挙げたお客さんのいるテーブルへ、バニラが向かった。"
+        },
+        "en": {
+            "content": "Vanilla walks toward the table where the customer has her hand raised."
+        },
+        "cn": {
+            "content": "香草走到舉手呼喚的顧客身旁。",
+            "convert": "香草走到举手呼唤的顾客身旁。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご注文をどうぞ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「May I take your order?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這位客人，請問您要點什麼呢？」",
+            "convert": "「这位客人，请问您要点什么呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私はショートケーキとダージリンティーをください」"
+        },
+        "en": {
+            "name": "Female Customer A",
+            "content": "「I'll have the shortcake and Darjeeling tea.」"
+        },
+        "cn": {
+            "name": "女性顧客A",
+            "content": "「我要鮮奶油蛋糕和大吉嶺紅茶。」",
+            "convert": "「我要鲜奶油蛋糕和大吉岭红茶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっと……ミルクレープとアップルティーで」"
+        },
+        "en": {
+            "name": "Female Customer B",
+            "content": "「For me, hmm... The mille crepe and apple tea, please.」"
+        },
+        "cn": {
+            "name": "女性顧客B",
+            "content": "「嗯……那我點千層可麗餅蛋糕和蘋果茶好了。」",
+            "convert": "「嗯……那我点千层可丽饼蛋糕和苹果茶好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ホットでよろしいですか？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Will that be hot, miss?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「請問茶要熱的還是冰的呢？」",
+            "convert": "「请问茶要热的还是冰的呢？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、２つとも」"
+        },
+        "en": {
+            "name": "Female Customer A",
+            "content": "「Yes, for both.」"
+        },
+        "cn": {
+            "name": "女性顧客A",
+            "content": "「兩杯都要熱的。」",
+            "convert": "「两杯都要热的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あちらのネコちゃんと、仲いいんですね」"
+        },
+        "en": {
+            "name": "Female Customer B",
+            "content": "「You and the catgirl over there seem to get along well.」"
+        },
+        "cn": {
+            "name": "女性顧客B",
+            "content": "「妳跟另一位貓娘的感情似乎很好呢。」",
+            "convert": "「你跟另一位猫娘的感情似乎很好呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仲いい……そう見える？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Does it... seem like we do?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……我們看起來感情很好嗎？」",
+            "convert": "「……我们看起来感情很好吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ、とっても！」"
+        },
+        "en": {
+            "name": "Female Customer A",
+            "content": "「Yes, very well, in fact!」"
+        },
+        "cn": {
+            "name": "女性顧客A",
+            "content": "「對啊，看起來好得不得了！」",
+            "convert": "「对啊，看起来好得不得了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……仲いいというか……ショコラには、私がいないとダメだから」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Tee hee... You could say that... but it's more like Chocola needs me to be around.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘿嘿……與其說感情好……不如說巧克力必須有我陪在身邊才行。」",
+            "convert": "「嘿嘿……与其说感情好……不如说巧克力必须有我陪在身边才行。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そして、私はショコラのいるところなら、どこでもいい……それだけのこと」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「And wherever Chocola is, I'll be right there... That is the bottom line.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「而我是巧克力願意去哪裡我就跟到哪裡……就是這樣。」",
+            "convert": "「而我是巧克力愿意去哪里我就跟到哪里……就是这样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それって……あはっ」"
+        },
+        "en": {
+            "name": "Female Customer A",
+            "content": "「Well, I'll be... Ahaha!」"
+        },
+        "cn": {
+            "name": "女性顧客A",
+            "content": "「這不就表示……啊哈。」",
+            "convert": "「这不就表示……啊哈。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うふふ……いいなぁ」"
+        },
+        "en": {
+            "name": "Female Customer B",
+            "content": "「Tee hee hee... Lucky girl.」"
+        },
+        "cn": {
+            "name": "女性顧客B",
+            "content": "「嘻嘻……真好呀。」",
+            "convert": "「嘻嘻……真好呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それでは、ご注文のケーキと紅茶をお持ちしますので、少々お待ちください」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「All right, I'll be back with your cake and tea orders shortly.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「蛋糕和紅茶很快就會送過來，還請兩位稍待片刻。」",
+            "convert": "「蛋糕和红茶很快就会送过来，还请两位稍待片刻。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人、ショートケーキとミルクレープを」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master, one shortcake and one mille crepe.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人，客人要點鮮奶油蛋糕和千層可麗餅。」",
+            "convert": "「主人，客人要点鲜奶油蛋糕和千层可丽饼。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、ちょうどよかった。今、ショートケーキができたところだぞ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ah, you're just in time. I'm just finishing up some shortcake now.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好。真巧，鮮奶油蛋糕剛做好。」",
+            "convert": "「好。真巧，鲜奶油蛋糕刚做好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ミルクレープはショーケースにあるよな、うん」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「The mille crepe should be out in the showcase, right? Yeah.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「至於千層可麗餅，展示櫃裡應該有。」",
+            "convert": "「至于千层可丽饼，展示柜里应该有。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ナイスタイミング。さすが、ご主人。外さない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Nice timing. You're always so on point, Master.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「時機恰到好處。不愧是主人，關鍵時刻從不失手。」",
+            "convert": "「时机恰到好处。不愧是主人，关键时刻从不失手。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラ、何か話してたのかい？　お客さん、楽しそうに笑ってたけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Vanilla, did you have a chat with those customers? They have some pretty happy smiles on their faces.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「看妳剛才跟客人有說有笑，是在聊些什麼？」",
+            "convert": "「看你刚才跟客人有说有笑，是在聊些什么？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Mm.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……嗯。」",
+            "convert": "「……嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私とショコラは、とっても仲良しだって」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「They said that me and Chocola get along really well.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「客人說，我和巧克力看起來感情很融洽。」",
+            "convert": "「客人说，我和巧克力看起来感情很融洽。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……お客さんが、ちょっと見ただけでもわかるんだなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah... Guess they can pick up on that just from one look.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……連客人都一眼就看出來啊。」",
+            "convert": "「哈哈……连客人都一眼就看出来啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Tee hee...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘿嘿……」",
+            "convert": "「嘿嘿……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃー、ご主人さまとバニラが、仲よさそうに話してる！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Meow! Master and Vanilla are having a fun conversation without Chocola!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵！主人跟香草聊得好開心！」",
+            "convert": "「喵！主人跟香草聊得好开心！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラも混ぜてくださいー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「You should let Chocola join in, too!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我也要一起聊！」",
+            "convert": "「我也要一起聊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「べつに……注文を伝えてただけ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Not really... I was just relaying the orders I took.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「沒有啦……我只是來傳達客人點的單。」",
+            "convert": "「没有啦……我只是来传达客人点的单。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仕事中だぞ、ショコラ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We're on the clock, Chocola.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「現在可是工作時間，巧克力。」",
+            "convert": "「现在可是工作时间，巧克力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぎにゃー！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Grk-nya?!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵！？」",
+            "convert": "「喵！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おしゃべりなら、あとで、ゆっくりな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We can have a nice, long chat later, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「想聊天的話，等下班後再聊個痛快。」",
+            "convert": "「想聊天的话，等下班后再聊个痛快。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「行こう、ショコラ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Let's get going, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「走吧，巧克力。」",
+            "convert": "「走吧，巧克力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううぅ……ぜったいですよ、ご主人さま」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Unghh... You better promise, Master.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚嗚……說好了喔，主人。」",
+            "convert": "「呜呜……说好了喔，主人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　ショコラ、その手の中のメモは、なに？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hm? Chocola, what's that note in your hand?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「慢著，巧克力，妳手上的便箋是什麼？」",
+            "convert": "「慢着，巧克力，你手上的便笺是什么？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ、そうだにゃ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Oh, that's ryght!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，對了！」",
+            "convert": "「啊，对了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま、お誕生日ケーキの注文、いただきました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master, we have an order for a birthday cake!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，剛剛有客人訂生日蛋糕！」",
+            "convert": "「主人，刚刚有客人订生日蛋糕！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、そいつは嬉しいな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ooh, that's good news.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔，這太好了。」",
+            "convert": "「喔，这太好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……誕生日は、誰にとっても特別なもの。その１年に１回の記念日に、ソレイユのケーキを選んでもらえたのは、とっても光栄なこと」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Birthdays are a special time for everyone. It is a great honor for someone to select a cake from La Soleil for their once-a-year celebration.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……生日對一個人來說是一年之中最特別的日子。肯在這個特別的紀念日選擇我們Soleil的蛋糕，實在是無比榮幸。」",
+            "convert": "「……生日对一个人来说是一年之中最特别的日子。肯在这个特别的纪念日选择我们Soleil的蛋糕，实在是无比荣幸。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そう言ってましたもんね、ご主人さま！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yep, you've said that in the past, right, Master?!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「記得主人以前講過這句話，對吧？」",
+            "convert": "「记得主人以前讲过这句话，对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん。ちゃんと名前と年齢と連絡先、書いてもらったか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure have. So, did you make sure to get their name, age, and contact info?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒錯。妳讓客人寫下姓名、年齡和聯絡方式了嗎？」",
+            "convert": "「没错。你让客人写下姓名、年龄和联系方式了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！　今回はバッチリです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes! All here, perfectly, this time!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯！這次我都問清楚了！」",
+            "convert": "「嗯！这次我都问清楚了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「種類とサイズも、しっかり聞いてあります！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola even asked them the type and size they wanted, too!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「種類和尺寸也好好地跟客人確認過了！」",
+            "convert": "「种类和尺寸也好好地跟客人确认过了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「メッセージは『○○くん、お誕生日おめでとう！』でいいのかな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What about the message? Will just 'Happy Birthday 〇〇-kun!' do?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那麼，祝福語寫『○○，祝你生日快樂！』就好嗎？」",
+            "convert": "「那么，祝福语写『○○，祝你生日快乐！』就好吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えーっと……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Um, well...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呃……」",
+            "convert": "「呃……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「聞いてきますにゃー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola will ask right meow!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我再去問問喵——！」",
+            "convert": "「我再去问问喵——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やれやれ……お客さんが帰る前でよかった」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Good grief... Good thing the customer didn't leave yet.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唉……幸好客人還沒走。」",
+            "convert": "「唉……幸好客人还没走。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっぱり、記入シートを作ったほうがいい。あとで私が用意しておく？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I think making an entry form would be a good idea after all. I'll spruce one up later, okay?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「看來還是做個表單比較好。我去設計一下嗎？」",
+            "convert": "「看来还是做个表单比较好。我去设计一下吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとう、助かるよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thanks, I'd appreciate that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝，幫了大忙。」",
+            "convert": "「谢谢，帮了大忙。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ところで、冬服の着心地はどうだい？　屋内だと暑かったりしないか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「By the way, how are the winter clothes treating you? It's not too hot or anything indoors for you, is it?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「話說回來，冬裝穿著還習慣嗎？室內穿起來會不會太熱？」",
+            "convert": "「话说回来，冬装穿着还习惯吗？室内穿起来会不会太热？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「夏服でも、歩き回っていると気にならなかったけど……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I was comfortable enough walking around in summer clothes as well, but...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「其實幹活的時候走來走去，即使穿夏裝也不會太冷……」",
+            "convert": "「其实干活的时候走来走去，即使穿夏装也不会太冷……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「扉が開いたときに、外の風が入ってくるとストーブが恋しくなった」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Once the door is opened and the breeze comes in, I end up longing for the space heater.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不過，門一打開風吹進來的瞬間，真的會讓人想窩在暖爐旁。」",
+            "convert": "「不过，门一打开风吹进来的瞬间，真的会让人想窝在暖炉旁。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「冬服は暖かい。これは、よいもの。感謝」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「The winter clothes are warm. These are good. I'm grateful.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「相較之下，冬裝很暖和。穿起來很舒服，感謝。」",
+            "convert": "「相较之下，冬装很暖和。穿起来很舒服，感谢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そいつはよかった」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, that's good to hear.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那就好。」",
+            "convert": "「那就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、戻りました！　冬服もかわいいから、バッチリです、ご主人さま！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola is back! The winter clothes are perfect; they're so cute, Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，我回來了！冬裝很可愛，穿起來也很舒服！」",
+            "convert": "「主人，我回来了！冬装很可爱，穿起来也很舒服！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは。時雨に用意してもらって正解だったよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah. Then asking Shigure to prepare them was the right call.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈，制服我是請時雨準備的，她的眼光果然沒錯。」",
+            "convert": "「哈哈，制服我是请时雨准备的，她的眼光果然没错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ、お誕生日ケーキのお客さまから、メッセージをもらってきました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Oh, Chocola brought back the message from the customer buying the birthday cake!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「客人要的祝福語我也問完了！」",
+            "convert": "「客人要的祝福语我也问完了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、ありがとう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right, thanks.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好的，謝謝妳。」",
+            "convert": "「好的，谢谢你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショートケーキを持っていくよ、ご主人」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm going to bring out the shortcake, Master.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那我要先把鮮奶油蛋糕端給客人了。」",
+            "convert": "「那我要先把鲜奶油蛋糕端给客人了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、紅茶と一緒にお出しするようにな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure, make sure you bring out the tea with it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別忘了紅茶。」",
+            "convert": "「别忘了红茶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろん。がってん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Of course. That's the plan.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「當然，請放心。」",
+            "convert": "「当然，请放心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、またお客さんが！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Oh, look, more customers!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇，又有客人光臨了！」",
+            "convert": "「哇，又有客人光临了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "バニラにうなずきを返し、ショコラからメモを受け取り、俺は厨房へと戻るのだった。"
+        },
+        "en": {
+            "content": "I give Vanilla a nod in reply and take the note from Chocola before returning to the kitchen."
+        },
+        "cn": {
+            "content": "我向香草點點頭，接下巧克力拿回來的便箋，再度走進廚房。",
+            "convert": "我向香草点点头，接下巧克力拿回来的便笺，再度走进厨房。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「遅いぞ、嘉祥」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Get the lead out, Kashou.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嘉祥，怎麼那麼慢！」",
+            "convert": "「嘉祥，怎么那么慢！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごめん、ごめん、アズキ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right, sorry about that, Azuki.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉抱歉，紅豆。」",
+            "convert": "「抱歉抱歉，红豆。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ケーキ屋がケーキ売らずに油売ってて、どうすんだって」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I know we sell cakes here, but that's no excuse to loaf around!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我們是來賣蛋糕的，不是來摸魚的！」",
+            "convert": "「我们是来卖蛋糕的，不是来摸鱼的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……」",
+            "convert": "「哈哈……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最近、朝から客の入りが多くて、追いつかねーや」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「We've been gettin' so many customers starting in the morning that it's hard to even keep up with 'em.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「最近早上客人好多，怎麼接待都接待不完。」",
+            "convert": "「最近早上客人好多，怎么接待都接待不完。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「早朝に来て、まとめて買っていくお客さんが増えた気がするなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure does feel like we're getting a lot more early morning customers all buying in bulk, yeah.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「感覺這幾天似乎有很多客人會早上過來，一口氣買很多。」",
+            "convert": "「感觉这几天似乎有很多客人会早上过来，一口气买很多。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「余所の店の仕入れかと思うくらい大量に買っていく客もいるもんなあ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Some of the people we get buy so much it makes me think they're stocking up for other shops.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「有些客人還整批整批地購買，簡直像其他店來進貨似的。」",
+            "convert": "「有些客人还整批整批地购买，简直像其他店来进货似的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなに気に入ってくれているなら、ありがたいね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, if they like my cakes that much, the attention's appreciated.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這表示我們的蛋糕很受歡迎啊，是好事。」",
+            "convert": "「这表示我们的蛋糕很受欢迎啊，是好事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おかげで、ネコの手も借りたいくらいだぞ、嘉祥？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Okay, but you realize the workload is a cat–astrophe, right, Kashou?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「可是也害你忙到暈頭轉向，連貓也叫來幫忙啦。」",
+            "convert": "「可是也害你忙到晕头转向，连猫也叫来帮忙啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、わかってるって」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right, I get it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好啦好啦，我會補償妳們的。」",
+            "convert": "「好啦好啦，我会补偿你们的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おつかれさま～♪　わたしもキッチン、お手伝いします～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hello~♪ I'll be helping out in the kitchen, too~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「辛苦了～♪我也來廚房幫忙～」",
+            "convert": "「辛苦了～♪我也来厨房帮忙～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おう。カウンターは、いいのか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Gotcha. Is the counter covered?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喂，妳不用顧櫃台嗎？」",
+            "convert": "「喂，你不用顾柜台吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい。メーちゃんが、もうカウンターは１人で大丈夫って」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It is. May-chan said that she could man the counter herself.」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯，小楓說櫃台她自己應付得來。」",
+            "convert": "「嗯，小枫说柜台她自己应付得来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……クビか」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...You got the boot, huh?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「……看來可以裁員了。」",
+            "convert": "「……看来可以裁员了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういう意味じゃないですよね～！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「That's not what she meant by that~! Right?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「等等，我不是這個意思！？」",
+            "convert": "「等等，我不是这个意思！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「真に受けるなっての。まぁ、プルメーが言ってんなら、大丈夫なんだろ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Geez, don't take it seriously. Well, if Pull-may says she's all right, then she's probably all right.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我只是在開玩笑，不要當真啦。楓既然說可以，櫃台交給她一定沒問題。」",
+            "convert": "「我只是在开玩笑，不要当真啦。枫既然说可以，柜台交给她一定没问题。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「よし、モンシナ！　イチゴを磨け！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Alrighty, Mon-cinna! Get to polishing those strawberries!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「好，桂！來把草莓擦得亮晶晶的！」",
+            "convert": "「好，桂！来把草莓擦得亮晶晶的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「は～い♪　がんばります！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Okie dokie~♪ I'll do my best!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「好的～♪我會加油的！」",
+            "convert": "「好的～♪我会加油的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたし、ソレイユを手伝うまで、知らなかったんですけど」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I actually didn't know until I started helping out at La Soleil.」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「其實，直到來Soleil打工前我都不知道……」",
+            "convert": "「其实，直到来Soleil打工前我都不知道……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ケーキに使うイチゴって、磨くものだったんですね～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You have to polish the strawberries for the cakes to get that sheen~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「原來要用在蛋糕上的草莓要先經過擦拭啊～」",
+            "convert": "「原来要用在蛋糕上的草莓要先经过擦拭啊～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、アタシだって知らなかったよ……わざわざ１個１個、磨いてるなんて」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well, I had no clue that each individual strawberry was polished, either.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「哎，我以前也不知道……沒想到蛋糕上的草莓得一顆顆費心地擦拭。」",
+            "convert": "「哎，我以前也不知道……没想到蛋糕上的草莓得一颗颗费心地擦拭。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最初のうちは、気が遠くなって、気絶するかと思ったぜ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「When I first did it, it was so monotonous that I thought I was gonna pass out.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「一開始還覺得好像永遠也擦不完，差點沒昏倒。」",
+            "convert": "「一开始还觉得好像永远也擦不完，差点没昏倒。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「終わる気がしなかったですよね～。今は、慣れてきましたけど」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It is the sort of task that seems to have no end, I agree. I'd say that I'm used to it by now, though.」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「真的是這樣呢～雖然現在已經習慣了。",
+            "convert": "「真的是这样呢～虽然现在已经习惯了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大変だけど……食べたときに、イチゴの産毛がそのままだと、舌触りが悪いからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I know it's tough work, but... if you keep the fuzz on strawberries, then it's not the best feeling on your tongue.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「擦拭草莓確實很辛苦……但不擦的話，草莓上的細絨毛對口感影響很大。」",
+            "convert": "「擦拭草莓确实很辛苦……但不擦的话，草莓上的细绒毛对口感影响很大。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最初からツヤツヤしたイチゴを、使っているのかと思ってました～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「At first, I assumed that you just picked glossy strawberries from the beginning~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我還以為是選用原本就很光滑的品種～」",
+            "convert": "「我还以为是选用原本就很光滑的品种～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろん、品種は選びに選び抜いてるけど……磨かなくてもいいイチゴは見たことがないな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course, I'm particular about the types I buy, but... I've never spotted a strawberry that I didn't need to polish.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「品種當然也有精心挑選……不過我還沒見過不需要擦拭就夠光滑的草莓。」",
+            "convert": "「品种当然也有精心挑选……不过我还没见过不需要擦拭就够光滑的草莓。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんか、ガーッと機械でやってんのかと思ってたよ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I always figured you'd load 'em on a machine to handle that.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我還以為是用機器一口氣處理好的。」",
+            "convert": "「我还以为是用机器一口气处理好的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……そんな機械があれば便利だけど、イチゴはデリケートだからなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah... A machine like that would be handy if it existed, but strawberries are pretty delicate, you know.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……有那麼方便的機器就好了。草莓很容易碰傷的。」",
+            "convert": "「哈哈……有那么方便的机器就好了。草莓很容易碰伤的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうみたいだな。丁寧に手で磨かないと、すぐ傷がついちまう」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Seems that way. You have to carefully polish them by hand or they bruise pretty easily.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「沒錯啊。不細心擦拭的話一下子就碰傷了。」",
+            "convert": "「没错啊。不细心擦拭的话一下子就碰伤了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "１個１個、布に当てて、表面の毛を落としていく。"
+        },
+        "en": {
+            "content": "I take a cloth to each individual strawberry and wipe off the fuzz on the surface layer."
+        },
+        "cn": {
+            "content": "我小心翼翼地用布一顆一顆擦掉草莓表面的絨毛。",
+            "convert": "我小心翼翼地用布一颗一颗擦掉草莓表面的绒毛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしごし……ごしごし……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Rubba rub... Rubba rub...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「（磨磨……擦擦……）」",
+            "convert": "「（磨磨……擦擦……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "茎も丁寧に取らないと、えぐれて穴が開くと見栄えが悪い。"
+        },
+        "en": {
+            "content": "And unless you carefully pluck out the stem, you'll gouge out a hole and ruin the presentation."
+        },
+        "cn": {
+            "content": "蒂也得仔細去除，否則留下一個窟窿會很難看。",
+            "convert": "蒂也得仔细去除，否则留下一个窟窿会很难看。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……美味しそう……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hah... Hah... It looks so delicious...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「哈啊……哈啊……看起來好好吃……」",
+            "convert": "「哈啊……哈啊……看起来好好吃……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「つまみ食いするなよ？　どんなにイチゴが美味しそうでも、絶対につまみ食いするなよ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, no sneaking bites, okay? I don't care how delicious the strawberries look, you're NOT allowed to sneak any bites, you hear?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「不許偷吃。不管看起來多麼美味，絕對不許偷吃。」",
+            "convert": "「不许偷吃。不管看起来多么美味，绝对不许偷吃。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ～ん、イチゴ、つやつや～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Aah~m, such glossy strawberries~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊～草莓亮晶晶～♪」",
+            "convert": "「啊～草莓亮晶晶～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしの手で、テカテカに光っていくのが……ドキドキしちゃう～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Knowing that my hands are making them gleam bright... is sending my heart aflutter~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「看到草莓在我的手中逐漸變得光滑晶亮……不禁讓人心跳加速～♪」",
+            "convert": "「看到草莓在我的手中逐渐变得光滑晶亮……不禁让人心跳加速～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、慣れてくると楽しいけど……ドキドキするか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well, it does get fun the more you get used to it, but... uh, is it THAT exciting?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「熟練之後是還算有趣啦……不至於會心跳加速吧？」",
+            "convert": "「熟练之后是还算有趣啦……不至于会心跳加速吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「相変わらず、モンシナの言うことは、よくわかんねぇな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Y'know, you never fail to say stuff I just can't wrap my head around, Mon-cinna.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「桂的想法還是教人搞不懂。」",
+            "convert": "「桂的想法还是教人搞不懂。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……磨き過ぎないようにな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah... Make sure not to polish too much, all right?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……可別擦過頭了。」",
+            "convert": "「哈哈……可别擦过头了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういや、生クリームを作ったりするときにさ……嘉祥は機械を使わねーよな？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「That reminds me, when you're making whipped cream... you don't use a machine for that either, do you?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「話說回來，嘉祥，你在製作鮮奶油之類的时候……好像都不用機器？」",
+            "convert": "「话说回来，嘉祥，你在制作鲜奶油之类的时候……好像都不用机器？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「泡立て棒を回すのは、けっこう疲れるんじゃねーか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Don't ya get tired stirring around that whisk for so long?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「用打蛋棒攪拌不是很累嗎？」",
+            "convert": "「用打蛋棒搅拌不是很累吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだけど……俺は、自分の手で作るやり方を師匠に教わったからな。同じように作りたいんだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, it can, but... my mentor taught me how to prepare it by hand, so I want to make it in a similar fashion.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「累是累……可是我想重現師傅教的手工製作的方法。」",
+            "convert": "「累是累……可是我想重现师傅教的手工制作的方法。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥さんの、お師匠さんですか？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「You're talking about your old teacher, Kashou-san?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘉祥的師傅……？」",
+            "convert": "「嘉祥的师傅……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういや、話したことがなかったか……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Come to think of it, I've never talked about them, have I...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說起來，我好像沒跟妳們提過這件事……？」",
+            "convert": "「说起来，我好像没跟你们提过这件事……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥がフランスに留学してたときに、洋菓子作りを教わった――ってのは、時雨から聞いてるけど」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Shigure told us that you were taught Western-style baking when you studied abroad in France, but that's it.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「我聽時雨說你做糕點的技術是在法國留學時學的。」",
+            "convert": "「我听时雨说你做糕点的技术是在法国留学时学的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん……師匠の作るケーキは本当に素晴らしくてね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right, well... my mentor's cakes are positively excellent.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……師傅做的蛋糕真的非常美味。」",
+            "convert": "「嗯……师傅做的蛋糕真的非常美味。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ずっと目標にしているけれど……なかなか、あの味には及ばないよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I've always set them as my baking goal, but... I just can't come close to their taste.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我一直以師傅為目標來努力……可是依舊比不上師傅的手藝。」",
+            "convert": "「我一直以师傅为目标来努力……可是依旧比不上师傅的手艺。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はわぁ～、食べてみたいです～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, wow~ I sure would like to try them~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「哇～好想吃吃看～♪」",
+            "convert": "「哇～好想吃吃看～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おっ、モンシナ、浮気か？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ooh, being unfaithful are we, Mon-cinna?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯？桂，妳要移情別戀了嗎？」",
+            "convert": "「嗯？桂，你要移情别恋了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そんなんじゃありませんよー！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「N-No, that isn't what I meant at all!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「沒、沒這回事啦——！」",
+            "convert": "「没、没这回事啦——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはは……本当に美味しいから、いつか皆にも食べてもらいたいよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ahahah... They really are good, so I'd like to get you guys to try them one day.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊哈哈……師傅做的蛋糕真的是人間美味，有機會我也很想讓大家品嚐看看。」",
+            "convert": "「啊哈哈……师傅做的蛋糕真的是人间美味，有机会我也很想让大家品尝看看。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、そこまで言うなら、いつか食べさせてくれ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well, if you insist, one day it is.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「既然你這麼說，那就約好囉。」",
+            "convert": "「既然你这么说，那就约好咯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥は目指してるんだろう？　その味を」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「That's what you're working toward, right? That taste, that is.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「你不是以師傅的手藝為目標嗎？」",
+            "convert": "「你不是以师傅的手艺为目标吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……！　ああ、そうだな。頑張るよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...! Yeah, it sure is. And I'll try my best.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃……！嗯，妳說的沒錯，我會繼續加油的。」",
+            "convert": "「呃……！嗯，你说的没错，我会继续加油的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うふふ……楽しみにしています、嘉祥さん」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Tee hee hee... I look forward to that, Kashou-san.」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘿嘿……我會期待的，嘉祥。」",
+            "convert": "「嘿嘿……我会期待的，嘉祥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゅるる……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Slurp...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「（流口水……）」",
+            "convert": "「（流口水……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「い、今すぐは無理だからな、シナモン？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「U-Um, you realize I can't do that right now, right, Cinnamon?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「先、先別流口水了，現在的我還差得遠！」",
+            "convert": "「先、先别流口水了，现在的我还差得远！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「気が早すぎだろ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「You're jumpin' the gun.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「妳也太心急了吧。」",
+            "convert": "「你也太心急了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だ、だってー、美味しいものを想像すると、こうなっちゃうじゃないですか～！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「B-But when I picture something delicious in my mind, I can't help but get this way~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「沒、沒辦法啦，一想到好吃的東西，口水自動流下來也很正常吧～！？」",
+            "convert": "「没、没办法啦，一想到好吃的东西，口水自动流下来也很正常吧～！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "しばらく作業して、今度はモンブランが完成した。"
+        },
+        "en": {
+            "content": "After a bit of work, I complete the Mont Blancs I had planned."
+        },
+        "cn": {
+            "content": "我邊聊邊動手，不久，蒙布朗也完成了。",
+            "convert": "我边聊边动手，不久，蒙布朗也完成了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺はトレイをカウンターへと運ぶ。"
+        },
+        "en": {
+            "content": "I bring the tray out to the counter."
+        },
+        "cn": {
+            "content": "我將蛋糕放上托盤，端到櫃台。",
+            "convert": "我将蛋糕放上托盘，端到柜台。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あら、嘉祥。やっと来たわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「My, my, Kashou. You finally made it, I see.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「哎呀，嘉祥。你總算來了。」",
+            "convert": "「哎呀，嘉祥。你总算来了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、お待たせ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, sorry for the wait.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉，讓妳久等了。」",
+            "convert": "「抱歉，让你久等了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ただいま、お兄ちゃん！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm back, Onii-chan!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哥哥，我回來了！」",
+            "convert": "「哥哥，我回来了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お帰り。ココナツは出前から戻ってきたところか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Welcome back. Guess you're just getting back from delivery, huh, Coconut?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳回來啦，椰子。剛剛去外送嗎？」",
+            "convert": "「你回来啦，椰子。刚刚去外送吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、ちょうど帰ったところ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Uh-huh, I just got back.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「是啊，剛回來的。」",
+            "convert": "「是啊，刚回来的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうな。寒かっただろう？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Appreciate it. Was it cold out there?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「辛苦了。外頭很冷吧？」",
+            "convert": "「辛苦了。外头很冷吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「平気だよ！　冬服、暖かいし！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm fine! The winter clothes we have are warm!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「不冷的！冬裝很暖和！」",
+            "convert": "「不冷的！冬装很暖和！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お肉もついているし」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「And you're packing meat on your bones, too.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「反正脂肪層也很厚。」",
+            "convert": "「反正脂肪层也很厚。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ついてないよ！？　ふつうだよ！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I am not! I'm normal-sized!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「才沒有！人家身材剛剛好！」",
+            "convert": "「才没有！人家身材刚刚好！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大丈夫ならいいんだが……無理はしないようにな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, that's good if you're okay with it, but... just make sure you don't do anything you're not comfortable with.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那就好……記得要好好保暖，別著涼了。」",
+            "convert": "「那就好……记得要好好保暖，别着凉了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "体力があるので、ココナツには、つい頼ってしまう。"
+        },
+        "en": {
+            "content": "Coconut has physical strength on her side, so I end up relying on her more than I should."
+        },
+        "cn": {
+            "content": "椰子體能優異，這種體力活總會落在她身上。",
+            "convert": "椰子体能优异，这种体力活总会落在她身上。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺からトレイを受け取ったメイプルが、\\n慣れた手つきでショーケースにモンブランを移した。"
+        },
+        "en": {
+            "content": "Maple takes the tray from me and moves the Mont Blancs into the showcase with a practiced hand."
+        },
+        "cn": {
+            "content": "楓從我手中接過托盤，\\n熟練地將蒙布朗夾進展示櫃裡。",
+            "convert": "枫从我手中接过托盘，\\n熟练地将蒙布朗夹进展示柜里。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これでよし、と。やっぱり、ショーケースにケーキが並んでないとね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「And there we go. Yup, a good showcase has to have cakes in it, for sure.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「呼……擺好了。展示櫃裡還是要擺上蛋糕才像樣。」",
+            "convert": "「呼……摆好了。展示柜里还是要摆上蛋糕才像样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……午前中からスカスカなのは、マズイよな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Pretty bad to have it empty early in the morning, eh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……問題是現在才上午，櫃子裡的蛋糕就快賣光了，這不太妙啊。」",
+            "convert": "「……问题是现在才上午，柜子里的蛋糕就快卖光了，这不太妙啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうよー。どんどん持ってきてちょうだい？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Exactly. So would you mind keeping them coming?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「就是說啊，再去多拿一點蛋糕來吧。」",
+            "convert": "「就是说啊，再去多拿一点蛋糕来吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この時期は、栗のケーキがよく出るのよねー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「This time of year helps accentuate chestnut cakes.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「栗子口味的蛋糕在這個季節很好賣～」",
+            "convert": "「栗子口味的蛋糕在这个季节很好卖～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あと、期間限定のパンプキンケーキは強いわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「And the limited-edition pumpkin cakes have a strong taste.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「其他像是季節限定的南瓜蛋糕也很暢銷。」",
+            "convert": "「其他像是季节限定的南瓜蛋糕也很畅销。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「日本にも、すっかりハロウィンが定着したなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Guess Halloween has completely taken root in Japan, too, eh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「日本人也習慣過起萬聖節了啊。」",
+            "convert": "「日本人也习惯过起万圣节了啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼく、お祭りは何でも好きだなー」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I love any kind of festival!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「只要是祭典，人家都喜歡～」",
+            "convert": "「只要是祭典，人家都喜欢～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたしは、騒がしいのは、あまり好きではないけど……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Personally, I'm not really a big fan of a lot of ruckus...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我倒是不怎麼喜歡這類吵鬧的節日……」",
+            "convert": "「我倒是不怎么喜欢这类吵闹的节日……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、騒がしいのは一部だけだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, ruckus is just one part of it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「其實會吵吵鬧鬧的只有一小部分人而已。」",
+            "convert": "「其实会吵吵闹闹的只有一小部分人而已。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そう願いたいものね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I would sure hope so.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「希望如此。」",
+            "convert": "「希望如此。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ところで、嘉祥。パンプキンケーキに合わせて茶葉を選んでみたけど……試飲してみない？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「By the way, Kashou? I tried picking a tea to go with the pumpkin cake, but... would you mind taste-testing it?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「對了，嘉祥，我挑了一種和南瓜蛋糕很搭的茶葉……你想試喝一下嗎？」",
+            "convert": "「对了，嘉祥，我挑了一种和南瓜蛋糕很搭的茶叶……你想试喝一下吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほお、ぜひ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh-ho, my pleasure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？當然好。」",
+            "convert": "「嗯？当然好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうぞ。あたしが気に入っている茶園の、ダージリンのオータムナルよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Here you go. This is a Darjeeling Autumnal from my favorite tea shop.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「請享用。這是我很中意的茶園產的大吉嶺秋摘茶。」",
+            "convert": "「请享用。这是我很中意的茶园产的大吉岭秋摘茶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほんの少しミルクを落とすのが、オススメね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I recommend it with just a dab of milk.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「加入少許牛奶提味會更好喝。」",
+            "convert": "「加入少许牛奶提味会更好喝。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふむ……香りが濃くて、主張の強い、深みのある味だね。芳醇でありながら、飲みやすい」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mm-hmm... A rich aroma with an assertive, full-bodied taste. Robust, yet goes down smooth.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯嗯……香氣濃郁，口味有自己的特色，很有深度。芬芳醇厚，又不失清爽口感，容易入喉。」",
+            "convert": "「嗯嗯……香气浓郁，口味有自己的特色，很有深度。芬芳醇厚，又不失清爽口感，容易入喉。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……そうね。あたしとしては、ダージリンを最も楽しめる茶葉だと思っているわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Heh heh... Yes, I personally enjoy Darjeeling tea leaves the most.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「嘿嘿……沒錯，我個人覺得這是大吉嶺茶當中最有意思的茶葉。」",
+            "convert": "「嘿嘿……没错，我个人觉得这是大吉岭茶当中最有意思的茶叶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これなら、風味の強いパンプキンケーキとも、相性がいいでしょう？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Do you think it would match well with the bold taste of the pumpkin cakes?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「怎樣？應該和口味濃郁的南瓜蛋糕很搭吧？」",
+            "convert": "「怎样？应该和口味浓郁的南瓜蛋糕很搭吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たしかに、合いそうだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I believe it would.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊，肯定很搭。」",
+            "convert": "「是啊，肯定很搭。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごくり」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Gulp.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「（吞口水）」",
+            "convert": "「（吞口水）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なに、気になるの？　試してみたいなら、そう言いなさいよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What, interested? If you want to try some, just say so.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「椰子，妳也有興趣嗎？想喝就說一聲啊。」",
+            "convert": "「椰子，你也有兴趣吗？想喝就说一声啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、飲んでみたい！　メイプルの選ぶ紅茶って、どれもスゴイし！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yeah, I wanna have a cup! Your picks for black tea are always the best, Maple!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯，人家想喝！楓精挑細選的紅茶都超級好喝！」",
+            "convert": "「嗯，人家想喝！枫精挑细选的红茶都超级好喝！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そう？　まぁ……あたしが気に入った茶葉を選んでいるだけなんだけど……どうぞ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「A-Are they? I mean, I'm just picking my favorites... Here you go.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「真、真的嗎？哎，我只是挑出我自己喜歡的茶葉而已啦……請喝。」",
+            "convert": "「真、真的吗？哎，我只是挑出我自己喜欢的茶叶而已啦……请喝。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁい！　ありがとう！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Wowie! Thank you!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哇～！謝謝妳！」",
+            "convert": "「哇～！谢谢你！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん、こくん……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mm, glug...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「（咕嚕咕嚕……）」",
+            "convert": "「（咕噜咕噜……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うわぁ、本当だ！　すっごく紅茶って感じだねー！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Oh wow, I was right! This really tastes like black tea!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哇～是真的！人家從沒喝過這麼有紅茶味的紅茶——！」",
+            "convert": "「哇～是真的！人家从没喝过这么有红茶味的红茶——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「紅茶は紅茶なんだけど……まぁ、オータムナルだものね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Black tea is what it is... but I suppose that's an Autumnal for you.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「因為這就是紅茶啊……不過倒也不奇怪，畢竟是秋摘茶葉。」",
+            "convert": "「因为这就是红茶啊……不过倒也不奇怪，毕竟是秋摘茶叶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おーたむ？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Autumn-wha?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「秋摘？」",
+            "convert": "「秋摘？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「秋口に摘まれる茶葉をオータムナルといって、茶葉の風味が最も強く出るの」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Tea leaves picked at the beginning of fall are called Autumnals, and they tend to draw the strongest flavors.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「秋摘茶葉是初秋時摘採的茶葉，茶葉的風味一般說來也最濃郁。」",
+            "convert": "「秋摘茶叶是初秋时摘采的茶叶，茶叶的风味一般说来也最浓郁。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから、ココナツの感想も、気持ちはわかるというか。言わんとすることは、伝わってくるというか。間違ってはいないわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「What I mean is, I get where you're coming from in your impression—or I get what it is you're trying to say. Basically, you're not wrong.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「所以妳的形容也不算錯，這的確是最有紅茶味的紅茶。」",
+            "convert": "「所以你的形容也不算错，这的确是最有红茶味的红茶。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「へー、すごく美味しいよ！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Wow, this is so tasty!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「原來如此～真的非常好喝！」",
+            "convert": "「原来如此～真的非常好喝！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは、よかったわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I'm glad you think so.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「妳喜歡就好。」",
+            "convert": "「你喜欢就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺もいいと思う。さっそく、メニューに加えてみようか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I think it's good, too. Would you mind putting it on the menu right away?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我也覺得很不錯。那就加進菜單吧。」",
+            "convert": "「我也觉得很不错。那就加进菜单吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わかったわ、やっておくわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「All right, I'll get right on that.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「好，就加進去試試看吧。」",
+            "convert": "「好，就加进去试试看吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、嘉祥、さっき電話があって……また大量注文が来ているけど？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Oh, Kashou, there was a phone call earlier. We've got another bulk order.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「對了，嘉祥，剛剛有電話……又有客人要大量訂購。」",
+            "convert": "「对了，嘉祥，刚刚有电话……又有客人要大量订购。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、いつだい？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh yeah? When?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「什麼時候要？」",
+            "convert": "「什么时候要？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「次の次の週末だから、まだ先になるわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Two weekends from now. Still a ways to go.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「下下個週末。時間還早。」",
+            "convert": "「下下个周末。时间还早。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "言いながら、メイプルが注文の詳細なリストを\\n手渡してくる。"
+        },
+        "en": {
+            "content": "Maple says, taking out the detailed list of the order and passing it over to me."
+        },
+        "cn": {
+            "content": "楓一邊說著，\\n一邊將訂單的詳細內容交到我的手中。",
+            "convert": "枫一边说着，\\n一边将订单的详细内容交到我的手中。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふむふむ……これなら、大丈夫だと思う」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mm-hmm, mm-hmm... I think I can manage this.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我看看……只有這些的話，我想能應付得過來。」",
+            "convert": "「我看看……只有这些的话，我想能应付得过来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そう。なら、よかったわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I see. That's great, then.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「真的嗎？那就好。」",
+            "convert": "「真的吗？那就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最近、どんどん増えてない？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「We've been getting more and more of these as of late, haven't we?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「最近訂單好像越來越多了？」",
+            "convert": "「最近订单好像越来越多了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね、手伝いを始めたばかりの頃は、あたしたちが慣れていないから忙しい、という感じだったけど……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「We have. When we just started helping out around the shop, it felt more like we were busy because we just weren't used to the job, but...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「當初剛來幫忙時，我們還很笨手笨腳，所以會覺得忙不過來……」",
+            "convert": "「当初刚来帮忙时，我们还很笨手笨脚，所以会觉得忙不过来……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今は、明らかに注文も、来店するお客さんも増えているわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Right now, we're clearly getting more orders and customers coming to the shop.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「但是現在不管是訂單還是上門光顧的客人，都明顯增加了很多。」",
+            "convert": "「但是现在不管是订单还是上门光顾的客人，都明显增加了很多。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すごいよね！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「It's incredible!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「生意越來越好了！」",
+            "convert": "「生意越来越好了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ソレイユの評判が、どんどん上がっているのは、間違いないわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「La Soleil's reputation is undoubtedly on the rise.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「可以肯定的是Soleil的評價越來越好了。」",
+            "convert": "「可以肯定的是Soleil的评价越来越好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがたいことだな……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm grateful that it is...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「若是如此就真的太好了……」",
+            "convert": "「若是如此就真的太好了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「皆が手伝ってくれて、助かっているよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I couldn't do it without you guys helping me.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「一切都多虧有妳們這群貓娘幫忙啊。」",
+            "convert": "「一切都多亏有你们这群猫娘帮忙啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それよねぇ……この店を１人で回すつもりだったなんて……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I bet... I can't believe you planned on running this shop all on your own...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「就是說啊……你一開始還想獨力撐起這間店……」",
+            "convert": "「就是说啊……你一开始还想独力撑起这间店……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はっきり言って、無謀だったわね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「That idea was pretty thoughtless, to be frank.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「毫不客氣地說，你根本就是有勇無謀。」",
+            "convert": "「毫不客气地说，你根本就是有勇无谋。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Urk.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃。」",
+            "convert": "「呃。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "返す言葉もない。"
+        },
+        "en": {
+            "content": "I have no comeback for that."
+        },
+        "cn": {
+            "content": "我毫無回嘴餘地。",
+            "convert": "我毫无回嘴余地。"
+        }
+    },
+    {
+        "jp": {
+            "content": "たしかに、ショコラとバニラが来てくれず、\\n時雨が他のネコたちを連れてこなかったら……"
+        },
+        "en": {
+            "content": "She's right in that if Chocola and Vanilla didn't come and Shigure didn't bring the other girls here, then..."
+        },
+        "cn": {
+            "content": "要是當初巧克力和香草沒有偷偷跟來，\\n時雨也沒帶著其他貓娘前來幫忙的話……",
+            "convert": "要是当初巧克力和香草没有偷偷跟来，\\n时雨也没带着其他猫娘前来帮忙的话……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たまには、あたしたちを労ってくれても、いいのよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It wouldn't hurt you to reward us every once in a while, you know?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「所以說，你可得慰勞我們一下。」",
+            "convert": "「所以说，你可得慰劳我们一下。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ねぎらう……って？　なにするの、メイプル？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Reward...? By doing what, Maple?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「慰勞……楓，慰勞是要幹什麼？」",
+            "convert": "「慰劳……枫，慰劳是要干什么？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうねえ、ショコラとバニラだけじゃなく、あたしのことも……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Right, maybe if he tended to us and not just Chocola and Vanilla, then...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「這個嘛……例如說，不要光只是對巧克力或香草，也該對我……」",
+            "convert": "「这个嘛……例如说，不要光只是对巧克力或香草，也该对我……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「って、なに言わせるのよ、ココナツ！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Wait, what are you making me say, Coconut?!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「椰子，看妳害我說出什麼了！？」",
+            "convert": "「椰子，看你害我说出什么了！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼく、何か変なこと言った！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Did I say something off?!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「我、我說了什麼嗎！？」",
+            "convert": "「我、我说了什么吗！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、あたしは、ただ……ネコたちを大切にしてほしい、って言ってるのよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I-I'm just saying that... I want him to give his catgirls some care; that's all.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「總、總之，我只是希望嘉祥能對我們貓娘更好一點而已。」",
+            "convert": "「总、总之，我只是希望嘉祥能对我们猫娘更好一点而已。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん……そうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right... I hear you.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……妳說得對。」",
+            "convert": "「嗯……你说得对。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "たしかに、メイプルの言うとおりだ。\\n感謝するという言葉ばかりでは、申し訳ない。"
+        },
+        "en": {
+            "content": "Maple is right. Just saying 'thanks' all the time is hardly good enough."
+        },
+        "cn": {
+            "content": "楓說的沒錯。\\n只有口頭上的感謝是不夠的。",
+            "convert": "枫说的没错。\\n只有口头上的感谢是不够的。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今すぐは無理そうだけど……考えておくよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I don't think I can do anything right this instant, but... I'll come up with something.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「要馬上慰勞或許有困難……不過我會好好考慮的。」",
+            "convert": "「要马上慰劳或许有困难……不过我会好好考虑的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……期待しているわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Tee hee... I can't wait.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「嘻嘻……那我就先期待着了。」",
+            "convert": "「嘻嘻……那我就先期待着了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「よくわからないけど、ぼくも！　楽しみにしてるね、お兄ちゃん！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I don't know what's going on, but me neither! I'm so looking forward to it, Onii-chan!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「雖然不太懂，人家也會一起期待着！哥哥！」",
+            "convert": "「虽然不太懂，人家也会一起期待着！哥哥！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま！　また大きなケーキの注文、いただきました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master! We have another huge cake order!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人！又收到大量蛋糕訂單了！」",
+            "convert": "「主人！又收到大量蛋糕订单了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人、シュークリームが品切れ中。いつできる？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master, we're sold out of cream puffs. When can you make more?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人，泡芙銷售一空，能快點補充嗎？」",
+            "convert": "「主人，泡芙销售一空，能快点补充吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥、いつまでサボってんだ！？　早く厨房に戻れ！　口じゃなく、手を動かせ！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Kashou, how long are you gonna slack off?! Get your butt back to the kitchen! Work your hands, not your mouth!!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嘉祥，你想翹班到什麼時候！？快點回廚房！別光是動嘴，手也動起來啊！！」",
+            "convert": "「嘉祥，你想翘班到什么时候！？快点回厨房！别光是动嘴，手也动起来啊！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥さん、１ケース、磨き終わりました～。次は何しましょう～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Kashou-san, I'm done polishing one case. What should I do next~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘉祥，草莓一整盒都擦完了，接著我該做什麼好呢～？」",
+            "convert": "「嘉祥，草莓一整盒都擦完了，接着我该做什么好呢～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あらあら……大人気ね、嘉祥」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「My, oh, my... You're quite the popular guy, Kashou.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「哎呀呀……嘉祥真受歡迎。」",
+            "convert": "「哎呀呀……嘉祥真受欢迎。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄ちゃん、ファイトです！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan, fight on!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哥哥，加油！」",
+            "convert": "「哥哥，加油！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ああ……よし、頑張るぞ！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Y-Yeah... All right, I'll do my best!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊……好，該幹活了！」",
+            "convert": "「啊……好，该干活了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、いにゃっしゃいませー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Oh! Hello and meowelcome!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，歡迎光臨～！」",
+            "convert": "「啊，欢迎光临～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ソレイユへ、ようこそ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Welcome to La Soleil.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「歡迎光臨Soleil。」",
+            "convert": "「欢迎光临Soleil。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おっ、いらっしゃい」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Oh, welcome.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「請進請進。」",
+            "convert": "「请进请进。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはっ、いらっしゃいませ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahah, hello and welcome~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈，歡迎光臨～♪」",
+            "convert": "「啊哈，欢迎光临～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ようこそ、ソレイユへ。あら？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Welcome to La Soleil. Huh?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「歡迎來到Soleil……哎呀？」",
+            "convert": "「欢迎来到Soleil……哎呀？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いらっしゃいませー！！　って――」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Welcome!! Oh...?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「歡迎光臨——！！……咦？」",
+            "convert": "「欢迎光临——！！……咦？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おはようございます、愛しの兄様。そして、みんなも、ご苦労さまです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「A good morning to you, my beloved brother. And thank you, everyone else.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「心愛的哥哥早安。大家也辛苦了。」",
+            "convert": "「心爱的哥哥早安。大家也辛苦了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨ちゃんにゃー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's Shigure-chan, nya!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「是時雨喵——！」",
+            "convert": "「是时雨喵——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やあ、時雨。今日は、どうかしたのか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Heya, Shigure. Something up today?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗨，時雨，妳怎麼來了？」",
+            "convert": "「嗨，时雨，你怎么来了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「手伝いに来てくれる日じゃ、ないよな……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Today's not your day to help in the shop... or is it?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「今天應該沒輪到妳值班吧？」",
+            "convert": "「今天应该没轮到你值班吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろん、愛しの兄様の顔を見に来たのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I'm here to see my beloved brother's face, of course.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我當然是來探望心愛的哥哥的。」",
+            "convert": "「我当然是来探望心爱的哥哥的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私、１日に１回は兄様の顔を見ないと、禁断症状が出るのですよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「If I do not see your face once a day, I will start to develop withdrawal symptoms.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我一天不見一次哥哥的容顏，可是會悶出病來的。」",
+            "convert": "「我一天不见一次哥哥的容颜，可是会闷出病来的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことになっていたとは……よくわからないが、すぐ病院へ行かないと」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I never knew that's what would happen... Not sure how to handle that, but you should get yourself to the hospital right away.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒想到妳病得這麼重……雖然不清楚詳細情況，但我還是奉勸妳去醫院看看。」",
+            "convert": "「没想到你病得这么重……虽然不清楚详细情况，但我还是奉劝你去医院看看。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「半分は冗談です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I'm just half-joking.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「有一半是在開玩笑的。」",
+            "convert": "「有一半是在开玩笑的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……半分は本気なのか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Meaning the other half is serious?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「還有一半是認真的嗎……」",
+            "convert": "「还有一半是认真的吗……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日は、兄様に頼みたいことがあって来たのですよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I've come here today because I have a request to ask of you, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我今天來是因為有件事想拜託哥哥。」",
+            "convert": "「我今天来是因为有件事想拜托哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨は、ささっと店内に視線を巡らせた。"
+        },
+        "en": {
+            "content": "Shigure takes a quick scan of the inside of the shop."
+        },
+        "cn": {
+            "content": "時雨的視線迅速掃了一遍店內。",
+            "convert": "时雨的视线迅速扫了一遍店内。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……この依頼は、どうか内密に……もちろん、お代は言い値で支払わせていただきます」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...I would like if you were to keep this request between us. Of course, I am willing to pay you full asking price for your services.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……這項委託請務必保密……只要能辦到，金額隨哥哥開多少都行。」",
+            "convert": "「……这项委托请务必保密……只要能办到，金额随哥哥开多少都行。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「不穏すぎる。この平和なパティスリーで、何を頼む気だ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「This sounds way too sketchy. What exactly are you trying to request of my peaceful patisserie?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「聽起來真可怕。妳想委託這間和平的蛋糕店做什麼？」",
+            "convert": "「听起来真可怕。你想委托这间和平的蛋糕店做什么？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それはですね――」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Well, you see...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「其實是這樣的——」",
+            "convert": "「其实是这样的——」"
+        }
+    }
+]

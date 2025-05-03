@@ -1,0 +1,1226 @@
+[
+    {
+        "jp": {
+            "content": "「ごくり……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Gulp...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「（吞口水……）」",
+            "convert": "「（吞口水……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "お昼近く――\\n営業時間を待って、俺は店の前まで来た。"
+        },
+        "en": {
+            "content": "Nearly lunchtime— After waiting for normal business hours, I find myself in front of the shop."
+        },
+        "cn": {
+            "content": "中午時分——\\n等到營業時間，我們來到店家附近。",
+            "convert": "中午时分——\\n等到营业时间，我们来到商店附近。"
+        }
+    },
+    {
+        "jp": {
+            "content": "約束は取り付けてあるとはいえ……\\nやっぱり、緊張する。"
+        },
+        "en": {
+            "content": "I know that I've made plans, but... I'm still getting nervous."
+        },
+        "cn": {
+            "content": "即便事先聯絡過……\\n我還是有點緊張。",
+            "convert": "即便事先联系过……\\n我还是有点紧张。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、素敵です！　ここが、本家『ラ・ソレイユ』なのですね、兄様？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「My, it's splendid! So this is the original La Soleil, isn't it, Nii-sama?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哇，好漂亮的糕點店！哥哥，這裡就是『La Soleil』本店嗎？」",
+            "convert": "「哇，好漂亮的糕点店！哥哥，这里就是『La Soleil』本店吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、そうだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yep, sure is.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊，沒錯。」",
+            "convert": "「是啊，没错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様から何度か話だけは伺っていましたが……とうとう訪れることができました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You've told me about this place so many times in the past, but... I can't believe I'm finally getting to visit.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「雖然聽哥哥提到過很多次……今日總算有幸親自來拜訪。」",
+            "convert": "「虽然听哥哥提到过很多次……今日总算有幸亲自来拜访。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私にとっては、聖地。まさに、聖地巡礼の気分です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「This is sacred ground to me. This whole thing feels like a pilgrimage.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「對我來講，這裡就是聖地。沒錯，我現在的心情就像來聖地巡禮一般。」",
+            "convert": "「对我来讲，这里就是圣地。没错，我现在的心情就像来圣地巡礼一般。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そういうものか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Does it?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……是嗎？」",
+            "convert": "「……是吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は留学先が近いこともあって、懐かしい気分だよ。帰ってきたって感じだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Where I studied abroad is close to here, so it's got a lot of nostalgia for me. Kind of like I'm back for the first time in a while.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我之前留學的學校也在這附近，所以很懷念。有種回到老地方的感覺。」",
+            "convert": "「我之前留学的学校也在这附近，所以很怀念。有种回到老地方的感觉。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様の留学先、この近くなのですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Ah, your old school is nearby, Nii-sama?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「原來哥哥的學校在這個地區啊？」",
+            "convert": "「原来哥哥的学校在这个地区啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、この通りを数分歩いた先だな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, a few minutes down this street, in fact.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，沿著這條街走幾分鐘就到了。」",
+            "convert": "「嗯，沿着这条街走几分钟就到了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だとすると、本家『ラ・ソレイユ』のお客さんは、学生さんが多いのですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「In that case, are a lot of the customers here at the original La Soleil students?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「也就是說，光顧『La Soleil』本店的客人大多是學生嗎？」",
+            "convert": "「也就是说，光顾『La Soleil』本店的客人大多是学生吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん……学生のお客さんもいるけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmm... They have their fair share of students, but...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯～……學生當然是不少……」",
+            "convert": "「嗯～……学生当然是不少……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっぱり、主婦が一番多いかな。子連れのお母さんも、よく来るよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'd say housewives are the biggest group of customers. A lot of mothers come with their kids, too.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「但最多的還是主婦吧。上門的顧客大多是帶著小孩一起來的母親。」",
+            "convert": "「但最多的还是主妇吧。上门的顾客大多是带着小孩一起来的母亲。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「日本だと、ケーキを食べるのは特別な日だと考えている人が多いけれど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「There are a bunch of people who think that eating cakes is reserved for special days in Japan.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對日本人來說，吃蛋糕是在特別日子才會做的事。」",
+            "convert": "「对日本人来说，吃蛋糕是在特别日子才会做的事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フランスでは、食事のときにケーキを食べるのは、ごく普通のことだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「But here in France, it's extremely common to eat cake at dinner time.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「但在法國，吃飯有蛋糕是日常生活的習慣。」",
+            "convert": "「但在法国，吃饭有蛋糕是日常生活的习惯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「一般家庭でも、夕飯は――サラダ、スープ、パン、魚料理、肉料理、チーズ、デザート……みたいに出すからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Even when it comes to normal families, dinner usually goes: Salad, soup, bread, seafood, meat, cheese, desert.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「即使是一般家庭，晚餐也大體上會端出沙拉、湯、麵包、魚、肉、起司、甜點等等琳瑯滿目的菜餚。」",
+            "convert": "「即使是一般家庭，晚餐也大体上会端出沙拉、汤、面包、鱼、肉、起司、甜点等等琳瑯满目的菜肴。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "どのくらい皿数を出すかは、各家庭によるが。"
+        },
+        "en": {
+            "content": "How many dishes they produce depends on the family, though."
+        },
+        "cn": {
+            "content": "至於會端出多少盤就視各家庭而定。",
+            "convert": "至于会端出多少盘就视各家庭而定。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「毎日がフランス料理ですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Every day is French cuisine, then.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「每天都吃法國料理呢。」",
+            "convert": "「每天都吃法国料理呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから、ほとんど毎日のようにケーキを食べる人も、そう珍しくないんだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So, yeah, it's not that rare to see most people eating a cake almost every day.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以天天吃蛋糕也不是什麼罕見的事。」",
+            "convert": "「所以天天吃蛋糕也不是什么罕见的事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふむふむ……なるほど……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Mm-hmm, mm-hmm... I see.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯……我明白了……」",
+            "convert": "「嗯……我明白了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんだか、不思議な感じがします。ご家庭でコース料理だなんて」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I still find it rather curious that households partake in full course meals.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「感覺很不可思議呢。一般家庭吃晚餐時也端出法國菜全餐……」",
+            "convert": "「感觉很不可思议呢。一般家庭吃晚餐时也端出法国菜全餐……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いやいや……日本の一般的な家庭料理だって、別の国の人からしたら、まるで懐石料理だよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, I mean... even for general home cooking in Japan, from other countries' perspective, it looks like a Japanese version of a full course meal.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不過……其實在外國人眼裡，日本的家庭料理也像懷石料理一般豐盛。」",
+            "convert": "「不过……其实在外国人眼里，日本的家庭料理也像怀石料理一般丰盛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お茶、お米、味噌汁、惣菜、肉魚……使っている皿の数には、大差ないだろ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Tea, white rice, miso soup, entrees, meat, and fish... There's not much difference between the amount of dishes they use.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「茶、米飯、味噌湯、小菜、魚、肉……擺了一整桌的盤子，和法國也沒多大差別。」",
+            "convert": "「茶、米饭、味噌汤、小菜、鱼、肉……摆了一整桌的盘子，和法国也没多大差别。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「言われてみれば……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Oh, when you put it that way...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這麼說也有道理……」",
+            "convert": "「这么说也有道理……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういうことだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Those are the facts.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「其實就是這麼一回事。」",
+            "convert": "「其实就是这么一回事。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「慣れてしまうと普通のことでも、異文化の方には、驚かれる場合があるのですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Even if something is normal to you once you get used to it, it still might surprise someone from a foreign culture, right?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「對我們而言或許只是司空見慣，但對來自異國的人士來說，說不定充滿驚奇。」",
+            "convert": "「对我们而言或许只是司空见惯，但对来自异国的人士来说，说不定充满惊奇。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お互いにね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, it goes both ways.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這對彼此來說都是同樣的。」",
+            "convert": "「这对彼此来说都是同样的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さて……そろそろ、おしゃべりは、この辺にしようか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「All right, I think that's enough chit-chat for now.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好……時間差不多了。我們就聊到這裡吧。」",
+            "convert": "「好……时间差不多了。我们就聊到这里吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺は改めて時計を確認した。\\nもう、店は開店しているはずだ。"
+        },
+        "en": {
+            "content": "I check the time once more. The shop should be open around now."
+        },
+        "cn": {
+            "content": "我再次確認手錶。\\n營業時間已經到了。",
+            "convert": "我再次确认手表。\\n营业时间已经到了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺がいた頃には出していた看板が、まだ店の前に出ていないが。"
+        },
+        "en": {
+            "content": "I don't see the sandwich board—the one she used to put out when I was around—in front of the shop yet, though."
+        },
+        "cn": {
+            "content": "不過，我當初在這裡修行時會擺在店門口的看板還沒拿出來。",
+            "convert": "不过，我当初在这里修行时会摆在店门口的看板还没拿出来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様！　いざ、参りましょう！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama! Let us sally forth!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥！我們進去吧！」",
+            "convert": "「哥哥！我们进去吧！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「よ、よし！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「A-All right!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好，走吧！」",
+            "convert": "「好，走吧！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あら？　ちょっと待ってください、兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Huh? Wait just a second, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「咦？哥哥，請等一下。」",
+            "convert": "「咦？哥哥，请等一下。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "出鼻を挫かれた。"
+        },
+        "en": {
+            "content": "Shigure stops me from going in."
+        },
+        "cn": {
+            "content": "我才剛踏出步伐就被叫住。",
+            "convert": "我才刚踏出步伐就被叫住。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうした？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What's the matter?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼了？」",
+            "convert": "「怎么了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お店から、誰か出てきますよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Someone is coming out from the shop.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「店裡好像有人出來了。」",
+            "convert": "「店里好像有人出来了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "もしかして、師匠が！？"
+        },
+        "en": {
+            "content": "Could it be Mentor?!"
+        },
+        "cn": {
+            "content": "是師傅嗎！？",
+            "convert": "是师傅吗！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "しかし、出てきたのは、小柄な少女だった。"
+        },
+        "en": {
+            "content": "However, the person who comes out is a small-framed girl."
+        },
+        "cn": {
+            "content": "從店門口現身的是一名身材嬌小的少女。",
+            "convert": "从店门口现身的是一名身材娇小的少女。"
+        }
+    },
+    {
+        "jp": {
+            "content": "かわいらしいエプロンドレスを身につけている。\\n師匠だとすれば、驚くほど服装の趣味が変わったものだが……\\nそうではなかった。"
+        },
+        "en": {
+            "content": "She's wearing an adorable pinafore dress. If it's my mentor, then her taste in clothes has taken a shocking turn... but I know that's not the case here."
+        },
+        "cn": {
+            "content": "她身上穿著可愛的圍裙裝。\\n若是師傅的話，幾年不見，她服裝的品味也變化太大了……\\n幸好不是。",
+            "convert": "她身上穿着可爱的围裙装。\\n若是师傅的话，几年不见，她服装的品味也变化太大了……\\n幸好不是。"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺が日本に帰ったから、誰か雇ったのか？"
+        },
+        "en": {
+            "content": "Did she hire someone because I went back to Japan?"
+        },
+        "cn": {
+            "content": "也許是我回日本後僱用的店員吧。",
+            "convert": "也许是我回日本后雇用的店员吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "当時も、すでに人手不足だったからな。\\n日本のラ・ソレイユに比べると、客席数が少ない。\\nだから回せているような感じだった。"
+        },
+        "en": {
+            "content": "She was short-staffed even back then, after all.  Compared to the Japanese La Soleil, there's little seating inside. I figured that's how she was able to manage it."
+        },
+        "cn": {
+            "content": "我還在這裡當學徒時，人手就已經短缺了。\\n跟我在日本開的La Soleil相比，本店的座位很少。\\n所以才不至於忙不過來。",
+            "convert": "我还在这里当学徒时，人手就已经短缺了。\\n跟我在日本开的La Soleil相比，本店的座位很少。\\n所以才不至于忙不过来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "師匠１人では大変ではないか、と考えてはいたが……"
+        },
+        "en": {
+            "content": "I always thought that it was a lot for my mentor to do on her own, though..."
+        },
+        "cn": {
+            "content": "我也曾經擔心我走了後，只剩師傅一個人能不能忙過來……",
+            "convert": "我也曾经担心我走了后，只剩师傅一个人能不能忙过来……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まずは、彼女に話し掛けてみたほうが、よさそうですね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「First, talking to her seems like it would be the best idea, yes?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「先去跟她打聲招呼似乎比較好？」",
+            "convert": "「先去跟她打声招呼似乎比较好？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, true.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊……」",
+            "convert": "「是啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺は本家『ラ・ソレイユ』を訪ねた。"
+        },
+        "en": {
+            "content": "I approach the original La Soleil."
+        },
+        "cn": {
+            "content": "我們走到『La Soleil』本店前。",
+            "convert": "我们走到『La Soleil』本店前。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「失礼します！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Good afternoon!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉，打擾一下！」",
+            "convert": "「抱歉，打扰一下！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「あ……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Oh...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「……ごめんなさい……まだ開店前です」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「...I'm sorry, we're not open just yet.」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「……對不起……現在還沒到營業時間。」",
+            "convert": "「……对不起……现在还没到营业时间。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？」",
+            "convert": "「咦？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "この耳、この雰囲気……"
+        },
+        "en": {
+            "content": "Those ears, that demeanor..."
+        },
+        "cn": {
+            "content": "從她的耳朵和給人的感覺看來……",
+            "convert": "从她的耳朵和给人的感觉看来……"
+        }
+    },
+    {
+        "jp": {
+            "content": "もしかして、この子は……"
+        },
+        "en": {
+            "content": "Could this girl be..."
+        },
+        "cn": {
+            "content": "她也許是……",
+            "convert": "她也许是……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きゃ～～～！！　なんて可愛らしいネコでしょう！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Kyaa~! What an absolutely adorable catgirl!!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哎呀～～～！！好可愛的貓娘！！」",
+            "convert": "「哎呀～～～！！好可爱的猫娘！！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「ひっ！？」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Eep?!」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「噫！？」",
+            "convert": "「噫！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんて澄んだ瞳！　そして、艶やかな毛なみ！　耳の形なんて完璧の完璧です！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Such bright and vivid eyes! And that glossy pelt! Even your ears are absolutely, positively perfect!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「清澈的眼眸！亮麗的毛髮！耳朵形狀更是完美到了極致！！」",
+            "convert": "「清澈的眼眸！亮丽的毛发！耳朵形状更是完美到了极致！！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「あ……う……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Aah... Uhh...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「啊……嗚……」",
+            "convert": "「啊……呜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふっさふさの尻尾も、素敵です！　この形……この色……チンチラペルシャですね！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Your soft and fluffy tail is also divine! Given the shape... and the color... might you be a Chinchilla Persian?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「毛茸茸的尾巴也好可愛！從形狀和顏色看來……妳是金吉拉種的貓娘嗎！？」",
+            "convert": "「毛茸茸的尾巴也好可爱！从形状和颜色看来……你是金吉拉种的猫娘吗！？」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「……は、はい」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「...Y-Yes.」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「……是、是的。」",
+            "convert": "「……是、是的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あああ、初めて見ました！　こんなに可愛らしいネコだったなんて！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Aah, I've never seen a catgirl this adorable before in my life!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊啊啊，我第一次見到！沒想到這麼可愛！」",
+            "convert": "「啊啊啊，我第一次见到！没想到这么可爱！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「……あ、ありがとうございます。あなたも……素敵です。そんな綺麗な黒髪、初めて見ました」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「...Th-Thank you very much. You're... quite lovely yourself. I've never seen such beautiful black hair before.」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「……謝、謝謝您的讚美。這位女士，您也……非常美麗。我也是第一次看到如此美麗的黑髮。」",
+            "convert": "「……谢、谢谢您的赞美。这位女士，您也……非常美丽。我也是第一次看到如此美丽的黑发。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……兄様！　聞きましたか！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Aah... Nii-sama! Did you hear her?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊……您聽到了嗎！？哥哥！」",
+            "convert": "「啊……您听到了吗！？哥哥！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、よく躾けられた、素晴らしいネコだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yup, she's a wonderful, well-trained catgirl.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，真是一隻訓練有素、教養極佳的貓娘。」",
+            "convert": "「嗯，真是一只训练有素、教养极佳的猫娘。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「そ、そんなことは……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「O-Oh, please, don't...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「您、您過獎了……」",
+            "convert": "「您、您过奖了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、こんな子がウチに来てくれたら、どれだけ素敵でしょうか……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Aah, how lovely it would be if this girl were to come home with us...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊，如果她能成為我們家的貓娘，該有多好啊……！」",
+            "convert": "「啊，如果她能成为我们家的猫娘，该有多好啊……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……時雨、ほどほどにな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah... Shigure, dial it back a bit, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……時雨，別太興奮了，會嚇到她的。」",
+            "convert": "「哈哈……时雨，别太兴奋了，会吓到她的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「驚かせて、すまなかったね。俺は水無月嘉祥という者だ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sorry for startling you like that. I'm Kashou Minaduki.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉，讓妳受驚了。我叫水無月嘉祥。」",
+            "convert": "「抱歉，让你受惊了。我叫水无月嘉祥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ハッ！　私としたことが、兄様のお役に立つために来たはずなのに、つい……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Gasp! I cannot believe myself. I am supposed to be here to assist you, yet here I am losing my composure...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊！真不應該，我明明是來給哥哥幫忙的，不小心就……」",
+            "convert": "「啊！真不应该，我明明是来给哥哥帮忙的，不小心就……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「失礼いたしました。私、水無月時雨と申します」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Forgive my rudeness. I am Shigure Minaduki.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「剛才失禮了。我叫水無月時雨。」",
+            "convert": "「刚才失礼了。我叫水无月时雨。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「えっと……わたしは、フレーズといいます」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Erm... My name is Fraise.」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「啊……我是草莓。」",
+            "convert": "「啊……我是草莓。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ……そういえば……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Fraise... Wait a second...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「草莓……？印象中……」",
+            "convert": "「草莓……？印象中……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺が留学を終える、少し前――"
+        },
+        "en": {
+            "content": "Just before I ended my study abroad..."
+        },
+        "cn": {
+            "content": "在我完成學業的前夕——",
+            "convert": "在我完成学业的前夕——"
+        }
+    },
+    {
+        "jp": {
+            "content": "師匠が、よちよち歩きの仔ネコを預かっていた。\\n知人から頼まれて少しの間だけ、と言っていたが……"
+        },
+        "en": {
+            "content": "My mentor was taking care of a catgirl kitten that could barely walk. She said that a friend asked her, and it'd only be for a short while, but..."
+        },
+        "cn": {
+            "content": "師傅照顧著一隻虛弱的小貓。\\n她說是朋友暫時寄放的，之後會領回……",
+            "convert": "师傅照顾着一只虚弱的小猫。\\n她说是朋友暂时寄放的，之后会领回……"
+        }
+    },
+    {
+        "jp": {
+            "content": "この様子だと、結局は師匠が飼うことにしたのか。"
+        },
+        "en": {
+            "content": "From the looks of things, my guess is that Mentor ended up adopting her."
+        },
+        "cn": {
+            "content": "照這樣子看來，那隻小貓後來被師傅領養了。",
+            "convert": "照这样子看来，那只小猫后来被师傅领养了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんなに大きくなったのか。見違えたな。しかも、店員をやってるなんて」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Boy, you sure grew up. I almost didn't recognize you now that you're working in the shop like this.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「原來妳長這麼大了。我都沒認出妳，而且妳竟然在店裡幫忙。」",
+            "convert": "「原来你长这么大了。我都没认出你，而且你竟然在店里帮忙。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……まさか……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh... It couldn't be...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……您難道是……」",
+            "convert": "「啊……您难道是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうかしたかい？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Something up?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼了？」",
+            "convert": "「怎么了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「間違いない……でも……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I'm positive of it... But...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「沒錯……可是……」",
+            "convert": "「没错……可是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hm?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯？」",
+            "convert": "「嗯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、いえ……ご、ごめんなさい。嘉祥さんと、時雨さんですね」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh, no... I-I'm sorry. Kashou-san and... Shigure-san, was it?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊，沒事……對、對不起。兩位分別是嘉祥先生和時雨小姐嗎？」",
+            "convert": "「啊，没事……对、对不起。两位分别是嘉祥先生和时雨小姐吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ。師匠に、お願いがあって来たんだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah. I'm here to ask for Mentor's services.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是的。我們有事來拜訪師傅。」",
+            "convert": "「是的。我们有事来拜访师傅。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ししょう？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Mentor?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……師傅？」",
+            "convert": "「……师傅？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ、それは人の名前じゃなくてね」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, that's not a person's name.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，這不是人的名字。」",
+            "convert": "「啊，这不是人的名字。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "師匠――maitre（メートル）は、パティスリーで働くネコには\\n馴染みのない言葉だったか。"
+        },
+        "en": {
+            "content": "The word mentor, or maitre in French, probably isn't a word that a catgirl who works in a patisserie is familiar with."
+        },
+        "cn": {
+            "content": "對在糕點店工作的貓娘來說，\\n師傅（maitre）也許是個很陌生的單字吧。",
+            "convert": "对在糕点店工作的猫娘来说，\\n师傅（maitre）也许是个很陌生的单字吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "いつも、師匠師匠と呼んでいたものだから、つい。\\n俺は、師匠の名を口にする。"
+        },
+        "en": {
+            "content": "I'm always saying 'Mentor' this and 'my mentor' that, so it slipped my mind. I say my mentor's actual name."
+        },
+        "cn": {
+            "content": "因為我總是用師傅來稱呼，不小心在陌生人面前也這麼叫了。\\n我說出師傅的名字。",
+            "convert": "因为我总是用师傅来称呼，不小心在陌生人面前也这么叫了。\\n我说出师傅的名字。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ベニエさんに会いに来たんだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I've come to see Beignet-san.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我是來拜訪貝涅女士的。」",
+            "convert": "「我是来拜访贝涅女士的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、パティシエールですね。わかりました」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh, you mean the pâtissière. Understood.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊，您要找糕點師（pâtissière）嗎？我知道了。」",
+            "convert": "「啊，您要找糕点师（pâtissière）吗？我知道了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "女性の菓子職人は、フランス語でパティシエールという。\\nこの店のパティシエールは、俺の師匠のことだ。"
+        },
+        "en": {
+            "content": "A female pastry chef is called a pâtissière in French. And the pâtissière of this establishment is my mentor."
+        },
+        "cn": {
+            "content": "法文中，女性糕點師叫做「pâtissière」。\\n而這間店的糕點師，就是我的師傅。",
+            "convert": "法文中，女性糕点师叫做「pâtissière」。\\n而这间店的糕点师，就是我的师傅。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お待ちください。今、呼んで……あっ」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Please, wait right here. I will call for... Oh.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「請稍等，我去叫她……啊。」",
+            "convert": "「请稍等，我去叫她……啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "店の中から、人影が出てきた。"
+        },
+        "en": {
+            "content": "A silhouette steps from the back."
+        },
+        "cn": {
+            "content": "這時，又有一個人影從店裡現身。",
+            "convert": "这时，又有一个人影从店里现身。"
+        }
+    }
+]

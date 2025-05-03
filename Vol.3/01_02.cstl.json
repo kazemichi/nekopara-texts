@@ -1,0 +1,677 @@
+[
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵～♪主人真是的，表現得也太狂野了吧～♪」",
+            "convert": "「喵～♪主人真是的，表现得也太狂野了吧～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Meeow~ ♪ Geez, Master. You really are a beast~ ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「にゃ～ん♪　ご主人さまったら、ほんっとに激しいんですから～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「還以為今天會死在床上呢～♪呼嚕呼嚕～♪」",
+            "convert": "「还以为今天会死在床上呢～♪呼噜呼噜～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola really thought she was gonna die today, meow~ ♪ Purr purr~ ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「今日こそ死んじゃうかと思いましたにゃぁ～♪　ごろごろ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「主人只要久久沒發洩，就會變得鬼畜到極點。」",
+            "convert": "「主人只要久久没发泄，就会变得鬼畜到极点。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's been such a long time... What a brute.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「久しぶりだと、ほんっと鬼畜」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「本領全開的鬼畜糕點師真是太恐怖了。呼嚕呼嚕～」",
+            "convert": "「本领全开的鬼畜糕点师真是太恐怖了。呼噜呼噜～」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「A savage patissier going full force is really frightening. Purr purr~」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「鬼畜パティシエ全開でほんとヤバい。ごろごろ～」"
+        }
+    },
+    {
+        "cn": {
+            "content": "巧克力和香草一邊把桌上的焗飯送進嘴裡，",
+            "convert": "巧克力和香草一边把桌上的焗饭送进嘴里，"
+        },
+        "en": {
+            "content": "I bring a spoonful of doria on the table up to my mouth."
+        },
+        "jp": {
+            "content": "テーブルの上に並んだドリアを口に運びながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "喉嚨還一邊發出呼嚕呼嚕的響聲。",
+            "convert": "喉咙还一边发出呼噜呼噜的响声。"
+        },
+        "en": {
+            "content": "Meanwhile, Chocola and Vanilla continue to purr."
+        },
+        "jp": {
+            "content": "ショコラとバニラがごろごろと喉を鳴らす。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳們自己還不是玩得興致勃勃。」",
+            "convert": "「你们自己还不是玩得兴致勃勃。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You two sure are happy.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「お前らだってノリノリだっただろーが」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「那還用說～♪我們玩得興致勃勃不好嗎？」",
+            "convert": "「那还用说～♪我们玩得兴致勃勃不好吗？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「We sure are~ ♪ Do you want us to not be happy?」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「そりゃあノリノリでしょう～♪　ノリノリじゃダメなんですか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「一個射了四、五發的人居然還有臉抱怨，真叫人不敢相信。」",
+            "convert": "「一个射了四、五发的人居然还有脸抱怨，真叫人不敢相信。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「You came four or five times. I refuse to believe you have any complaints.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「４回も５回も出しといて文句とか信じられない」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我又不是在抱怨。」",
+            "convert": "「我又不是在抱怨。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's because we don't.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「別に文句じゃないだろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「看妳們兩個，嘴邊都沾到肉醬了啦。」",
+            "convert": "「看你们两个，嘴边都沾到肉酱了啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hey, you've got some meat sauce on your mouth.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ほら、口にミートソース付いてるぞ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "和兩隻貓娘同桌吃著焗飯的我見狀，",
+            "convert": "和两只猫娘同桌吃着焗饭的我见状，"
+        },
+        "en": {
+            "content": "The two catgirls are eating from their own plates of doria."
+        },
+        "jp": {
+            "content": "２匹と同じくドリアを口に運びながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "便幫她們倆把沾到嘴邊的肉醬擦乾淨。",
+            "convert": "便帮她们俩把沾到嘴边的肉酱擦干净。"
+        },
+        "en": {
+            "content": "I wipe sauce smears off both of their mouths."
+        },
+        "jp": {
+            "content": "それぞれの口に付いたソースを拭いてやる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「而且明天還能跟主人約會，不枉費我們當上主人的貓娘情人囉～♪」",
+            "convert": "「而且明天还能跟主人约会，不枉费我们当上主人的猫娘情人咯～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「We're gonna use up all our catpanion luck on tomorrow's date, too, meow~ ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「さらに明日はデートなんて、恋ネコ冥利に尽きますにゃあ～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「說老實話，這對家貓來說已經是無上的幸福了。」",
+            "convert": "「说老实话，这对家猫来说已经是无上的幸福了。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「There's no greater joy for a catgirl than this.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「もーほんと正直、飼いネコとしてこれ以上の幸せはない」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，能聽到妳們這麼說我就滿足了。」",
+            "convert": "「嗯，能听到你们这么说我就满足了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, I don't know if I'd go that far.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ま、そう言って頂けましたらば」"
+        }
+    },
+    {
+        "cn": {
+            "content": "對情人來說，這說不定也是至上的幸福呢。",
+            "convert": "对情人来说，这说不定也是至上的幸福呢。"
+        },
+        "en": {
+            "content": "They might be my catpanions, but is this really their \"greatest joy\"?"
+        },
+        "jp": {
+            "content": "恋人としても、これ以上の幸せはないのかもな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "看著我可愛的兩位貓娘情人，我不禁這麼想。",
+            "convert": "看着我可爱的两位猫娘情人，我不禁这么想。"
+        },
+        "en": {
+            "content": "I watch my cute, happy catpanions and ponder what really makes them happy."
+        },
+        "jp": {
+            "content": "ご機嫌な可愛い恋ネコたちを見てると、そんな風にも思えてくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳們能感到幸福是很好，不過……」",
+            "convert": "「你们能感到幸福是很好，不过……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Happiness is the most important thing, but...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「幸せなら何よりだけど、でも……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「難道妳們都沒有其他想做的事嗎？」",
+            "convert": "「难道你们都没有其他想做的事吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...isn't there anything else you two want to do?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「お前らは何かやりたいこととかないのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「愛做的事剛剛不是已經做完了喵～♪」",
+            "convert": "「爱做的事刚刚不是已经做完了喵～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola did what she wanted to do just now, meow~ ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ヤリたいことはたった今、堪能しましたにゃー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「色色主人的引誘受嗎，我倒是不討厭。」",
+            "convert": "「色色主人的引诱受吗，我倒是不讨厌。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We took your lascivious invitation, Master. Not that I didn't enjoy it.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「ご主人のいやらしい誘い受け。でも嫌いじゃない」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我換個說法好了。」",
+            "convert": "「我换个说法好了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You want to try being a little nicer?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「言い方変えるわ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳們有沒有什麼目標，或是夢想之類的？」",
+            "convert": "「你们有没有什么目标，或是梦想之类的？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Don't you two have any goals? Dreams you want to fulfill?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「何か目標とか、夢とかはないのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「『只要能上床就好』老實說實在有點……」",
+            "convert": "「『只要能上床就好』老实说实在有点……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I know you like having sex and stuff, but...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「さすがにエッチしてればいいってのは……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力的夢想就是跟主人永遠在一起！」",
+            "convert": "「巧克力的梦想就是跟主人永远在一起！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola's dream is to be with Master forever!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ショコラの夢はご主人さまとずっと一緒にいることです！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「目標也是跟主人永遠在一起！」",
+            "convert": "「目标也是跟主人永远在一起！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola's goal is also to be with Master forever!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「目標もご主人さまとずっと一緒にいることです！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「至於我，是永遠跟巧克力在一起。」",
+            "convert": "「至于我，是永远跟巧克力在一起。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mine is to be with Chocola forever.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「私はショコラとずっと一緒にいること」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「不過主人想參一腳的話倒也OK。」",
+            "convert": "「不过主人想掺一脚的话倒也OK。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Though I guess I wouldn't mind if Master was involved in that as well.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「まぁご主人もそこに混ぜてあげてもいい」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不，我不是這個意思。」",
+            "convert": "「不，我不是这个意思。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Come on, there's got to be more than that.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いや、そうじゃなくてさ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「該說是更私人的，只屬於自己的人生目標嗎？」",
+            "convert": "「该说是更私人的，只属于自己的人生目标吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Don't you have any personal goals for your own lives?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「もうちょっと個人的な自分だけの人生の目標っていうかな？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「一整條大間黑鮪魚！」",
+            "convert": "「一整条大间黑鲔鱼！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「A bluefin tuna from Oma!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「大間の本マグロ一本！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「或者是一整頭松坂牛也可以。」",
+            "convert": "「或者是一整头松坂牛也可以。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「A Matsusaka cow for me.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「松坂ウシ１頭でもいい」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……謝了，妳們的話很值得參考。」",
+            "convert": "「……谢了，你们的话很值得参考。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Oh. All right then. I'll keep that in mind.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……いや、ありがとう。参考になった」"
+        }
+    },
+    {
+        "cn": {
+            "content": "……看來她們倆的夢想真的只有這樣而已。",
+            "convert": "……看来她们俩的梦想真的只有这样而已。"
+        },
+        "en": {
+            "content": "...I guess that's just how they are."
+        },
+        "jp": {
+            "content": "……まぁこの２匹はそんなもんか。"
+        }
+    },
+    {
+        "cn": {
+            "content": "其實我好像也沒聽說過我們家的貓娘有懷抱著什麼遠大的夢想，",
+            "convert": "其实我好像也没听说过我们家的猫娘有怀抱着什么远大的梦想，"
+        },
+        "en": {
+            "content": "It seems the catgirls in our family don't really dream big."
+        },
+        "jp": {
+            "content": "家のネコたちも夢らしい夢って聞いたことないし。"
+        }
+    },
+    {
+        "cn": {
+            "content": "或許貓娘們只要當下能感到幸福就很滿足了吧。",
+            "convert": "或许猫娘们只要当下能感到幸福就很满足了吧。"
+        },
+        "en": {
+            "content": "As long as their lives are happy, that's good enough."
+        },
+        "jp": {
+            "content": "ネコはその日暮らしが幸せならいいのかもな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "畢竟貓娘的本質據說跟貓很像，",
+            "convert": "毕竟猫娘的本质据说跟猫很像，"
+        },
+        "en": {
+            "content": "I have heard that their natures are ultimately closer to cats than to humans."
+        },
+        "jp": {
+            "content": "性質的には本物の猫と一緒って聞くし。"
+        }
+    },
+    {
+        "cn": {
+            "content": "就當作她們對生物三大慾望特別忠實吧。",
+            "convert": "就当作她们对生物三大欲望特别忠实吧。"
+        },
+        "en": {
+            "content": "They don't try to hide the fact that they only really care about the three biggest necessities for life."
+        },
+        "jp": {
+            "content": "生きるための三大欲求に素直ということで。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……不過，忠於慾望倒也不是什麼壞事。",
+            "convert": "……不过，忠于欲望倒也不是什么坏事。"
+        },
+        "en": {
+            "content": "...Not that there's anything wrong with being honest."
+        },
+        "jp": {
+            "content": "……ま、素直なのは悪いことじゃないしな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我暗自想著，笑意不禁湧上心頭。",
+            "convert": "我暗自想着，笑意不禁涌上心头。"
+        },
+        "en": {
+            "content": "The thought makes me grin."
+        },
+        "jp": {
+            "content": "ひとりそんなことを思って微笑ましくなる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「既然肚子填飽了，主人幫人家掏掏耳朵好不好～♪」",
+            "convert": "「既然肚子填饱了，主人帮人家掏掏耳朵好不好～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Then after Chocola's all full, she wants her ears cleaned~ ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「じゃあおなかいっぱいになったところで、耳のお掃除もしてくださいにゃー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「那我也要。掏完再換我幫主人掏。」",
+            "convert": "「那我也要。掏完再换我帮主人掏。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I want that, too. Then we can clean Master's ears for him as well.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「じゃあ私も希望。終わったらご主人のやってあげる」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力也要！巧克力也想幫主人掏耳朵！」",
+            "convert": "「巧克力也要！巧克力也想帮主人掏耳朵！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola, too! Chocola wants to clean Master's ears too!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ショコラも！　ショコラもご主人さまの耳掃除します！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力的掏耳朵技術實在太恐怖，算了吧。」",
+            "convert": "「巧克力的掏耳朵技术实在太恐怖，算了吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It scares me when you do it, so no thanks.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ショコラは怖いからいい」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵──！那捶肩膀！至少讓人家幫主人捶捶肩膀嘛！」",
+            "convert": "「喵──！那捶肩膀！至少让人家帮主人捶捶肩膀嘛！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Bgyah! Then a shoulder rub! At least let Chocola rub your shoulders, Master!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ふぎゃー！　じゃあ肩揉み！　せめて肩揉みさせて下さいご主人さまぁ！」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我們就這麼熱熱鬧鬧地，",
+            "convert": "我们就这么热热闹闹地，"
+        },
+        "en": {
+            "content": "And so we busily while away our time."
+        },
+        "jp": {
+            "content": "そんな賑やかな時間を過ごしながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "度過了假日的前一夜。",
+            "convert": "度过了假日的前一夜。"
+        },
+        "en": {
+            "content": "The night before our day off wears on."
+        },
+        "jp": {
+            "content": "休日前の夜がゆっくりと更けていった。"
+        }
+    }
+]

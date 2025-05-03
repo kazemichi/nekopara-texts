@@ -1,0 +1,344 @@
+[
+    {
+        "jp": {
+            "name": "メイプル＆アズキ",
+            "content": "『「「午前９時。朝食」」』"
+        },
+        "en": {
+            "name": "Maple&Azuki",
+            "content": "9 am. Breakfast!"
+        },
+        "cn": {
+            "name": "楓＆紅豆",
+            "content": "早上９点，早餐。",
+            "convert": "早上９点，早餐。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はー、なんであたしがご飯作らなきゃいけないのよめんどくさー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Sigh... Why do I have to be the one to make breakfast? It's such a hassle."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "唉──为什么人家非得负责帮大家做早餐不可嘛，真麻烦～",
+            "convert": "唉──为什幺人家非得负责帮大家做早餐不可嘛，真麻烦～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ンなこと言ったらなんでアタシのが作らなきゃいけねーんだよめんどくせー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "And why do *I* have to deal with this? What a pain in the butt."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "照你这样讲，那我又为啥得待在这做什么鬼早饭才行啊，麻烦死了～",
+            "convert": "照你这样讲，那我又为啥得待在这做什幺鬼早饭才行啊，麻烦死了～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたし家事とかやるキャラじゃないじゃない？　優雅にテーブルで待ってる側って言うか」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I'm not the type to do chores, right? I'm more like someone who sits at the table all graceful-like."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "可是我的形象明明跟家事什么的无缘不是吗？真要说的话，优雅地坐在桌边等上菜比较适合我。",
+            "convert": "可是我的形象明明跟家事什幺的无缘不是吗？真要说的话，优雅地坐在桌边等上菜比较适合我。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「家事は出来ねーの間違いだろ。他にオメー何が出来んだよ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "You can't do chores? Well, there's something you can do alright."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "我看是连家事都做不好才对吧。你倒是说说看你还会做些什么？",
+            "convert": "我看是连家事都做不好才对吧。你倒是说说看你还会做些什幺？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「食う寝る遊ぶのニートネコじゃねーか、けけけうおおぉおあっちいぃいぃい！！！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "You're a NEET catgirl who can only eat, sleep, and play! Huehuehueh, whooaaa!! Aagh, that's hotttt!!!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "整天只知道吃睡玩，叫你尼特猫刚好啦哈哈哈呜喔喔喔喔烫烫烫烫死啦！！！！",
+            "convert": "整天只知道吃睡玩，叫你尼特猫刚好啦哈哈哈呜喔喔喔喔烫烫烫烫死啦！！！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あらお湯が跳ねちゃって、ごめんなさいね～あはははあいたぁっっっ！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Oopsie! I accidentally splashed some hot water on you! Sorry about that~ Ahahah-- Owwww!!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "哎呀热水不小心洒出来了，不好意思捏～啊哈哈哈好痛！！",
+            "convert": "哎呀热水不小心洒出来了，不好意思捏～啊哈哈哈好痛！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おおわりぃな、思わず肉球が跳ねちまってよーはっはっは」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Heh, my bad! My paw just flew right at'cha! Hahaha!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喔喔抱歉抱歉，肉球不小心挥太大力了哈哈哈",
+            "convert": "喔喔抱歉抱歉，肉球不小心挥太大力了哈哈哈"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やんの？　ねぇやるつもりなの？　あたしとやるつもり？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "You pickin' a fight, huh? You wanna fight with me?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "想打吗？想打架是不是？我看你一定很想跟我打对吧？",
+            "convert": "想打吗？想打架是不是？我看你一定很想跟我打对吧？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「オメーこそやんのかオイ？　朝からネチネチイチャモンつけやがって？　お？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "What, you wanna have a go? You've been doing nothing but bitch all morning."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "想打的是你吧？才一大早就唠唠叨叨的意见一大堆，喔？",
+            "convert": "想打的是你吧？才一大早就唠唠叨叨的意见一大堆，喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「マーオ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Meowrgh!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "喵～",
+            "convert": "喵～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「マーオ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Meowrgh!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喵～",
+            "convert": "喵～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「マーーオ！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Mreow!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "喵～～！",
+            "convert": "喵～～！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「マーーオ！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Mreowww!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喵～～！",
+            "convert": "喵～～！"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆アズキ",
+            "content": "『「マーーーーーーーーオ！！！！」\\n「マーーーーーーーオ！！！」』"
+        },
+        "en": {
+            "name": "Maple&Azuki",
+            "content": "Mreeooowwwwwwww!!!"
+        },
+        "cn": {
+            "name": "楓＆紅豆",
+            "content": "喵───────！！！！",
+            "convert": "喵───────！！！！"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆アズキ",
+            "content": "『「ギャフベロハギャベバブジョハバゲフムギョボバハ！！！」\\n「ギャフベロハギャベバブジョハバゲフムギョボバハ！！！」』"
+        },
+        "en": {
+            "name": "Maple&Azuki",
+            "content": "Gyaah!  Myaaarghhh! Graaahgaaaghhhh!"
+        },
+        "cn": {
+            "name": "楓＆紅豆",
+            "content": "○※★€＠ ＃＄％＄︿＆＊＝！！！",
+            "convert": "○※★€＠ ＃＄％＄︿＆＊＝！！！"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆アズキ",
+            "content": "『「フォー！」\\n「フブフー！」』"
+        },
+        "en": {
+            "name": "Maple&Azuki",
+            "content": "Hisssss!Mreowowowow!!"
+        },
+        "cn": {
+            "name": "楓＆紅豆",
+            "content": "呼──！噗呼──！",
+            "convert": "呼──！噗呼──！"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆アズキ",
+            "content": "『「フギャシャムベロクジョフォホ！！」\\n「フギャシャムベロクジョフォホ！！」』"
+        },
+        "en": {
+            "name": "Maple&Azuki",
+            "content": "Hagyah! Grahh! Myaaargh!"
+        },
+        "cn": {
+            "name": "楓＆紅豆",
+            "content": "＊＆■︿％＄△＃＠！！",
+            "convert": "＊＆■︿％＄△＃＠！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……で。今朝の朝食ははねこまんま、と」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "So... that's how we ended up with cat food for breakfast?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "……所以，今天早餐就只有味噌汤泡饭是吗？",
+            "convert": "……所以，今天早餐就只有味噌汤泡饭是吗？"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆アズキ",
+            "content": "『「だってアズキが！」\\n「だってメイプルが！」』"
+        },
+        "en": {
+            "name": "Maple&Azuki",
+            "content": "It's Azuki's fault!It's Maple's fault!!"
+        },
+        "cn": {
+            "name": "楓＆紅豆",
+            "content": "还不是因为红豆！还不是因为枫！",
+            "convert": "还不是因为红豆！还不是因为枫！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「メーちゃんとアズちゃんじゃしょうがないよねぇ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Oh you two, you're so hopeless~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "没办法，谁叫这是枫跟红豆的老毛病呢～",
+            "convert": "没办法，谁叫这是枫跟红豆的老毛病呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ用意はしてくれたし」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Well, at least they got something ready."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "至少最后还是有端点东西出来。",
+            "convert": "至少最后还是有端点东西出来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、美味しい！　意外に美味しい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Ah, this is great! It's surprisingly yummy!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "啊，好吃耶！味道意外的还不错！",
+            "convert": "啊，好吃耶！味道意外的还不错！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぐはぐんむんむ。確かに美味しいはぐはぐ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Chew chew, munch munch. This definitely is delicious, munch munch."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "哈呣哈呣嗯呣。味道确实不差哈呣哈呣",
+            "convert": "哈呣哈呣嗯呣。味道确实不差哈呣哈呣"
+        }
+    }
+]

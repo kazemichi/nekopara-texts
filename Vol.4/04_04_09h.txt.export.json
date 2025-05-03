@@ -1,0 +1,3073 @@
+[
+    {
+        "jp": {
+            "content": "「今日は、お仕事、頑張りました！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola worked hard today!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「今天也認真工作了一整天！！」",
+            "convert": "「今天也认真工作了一整天！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わー、ぱちぱちぱち。　お仕事、頑張ったショコラ、えらい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Yay, clap, clap, clap. Good job for doing a good job, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哇——（鼓掌）。努力工作的巧克力，了不起。」",
+            "convert": "「哇——（鼓掌）。努力工作的巧克力，了不起。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまのお留守を守るために、頑張ったんです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「She did her best to hold down the fort for Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人不在的這段期間，我要努力看家！」",
+            "convert": "「主人不在的这段期间，我要努力看家！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「留守を守ったショコラ、えらい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Good job on holding down the fort.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「乖乖看家的巧克力真了不起。」",
+            "convert": "「乖乖看家的巧克力真了不起。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さま、ご褒美をください！！　なでなでして～、すりすりして～、ぺろぺろして～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master, please give Chocola a reward! Give her head pats~ Cuddle her~ Licky lick her~」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，請給我獎勵！！請摸摸我～蹭蹭我～舔舔我～」",
+            "convert": "「主人，请给我奖励！！请摸摸我～蹭蹭我～舔舔我～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、ご主人さまは……いません」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「But Master... is gone.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「但是，主人……現在不在家。」",
+            "convert": "「但是，主人……现在不在家。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人、悩んでる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master has been troubled.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人很煩惱。」",
+            "convert": "「主人很烦恼。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラには、何も出来ないかな……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Isn't there anything Chocola can do..?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我真的沒辦法幫忙主人嗎……？」",
+            "convert": "「我真的没办法帮忙主人吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わからない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I don't know.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不知道。」",
+            "convert": "「不知道。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、お店を頑張るのは、ご主人のためになってる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「But doing our best with the shop will help Master in the long run.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「但是，努力維持店的營運也是在幫助主人。」",
+            "convert": "「但是，努力维持店的营运也是在帮助主人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうにゃんだけど……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「You're nyot wrong, but...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「雖然是這樣喵……」",
+            "convert": "「虽然是这样喵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううぅー……ご主人さまぁ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Unghhh... Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚嗚嗚……主人！」",
+            "convert": "「呜呜呜……主人！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んしょ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「A-hup...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘿咻……」",
+            "convert": "「嘿咻……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「勝手にベッドを使ったら、怒られるかな？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Won't Master get mad at us if we use his bed without permission?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「擅自睡在主人的床上，主人會不會生氣啊？」",
+            "convert": "「擅自睡在主人的床上，主人会不会生气啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これはきっと……ご褒美」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「This is... our reward.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我想，這應該就是……獎勵。」",
+            "convert": "「我想，这应该就是……奖励。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……そうだね！　ショコラ、今日はお仕事、がんばりました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Oh... That's right! Chocola worked hard at work today!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊……對喔！我今天很努力工作了！」",
+            "convert": "「啊……对喔！我今天很努力工作了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私も、がんばった」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I also worked hard.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我也很認真。」",
+            "convert": "「我也很认真。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くんくん……　ご主人の匂いがする……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Sniff, sniff... I can smell Master's scent...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「（嗅嗅……）有主人的氣味……」",
+            "convert": "「（嗅嗅……）有主人的气味……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う、うん……くんくん……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Y-Yeah... Sniff, sniff...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯、嗯……（嗅嗅……）」",
+            "convert": "「嗯、嗯……（嗅嗅……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ～……ご主人さまご主人さまご主人さまご主人さま～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-fhh~... Master, Master, Master, Master~」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈呼～……主人主人主人主人～」",
+            "convert": "「哈呼～……主人主人主人主人～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こうしていると、ご主人と一緒に寝ているみたい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「When I'm here like this, it's like I'm sleeping next to Master.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這樣做，好像在跟主人一起睡覺一樣。」",
+            "convert": "「这样做，好像在跟主人一起睡觉一样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そう言われると……変なこと意識しちゃうよぉ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「N-Now that you mention it... it makes Chocola's mind go all funny.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香、香草這麼說……會害我胡思亂想啦。」",
+            "convert": "「香、香草这么说……会害我胡思乱想啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くんくん……ご主人の匂いだけでなく……別の匂いも……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Sniff, sniff... It's not just Master's scent... It's another kind of scent, too...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗅嗅……不只主人的味道……還有別的氣味……」",
+            "convert": "「嗅嗅……不只主人的味道……还有别的气味……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ドキッ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ba-bump!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「（驚！）」",
+            "convert": "「（惊！）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ショコラ、濡れてる？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「..Chocola, are you wet?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……巧克力，妳濕了？」",
+            "convert": "「……巧克力，你湿了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………う、うん」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「...Uh-huh.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……嗯。」",
+            "convert": "「……嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だ、だって！　バニラが変にゃこと言うからぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I-I mean! It's because you're saying all thyose weird things, Vanilla...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「沒、沒辦法啦！都怪香草亂講喵……」",
+            "convert": "「没、没办法啦！都怪香草乱讲喵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまの匂い……意識しちゃって……んっ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's making Chocola latch on to... Master's scent... Mmm.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「說什麼主人的氣味……害我變得很在意……嗯。」",
+            "convert": "「说什么主人的气味……害我变得很在意……嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あんっ……だ、だめにゃのにぃ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ahmm... But she shyouldnnn't...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊嗯……明知這樣不好喵……」",
+            "convert": "「啊嗯……明知这样不好喵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまのために……なにができるか……んんっ……考えなきゃ……はふぅ……いけにゃいのにぃ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「She has to figure out... what she can do... mm... to help... ham-fhh... Master...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「為了主人……我們能做什麼呢……嗯嗯……要好好思考……哈呼……明知這樣不行……」",
+            "convert": "「为了主人……我们能做什么呢……嗯嗯……要好好思考……哈呼……明知这样不行……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ、あんっ！　ゆ、指が……かってに……ぐにぐにしちゃうよぉ～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ah, aahm! Ch-Chocola's fingers... They're prodding her... on their ooown~」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，啊嗯！手、手指……控制不了……忍不住去摸摸～」",
+            "convert": "「啊，啊嗯！手、手指……控制不了……忍不住去摸摸～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……自分で始めちゃった」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Chocola... You're starting to play with yourself.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力……妳怎麼自己玩起來了？」",
+            "convert": "「巧克力……你怎么自己玩起来了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んはぅ……だ、だってぇ……んんっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-hah-uh... B-Because... Mmm...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯哈嗚……沒、沒辦法……嗯嗯……」",
+            "convert": "「嗯哈呜……没、没办法……嗯嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまのにおい……するんだもん……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Smelling Master's scent... makes her wanna do it...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「因為這裡有好濃厚的……主人的氣味嘛……」",
+            "convert": "「因为这里有好浓厚的……主人的气味嘛……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぅ……んぅぅ……ふあぁぁっ……おまんこ……じんじんして……はぅぅ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-uh... Mm-hhh... Ff-aaah... Chocola's pussy... is getting all tingly... Hnghh...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈嗚……嗯嗚嗚……呼啊啊啊……害我小穴……癢癢的……哈嗚嗚……！」",
+            "convert": "「哈呜……嗯呜呜……呼啊啊啊……害我小穴……痒痒的……哈呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "指の動きが激しくなり、びちゃびちゃと水音が混じりだす。"
+        },
+        "en": {
+            "content": "Chocola's fingers start to move more intensely, filling the air with slushy wet noises."
+        },
+        "cn": {
+            "content": "巧克力手指的動作逐漸激烈起來，開始帶有嗶嚓嗶嚓水聲。",
+            "convert": "巧克力手指的动作逐渐激烈起来，开始带有哔嚓哔嚓水声。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん、ん、ん……ひにゃあ……あつい……あついよぉ……ご主人さまぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm, mm, mm... Hah-nyaa... So hot... It's so hot... Masterrr...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯，嗯，嗯……咿喵啊……好熱……好熱……主人……」",
+            "convert": "「嗯，嗯，嗯……咿喵啊……好热……好热……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふにゃっ……だ、だめぇ……さわってるだけでえっちな声でちゃうぅ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Fnyaa... N-No... Chocola's voice is getting all lewd just from touching herself...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼喵……不、不行……稍微摸一下就忍不住發出淫蕩叫聲……」",
+            "convert": "「呼喵……不、不行……稍微摸一下就忍不住发出淫荡叫声……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも……でもぉ……手が止まらなくって……はう、んぅ！　ひうぅぅぅ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「But... But... She can't stop her hand... Hah-ngh, mmm! Hah-uhhhh!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「但是……但是……手停不下來……哈嗚，嗯嗚！咿嗚嗚嗚！」",
+            "convert": "「但是……但是……手停不下来……哈呜，嗯呜！咿呜呜呜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「き、きもちいい……きもちいいですよぉ……ご主人さまぁ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I-It feels good... It feels so good! Masterrr...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好、好舒服……真的好舒服……主人……！」",
+            "convert": "「好、好舒服……真的好舒服……主人……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……感じてるショコラ……超可愛い」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mmm... You're super cute when you're in pleasure, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……沉浸在快感之中的巧克力……超可愛。」",
+            "convert": "「嗯……沉浸在快感之中的巧克力……超可爱。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも……ご主人さまのために……何かするんじゃないの？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「But... aren't you supposed to be doing something... to help Master?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「但是……妳不是在思考要怎麼幫助主人嗎？」",
+            "convert": "「但是……你不是在思考要怎么帮助主人吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んはぁ……か……考えてるぅ……あんっ！　考えてるのぉ！　あっ、あっ、あっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-hah... Sh-She's thinking... Aahm! She's thinkiiing! Ah, ah, ah!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯哈啊……我……我有在想啊……啊嗯！有在想！啊，啊，啊！」",
+            "convert": "「嗯哈啊……我……我有在想啊……啊嗯！有在想！啊，啊，啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまのためにぃ……あっ！　なにが、できるか！　んんっ……考えてるよぉ～～～～んんんっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「She's thinking about what to do... Ah! What she can do...! Mmm... To help Masterrr~ Mmm!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我有在思考……啊！為了主人，能做！嗯嗯……什麼事～～～～嗯嗯嗯！！」",
+            "convert": "「我有在思考……啊！为了主人，能做！嗯嗯……什么事～～～～嗯嗯嗯！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは、ご主人のベッドで、何かしてるだけ……？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Is it simply fooling around in Master's bed...?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「可是，妳只是躺在主人的床上，做自己愛做的事而已啊……？」",
+            "convert": "「可是，你只是躺在主人的床上，做自己爱做的事而已啊……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃふぅ……んくぅ……そんゃこと言ったってぇ～……あっ！　んあっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-fhh, mmghh... Of course nyot~... Ah! Mm-ah!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咿呀嗚……嗯咕嗚……我也沒辦法啊～……啊！嗯啊！」",
+            "convert": "「咿呀呜……嗯咕呜……我也没办法啊～……啊！嗯啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ご主人さまのこと考えようとすると……頭が真っ白になっちゃって……ふにゃぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「B-But when Chocola tries to think about Master... her mind goes blank... Fnyaa...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「就、就算試著思考怎麼幫助主人……腦子也一片空白……呼喵啊……」",
+            "convert": "「就、就算试着思考怎么帮助主人……脑子也一片空白……呼喵啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「からだが……えっちになっちゃって……もう指が止まらにゃいよ～！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「And her body... starts feeling all horny... and now her fingers wyon't stooop~!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「身體……變得很想要……手指就停不下來了～！」",
+            "convert": "「身体……变得很想要……手指就停不下来了～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまぁ……ご主人さまぁ……っ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Masterrr... Masterrr...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人……主人……」",
+            "convert": "「主人……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……んん……ショコラ……すごいえっちい……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm, mm... Chocola, you're so lewd...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……嗯嗯……巧克力……超級淫亂……」",
+            "convert": "「嗯……嗯嗯……巧克力……超级淫乱……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「本当に……ご主人とえっちしてるみたい……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's like... you're actually having sex with Master...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「就好像……真的在和主人愛愛一樣……」",
+            "convert": "「就好像……真的在和主人爱爱一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……はぁ……はぁ……はぁ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah, hah... Hah, hah... Hah...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈啊……哈啊……哈啊……哈啊……哈啊……」",
+            "convert": "「哈啊……哈啊……哈啊……哈啊……哈啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……んふぅ……はふぅん……性欲に完全敗北のショコラも……かわいい……あんっ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mmm... Mm-fhh... Hah-fghh... Chocola, you're cute even when... you totally give in to your sexual urges... Ahm!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……嗯呼嗚……哈呼嗚嗯……完全抵抗不了性慾的巧克力……也好可愛……啊嗯。」",
+            "convert": "「嗯……嗯呼呜……哈呼呜嗯……完全抵抗不了性欲的巧克力……也好可爱……啊嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んにゃうぅぅ……バ、バニラだって完全敗北！　オナニーしちゃってるでしょぉ～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-nyaauuu... V-Vanilla, you've totally given in, too! You're masturbating now, aren't you~?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯喵嗚嗚嗚……香、香草不也抵抗不了！妳也開始自慰了～」",
+            "convert": "「嗯喵呜呜呜……香、香草不也抵抗不了！你也开始自慰了～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「してない……んんっ……してないよ……あんっ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I am not... Mm... I am not... Ahmm!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「才沒有……嗯嗯……才沒有……啊嗯。」",
+            "convert": "「才没有……嗯嗯……才没有……啊嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これは……んっ……ショコラを見ながら……あっ、ちょっと……ふぁうん……股をさわってるだけ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「This is just... mm... me watching you... ah, and touching... fhh-hmm... my crotch just a little.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我只是……嗯……看到巧克力那麼舒服……啊，忍不住……呼啊嗚嗯……摸了下面而已。」",
+            "convert": "「我只是……嗯……看到巧克力那么舒服……啊，忍不住……呼啊呜嗯……摸了下面而已。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んくっ……ならぁ、ショコラもぉ……んんっ……あっ！　あああぁっ！　んはっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-khh... In that case, so is Chocolaaa... Mmm... Ah! Aah! Aah! Mm-hah!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯咕……那我也跟妳一樣……嗯嗯……啊！啊啊啊啊！嗯哈！」",
+            "convert": "「嗯咕……那我也跟你一样……嗯嗯……啊！啊啊啊啊！嗯哈！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラも、ご主人さまのこと想って……あっ！　んあっ！　してるだけだからぁ……っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola is just thinking of Master... Ah! Mm-ah! And doing that, tooo...!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我也只是太想念主人……啊！嗯啊！不小心摸了起來而已……！！」",
+            "convert": "「我也只是太想念主人……啊！嗯啊！不小心摸了起来而已……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……ショコラ……ショコラ……ショコラ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah, hah... Chocola... Chocola... Chocola...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈啊……哈啊……巧克力……巧克力……巧克力……」",
+            "convert": "「哈啊……哈啊……巧克力……巧克力……巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……んあぁ……ご主人さまぁ……ご主人さまぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-fhh... Mm-aah... Master... Masterrr...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈呼嗚……嗯啊啊……主人……主人……」",
+            "convert": "「哈呼呜……嗯啊啊……主人……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……スッキリしちゃったほうが……考えに集中できる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Chocola... The more relaxed you feel... the more you can focus your mind.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力……我們應該乾脆發洩一下……才能集中思緒。」",
+            "convert": "「巧克力……我们应该干脆发泄一下……才能集中思绪。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それだにゃ……っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Thyat's true...!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「說得沒錯喵……！！」",
+            "convert": "「说得没错喵……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んはぅ……な、なんで、ショコラだけ脱ぐのぉ～？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-hah... Wh-Why is Chocola the only one being undressed~?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯哈嗚……為、為什麼只有我脫衣服～？」",
+            "convert": "「嗯哈呜……为、为什么只有我脱衣服～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私も、すぐに脱ぐから……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm going to undress in a moment...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「放心，我待會也會脫的……」",
+            "convert": "「放心，我待会也会脱的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大丈夫、ショコラ……全て任せて」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's okay, Chocola... Leave everything to me.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「放心，巧克力……全部交給我。」",
+            "convert": "「放心，巧克力……全部交给我。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううぅ……で、でも……ご主人さまいないのに……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Uhhhh... B-But... Master's not even here...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚嗚嗚……不、不過……主人明明不在……」",
+            "convert": "「呜呜呜……不、不过……主人明明不在……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この手を……ご主人の手だと思って？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Just think of this hand... as Master's hand, okay?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「把我的手……當成主人的手吧？」",
+            "convert": "「把我的手……当成主人的手吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまの……？　う、うん……やってみる……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「As Master's...? O-Okay... She'll try...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人的手……？嗯，嗯……我試看看……」",
+            "convert": "「主人的手……？嗯，嗯……我试看看……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまの手……ご主人さまの手……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master's hand... Master's hand...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人的手……主人的手……」",
+            "convert": "「主人的手……主人的手……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人の手が、ショコラに触れるよ？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master's hand is touching you, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人的手在摸著妳呢。」",
+            "convert": "「主人的手在摸着你呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……ああぁ……ご主人さま……ご主人さま……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ah... Aaah... Master... Master...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊……啊啊啊……主人……主人……」",
+            "convert": "「啊……啊啊啊……主人……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ニオイがするから、想像しやすい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「She smells him, so it's easy to imagine.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「棉被都是主人的氣味，很容易想像情景。」",
+            "convert": "「棉被都是主人的气味，很容易想像情景。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃぐうぅぅ～～～～っ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hyaghhhh~!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呀咕嗚嗚嗚～～～～！」",
+            "convert": "「呀咕呜呜呜～～～～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……ショコラのここ……ぐっしょり」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm... Chocola's pussy... is soaking wet.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……巧克力的這裡……真的濕透了呢。」",
+            "convert": "「嗯……巧克力的这里……真的湿透了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あうぅぅぅ……バニラのさわりかた……えっちだよぉ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ah-uhhhh... Vanilla, the way you touch Chocola... is so leeewd!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊嗚嗚嗚……還不都是因為香草的摸法……太刺激了。」",
+            "convert": "「啊呜呜呜……还不都是因为香草的摸法……太刺激了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまと……ち、ちがう……さわりかた……んっ！　ご主人さまと……ちがって……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Not the same... as Master... The way you're touching her... Mm! It's not the same... as Master...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不同於……主人的愛撫方式……嗯！和主人……不一樣……」",
+            "convert": "「不同于……主人的爱抚方式……嗯！和主人……不一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラが、どこに触れたら一番気持ちいいか……私は知ってるから」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's because I know... exactly where to touch to make you feel the best.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「因為我知道……妳哪裡最敏感。」",
+            "convert": "「因为我知道……你哪里最敏感。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まずは、割れ目の周りから……すりすりすり」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「First, the edge of your slit... Nuzzle, nuzzle, nuzzle.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「首先是，縫縫的外圍……搓搓摸摸。」",
+            "convert": "「首先是，缝缝的外围……搓搓摸摸。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んぅ……にゃぅ……ひゃぅぅ……バ、バニラ……それくすぐったい……にゃっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hmgh... Nya-uh... V-Vanilla... That tickles... Nyaa...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯嗚……喵嗚……呀嗚嗚 ……香、香草……這種摸法好癢……喵……」",
+            "convert": "「嗯呜……喵呜……呀呜呜 ……香、香草……这种摸法好痒……喵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はう……ん……んぅ……そんにゃ……周りばっかり……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-uh... Mm... Hngh... Nyo... Not just the edge...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈嗚……嗯……嗯嗚……怎麼這樣……只摸外圍……」",
+            "convert": "「哈呜……嗯……嗯呜……怎么这样……只摸外围……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、これだけとろとろになればもう大丈夫」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hehe, if you're getting this wet, then you're good here.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘻嘻，變得濕漉漉的，看來沒問題了。」",
+            "convert": "「嘻嘻，变得湿漉漉的，看来没问题了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「次は、こっち……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Next... Here.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「接下來，換這邊……」",
+            "convert": "「接下来，换这边……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃんうっ！？　な、なに……びりって……しびれたみたいにゃ……んんっ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-mghhh?! Wh-What? It's tingling... It's like she's going nyumb... Mmm?!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咿呀嗯嗚！？突、突然好像有……電流經過一樣……快感好強烈……嗯嗯！？」",
+            "convert": "「咿呀嗯呜！？突、突然好像有……电流经过一样……快感好强烈……嗯嗯！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃっ……あっ……やっ……！　からだ、ぴくんぴくんってなっててきもちいい……っ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nya... Ah... No...! Chocola's body is twitching so much, and it feels good...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵……啊……呀……！身體一跳一跳的，好舒服……」",
+            "convert": "「喵……啊……呀……！身体一跳一跳的，好舒服……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クリトリスの周りだけでこの反応……やっぱりショコラは敏感だね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「That kind of reaction from just touching the edge of your clitoris... Chocola, you really are sensitive.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「光搔弄陰核週邊，反應就這麼激烈……巧克力真的很敏感呢。」",
+            "convert": "「光搔弄阴核周边，反应就这么激烈……巧克力真的很敏感呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああっ……ふああっ！　バ、バニラ……指がくにくにって……は、早いよぉ……んぅっ、ふあっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Aaah... Fhaah! V-Vanilla... Your fingers are wriggling... s-so faaast... Hnghh, fhah...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊啊……呼啊啊！香、香草……手指扭動的速度……太、太快了……嗯嗚，呼啊……！」",
+            "convert": "「啊啊……呼啊啊！香、香草……手指扭动的速度……太、太快了……嗯呜，呼啊……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いまはご主人のことだけ考えて？　ショコラに入ってるのはご主人の手だよ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Right now, just think about Master. This is Master's hand inside of you now.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「把我想像成主人，好嗎？現在插進巧克力裡面的是主人的手。」",
+            "convert": "「把我想像成主人，好吗？现在插进巧克力里面的是主人的手。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん……んんん……ご、ご主人さま……あっ！　ご主人さまはげしすぎます……にゃぁ……っっ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm... Mmm... M-Master... Ah! Master, you're going too fast... Nyaa...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯……嗯嗯……主、主人……啊！主人好激烈……喵啊……」",
+            "convert": "「嗯……嗯嗯……主、主人……啊！主人好激烈……喵啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……すごいびしょびしょだ……もっと気持ちよくなりたい？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Chocola... You're dripping wet... Do you want to feel even better?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力……真的濕透了呢……妳想要更舒服嗎？」",
+            "convert": "「巧克力……真的湿透了呢……你想要更舒服吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「は……はい……なりたいです……ご主人さまぁ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Y-Yes... Chocola does... Masterrr.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我……我想要……更舒服……主人。」",
+            "convert": "「我……我想要……更舒服……主人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん……それじゃあ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm... In that case...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「好……那就……」",
+            "convert": "「好……那就……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃあっ！？　あ……はぅぅぅぅん！　ビリッって！　すごい……ビリビリってぇ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nya?! Ah... Hah-nghhhh! It's tingling! So much... It's so tingly...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵啊！？啊……哈嗚嗚嗚嗚嗯！好像被電到！好厲害……全身都麻起來了……！」",
+            "convert": "「喵啊！？啊……哈呜呜呜呜嗯！好像被电到！好厉害……全身都麻起来了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そこはだめですぅ……ひにゃっ……コシュコシュしちゃ……だめですよぉ……っ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「N-Not thereee... Hah-nya... Don't finger around... thereee...!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那、那裡不行……咿喵……那裡被摩擦……真的不行……！」",
+            "convert": "「那、那里不行……咿喵……那里被摩擦……真的不行……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クリトリス……こうやってくりくりされると気持ちいいよね。　もう少し強くしてみたり……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「When I rub your clit like this, it feels good, right? And if I do it a little harder...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「陰核被這樣轉轉很舒服吧？力道再加強一點的話……」",
+            "convert": "「阴核被这样转转很舒服吧？力道再加强一点的话……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃ……にゃぁぁっ！　あっ……えっちな声いっぱい出ちゃって……恥ずかしいですぅ……っっ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nya... Nyaaaa! Ah... Chocola is making so many lewd noises... It's so embarassinggg...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵……喵啊啊！啊……克制不了嬌喘聲……好害羞……」",
+            "convert": "「喵……喵啊啊！啊……克制不了娇喘声……好害羞……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふあっ、あっ……で、でもぉ……はずかしいけど……きもちいい……っ……んぅ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Fwah, ah... B-But... It's embarrassing, but... it still feels good... Hngh...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼啊，啊……不、不過……雖然害羞……但很舒服……啊……嗯嗚！」",
+            "convert": "「呼啊，啊……不、不过……虽然害羞……但很舒服……啊……嗯呜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「このまま……指で中までくちゅくちゅしてあげる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'll go ahead and slosh my fingers around on the inside, too.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「直接用手指……咕啾咕啾地摳小穴裡面。」",
+            "convert": "「直接用手指……咕啾咕啾地抠小穴里面。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひうっ、はぁぁぁっ……んあぁ～～っ！　ふああっ！　きもちいい……これ、すっごくきもちいいです～！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hngh, haaah... Mm-aah~! Fwaah! It feels good... This feels so gooood~!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咿嗚，哈啊啊啊……嗯啊啊～～！呼啊啊！好舒服……這招的快感超級強烈～！」",
+            "convert": "「咿呜，哈啊啊啊……嗯啊啊～～！呼啊啊！好舒服……这招的快感超级强烈～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あそこが、きゅんきゅんってうずいて……はぁ……はぁ……もう、がまんできなくなっちゃいますよぉ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola's pussy is throbbing so hard... hah, hah... that she's not going to be able to contain herself much longerrr!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「小穴開始一縮一縮，變得麻麻的……哈啊……哈啊……我已經克制不了了！」",
+            "convert": "「小穴开始一缩一缩，变得麻麻的……哈啊……哈啊……我已经克制不了了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ……す、すごい、ショコラのおまんこ……指をきゅっきゅってしめつけて……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm... I-Incredible. Chocola, your pussy... It's clamping down so hard on my finger...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……好、好厲害，巧克力的蜜穴……緊緊夾住我的手指，不肯放開……」",
+            "convert": "「嗯……好、好厉害，巧克力的蜜穴……紧紧夹住我的手指，不肯放开……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こ、こんな風に……いつもご主人のおちんちんを締め付けてるんだ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Y-You must... clamp down on Master's cock this way all the time, then...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「原、原來平常都是像這樣……纏住主人的雞雞不放嗎……」",
+            "convert": "「原、原来平常都是像这样……缠住主人的鸡鸡不放吗……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人が興奮するのも無理ない……もっと、キュッキュってして欲しくなっちゃう……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's no wonder why Master gets so turned on... It's making me want you to squeeze even tighter...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「難怪主人那麼興奮……我也想被巧克力的小穴夾住……」",
+            "convert": "「难怪主人那么兴奋……我也想被巧克力的小穴夹住……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んやぁ！　じゅぽじゅぽって、出たり入ったりはげしくて……身体がびくびくしちゃいます……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-aah! Sloshing your fingers in and out of Chocola so hard... It's making her body shiver all over...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯呀啊！手指那麼激烈地進進出出……害我身體也一跳一跳的……！」",
+            "convert": "「嗯呀啊！手指那么激烈地进进出出……害我身体也一跳一跳的……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ああ……！　きもちいい……きもちいいです……！　ご主人さま……ショコラ……ショコラはもう……っっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「A-Aah...! It feels good... It feels so good...! Master... Chocola... Chocola is going to...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，啊啊……！好舒服……好舒服喔……！主人……我……我已經快……！」",
+            "convert": "「啊，啊啊……！好舒服……好舒服喔……！主人……我……我已经快……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「イきそうなんだ……？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「You're going to cum...?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「快高潮了……？」",
+            "convert": "「快高潮了……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいよ……イって……ショコラ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Go ahead... Cum, Chocola...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「沒關係的……盡情高潮吧……巧克力……」",
+            "convert": "「没关系的……尽情高潮吧……巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クリトリスを、ぎゅーってするから……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'll pinch your clit nice and tight...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我再捏捏陰核……」",
+            "convert": "「我再捏捏阴核……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふにゃあぁぁっ、あああっ！　く、くりとりすっ！　だめ、だめですっ……ふああっ、だめぇぇっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Fnyaaa, aaah! M-My clitoris! No, don't... Aaah, noooo!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼喵啊啊啊，啊啊啊！陰、陰核！不行，不行……呼啊啊啊，不行——！」",
+            "convert": "「呼喵啊啊啊，啊啊啊！阴、阴核！不行，不行……呼啊啊啊，不行——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「も、もう……熱くて……あそこ……あそこのビクビクが止まりませんよぉ……っっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ch-Chocola's pussy... It's so hot... Her pussy won't stop twitchiiing...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那、那裡……已經變得……很火燙……顫動完全停不下來……！」",
+            "convert": "「那、那里……已经变得……很火烫……颤动完全停不下来……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ！　あっ！　あっ！　もっと……ぐちゅぐちゅかき回してください……ふああああっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ah! Ah! Ah! Please, more... Please, stir around in her pussy even more... Aaaaah!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊！啊！啊！咕啾咕啾地攪和我的小穴吧……呼啊啊啊啊！」",
+            "convert": "「啊！啊！啊！咕啾咕啾地搅和我的小穴吧……呼啊啊啊啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふやあああっ……ひぅ……ふあぁぁぁ！　ごしゅじんさまぁ……ごしゅじんさまぁ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ff-aaaah... Hngh... Aaaaah! Masterrr... Masterrr...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼呀啊啊啊……咿嗚……呼啊啊啊啊！主人……主人……！」",
+            "convert": "「呼呀啊啊啊……咿呜……呼啊啊啊啊！主人……主人……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……イく……もうイっちゃいますぅぅ！　ふわぁぁぁぁっっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola... is going to cum... She's gonna cuuum! Fwaaaaah!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我……要去了……要去了～～～！呼哇啊啊啊啊！！」",
+            "convert": "「我……要去了……要去了～～～！呼哇啊啊啊啊！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっ！　イっ……くっ！！　イっちゃ……あっ！　んあああぁぁぁぁぁ…………っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Aah! She's... cumming! Cumming... Ah! Mm-aaaaaah...!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不行！好……好舒服！！快感太強烈了……啊！嗯啊啊啊啊啊啊啊啊……！！」",
+            "convert": "「不行！好……好舒服！！快感太强烈了……啊！嗯啊啊啊啊啊啊啊啊……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んはぁぁぁ～～～～～っ！！　イった……イったから……あっ、バニラ……ま、まって……んっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-haaah~!! Chocola came... She already came... Ah, Vanilla, w-wait... Mm!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯哈啊啊啊～～～～～！！人家已經高潮了……已經高潮了啦……啊，香草……等、等一下……嗯！」",
+            "convert": "「嗯哈啊啊啊～～～～～！！人家已经高潮了……已经高潮了啦……啊，香草……等、等一下……嗯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もっと……もっと気持ちよくなって、ショコラ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「More... I want you feeling even better, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不行……要讓妳舒服到昇天。」",
+            "convert": "「不行……要让你舒服到升天。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃぐうぅぅぅぅ～～～～～～～～～～～～～っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-ghhhhh~!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咿呀咕嗚嗚嗚嗚～～～～～～～～～～～～！！」",
+            "convert": "「咿呀咕呜呜呜呜～～～～～～～～～～～～！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あー……あー……あー……あー……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Aah... Aah... Aah... Aah...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊——……啊——……啊——……啊——……」",
+            "convert": "「啊——……啊——……啊——……啊——……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……はぁ……はぁ……はぁ……はぁ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah, hah... Hah, hah... Hah, hah...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈啊……哈啊……哈啊……哈啊……哈啊……哈啊……」",
+            "convert": "「哈啊……哈啊……哈啊……哈啊……哈啊……哈啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「や、やぁ……バニラも……バニラもぉ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「A-Aah... Vanilla, you too... You tooo...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不要……香草也要……香草也一起……」",
+            "convert": "「不要……香草也要……香草也一起……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「一緒がいいよぉ……ショコラだけじゃ……だめぇ～っ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「You can cum with Chocola... Don't just make it be her... alooone~!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「一起高潮……只有我自己享受……我不要～！」",
+            "convert": "「一起高潮……只有我自己享受……我不要～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ショコラ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Chocola...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……巧克力……」",
+            "convert": "「……巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごめん……ショコラ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Sorry... Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「對不起……巧克力。」",
+            "convert": "「对不起……巧克力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁー……はぁー……はぁー……はぁー……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah, hah... Hah, hah...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈啊——……哈啊——……哈啊——……哈啊——……」",
+            "convert": "「哈啊——……哈啊——……哈啊——……哈啊——……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んふぅ……バニラ……きれい」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-fhh... Vanilla... You're so pretty.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯呼……香草……妳好漂亮。」",
+            "convert": "「嗯呼……香草……你好漂亮。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほんと？　うれしい。　ショコラに褒められた」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Really? Having you compliment me makes me so happy.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「真的？我好開心。被巧克力誇獎了。」",
+            "convert": "「真的？我好开心。被巧克力夸奖了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラも……綺麗……宝石みたい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「You're pretty too, Chocola... Like a jewel.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力……也很美……像寶石一樣閃閃發亮。」",
+            "convert": "「巧克力……也很美……像宝石一样闪闪发亮。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えへへー……やった！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ehehe... Yay!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「欸嘿嘿……太好了！」",
+            "convert": "「欸嘿嘿……太好了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラ……キスして」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Vanilla... Kiss.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香草……可以親我嗎？」",
+            "convert": "「香草……可以亲我吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん…………」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯…………」",
+            "convert": "「嗯…………」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "「んちゅ……ちゅ……んちゅっ……んっ……んっ……」"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Mm-smooch... Smak... Smooch... Mm... Mm...」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「嗯啾……啾……嗯啾……嗯……嗯……」",
+            "convert": "「嗯啾……啾……嗯啾……嗯……嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "「はちゅっ……んちゅっ……ちゅぱっ……あむ……ちゅぢゅるっ……んぢゅっ……ちゅぢゅっ！」"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Hah-smak... Mm-smooch... smak... Ahmm... Slurp... Smooch... Slurp!」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「啊啾……嗯啾……啾叭……啊呣……啾啾嚕……嗯啾……啾啾！」",
+            "convert": "「啊啾……嗯啾……啾叭……啊呣……啾啾噜……嗯啾……啾啾！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "「んちゅっ……ちゅっ……ちゅっちゅっ……んぺちゃっ……んれろ……」"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Mm-smooch... Smooch... Smooch... Mm-smak... Lhem...」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「嗯啾……啾……啾啾……嗯咧嚓……嗯咧囉……」",
+            "convert": "「嗯啾……啾……啾啾……嗯咧嚓……嗯咧咯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラ……舌、出して……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Vanilla... Stick out your tongue...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香草……伸出舌頭……」",
+            "convert": "「香草……伸出舌头……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ…………ん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah-ff... Mm...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈呼…………嗯。」",
+            "convert": "「哈呼…………嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "「んれろぉ……んれろ……れろっ……んぢゅっ……ぺちゃ……ぢゅぢゅぴちゃっ……くちゅっ……ぢゅっ！」"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Mm-lhem... Mlem... Lhem... Slurp... Smak... Slurp, smak... Smooch... Smooch!」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「嗯咧囉……嗯咧囉……咧囉……嗯啾……咧嚓……啾啾嗶嚓……咕啾……啾！」",
+            "convert": "「嗯咧咯……嗯咧咯……咧咯……嗯啾……咧嚓……啾啾哔嚓……咕啾……啾！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "「んぐっちゅっ……んぢゅちゅるっ！　んっ！　んっ！　ぢゅぼっ！　んぐっ！　んっ！　んぢゅるるるっ！」"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Mm-ghh, smooch... Smak, slurp! Mm! Mm! Smak! Mm-ghh! Mm! Mm-slurrrp!」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「嗯咕啾……嗯啾啾嚕！嗯！嗯！啾叭！嗯咕！嗯！嗯啾嚕嚕嚕！」",
+            "convert": "「嗯咕啾……嗯啾啾噜！嗯！嗯！啾叭！嗯咕！嗯！嗯啾噜噜噜！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "「れぷっ！　んぐっ！　ぢゅっ！　んぢゅぢゅぢゅっ！　んれぷっ！　んぐっ！　ぢゅぷっ！　ぶぎゅるん！」"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Lhem! Mm-ghh! Smak! Mm-smak, smak, smak! Lhem! Mm-ghh! Smak! Bghh-lhem!」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「咧噗！嗯咕！啾！嗯啾啾啾！嗯咧噗！嗯咕！啾噗！噗啾嚕！」",
+            "convert": "「咧噗！嗯咕！啾！嗯啾啾啾！嗯咧噗！嗯咕！啾噗！噗啾噜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きゃふんっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Kyaa-fhm!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呀嗯！！」",
+            "convert": "「呀嗯！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぷはっ……はぁ……はぁ……はぁ……ショコラ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Phh-hah, hah... Hah, hah... Chocola...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「噗哈……哈啊……哈啊……哈啊……巧克力……」",
+            "convert": "「噗哈……哈啊……哈啊……哈啊……巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……バニラ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-fhh... Vanilla...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈呼……香草……」",
+            "convert": "「哈呼……香草……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「スッキリさせてくれる……？　ご主人さまの……ために……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Will you let me help you feel refeshed...? For... Master's sake...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「幫我排解慾望好嗎……？這樣才能……專心思考如何幫助主人……」",
+            "convert": "「帮我排解欲望好吗……？这样才能……专心思考如何帮助主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……うん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Okay.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……好。」",
+            "convert": "「……好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ、ショコラも……バニラのこと、スッキリさせてあげるね！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Then, Chocola is going to make you feel nice and refreshed!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那麼，我也會讓香草的慾望……得到宣洩！」",
+            "convert": "「那么，我也会让香草的欲望……得到宣泄！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え……？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Huh...?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「咦……？」",
+            "convert": "「咦……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はうっ！？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah-uh?!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈嗚！？」",
+            "convert": "「哈呜！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ……すっごい……ぐっしょぐしょ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Wowie... Amazing... It's soaking wet...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇啊……好厲害……都濕透了……」",
+            "convert": "「哇啊……好厉害……都湿透了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラ……オネショしたみたいになってるよ……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Vanilla... It's almost looking like you wet the bed...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香草……濕成這樣，簡直像尿床了……」",
+            "convert": "「香草……湿成这样，简直像尿床了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……ショコラが……私のおまんこを……み、見てる……さわってる……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah-fhh... Chocola, you're... l-looking... Touching my pussy...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈嗚……巧克力在看著……摸著……我的小穴……」",
+            "convert": "「哈呜……巧克力在看着……摸着……我的小穴……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……今日……世界が終わってもいい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...The whole world... could end today and I'd die happy.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……就算今天……是世界末日也沒關係了。」",
+            "convert": "「……就算今天……是世界末日也没关系了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃっ！？　にゃに言ってるの、バニラ……！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nya?! Wh-Whyat are you saying, Vanilla...?!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵！？香草，妳在胡說什麼……！？」",
+            "convert": "「喵！？香草，你在胡说什么……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何でもない……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's nothing...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「沒事……」",
+            "convert": "「没事……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ゆ、指……動かして、ショコラ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「M-Move your fingers, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧、巧克力……可以動動手指嗎 ？」",
+            "convert": "「巧、巧克力……可以动动手指吗 ？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん……一緒に、しよ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Okay... Let's do it together.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好啊……一起享受吧。」",
+            "convert": "「好啊……一起享受吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あんっ！　あっ！　んっ！　んはぁ……き、気持ちいい……んんんっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ahm! Ah! Mm! Mm-hah... I-It feels so good... Mmm!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊嗯！啊！嗯！嗯哈啊……好、好舒服……嗯嗯嗯！」",
+            "convert": "「啊嗯！啊！嗯！嗯哈啊……好、好舒服……嗯嗯嗯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……ショコラ、敏感になってる……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah, hah... Chocola, you're so sensitive...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈啊……哈啊……巧克力變得很敏感……」",
+            "convert": "「哈啊……哈啊……巧克力变得很敏感……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラも、あっつくなってるよ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Vanilla, you're getting hot, too...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香草的下面也變得熱熱的……！」",
+            "convert": "「香草的下面也变得热热的……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「入口の丸いのもぷくーって膨らんで……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Your round little bulb is starting to swell up...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「縫縫上的小豆豆也逐漸膨脹……！」",
+            "convert": "「缝缝上的小豆豆也逐渐膨胀……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃうん！？　ショ、ショコラ……！？　いきなりクリトリスなんて……ん、んんんん……はぅぅ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hyah-mgh?! Ch-Chocola...?! Don't just start on my clit like... Mm, mmmm... Hah-uhh!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「咿呀嗚嗯！？巧、巧克力……！？怎麼突然摸陰核……嗯，嗯嗯嗯嗯……哈嗚嗚！」",
+            "convert": "「咿呀呜嗯！？巧、巧克力……！？怎么突然摸阴核……嗯，嗯嗯嗯嗯……哈呜呜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふあっ……あっ……あああっ……ショコラ……だめっ！　や、やめて……クリトリス……つまむの……ひぅぅぅ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Fhaah... Ah... Aaah... Chocola... No! S-Stop... pinching... my clit... Hnghhh!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「呼啊……啊……啊啊啊……巧克力……不行！快住手……捏陰核……不行……咿嗚嗚嗚！」",
+            "convert": "「呼啊……啊……啊啊啊……巧克力……不行！快住手……捏阴核……不行……咿呜呜呜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラにしてもらってるように……んんっ……やってみたのぉ……ここ気持ちいいよね……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I tried doing it... mm, just like how you did for me... It feels good here, doesn't it...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「剛剛香草對我用這招……嗯嗯……所以我也要回敬……這裡很舒服吧……？」",
+            "convert": "「刚刚香草对我用这招……嗯嗯……所以我也要回敬……这里很舒服吧……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ、あああっ、ふわぁぁっ……ヘ、へんになっちゃう……っ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Ah, aaah, fwaaaah... I-I'm going crazy...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「啊，啊啊啊，呼哇啊啊……爽、爽到快發狂了……！」",
+            "convert": "「啊，啊啊啊，呼哇啊啊……爽、爽到快发狂了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はにゃぁっ！？　ショコラ、そこばっかり……！　きもちいいいけど……しげきつよすぎ……んんっ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah-nyaa?! Chocola, anywhere but there...! It feels good, but... it's way too intense... Mm!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喵啊！？巧克力，都集中在那裡，不行……！雖然很舒服……刺激太強了……嗯嗯！」",
+            "convert": "「喵啊！？巧克力，都集中在那里，不行……！虽然很舒服……刺激太强了……嗯嗯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃ、にゃあああ……！　お、おねがいショコラ……ちょっと休ませて……わたし……しんじゃうよぉ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Nya, nyaaa...! P-Please, Chocola... Let me take a break... This is... killing meee!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喵、喵啊啊啊……！求、求求妳巧克力……讓我休息一下……舒服過頭……快死了！」",
+            "convert": "「喵、喵啊啊啊……！求、求求你巧克力……让我休息一下……舒服过头……快死了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ……はぁ……そ、そんなこと言われると、もっとイジめたくなっちゃうにゃ……♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah, hah... Y-You saying that is just making Chocola want to tease you more...♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈啊……哈啊……妳越這麼說，害我更想捉弄了……♪」",
+            "convert": "「哈啊……哈啊……你越这么说，害我更想捉弄了……♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ知ってるよ……中がびくびくしてる時はもっとしてほしいって……ショコラもそうだもん♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola knows... She knows that when you start twitching on the inside, it's a sign that you want more... Chocola is the same way, after all♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我很清楚……小穴裡面一跳一跳時，就是還想要更多的意思……我自己也是這樣♪」",
+            "convert": "「我很清楚……小穴里面一跳一跳时，就是还想要更多的意思……我自己也是这样♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だからぁ……奥まで指……入れてあげる……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「So... she's going to stick her fingers... even deeper...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「所以呢……手指要插得……更深入一點……！」",
+            "convert": "「所以呢……手指要插得……更深入一点……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんっ！？　ふにゃあぁ！　やっ、やぁあっ……！　おくまで、じゅぶってぇ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm?! Fnyaaa! N-Nooo...! I feel something churning deep inside...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯嗯！？呼喵啊啊！不、不行……！手指捅得太深了……！」",
+            "convert": "「嗯嗯！？呼喵啊啊！不、不行……！手指捅得太深了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はうっ！　ひゃぅぅぅっ！　クリトリスもいっしょににゃんてぇ……こんなのむり……むりぃ……っ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah-ngh! Hyaaaah! My clit is joining in... I can't take this... I caaan't...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈嗚！呀嗚嗚嗚！一邊插入，一邊撫摸陰核的話……真的承受不了……真的不行……！」",
+            "convert": "「哈呜！呀呜呜呜！一边插入，一边抚摸阴核的话……真的承受不了……真的不行……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あん、あ……うぁぁ！　おまんこ、こわれちゃう……！　まって……まってっ……ショコラぁ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Ahm, ah... Uhaaah! My pussy is going to break...! Wait...! Wait...! Chocolaaa...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「啊嗯，啊……嗚啊啊！穴穴，要壞掉了……！求求妳……停一下……巧克力……！」",
+            "convert": "「啊嗯，啊……呜啊啊！穴穴，要坏掉了……！求求你……停一下……巧克力……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ、やっ、あっあっ、だめっていってるのにっ！　あぁん……も、もうだめになる……だめになっっちゃうっ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Ah, no, ah, ah, I said don't! Aahm... I-I'm gonna go nuts... I'm gonna go nuuuuts!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「啊，呀，啊，啊，就說不行了！啊啊嗯……人家快、快變成廢貓娘了……快變成廢貓娘了啦～～」",
+            "convert": "「啊，呀，啊，啊，就说不行了！啊啊嗯……人家快、快变成废猫娘了……快变成废猫娘了啦～～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃふっ……ご主人さまのお布団、バニラの愛液でびしょびしょ……いけないんだ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nya-fhh... Master's blankets are soaking with Vanilla's juices... So naughty...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵呼……主人的棉被被香草的愛液沾得濕答答的……香草不乖……！」",
+            "convert": "「喵呼……主人的棉被被香草的爱液沾得湿答答的……香草不乖……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、それは……ショコラだって……！　ショコラだってびしょびしょ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Th-The same goes for you, Chocola...! You're dripping all over, too...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那、那是因為……可是巧克力自己不也一樣……！巧克力的下面還不是濕透了……！」",
+            "convert": "「那、那是因为……可是巧克力自己不也一样……！巧克力的下面还不是湿透了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふにゃああっっ！　ショ、ショコラとバニラの匂い、お布団についちゃう……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Fnyaaaa! Ch-Chocola and Vanilla's scents are getting on the blankets...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼喵啊啊啊！棉被要沾滿我和香草的味道了……！」",
+            "convert": "「呼喵啊啊啊！棉被要沾满我和香草的味道了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラの匂いいっぱいつけちゃうんだから……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「She's going to get your scent all over these sheets...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「會沾到很多很多香草的氣味……！」",
+            "convert": "「会沾到很多很多香草的气味……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショ、ショコラのも……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Ch-Chocola, yours too...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧、巧克力的氣味也很多……！」",
+            "convert": "「巧、巧克力的气味也很多……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やぁぁぁっ、指……そんにゃ……くちゅくちゅしたら……いっぱい出ちゃう……っっ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Aaaah, your fingers... If you... fiddle around like that... you're gonna make it all come out...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不行～～手指……伸進那裡……咕啾咕啾地搔弄的話……會流出很多很多愛液……」",
+            "convert": "「不行～～手指……伸进那里……咕啾咕啾地搔弄的话……会流出很多很多爱液……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショ、ショコラたち、ご主人さまのお布団を汚しちゃう悪い恋ネコにゃんです……っ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola and Vanilla are naughty catpanions for dirtying Master's sheets like this...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我、我們是弄髒主人棉被的壞壞貓娘情人喵……」",
+            "convert": "「我、我们是弄脏主人棉被的坏坏猫娘情人喵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごめんなさい……！　ごめんなさいぃ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola is sorry...! She's sorryyy...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「對不起……！對不起……！」",
+            "convert": "「对不起……！对不起……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひにゃ……にゃぁ……こ、こんなこと……だめってわかってるのに……にゃぅぅっ！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hnya, nyaa... W-We know that we shouldn't be doing this... Nyaa-uhhh!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「咿呀……喵啊……明、明知這種事……不行……喵啊啊啊！」",
+            "convert": "「咿呀……喵啊……明、明知这种事……不行……喵啊啊啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんでこんなに……ぞくぞくしちゃうの……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「So why is it so exhilarating...?!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「為什麼快感就是……停不下來……！」",
+            "convert": "「为什么快感就是……停不下来……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あぁぁっ！　あああっ！　バ、バニラっ！　ショコラ……ショコラ……ふあぁぁ……もう、だめかもぉ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Aaaaah! Aaaaah! V-Vanilla! Chocola... Chocola might... aaaah... be at her limit!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊啊啊！啊啊啊！香、香草！我……我……呼啊啊啊……好像不行了！」",
+            "convert": "「啊啊啊！啊啊啊！香、香草！我……我……呼啊啊啊……好像不行了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わ、わたしも……もうげんかい……は、あぁぁぁっ！　ごしゅじんのおふとんで……だめになっちゃう……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「S-So am I... I can't take it anymore... Hah, aaah! I'm going to collapse... right on Master's bed...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我、我也……快極限了……哈，啊啊啊啊！要在主人的棉被上……變成廢貓娘了……！」",
+            "convert": "「我、我也……快极限了……哈，啊啊啊啊！要在主人的棉被上……变成废猫娘了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あうっ！　ふああっ！　バニラ……バニラ……！　いっしょに……いっしょにイこ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Aa-uhh! Fwaaah! Vanilla... Vanilla...! Together... Let's cum together...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊嗚！呼啊啊！香草……香草……！一起……一起高潮吧……！」",
+            "convert": "「啊呜！呼啊啊！香草……香草……！一起……一起高潮吧……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はうぅぅ！　んあぁぁぁ……！　ショコラ……ショコラ……ショコラっっ！！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hah-nghhh! Mm-aaaah...! Chocola... Chocola... Chocolaaa!!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「哈嗚嗚嗚！嗯啊啊啊啊……！巧克力……巧克力……巧克力！！」",
+            "convert": "「哈呜呜呜！嗯啊啊啊啊……！巧克力……巧克力……巧克力！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひあ……イっ……イく……イく……イくぅ……っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hyah. She's... She's cumming... She's cumming... She's cummiiing...!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咿啊……要……要去了……要去了……要去了……！！」",
+            "convert": "「咿啊……要……要去了……要去了……要去了……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……ショコラショコラショコラ……っ！！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Chocola... Chocola, Chocola, Chocola...!!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力……巧克力巧克力巧克力……！！」",
+            "convert": "「巧克力……巧克力巧克力巧克力……！！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "「んはあああぁぁぁぁぁぁぁーーーーーー…………っ！！」"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Mm-haaaaaaaaah...!!」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "「嗯哈啊啊啊啊啊啊啊啊——————……………！！」",
+            "convert": "「嗯哈啊啊啊啊啊啊啊啊——————……………！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひゃぐうぅぅぅ～～～っ！！　ショ、ショコ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hyaghhhhh~!! Ch-Choco...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「呀咕嗚嗚嗚嗚～～～！！巧、巧克力……」",
+            "convert": "「呀咕呜呜呜呜～～～！！巧、巧克力……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまぁぁぁぁぁぁーーーーーーー……っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Masterrrrrrr...!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人——————-……!!」",
+            "convert": "「主人——————-……!!」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んにゃあぁあぁあぁっ～～～～～～～っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nn-nyaaaaa~!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯喵啊啊啊啊啊啊～～～～～～～～！！」",
+            "convert": "「嗯喵啊啊啊啊啊啊～～～～～～～～！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁっあぁあぁっーーーーーーーーっ！！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-nyaaaaa~!!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喵啊啊啊啊啊————————！！」",
+            "convert": "「喵啊啊啊啊啊————————！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁー……はぁー……はぁー……はぁー……はぁー……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah, hah... Hah, hah... Hah...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈啊——……哈啊——……哈啊——……哈啊——……哈啊——……」",
+            "convert": "「哈啊——……哈啊——……哈啊——……哈啊——……哈啊——……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぅ……ふぅ……はぁ……ふぅ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Fhh... Fhh... Hah... Fhh...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「呼嗚……呼嗚……哈啊……呼嗚……」",
+            "convert": "「呼呜……呼呜……哈啊……呼呜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すごかったぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「That was amazing...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「差點爽到瘋掉……」",
+            "convert": "「差点爽到疯掉……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん。……ショコラが、あんなにすごかったなんて」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm... Chocola, I never knew you could be that incredible.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……巧克力，沒想到妳那麼厲害。」",
+            "convert": "「嗯……巧克力，没想到你那么厉害。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えへへ……バニラの真似しただけだよー？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ehehe... Chocola was just copying you, Vanilla.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「欸嘿嘿……我只是學妳的招式而已——」",
+            "convert": "「欸嘿嘿……我只是学你的招式而已——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……すごいと思う……簡単じゃない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...I think it's incredible... It's not easy.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……還是很厲害……這並不容易。」",
+            "convert": "「……还是很厉害……这并不容易。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-fhh...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈呼……」",
+            "convert": "「哈呼……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラのおかげで、スッキリしたー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I feel so refreshed thanks to you, Vanilla!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「多虧了香草，總算把慾望發洩出去了——！」",
+            "convert": "「多亏了香草，总算把欲望发泄出去了——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「よかった……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「That's great to hear.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「太好了……」",
+            "convert": "「太好了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これで、ご主人さまのこと、考えられるよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Now she can think about Master with a clear mind!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「這樣一來，就能好好思考如何幫助主人了！」",
+            "convert": "「这样一来，就能好好思考如何帮助主人了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Right.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯。」",
+            "convert": "「嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも……ご主人さま……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「But... Master...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「但是……主人……」",
+            "convert": "「但是……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラは……なにをしたら、ご主人さまのお役にたてるんでしょうか……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「What should Chocola do in order to help Master out...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我要做什麼……才能替主人分憂解勞呢……？」",
+            "convert": "「我要做什么……才能替主人分忧解劳呢……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………んっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「...Mm...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「…………嗯……」",
+            "convert": "「…………嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだ、するの？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Are you going for more?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「妳還要做啊？」",
+            "convert": "「你还要做啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「し、しにゃいよ！？　もう、しにゃいよ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ch-Chocola's nyot! She's nyot, she swears!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「沒、沒有喵！已經發洩過了！」",
+            "convert": "「没、没有喵！已经发泄过了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「た、ただ……ご主人さまのことを考えていたら……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I-It's just... when she starts thinking about Master...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我、我只是……一想到主人……」",
+            "convert": "「我、我只是……一想到主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっと……ムズムズしてきちゃっただけで～……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「She just starts... feeling a little horny~...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「就是……下面有點癢而已～……」",
+            "convert": "「就是……下面有点痒而已～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「するんだ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「You're gonna.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「所以還是要做嘛。」",
+            "convert": "「所以还是要做嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううぅぅー……意志が弱いー。　これは、ショコラがネコなせい！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Uhhhh... Chocola is weak-willed! It's because Chocola is a catgirl!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚嗚嗚嗚——……意志力好薄弱～因為我是貓娘的關係嗎！？」",
+            "convert": "「呜呜呜呜——……意志力好薄弱～因为我是猫娘的关系吗！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコは関係ない。　快楽に逆らえないショコラが……好き」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Has nothing to do with being a catgirl. I love you, Chocola... and how you can't fight against pleasure.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「跟貓娘無關。無法抗拒快感的巧克力……我喜歡。」",
+            "convert": "「跟猫娘无关。无法抗拒快感的巧克力……我喜欢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んにゃー！？　キ、キスだめー！　ご主人さまのためにできることを考えにゃいとー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-nya?! D-Don't kiss Chocola! I've gyot to think of a way to help Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯喵——！？不可以親親——！現在要思考怎樣才能幫忙主人啦——！」",
+            "convert": "「嗯喵——！？不可以亲亲——！现在要思考怎样才能帮忙主人啦——！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私たちに……ケーキの味のことは、手伝えない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We... can't help with his new cake flavor.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們……沒辦法幫助主人糕點手藝更上一層樓。」",
+            "convert": "「我们……没办法帮助主人糕点手艺更上一层楼。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人が……自分自身で見つけないと」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master will have to find it on his own...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那是……主人要自己要去突破的課題。」",
+            "convert": "「那是……主人要自己要去突破的课题。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わ、わかってる……わかってるけどぉ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ch-Chocola knows... She knows that, but...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我、我知道啦……但是……」",
+            "convert": "「我、我知道啦……但是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまに、笑顔になってほしいのー！！　んはぁぁぁー！　ご主人さまぁぁぁぁーーーーーっ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「She wants Master to smile! Mm-haaah! Masterrr!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「但我就是希望主人能展露笑顏嘛——！！嗯啊啊啊——！主人————————！！」",
+            "convert": "「但我就是希望主人能展露笑颜嘛——！！嗯啊啊啊——！主人————————！！」"
+        }
+    }
+]

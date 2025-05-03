@@ -1,0 +1,999 @@
+[
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「……ちゅっ……ちゅっ……んしょっ……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「...Smooch... Smak... Mm-shh...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「……啾……啾叭……嘿咻……」",
+            "convert": "「……啾……啾叭……嘿咻……」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「ぺろぺろぺろぺろ……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Mlem, mlem, mlem, mlem...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「咧囉咧囉……」",
+            "convert": "「咧咯咧咯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "――ん？　なんだか、くすぐったいような……？"
+        },
+        "en": {
+            "content": "—Hm? Something's making me feel good, but what...?"
+        },
+        "cn": {
+            "content": "——嗯？怎麼有種癢癢的感覺……？",
+            "convert": "——嗯？怎么有种痒痒的感觉……？"
+        }
+    },
+    {
+        "jp": {
+            "content": "夢……じゃないよな？"
+        },
+        "en": {
+            "content": "I'm not dreaming... right?"
+        },
+        "cn": {
+            "content": "我不是在做夢吧？",
+            "convert": "我不是在做梦吧？"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「ちゅっ……ちゅっ……んちゅ～～～っ！！」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Mm-smooch... Smak... Mlem...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「啾……啾……嗯啾～～～！！」",
+            "convert": "「啾……啾……嗯啾～～～！！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「ぺろぺろぺろぺろ……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「Mlem, mlem, mlem, mlem...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「咧囉咧囉……」",
+            "convert": "「咧咯咧咯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う……ん……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mm... Hmm...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唔……嗯……？」",
+            "convert": "「唔……嗯……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "なにやら、口元に生温かい感触が……？"
+        },
+        "en": {
+            "content": "I feel something somewhat warm on my lips...?"
+        },
+        "cn": {
+            "content": "嘴邊好像有種濕濕暖暖的觸感……？",
+            "convert": "嘴边好像有种湿湿暖暖的触感……？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃんっ……おはようございにゃす、ご主人さま！　ちゅ～～～～～っ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nyan.. Good morning, Master! Smooch~!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵……主人早安～！啾～～～～～！」",
+            "convert": "「喵……主人早安～！啾～～～～～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぺろぺろ……おはよう、ご主人」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mlem, mlem... Good morning, Master.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「咧囉咧囉……早安，主人。」",
+            "convert": "「咧咯咧咯……早安，主人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「な、なにやってるんだ……？　ショコラ、バニラ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Wh-What are you doing? Chocola, Vanilla?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧、巧克力，香草，妳們在幹什麼？」",
+            "convert": "「巧、巧克力，香草，你们在干什么？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「寝起きのキッス？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Good morning kisses?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「起床之吻？」",
+            "convert": "「起床之吻？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「目覚めのキス」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Wake-up kisses.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「叫早之吻。」",
+            "convert": "「叫早之吻。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん……そうか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah... I see that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔……原來如此。」",
+            "convert": "「喔……原来如此。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまぁ、ちゅっ！　ちゅっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master, smooch! Smooch!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，啾！啾！」",
+            "convert": "「主人，啾！啾！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぺろぺろ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Lhem lhem...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「咧囉咧囉……」",
+            "convert": "「咧咯咧咯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んむむ……いや！　聞きたいのは、なぜ朝から、こんなことを？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mnghh... No, wait! What I'm asking is: why are you doing this first thing in the morning?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃……不對！我要問的是，妳們為什麼一大早就在親我？」",
+            "convert": "「呃……不对！我要问的是，你们为什么一大早就在亲我？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ご主人がなかなか起きてこないから」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Because you weren't waking up, Master.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……因為主人怎麼叫都叫不醒。」",
+            "convert": "「……因为主人怎么叫都叫不醒。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラたち、起こしにきました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola and Vanilla came to wake you up!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我們來叫主人起床啦！」",
+            "convert": "「我们来叫主人起床啦！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そしたら、ご主人さまの寝顔が、あまりにステキすぎまして」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「When we did, your sleeping face was too lovely to bear.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「叫著叫著，就覺得主人的睡臉真的太可愛了。」",
+            "convert": "「叫着叫着，就觉得主人的睡脸真的太可爱了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そうかぁ……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「O-Oh yeah...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是、是這樣嗎……？」",
+            "convert": "「是、是这样吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほっぺが美味しそうだったので」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Your cheeks looked so yummy.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「臉蛋軟軟嫩嫩的，很想咬一口。」",
+            "convert": "「脸蛋软软嫩嫩的，很想咬一口。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「た、食べるなよ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「U-Uh, don't eat them, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別、別吃我。」",
+            "convert": "「别、别吃我。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……結果的に、ご主人が起きたので、大成功」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...It resulted in you waking up, so it was a huge success.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……反正結果說來主人被我們叫醒了，非常成功。」",
+            "convert": "「……反正结果说来主人被我们叫醒了，非常成功。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たしかに、目は覚めたよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, I'm definitely up now.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我醒是醒了……」",
+            "convert": "「我醒是醒了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「よかった！　じゃあ、続きをしますね」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「That's great! In that case, time to continue.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「太好了！那就來繼續吧。」",
+            "convert": "「太好了！那就来继续吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「待て待て、起こすためのキスじゃなかったのか！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Wait, wait, weren't you kissing me to wake me up?!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「等等，妳們親我不就是為了叫醒我嗎？」",
+            "convert": "「等等，你们亲我不就是为了叫醒我吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっと……まだ足りなくて」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Um, well... it's not enough.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「可是……覺得還沒吻夠。」",
+            "convert": "「可是……觉得还没吻够。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「中途半端はよくない。スッキリしない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Leaving things half-finished isn't good. Not refreshing.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這樣不上不下的可不好，心裡不舒服。」",
+            "convert": "「这样不上不下的可不好，心里不舒服。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや……開店の準備が……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No... I've got to open the shop...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不行……還要做開店準備……」",
+            "convert": "「不行……还要做开店准备……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺はチラリと横目で目覚まし時計を確認した。"
+        },
+        "en": {
+            "content": "I peek off to the side at my alarm clock to check the time."
+        },
+        "cn": {
+            "content": "我瞥了一眼鬧鐘。",
+            "convert": "我瞥了一眼闹钟。"
+        }
+    },
+    {
+        "jp": {
+            "content": "飛び起きるような時間ではなかったが……"
+        },
+        "en": {
+            "content": "Well, I don't have to rush out of bed just yet, but..."
+        },
+        "cn": {
+            "content": "……時間是還沒緊迫到要馬上跳下床的程度。",
+            "convert": "……时间是还没紧迫到要马上跳下床的程度。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだ早い時間だから、だいじょーぶれふよ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's still early, so you'll be just fine.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「時間還早，放心啦主人……」",
+            "convert": "「时间还早，放心啦主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん～ちゅっ！　ちゅっ！！　ちゅっちゅ～～～～～っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm~smooch! Smooch! Smak, smak~!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯～啾！啾！！啾、啾～～～～～！！」",
+            "convert": "「嗯～啾！啾！！啾、啾～～～～～！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Lhem, lhem, lhem, lhem, lhem, lhem, lhem, lhem, lhem, lhem...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「（舔來舔去）」",
+            "convert": "「（舔来舔去）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんっ！！　んっ！　んちゅっ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hngh! Hmm! Mm-smooch!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯嗯！！嗯！嗯啾！」",
+            "convert": "「嗯嗯！！嗯！嗯啾！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろ……ちゅっ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Lhem, lhem, lhem, lhem, lhem, lhem, lhem, lhem, lhem, lhem... Smak.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「（舔來舔去）……啾。」",
+            "convert": "「（舔来舔去）……啾。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぁっ！　んはぁぁぁ～～～～～！　キス……気持ちいいですぅ……ご主人さまとのキス、素敵です……っ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Fwah! Mm-haaaah~! Kissing... feels so good... Kissing you is so wonderful, Master...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼啊！嗯哈啊啊啊～～～～～！親吻好舒服……跟主人接吻，好棒……！」",
+            "convert": "「呼啊！嗯哈啊啊啊～～～～～！亲吻好舒服……跟主人接吻，好棒……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんっ……ご主人のほっぺ……おいし……っ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mmm... Master, your cheeks... are so yummy...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯嗯……主人的臉蛋……好可口……」",
+            "convert": "「嗯嗯……主人的脸蛋……好可口……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "されるばかりというのも、情けない。\\n俺は２匹の耳をなでてやる。"
+        },
+        "en": {
+            "content": "Being on the receiving end the whole time isn't a good look. I start petting their ears."
+        },
+        "cn": {
+            "content": "我任憑她們兩個擺弄的話，未免也太窩囊了。\\n於是我進行反擊，撫摸兩隻貓娘的耳朵。",
+            "convert": "我任凭她们两个摆弄的话，未免也太窝囊了。\\n于是我进行反击，抚摸两只猫娘的耳朵。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぁう～～～～～！　気持ちいいですぅ、ご主人さまぁ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Fhnghh~! That feels so good, Masterrr!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼啊～～～～～！主人，這樣好舒服。」",
+            "convert": "「呼啊～～～～～！主人，这样好舒服。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんっ……これは、やみつき」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mmm... This is addicting.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯嗯……被人這樣摸感覺會上癮。」",
+            "convert": "「嗯嗯……被人这样摸感觉会上瘾。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぁんっ……あぁぁ……くすぐったいような……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Fhngh... Aaah... It tickles...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼啊……啊啊啊……不行，這樣很癢……」",
+            "convert": "「呼啊……啊啊啊……不行，这样很痒……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「尻尾にまでくる心地よさ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I feel it all the way in my tail.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「快感從背脊一路竄到尾巴。」",
+            "convert": "「快感从背脊一路窜到尾巴。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しっぽぉ～……んんっ！　ちゅっ！　んちゅ～～～～～っ！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola's tail~... Mm! Smooch! Mm-smooch~!!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「尾巴～……嗯嗯！啾！嗯啾～～～～～！」",
+            "convert": "「尾巴～……嗯嗯！啾！嗯啾～～～～～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぺろぺろ……んんっ……みみ……気持ちいい……ぺろぺろ……みみ……至福……っ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mlem, mlem... Mm... My ears... feel so good... Mlem, mlem... My ears... are in sheer bliss...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「咧囉咧囉……嗯嗯……耳朵……好舒服……咧囉咧囉……耳朵……像在天堂……」",
+            "convert": "「咧咯咧咯……嗯嗯……耳朵……好舒服……咧咯咧咯……耳朵……像在天堂……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んっ！　んっ！　ちゅっ！　ちゅ～～～っ！！　あ、あああぁぁ……っ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm! Mm! Smooch! Smooch~!! A-Aaaah...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯！嗯！啾～～～！！啊，啊啊啊啊啊……」",
+            "convert": "「嗯！嗯！啾～～～！！啊，啊啊啊啊啊……」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「んはぁぁぁぁぁ～～～～～～～～っ！！」\\n「んはぁぁぁぁぁ～～～～～～～～っ！！」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "「Mm-aaaaaaaaah~!!」\\n「Mm-aaaaaaaaah~!!」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "『「嗯哈啊啊啊啊啊～～～～～～～～！！」\\n「嗯哈啊啊啊啊啊～～～～～～～～！！」』",
+            "convert": "『「嗯哈啊啊啊啊啊～～～～～～～～！！」\\n「嗯哈啊啊啊啊啊～～～～～～～～！！」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "彼女たちと一緒に、俺も長く吐息をついた。"
+        },
+        "en": {
+            "content": "I let out a long sigh along with the girls."
+        },
+        "cn": {
+            "content": "我和貓娘們一起深深地呼了一口氣。",
+            "convert": "我和猫娘们一起深深地呼了一口气。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ～……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hah~...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呼～……」",
+            "convert": "「呼～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんか……朝から疲れた気がする……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I already feel exhausted, but it's only the morning...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼覺得……一大早就很疲憊……」",
+            "convert": "「怎么觉得……一大早就很疲惫……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ～～～。ご主人さまと、たっぷりキスして、大満足ですぅ～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hah-fhh~ Chocola feels SO satisfied that she got to kiss Master so much~」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哈呼～～～能和主人甜甜蜜蜜地吻了那麼久，我好滿足～」",
+            "convert": "「哈呼～～～能和主人甜甜蜜蜜地吻了那么久，我好满足～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人……大満足」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master... I'm so satisfied.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人……我也很滿足。」",
+            "convert": "「主人……我也很满足。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっと、頬がヒリヒリするけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, well, my cheeks are still tingling.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我的臉倒是有點刺痛。」",
+            "convert": "「我的脸倒是有点刺痛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ネコの舌って、ザラザラしてるんだな。"
+        },
+        "en": {
+            "content": "A catgirl's tongue is pretty dry and rough."
+        },
+        "cn": {
+            "content": "貓娘的舌頭上有許多粗糙的肉刺。",
+            "convert": "猫娘的舌头上有许多粗糙的肉刺。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やさしくペロペロすることもできる。舌の先はやわらかい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I can lick your face softer. The tip of my tongue is soft.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我也可以舔得溫柔一點。舌尖很柔軟的。」",
+            "convert": "「我也可以舔得温柔一点。舌尖很柔软的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうなのか？　ザラザラしてると思ったけど……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Really? It felt pretty rough to me, though...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「真的嗎？我怎麼感覺很粗糙……？」",
+            "convert": "「真的吗？我怎么感觉很粗糙……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人を、より深く味わうために、あえて舌の平で」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I was using the surface of my tongue to get an even deeper taste of you.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「為了更深刻地品嚐主人的味道，所以我故意用舌面來舔。」",
+            "convert": "「为了更深刻地品尝主人的味道，所以我故意用舌面来舔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「味わうな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Don't taste me.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別品嚐我。」",
+            "convert": "「别品尝我。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「痛かった？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Did it hurt?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「會刺痛嗎？」",
+            "convert": "「会刺痛吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、それが快感になるかも」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Then again, that might turn out feeling good.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不過，這樣反而能帶來快感。」",
+            "convert": "「不过，这样反而能带来快感。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういう趣味に目覚めたら困るから、やめてくれ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's not the kind of kink I want to unlock, so quit it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我可不想養成這種癖好，妳以後還是別這麼做了。」",
+            "convert": "「我可不想养成这种癖好，你以后还是别这么做了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んにゃうぅ～……ご主人さまのぬくもり……おふとん、ぽっかぽかですぅ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-nyaauu~... Master, you're so warm... and the bed is nice and toasty.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯喵嗚嗚～……殘留主人體溫的被窩，好鬆軟好舒服～」",
+            "convert": "「嗯喵呜呜～……残留主人体温的被窝，好松软好舒服～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人のニオイ……安らぐ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master, your scent... It's calming.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人的氣味……讓人放心。」",
+            "convert": "「主人的气味……让人放心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふにゅー……んにゅんにゅ……くー」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ff-nhh... Mm-nhh, mm-nhh... Khh...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「呼喵……呼嚕呼嚕……呼——」",
+            "convert": "「呼喵……呼噜呼噜……呼——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「心地よい疲労感に、ふかふかのおふとんが……ふにゅ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm exhausted in a good way, and these sheets are so soft... Ff-nhh.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「舒暢的疲勞感，和鬆軟的棉被……呼嚕。」",
+            "convert": "「舒畅的疲劳感，和松软的棉被……呼噜。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ……たしかに……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah... You're right...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……是很舒服……」",
+            "convert": "「嗯……是很舒服……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや！　いやいや、寝るな！　もうアズキたちが来る時間だぞ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Uh, no! I mean, wait, don't go to sleep! Azuki and the others are supposed to be here any minute now!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不對！不行，別睡啊！已經快到紅豆她們來上班的時間了！」",
+            "convert": "「不对！不行，别睡啊！已经快到红豆她们来上班的时间了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きっとアズにゃんも、わかってくれるにゃぁ～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola is sure Azu-nyan would understand, nya~」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「紅豆她們一定也能體諒的啦～」",
+            "convert": "「红豆她们一定也能体谅的啦～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「このおふとんには、さからえない……くー」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I cannot betray these sheets... Zzz.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「無法抗拒被窩的誘惑……呼——」",
+            "convert": "「无法抗拒被窝的诱惑……呼——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わかってくれるわけないだろ！　お布団に逆らえ！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Fat chance she'd understand! Betray the sheets!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「誰會體諒啊！稍微努力反抗被窩一下好嗎！」",
+            "convert": "「谁会体谅啊！稍微努力反抗被窝一下好吗！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「起きろー！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Wake up!!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「給我起床——！」",
+            "convert": "「给我起床——！」"
+        }
+    }
+]

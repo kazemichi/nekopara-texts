@@ -1,0 +1,297 @@
+[
+    {
+        "jp": {
+            "name": "メイプル＆時雨",
+            "content": "『「午後５時、晩御飯(カレー制作編)」\\n「午後５時、晩御飯(カレー制作編)」』"
+        },
+        "en": {
+            "name": "Maple&Shigure",
+            "content": "5 pm, making curry!"
+        },
+        "cn": {
+            "name": "楓＆時雨",
+            "content": "下午５点，晚餐（煮咖喱篇）",
+            "convert": "下午５点，晚餐（煮咖喱篇）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ンだよこれ！　このじゃがいも全然皮が剥けねーじゃねーかこのホーケーがああぁあぁぁあぁ！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "What the hell is with this potato?! The skin ain't peeling off! You freakin' phimosis-y potatoooooo!!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "搞什么！皮包得也太紧了吧这颗包茎马铃薯啊啊啊啊！！",
+            "convert": "搞什幺！皮包得也太紧了吧这颗包茎马铃薯啊啊啊啊！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ア、アズちゃん……そんなに乱暴に剥いちゃダメだよぉ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "A-Azu-chan... Don't peel that potato so roughlyyy~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "红、红豆……不可以剥得那么粗鲁啦……♪",
+            "convert": "红、红豆……不可以剥得那幺粗鲁啦……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃ、じゃがいもはね？　こうやって、クシャクシャにしたアルミホイルで優しくこすれば……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "H-Here, I'll show you, okay? You take a potato and gently scrub some aluminum foil against it..."
+        },
+        "cn": {
+            "name": "桂",
+            "content": "剥、剥马铃薯皮的时候啊？只要像这样，用铝箔纸包起来轻轻搓揉……",
+            "convert": "剥、剥马铃薯皮的时候啊？只要像这样，用铝箔纸包起来轻轻搓揉……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こ、こすって、シゴけば……！　あ、ほ、ほら……白いのが、白いのが出て来てぇ……♪　にゃあぁあぁぁっ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "And then you squeeze it! A-And rub it! Ah, see? Its white stuff is coming outtt~ %fSourceHanSansCN-M;♪%f; Meowwww~! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "轻、轻轻、像这样搓……！啊，你、你看……白白的，白白的东西不就跑出来了吗……♪喵～～～～……♪",
+            "convert": "轻、轻轻、像这样搓……！啊，你、你看……白白的，白白的东西不就跑出来了吗……♪喵～～～～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン、それ食べ物だからそういうの止めてくれる？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Cinnamon, would you stop playing with them please?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "桂，那是吃的东西，拜托你别老扯到那方面去好吗？",
+            "convert": "桂，那是吃的东西，拜托你别老扯到那方面去好吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほんとに、もう……シナモンはいっつもそんなことばっかり言うんだから……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I swear, Cinnamon... You're always trying to put a weird spin on everything..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "真是的……桂就是老爱开黄腔……",
+            "convert": "真是的……桂就是老爱开黄腔……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なになに？　どういうこと？　何がどうしたの？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Hmm hmm? What do you mean? Chocola doesn't get it."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "什么什么？怎么回事？出什么事了？",
+            "convert": "什幺什幺？怎幺回事？出什幺事了？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラにはまだ早かったね、よしよし。こっちで私と一緒に人参の皮でも剥こう？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "You're still a little too young, Chocola. There there~ Come here, why don't we peel some carrots together?"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "对巧克力来说还太早了。乖，到这边来跟我一起削胡萝卜皮吧？",
+            "convert": "对巧克力来说还太早了。乖，到这边来跟我一起削胡萝卜皮吧？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うぅぅうぅっ……！　これ、たまねぎ、すごい染みてっ……うぅ、前が見えないっ……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Ughh... These onions! Th-They sting my eyes so much... I can't see...!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "呜呜呜呜呜……！这、这洋葱弄得我眼睛好痛……呜呜，看不见前面了啦……！",
+            "convert": "呜呜呜呜呜……！这、这洋葱弄得我眼睛好痛……呜呜，看不见前面了啦……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あぁ、時雨さま。そんなに手を玉ねぎ汁まみれにされて……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Oh, Shigure-sama! Your hands are soaked in onion juices..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "啊啊，时雨小姐您怎么弄得手上都是洋葱汁……",
+            "convert": "啊啊，时雨小姐您怎幺弄得手上都是洋葱汁……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなの言って下されば私がやりますから。洗面所に目と手を洗いに行きましょう？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I would have taken care of those for you if you had said something, Shigure-sama! Come on, let's go wash our hands."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "这点小事只要您一句话我就会处理的啊。我带您去洗手间去把眼睛跟手洗干净吧。",
+            "convert": "这点小事只要您一句话我就会处理的啊。我带您去洗手间去把眼睛跟手洗干净吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さ、手をこちらに」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Here, give me your hand."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "来，牵着我的手。",
+            "convert": "来，牵着我的手。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごめんなさいね、ココナツ。じゃあお言葉に甘えて手を――」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Sorry, Coconut. Thanks for the--"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "不好意思喔，椰子。那就麻烦你牵我到──",
+            "convert": "不好意思喔，椰子。那就麻烦你牵我到──"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んぎゃああぁああぁあぁぁああぁっっ！！　たまねぎがっ、玉ねぎ汁が直接目に染みるうぅううぅうああぁあぁあぁぁぁっ！！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Mreowwwrgghh!! My eyes! The onion juice!! The juice went right into my eyessss!!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "咿呀啊啊啊啊啊啊啊啊啊啊啊啊！！洋葱、洋葱汁刺得我眼睛好痛啊啊啊啊啊啊啊啊啊啊！！！",
+            "convert": "咿呀啊啊啊啊啊啊啊啊啊啊啊啊！！洋葱、洋葱汁刺得我眼睛好痛啊啊啊啊啊啊啊啊啊啊！！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ごめんねココナツ！　わざとじゃなくて！　前が見えなかったのです！　大丈夫！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I-I'm so sorry, Coconut!! I didn't mean to! I really couldn't see! Are you alright?!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "对、对不起椰子！我不是故意的，实在是因为看不到前面！你没事吧！？",
+            "convert": "对、对不起椰子！我不是故意的，实在是因为看不到前面！你没事吧！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にんじーん、にんじーん～、にんじんの皮剥きたのしーなー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Carrots~ Peeling carrots~ Peeling carrots sure is fun~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "胡萝卜～胡萝卜～削萝卜皮好开心～♪",
+            "convert": "胡萝卜～胡萝卜～削萝卜皮好开心～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラはマイペースねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Chocola sure does work at her own speed, huh?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "巧克力还真有自己的一套步调呢。",
+            "convert": "巧克力还真有自己的一套步调呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなショコラ、愛してる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "That's the Chocola I know and love."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "我就爱这样的巧克力。",
+            "convert": "我就爱这样的巧克力。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ま、とっととあたしたちで作っちゃおっか。じゃないとまともなもの出来そうにないし」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Well, we better pick up the slack then. Otherwise, I don't think we'll get any food on the table."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "哎，我看我们还是赶快把咖喱煮一煮，不然靠她们大概是做不出什么正常食物了。",
+            "convert": "哎，我看我们还是赶快把咖喱煮一煮，不然靠她们大概是做不出什幺正常食物了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「御意に。わたくしめにお任せあれ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Acknowledged. Please trust me with this mission."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "遵旨。一切就交给小妹我吧。",
+            "convert": "遵旨。一切就交给小妹我吧。"
+        }
+    }
+]

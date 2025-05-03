@@ -1,0 +1,538 @@
+[
+    {
+        "jp": {
+            "name": "ショコラ＆時雨",
+            "content": "『「午後２時、お出かけ！」\\n「午後２時、お出かけ」』"
+        },
+        "en": {
+            "name": "Chocola&Shigure",
+            "content": "2 pm, going out!"
+        },
+        "cn": {
+            "name": "巧克力＆時雨",
+            "content": "下午２点，出门逛街！",
+            "convert": "下午２点，出门逛街！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おっでかけ～、おっでかけ～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Time for a walk, time for a walk~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "逛街了～逛街了～♪",
+            "convert": "逛街了～逛街了～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「外は気持ちいいね。ゴキゲンなショコラも可愛い」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "It feels great to be outside, right? You're so cute when you're this happy, Chocola."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "出门透气的感觉真好。一脸开心的巧克力也很可爱。",
+            "convert": "出门透气的感觉真好。一脸开心的巧克力也很可爱。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でもご主人さまが最近ずっとお出かけに連れて行ってくれないからにゃぁ」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Master hasn't been taking us out for walks recently though, meow..."
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "不过主人最近都不太带我们出门了喵……",
+            "convert": "不过主人最近都不太带我们出门了喵……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ねぇ。妹の私も全然構ってくれないなんて困った兄さまです、はぁ～」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Right? He doesn't even look after me, either. Oh Nii-sama, what shall I do with you...? Sigh~"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "就是说啊，连我这个妹妹都不理，真是叫人伤脑筋的哥哥呢。唉～",
+            "convert": "就是说啊，连我这个妹妹都不理，真是叫人伤脑筋的哥哥呢。唉～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなケーキばっかり作ってどうするのかしらね。旦那さまのご機嫌損ねてまでさ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "What's he baking all those cakes for anyways? Even his parents are getting pretty upset about it."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "真不知道他那么拼命做蛋糕是为了什么？而且还不惜惹老爷生气。",
+            "convert": "真不知道他那幺拼命做蛋糕是为了什幺？而且还不惜惹老爷生气。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ケーキ屋にでもなるんじゃねーの？　だからしこしこ一人で隠れてやってんだろ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Wasn't it so he could open a patisserie? So that's why he's been secretly kneading it by himself, right?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "大概是想开蛋糕店吧？所以才会自己一个人偷偷摸摸躲起来搞这些名堂。",
+            "convert": "大概是想开蛋糕店吧？所以才会自己一个人偷偷摸摸躲起来搞这些名堂。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「し、しこしこ……！？　しこしこ一人プレイにゃんて、そんにゃぁあぁぁぁっ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "'Kneading it?!' You mean, like, kneading IT?! Doing it... by himself? Meowww...! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "偷、偷偷摸摸……！？居然自己偷偷摸摸躲起来搞，这怎么行啦～……♪",
+            "convert": "偷、偷偷摸摸……！？居然自己偷偷摸摸躲起来搞，这怎幺行啦～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥さんがそんな困ってるなら、シナモンだって……♪　お、おかずになるくらいにゃら、いいのにぃ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Oh, Master Kashou, if you were that troubled, then Cinnamon... %fSourceHanSansCN-M;♪%f; Cinnamon would looooove to be your assistant~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "嘉祥少爷要是真的忍不住，可以找桂嘛……♪稍、稍微露个点人家又不在意……♪",
+            "convert": "嘉祥少爷要是真的忍不住，可以找桂嘛……♪稍、稍微露个点人家又不在意……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン。お外では控えて」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Cinnamon, we're outside. Show some restraint."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "桂，在外面麻烦你稍微控制一下。",
+            "convert": "桂，在外面麻烦你稍微控制一下。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですよ？　それに仮に身体を張るならば、それは妹である私のお役目ですから。ぽっ♪」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Exactly! And if he needs an assistant, then it is only right that I, his little sister, am the one to fill that role! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "就是说啊。况且就算要提供身体，也应该由我这个妹妹来负责才对嘛♪（脸红）",
+            "convert": "就是说啊。况且就算要提供身体，也应该由我这个妹妹来负责才对嘛♪（脸红）"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨様も。お外ですので」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Shigure-sama, please show some restraint as well!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "时雨小姐也是，在外面请您克制点。",
+            "convert": "时雨小姐也是，在外面请您克制点。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ここが最近のあたしのオススメのお店ね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "This is a new addition to my list of recommended cafés!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "这里就是我最近最推荐的店了。",
+            "convert": "这里就是我最近最推荐的店了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この時間はケーキセットがオススメだから、人数分でいいわね？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "At this time of day, I suggest the cake set. Should we go with one order each?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "现在这个时间我建议点蛋糕套餐比较好。照人头点没问题吧？",
+            "convert": "现在这个时间我建议点蛋糕套餐比较好。照人头点没问题吧？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ♪　メーちゃんはほんとにオシャレなお店いっぱい知ってるね～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Wow! %fSourceHanSansCN-M;♪%f; May-chan, you sure know a lot of fancy places, don't you~! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "哇啊♪枫真的知道好多时髦的店喔～♪",
+            "convert": "哇啊♪枫真的知道好多时髦的店喔～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだね、すごく静かで雰囲気の良いお店だね」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Yes, this coffee shop sure does have a nice, quiet ambiance to it."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "是啊。真是间气氛清静的好店。",
+            "convert": "是啊。真是间气氛清静的好店。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さすがは私のネコです。物を見る目がありますね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Nothing less from one of my catgirls! You have such an eye for things!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "不愧是我养的猫娘，真有眼光。",
+            "convert": "不愧是我养的猫娘，真有眼光。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ラテアート！　ラテアートサービスがあるよバニラ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Latte art! Look, Vanilla, they can do latte art here!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "奶泡拉花！这里有在帮客人做奶泡拉花耶，香草！",
+            "convert": "奶泡拉花！这里有在帮客人做奶泡拉花耶，香草！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ラテアート、見たことない。ちょっと見てみたい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Latte art...? What does that look like? I want to try one."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "我还没看过奶泡拉花，有点想见识一下。",
+            "convert": "我还没看过奶泡拉花，有点想见识一下。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ、そう言うと思って注文して置いたわよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Teehee, I thought you'd say that so I already ordered a few!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "呵呵。我就知道你们会这么说，所以先帮你们点好了。",
+            "convert": "呵呵。我就知道你们会这幺说，所以先帮你们点好了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「と、そんなこと言ってる間に来たわね。ほら、どうぞ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Oh, and here they are! Have a look for yourself."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "喔，才刚说完就来了呢。来，请用。",
+            "convert": "喔，才刚说完就来了呢。来，请用。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁー！　ショコラだ、ショコラの似顔絵ラテアートだ！　すごい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Wooow! It's Chocola! Look, it's a latte art of Chocola! Amazing!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "哇啊──！是巧克力，跟巧克力一模一样的拉花耶！好棒喔！",
+            "convert": "哇啊──！是巧克力，跟巧克力一模一样的拉花耶！好棒喔！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こっちは私……！　すごい、これは芸術……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "And this one is of me...! Incredible! This is... this is a masterpiece!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "这杯是我的长相……！不得了，真是太艺术了……！",
+            "convert": "这杯是我的长相……！不得了，真是太艺术了……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ、可愛い末っ子たちだからね。たまにはサービスよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Heheh... As your elder catgirl, I've got to treat you two young'ins sometimes!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "呵呵，谁叫你们是我可爱的幺妹呢。偶尔也该让你们享受享受。",
+            "convert": "呵呵，谁叫你们是我可爱的幺妹呢。偶尔也该让你们享受享受。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、その……メイプル、その……ぼくも、その……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Um, uhh... Maple... Could I... you know..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "那、那个……枫，那个……人家也想……",
+            "convert": "那、那个……枫，那个……人家也想……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、大丈夫よ。ココナツも食いつくだろうと思って頼んであるから」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Teehee, don't worry! I thought you'd be interested too. There's one for you as well!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "嘻嘻，别担心。我知道椰子你一定会想要，所以也帮你点好咯。",
+            "convert": "嘻嘻，别担心。我知道椰子你一定会想要，所以也帮你点好咯。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほら、届いたわよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "See, here it is!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "看，这不是来了吗。",
+            "convert": "看，这不是来了吗。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わー、ぼくだ！　ぼくがいる！　メイプル優しい！　ありがとう！　嬉しい！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Whoa, it's me! I'm on the coffee! Maple, you're such a nice catgirl! I'm so happy, thanks!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "哇～是人家、是人家耶！枫人最好了！谢谢你！好开心！",
+            "convert": "哇～是人家、是人家耶！枫人最好了！谢谢你！好开心！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはは、そんなにはしゃいじゃって。ココナツもまだまだ子供ねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Ahaha, you sure are excited! You're still very much a kitten, aren't you!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "啊哈哈，看你高兴的。椰子果然还是个小鬼头呢～",
+            "convert": "啊哈哈，看你高兴的。椰子果然还是个小鬼头呢～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「タカビーなアメリカンカールにもいいトコあんじゃねーか」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "I guess even an overbearing American Curl like you's got your good points!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "娇娇卷耳猫也有不错的一面嘛。",
+            "convert": "娇娇卷耳猫也有不错的一面嘛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あら、メイプルは優しいですよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Oh? Maple is such a sweet catgirl though..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "哎呀，枫可是很温柔的喔？",
+            "convert": "哎呀，枫可是很温柔的喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしもメイプルが優しいの知ってるけどね～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I think that Maple's a good girl too~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "我也知道枫其实是很温柔的哟～♪",
+            "convert": "我也知道枫其实是很温柔的哟～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何よそんな、こんなことくらいで……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "My my, so much praise for just this..."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "少来了，又不是什么大不了的事……",
+            "convert": "少来了，又不是什幺大不了的事……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁラテアートもいいけど、せっかくのコーヒーなんだから冷めないうちに飲まないとダメよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Well, latte art is all fine and good, but this is coffee after all! We ought to drink it while it's still hot, no?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "倒是拉花漂亮归漂亮，店家特地泡的咖啡可得趁热喝才行喔？",
+            "convert": "倒是拉花漂亮归漂亮，商店特地泡的咖啡可得趁热喝才行喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ここはコーヒーも美味しいんだから、ちゃんと味わってね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "This café has some fantastic coffee, so make sure to savour it!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "这里的咖啡也是很不错的，记得好好品尝。",
+            "convert": "这里的咖啡也是很不错的，记得好好品尝。"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ＆ココナツ",
+            "content": "『「「「はーい！　いただきまーす！」」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla&Coconut",
+            "content": "We will! Bon nyappétit!"
+        },
+        "cn": {
+            "name": "巧克力＆香草＆椰子",
+            "content": "好～我们开动了！",
+            "convert": "好～我们开动了！"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ＆ココナツ",
+            "content": "『「「「ずずっ」」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla&Coconut",
+            "content": "Sip sip!"
+        },
+        "cn": {
+            "name": "巧克力＆香草＆椰子",
+            "content": "嘶嘶──",
+            "convert": "嘶嘶──"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ＆ココナツ",
+            "content": "『「「「あっちゃあぁあぁあぁぁぁぁぁぁっっっ！！！」」」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla&Coconut",
+            "content": "That's HOTTTTTTT!!!"
+        },
+        "cn": {
+            "name": "巧克力＆香草＆椰子",
+            "content": "好烫────────！！！",
+            "convert": "好烫────────！！！"
+        }
+    }
+]

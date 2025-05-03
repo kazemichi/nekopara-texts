@@ -1,0 +1,325 @@
+[
+    {
+        "jp": {
+            "name": "メイプル＆シナモン",
+            "content": "『「午後１時、昼食」\\n「午後１時、昼食～」』"
+        },
+        "en": {
+            "name": "Maple&Cinnamon",
+            "content": "1 pm. Lunch~"
+        },
+        "cn": {
+            "name": "楓＆桂",
+            "content": "下午１点，午餐",
+            "convert": "下午１点，午餐"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぅ。ちょっと油断したらばうたた寝してしまいましたし、お昼は出前でも取りましょうか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Phew! I ended up taking a nap by accident... Let's get some takeout for lunch instead."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "呼。刚刚不小心睡着了，中午我们就叫外卖吧。",
+            "convert": "呼。刚刚不小心睡着了，中午我们就叫外卖吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わーい！　ショコラ出前大好きー！　何にしよーかなー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Yaaay! Chocola loves takeout! What should we order~? %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "哇～！巧克力最喜欢外卖了！要吃什么好呢～♪",
+            "convert": "哇～！巧克力最喜欢外卖了！要吃什幺好呢～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はいメニュー」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Here's a menu."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "来，菜单。",
+            "convert": "来，菜单。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う～～～～～ん、じゃあショコラはかうどんでお願いします！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Ummmmmm... Okay, Chocola will have the  powder-udon!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "嗯～～～～～那巧克力要年米乌龙面！",
+            "convert": "嗯～～～～～那巧克力要年米乌龙面！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「チカラうどんね。ショコラは漢字読めないんだから無理しなくてもいいのに。ほろり」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Power-udon' it is! You're not great at reading, so there's no need to force yourself, Chocola. Sniffle..."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "年糕乌龙面一份。巧克力，不会念汉字的话就不用勉强念嘛。",
+            "convert": "年糕乌龙面一份。巧克力，不会念汉字的话就不用勉强念嘛。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃはは～、勉強しなきゃしなきゃとは思ってるんにゃけどねぇ～」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Myahaha~ Chocola keeps telling herself to to study, but it's tough~"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵哈哈～巧克力也觉得自己是该多读点书比较好啦。",
+            "convert": "喵哈哈～巧克力也觉得自己是该多读点书比较好啦。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃああたしは鍋焼きうどん。ぬるめで」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I'll have nabeyaki-udon then. Lukewarm please!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "那我要锅烧乌龙，不要太烫。",
+            "convert": "那我要锅烧乌龙，不要太烫。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アタシはうな重だな、うな重！　うなぎ最高！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "BBQ eel on rice for me! Yeah, BBQ eel is the best~!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "我点鳗鱼饭好了，鳗鱼饭！鳗鱼超棒的！",
+            "convert": "我点鳗鱼饭好了，鳗鱼饭！鳗鱼超棒的！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあわたしは天ざるが食べたいです、冷たいので～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I'd like tempura with cold soba noodles, so make it chilled, please~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "那我要天妇罗荞麦凉面。因为是冷的～♪",
+            "convert": "那我要天妇罗荞麦凉面。因为是冷的～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は……じゃあカツ丼でお願いします」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "For me, hmm... I'll go with katsudon."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "我要……猪排盖饭好了。",
+            "convert": "我要……猪排盖饭好了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あら、ココナツはそれだけでいいの？　遠慮しないでいいんですよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Oh, that's all, Coconut? There's no need to hold back."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "哎呀，椰子吃这样够吗？不用跟我客气喔？",
+            "convert": "哎呀，椰子吃这样够吗？不用跟我客气喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その、じゃあ……て、天ざるもいいですか？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Well, um, then... Maybe tempura with cold soba noodles too?"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "那、那……可以再加一份天妇罗荞麦凉面吗？",
+            "convert": "那、那……可以再加一份天妇罗荞麦凉面吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それだけでいいの？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Just that?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "只要这两样就好吗？",
+            "convert": "只要这两样就好吗？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ごめんなさい、力うどんも食べたいです」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "... I'm sorry, I'd also like a power-udon with all of that."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "……对不起，其实我还想加一份年糕乌龙面。",
+            "convert": "……对不起，其实我还想加一份年糕乌龙面。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツはほんっとよく食べるわねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "You sure can eat, huh, Cinnamon?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "椰子真的很会吃呢。",
+            "convert": "椰子真的很会吃呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「並のネコじゃ入らないレベルだね」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Much more than the usual catgirl, I'd say."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "一般猫娘根本吃不了那么多。",
+            "convert": "一般猫娘根本吃不了那幺多。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うわあぁぁーーっん！　筋肉が多いから基礎代謝が多いだけなのおぉおぉーー！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Waaahhhh!! I just have a bigger build so I need to eat more!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "呜哇啊────！人家只是肌肉多了点，所以基础代谢比较快嘛──！",
+            "convert": "呜哇啊────！人家只是肌肉多了点，所以基础代谢比较快嘛──！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「別に泣くことないですよココナツ、よしよし」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Now now, no need to cry, Coconut!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "这没什么好哭的啊，椰子。好乖好乖喔～",
+            "convert": "这没什幺好哭的啊，椰子。好乖好乖喔～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「一緒に全部大盛りでお願いしますうわあぁぁぁーんっっっ！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "I'd like an upsize on all three of those orders too, waaaahhhh!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "麻烦帮我全部点大碗的呜哇啊啊啊──！！",
+            "convert": "麻烦帮我全部点大碗的呜哇啊啊啊──！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さすがはココちゃん、抜け目ない！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Wow, Coco-chan, nothing ever gets past you!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "不愧是椰子，有够精明！",
+            "convert": "不愧是椰子，有够精明！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それでもスタイルバツグンだし羨ましいよねぇ、胸はわたしの方がおっきいけど」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I'm really jealous of that amazing figure of hers, though I'm still the winner in the bust department!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "而且吃再多身材都不会走样呢，真叫人羡慕。虽然胸部是我比较大就是了。",
+            "convert": "而且吃再多身材都不会走样呢，真叫人羡慕。虽然胸部是我比较大就是了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「電話したら休みだったのでピザに変更です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I called them up and but they were closed, so we'll be having pizza."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "打过去才发现店家今天休息，所以我们改吃披萨吧。",
+            "convert": "打过去才发现商店今天休息，所以我们改吃披萨吧。"
+        }
+    }
+]

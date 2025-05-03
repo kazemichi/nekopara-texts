@@ -1,0 +1,790 @@
+[
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「午前１１時！　緊急お掃除！」\\n「午前１１時。緊急お掃除」』"
+        },
+        "en": {
+            "name": "Chocola&Vanilla",
+            "content": "11 am! Emergency cleanup!"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "早上１１点！紧急打扫！",
+            "convert": "早上１１点！紧急打扫！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お掃除のじっかん～お掃除のじっかん～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Cleaning time~ Cleaning time~ %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "扫地时间～扫地时间～♪",
+            "convert": "扫地时间～扫地时间～♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしたちに今日せられた使命は廊下の拭き掃除。面倒だけど頑張る」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Our orders for today are to the clean the hallways. It's kind of a pain, but let's do our best."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "今天我们被赋予的任务是拖走廊地板。麻烦归麻烦，还是要好好做。",
+            "convert": "今天我们被赋予的任务是拖走廊地板。麻烦归麻烦，还是要好好做。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんだこれ、一体何の装置なんだ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "What the... What the hell is this thing?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "这啥啊？用来干什么的？",
+            "convert": "这啥啊？用来干什幺的？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたしも見たことないわねぇ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "It's the first time I've seen it too..."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "我也没看过呢。",
+            "convert": "我也没看过呢。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「危険物じゃないよね？　もしそうなら、こんな堂々と置いてないだろうし……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "It's not something dangerous, right? 'Cause if it was, it wouldn't be just sitting around here in the open..."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "这不是什么危险物品吧？如果是的话，应该不会这么光明正大摆在这里……",
+            "convert": "这不是什幺危险物品吧？如果是的话，应该不会这幺光明正大摆在这里……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「壁に貼り付けてあるってことは、何か備え付けの物なんでしょうけど～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "The fact that it's placed on the wall means it's some kind of decoration, right~?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "既然贴在墙上，就表示一定有什么用途吧～",
+            "convert": "既然贴在墙上，就表示一定有什幺用途吧～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「前方にネコだかり発見。場所的におそらくトイレ。みんな何してるんだろう？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Catgirls detected up ahead. Judging by their location, most likely in the bathroom. What're they doing?"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "发现前方有猫群。场所看起来应该是厕所。大家聚在那做什么呢？",
+            "convert": "发现前方有猫群。场所看起来应该是厕所。大家聚在那做什幺呢？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「連れおしっこって聞いたことあるよ！　女の子たちがするんだって！　きっとそれだよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh, Chocola has heard about this, they're going together to pee! It's something girls do! Chocola bets that's it!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "听说这叫作成群结队上厕所喔！很多女生都会这样！不会错的！",
+            "convert": "听说这叫作成群结队上厕所喔！很多女生都会这样！不会错的！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラは微妙に間違えた知識をもってるのが可愛いねーよしよし。いつまでもそのままでいるんだよ？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "It's cute that you know such inappropriate things, Chocola... Such a good girl. Just stay like that forever, okay?"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "知识总是有点微妙偏差的巧克力真可爱～好乖好乖。要永远保持这个样子喔？",
+            "convert": "知识总是有点微妙偏差的巧克力真可爱～好乖好乖。要永远保持这个样子喔？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ショコラ。バニラ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Ah, Chocola, Vanilla."
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "啊，巧克力、香草。",
+            "convert": "啊，巧克力、香草。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「オメーら、これなんだか知らねーか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Hey, you two! Any idea what this thing is?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "你们两个知不知道这东西是干嘛的？",
+            "convert": "你们两个知不知道这东西是干嘛的？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これって……ん？　何この置物。知らないよー」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "This? What... is this? No clue here!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "我看看……嗯？这什么东西，没看过耶～",
+            "convert": "我看看……嗯？这什幺东西，没看过耶～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「昨日まではなかったと思うのよね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "I don't think it was here yesterday."
+        },
+        "cn": {
+            "name": "楓",
+            "content": "记得昨天还不在这里的说。",
+            "convert": "记得昨天还不在这里的说。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ま、まさか……！　水無月家にも、盗撮被害が……！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "N-No way! There's a hidden camera in the Minaduki household...?!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "难、难道……！偷拍犯的魔爪也伸到水无月家来了吗……！？",
+            "convert": "难、难道……！偷拍犯的魔爪也伸到水无月家来了吗……！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「馬鹿野郎！　そんなんあったらメイプルのアホの全裸トイレショーが世の中にバレるじゃねーか！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Don't be stupid! If there really was one, then Maple's naked bathroom show would be out there for the world to see!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "笨哪你！真是这样的话现在笨枫全裸上厕所的模样早就传到全世界人眼里了啦！",
+            "convert": "笨哪你！真是这样的话现在笨枫全裸上厕所的模样早就传到全世界人眼里了啦！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「に゛ゃーっ！！　だからそんな小さい頃の話すんなっつってんでしょ！　トイレくらい今は半裸で出来るわよ！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Mreowww!! Don't just bring up the past like that! I can go to the bathroom only half-naked now!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "喵──！！我不是说过不准提起小时候的事了吗！不过是上个厕所而已，现在就算半裸也没问题了啦！！",
+            "convert": "喵──！！我不是说过不准提起小时候的事了吗！不过是上个厕所而已，现在就算半裸也没问题了啦！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どっちにしても水無月家のネコの威信に関わるね。これは一大事」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "In any case, the Minaduki catgirls' dignities are at stake here. This is an emergency."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "无论如何这都是关系到水无月家猫娘威信的大问题，不可小觑。",
+            "convert": "无论如何这都是关系到水无月家猫娘威信的大问题，不可小觑。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃっ！？　シュッって何か出たにゃっ！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Myah?! It just sprayed something out, like whoosh!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵！？突然有东西喷出来了！？",
+            "convert": "喵！？突然有东西喷出来了！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……くんくん、くんくん。む、いい匂い……くんくん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "... Sniff sniff, sniff sniff. Hmm... Something smells good, sniff."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "……嗅嗅，嗅嗅。唔，好香的味道……嗅嗅",
+            "convert": "……嗅嗅，嗅嗅。唔，好香的味道……嗅嗅"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁ～ホントですねぇ、いい匂いがします～くんくん」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Meow~ That's right! It smells great! Sniff sniff~"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "喵～真的耶，好香的味道喔～嗅嗅",
+            "convert": "喵～真的耶，好香的味道喔～嗅嗅"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もしかしてこれって、こないだテレビで見た自動で出る芳香剤ってやつ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Oh, maybe this is that thing I saw on TV! It was some kind of automatic aroma sprayer or something?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "这该不会就是，我们上次在电视上看到的自动芳香剂吧？",
+            "convert": "这该不会就是，我们上次在电视上看到的自动芳香剂吧？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ぼくも……じゃない、私も見た！　時間が来たり人が通ったりすると反応して芳香剤を出すって！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Yeah-- I mean, why yes, I've seen it too! It sprays at certain times, or whenever someone passes by, apparently!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "啊，人家……不对，我也有看过！听说这东西会在固定时间或感应到有人经过的时候喷出芳香剂来喔！",
+            "convert": "啊，人家……不对，我也有看过！听说这东西会在固定时间或感应到有人经过的时候喷出芳香剂来喔！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほ～そいつはなかなかの文明品じゃねーか。つまり常にトイレから良い匂いがするってワケか」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Is that so~ Definitely something for the civilized, ain't it? Basically, it makes sure your bathroom always smells nice, huh?"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "喔～挺文明的嘛。也就是说这可以让厕所一直保持芳香咯。",
+            "convert": "喔～挺文明的嘛。也就是说这可以让厕所一直保持芳香咯。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おぉー！　また出たー！　すごい、すごいよこれ！　超ベンリだよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Ohh! It sprayed again! Amazing, it's so convenient!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喔喔──！又喷出来了──！这东西好棒喔！超方便的！",
+            "convert": "喔喔──！又喷出来了──！这东西好棒喔！超方便的！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すげぇなコレ、考えたやつマジ天才だぞ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "Pretty damn cool! Whoever came up with this is a real genius."
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "真不得了，发明这东西的人真是天才。",
+            "convert": "真不得了，发明这东西的人真是天才。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね、どうなってるのコレ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Hm, I wonder how it works?"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "就是啊。里面不知道长什么样子？",
+            "convert": "就是啊。里面不知道长什幺样子？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、そんな風に上から覗きこんだら」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Ah, if you look into it like that, it'll--"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "啊，你们这样从上面看的话……",
+            "convert": "啊，你们这样从上面看的话……"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆アズキ",
+            "content": "『「ぎゃああぁあぁあぁぁああぁあぁあぁっっっっ！！！」\\n「に゛ゃああぁああぁあああぁぁあぁぁぁぁぁっっっ！！！」』"
+        },
+        "en": {
+            "name": "Azuki&Maple",
+            "content": "Myaaaaghhhaaahhhh!!!"
+        },
+        "cn": {
+            "name": "楓＆紅豆",
+            "content": "哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！",
+            "convert": "哇啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「目がっ、目が見えねぇっ！！　ぐおぉぉっ……クソ染みるっ……！　いてぇぇっ……！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "My eyes! My eyes! I can't see!! Gaaahhh, it stings... It freakin' stings...!!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "眼睛，眼睛看不见了啦！！咕喔喔喔……痛死了……！超痛的啊……！！",
+            "convert": "眼睛，眼睛看不见了啦！！咕喔喔喔……痛死了……！超痛的啊……！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「に゛ゃあぁぁっ……！！　鼻の中に、思いっきり入ったっ……！　これきっつっ……に゛ゃあぁぁっ……！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Mreowww...!! My nose! It went straight into my nose! It burns... It burns so much, myaaahhh!!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "喵啊啊啊……！！整个喷进鼻子里了……！好难受……喵啊啊啊……！！",
+            "convert": "喵啊啊啊……！！整个喷进鼻子里了……！好难受……喵啊啊啊……！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「言わんこっちゃない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "I told you so..."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "看吧。",
+            "convert": "看吧。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「自動で出るんだから分かり切ってるだろうに」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "It sprays automatically, so isn't it common sense not to put your face right in front of it?"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "都知道会自动喷芳香剂出来了不是吗。",
+            "convert": "都知道会自动喷芳香剂出来了不是吗。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とりあえずお水で洗わないと～！　ほらアズちゃん、わたしの手握って～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Anyways, we need to wash it out! Azu-chan, can you take my hand~?"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "总之要快点用水洗掉才行～！红豆来，抓好我的手～",
+            "convert": "总之要快点用水洗掉才行～！红豆来，抓好我的手～"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かたじけねぇ、シナモン……！　この恩は目を洗うまでは忘れねぇからよ……！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "I owe 'ya, Cinnamon! I'll never forget this, at least until after I wash my eyes out!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "谢了，桂……！这份恩情我直到洗完眼睛为止都不会忘的……！",
+            "convert": "谢了，桂……！这份恩情我直到洗完眼睛为止都不会忘的……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、アズキちゃん。それシナモっちゃんの手じゃなくてウォシュレットのボタン――」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Ah, Azuki-chan, that's not Cinnamon-chan's hand, that's the button for the bidet--"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "啊，红豆？那不是桂的手，是冲水按钮──",
+            "convert": "啊，红豆？那不是桂的手，是冲水按钮──"
+        }
+    },
+    {
+        "jp": {
+            "name": "ココナツ＆シナモン",
+            "content": "『「に゛ゃああぁああぁあああぁぁあぁぁぁぁぁっっっ！！！」\\n「に゛ゃああぁああぁあああぁぁあぁぁぁぁぁっっっ！！！」』"
+        },
+        "en": {
+            "name": "Coconut&Cinnamon",
+            "content": "Meowwwrrrggghhhh!!!"
+        },
+        "cn": {
+            "name": "椰子＆桂",
+            "content": "喵啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！",
+            "convert": "喵啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おお、何という連鎖事故……！　こいつぁとんでもない事態だってばよ……！！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Wow, what a series of events! Things are getting pretty out of hand...!!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喔喔，怎么会有这么惨的连锁事故……！这下事情大条了啦……！！ ",
+            "convert": "喔喔，怎幺会有这幺惨的连锁事故……！这下事情大条了啦……！！ "
+        }
+    },
+    {
+        "jp": {
+            "content": "「悲しみの螺旋だね。私たちにはどうすることも出来ない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Ah, the downward spiral of sadness. There's nothing we can do about this."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "真是一道悲哀的螺旋。我们实在无力对抗。",
+            "convert": "真是一道悲哀的螺旋。我们实在无力对抗。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぇええぇぇ……！　ひどい、ぼくが何したって言うの……！　ふぇぇえぇっ……！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Huhhh?! That's so mean! What am I supposed to do, then? Fweehh!!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "呜呜……！太过分了，人家到底犯了什么罪要被这样对待啊……！呜啊啊……！！",
+            "convert": "呜呜……！太过分了，人家到底犯了什幺罪要被这样对待啊……！呜啊啊……！！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「目が、目が見えないよぉ～……！　タオル、タオルが確か上の棚に……！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "I can't see, I can't seeee~! Where's the towel? It should be on the top of the shelf--!"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "眼睛，眼睛看不见了啦～……！毛巾，我记得上面的柜子里有毛巾……！",
+            "convert": "眼睛，眼睛看不见了啦～……！毛巾，我记得上面的柜子里有毛巾……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン、そこはタオルじゃなくて買い置きのトイレットペーパーが山のように……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Cinnamon, that's not the towel, that's all the toilet paper we just--"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "桂，那边放的不是毛巾，是之前买起来放的卫生纸山……",
+            "convert": "桂，那边放的不是毛巾，是之前买起来放的卫生纸山……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁああぁ～んっ！　トイレットペーパー責めなんてだめぇ～んっ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Mreowwww! The toilet paper's all over me~! %fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "喵啊啊啊～！不可以用卫生纸玩弄人家啦～……♪",
+            "convert": "喵啊啊啊～！不可以用卫生纸玩弄人家啦～……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃー！　トイレットペーパーが廊下中に広がっていくにゃー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Oh no, meow! The toilet paper's unrolling all over the hallwaaay!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵──！卫生纸散得整个走廊都是──！",
+            "convert": "喵──！卫生纸散得整个走廊都是──！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まるでレッドカーペットだね。どんどん広がっていく。悲しみの螺旋はもう止められない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "It's just like a red carpet, slowly unrolling. There's no stopping the spiral into sadness now."
+        },
+        "cn": {
+            "name": "香草",
+            "content": "简直就像红毯一样，不断往外扩散。已经没有人能够阻止这道悲哀的螺旋了。",
+            "convert": "简直就像红毯一样，不断往外扩散。已经没有人能够阻止这道悲哀的螺旋了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「悲しみの螺旋が、なんですって？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "What's this about a 'spiral' now?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "你说悲哀的螺旋怎么了？",
+            "convert": "你说悲哀的螺旋怎幺了？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃっ……！？　し、時雨ちゃん……！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "Wha--?! Sh-Shigure-chan?!"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "喵……！？时、时雨……！？",
+            "convert": "喵……！？时、时雨……！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「し、時雨……！？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "Sh-Shigure?!"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "时、时雨……！？",
+            "convert": "时、时雨……！？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「真面目に掃除をしてるかと思ったら、一体何の騒ぎですかこれは？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "And here I thought you all were actually cleaning up properly... Just what is going on?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "还以为你们几个乖乖在打扫，结果弄成这样是怎样？",
+            "convert": "还以为你们几个乖乖在打扫，结果弄成这样是怎样？"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ち、ちげーんだって時雨……！　何が違うって、色々とちげーんだって……！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "I-It ain't what 'ya think, Shigure...! 'What's not what' you think? Well, uh... A lot of it...!"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "不、不是的时雨……！这是误会，天大的一场误会啊……！",
+            "convert": "不、不是的时雨……！这是误会，天大的一场误会啊……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうよ、別に怒るようなことじゃないのよ……！？　その、止むに止まれぬ事情があって……！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "Yes, it's nothing to get angry over or anything, okay? There were, um, some circumstances that got out of control...!"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "没错！我们没有做什么会让你生气的事喔……！？那个，这是因为种种不可抗拒的理由……！",
+            "convert": "没错！我们没有做什幺会让你生气的事喔……！？那个，这是因为种种不可抗拒的理由……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふえぇぇ……時雨さまの笑顔が怖い……！　ぼく何もしてないよぉ……！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "Fweehhh... Shigure, your smile's scaring me! I didn't even do anything...!"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "呜啊啊……时雨小姐的笑容好恐怖……！人家什么都没有做啊……！",
+            "convert": "呜啊啊……时雨小姐的笑容好恐怖……！人家什幺都没有做啊……！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はぁ、はぁ……♪　このトイレットペーパーで拘束されるのもまたはぁはぁはぁっ……♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "Haahh, haahhh... %fSourceHanSansCN-M;♪%f; Being tied up with toilet paper feels pretty... Haa haa haa~%fSourceHanSansCN-M;♪"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "哈啊，哈啊……♪被卫生纸绑住的感觉其实还蛮不错的哈啊哈啊哈啊……♪",
+            "convert": "哈啊，哈啊……♪被卫生纸绑住的感觉其实还蛮不错的哈啊哈啊哈啊……♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「水無月のネコたちが揃いも揃ってこんな醜態とは……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "I would have never thought I'd see such a shameful sight with all the Minaduki catgirls involved..."
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "身为水无月家的猫娘，居然一个比一个还不像话……",
+            "convert": "身为水无月家的猫娘，居然一个比一个还不像话……"
+        }
+    },
+    {
+        "jp": {
+            "content": "「全員、とりあえず片付けからね？　お仕置きは後でも出来ますし」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "Everyone, just clean up for now, alright? We can save the punishment for later!"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "总之所有人先把这里整理干净，处罚待会再说。",
+            "convert": "总之所有人先把这里整理干净，处罚待会再说。"
+        }
+    },
+    {
+        "jp": {
+            "name": "全員",
+            "content": "『「「「「「「はい……すみませんでした……」」」」」」』"
+        },
+        "en": {
+            "name": "All",
+            "content": "Yes... We're sorry..."
+        },
+        "cn": {
+            "name": "全員",
+            "content": "知道了……对不起……",
+            "convert": "知道了……对不起……"
+        }
+    }
+]

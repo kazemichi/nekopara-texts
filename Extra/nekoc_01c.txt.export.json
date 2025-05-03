@@ -1,0 +1,2624 @@
+[
+    {
+        "jp": {
+            "content": "「あ、あしが……！　あしが、めっちゃじーんって……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「M-My leg...! A really sharp piiing in my leg...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「腳、腳啊……！腳感覺好刺啊……！」",
+            "convert": "「脚、脚啊……！脚感觉好刺啊……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バ、バニラぁ……！　まっすぐ、あるけないよぉ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「V-Vanilla...! I can't walk straight...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香、香草……！人家走不了直線了……！」",
+            "convert": "「香、香草……！人家走不了直线了……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んにゃ゛あ゛ぁ゛あ゛ぁ゛ぁぁあぁあぁっっっ…………！！！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「NyaaaAAAaaaaAaaahh...!!!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「喵 啊 啊 啊 啊 啊啊啊啊啊啊…………！！！」",
+            "convert": "「喵 啊 啊 啊 啊 啊啊啊啊啊啊…………！！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だめ……！　いくらショコラでも、いまはさわっちゃにゃああぁああぁぁぁっ……！！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「No...! Right now, even you shouldn't touch it, Chocola, nyaaaaAaAhhh...!!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不行……！就算是巧克力，現在也不可以摸我啊啊啊啊啊啊啊啊……！！」",
+            "convert": "「不行……！就算是巧克力，现在也不可以摸我啊啊啊啊啊啊啊啊……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはは。だから無理して歩かなくて良いって」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ahaha. I said that you didn't have to strain yourself walking.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊哈哈，就說了不用勉強起來走嘛。」",
+            "convert": "「啊哈哈，就说了不用勉强起来走嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そこのベンチで少し休んでくか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Let's take a little breather on that bench.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「到那邊的長椅去休息一下吧。」",
+            "convert": "「到那边的长椅去休息一下吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううぅ……！　ご、ごめんなさい、ごめんなさい……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Uuu...! I-I'm sorry. I'm sorry...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚嗚嗚……！對、對不起，對不起……！」",
+            "convert": "「呜呜呜……！对、对不起，对不起……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もうしわけない……もうしわけない……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Apologies, apologies...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「非常抱歉……非常抱歉……！」",
+            "convert": "「非常抱歉……非常抱歉……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうだ、少しは落ち着いたか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So? Calmed down a little?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼樣，稍微好一點了嗎？」",
+            "convert": "「怎么样，稍微好一点了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「は、はい……なんとか……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Y-Yes... More or less...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「是、是的……好多了……」",
+            "convert": "「是、是的……好多了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いちじはどうなることかと……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I didn't know what was going to happen for a second...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「一時之間我還真不知道該怎麼辦……」",
+            "convert": "「一时之间我还真不知道该怎么办……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「足が痺れるのも初めての経験だったか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I guess you've never had your leg go numb before, huh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「原來是第一次體驗腳麻嗎。」",
+            "convert": "「原来是第一次体验脚麻吗。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「めちゃくちゃ足がジーンってしたろ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「There was a really sharp pinging in your leg, right?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「覺得整支腳刺麻到不行對不對？」",
+            "convert": "「觉得整只脚刺麻到不行对不对？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これが『しびれる』……？　はぁぁ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「This is 'numb'...? Phew...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「這叫『腳麻』嗎……？嘩啊……」",
+            "convert": "「这叫『脚麻』吗……？哈啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もう、にどとごめんだね……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Never want that to happen again...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我可不想再體驗第二次了……」",
+            "convert": "「我可不想再体验第二次了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは、つらい思いさせて悪かったな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hahah, sorry for putting you through a hard time.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈，抱歉讓妳們有了難過的回憶。」",
+            "convert": "「哈哈，抱歉让你们有了难过的回忆。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「い、いえ……つらくはなかったです……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「N-No... It's not all that hard...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「沒、沒有啦……其實沒有很難過……」",
+            "convert": "「没、没有啦……其实没有很难过……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぜんぜんだいじょうぶだから……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We're completely fine...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們不要緊的……」",
+            "convert": "「我们不要紧的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……その、かしょうさんは」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Um, Kashou-san...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……那個，嘉祥大哥……」",
+            "convert": "「……那个，嘉祥大哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いつもかみさまに、おいのりするんですか？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Do you always pray to God?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「你常常來跟神明祈禱嗎？」",
+            "convert": "「你常常来跟神明祈祷吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいや。神様を信じてるわけじゃないけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No. Granted, I don't really believe in God all that much.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不常。因為我其實不怎麼相信神明。」",
+            "convert": "「不常。因为我其实不怎么相信神明。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しんじてないの？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「You don't believe?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不相信神明？」",
+            "convert": "「不相信神明？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だったらどうして？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Then, why do it?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那為什麼要來神社？」",
+            "convert": "「那为什么要来神社？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「来年は色々あるからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Because a lot is going on next year.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「因為我明年有很多計畫，」",
+            "convert": "「因为我明年有很多计划，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「少しでも、ってゲン担ぎだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm superstitious for good luck. I'll take anything I can.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以才想多少求個吉兆。」",
+            "convert": "「所以才想多少求个吉兆。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「神頼みなんてガラじゃないけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Even though I'm not the type to go asking God for favors.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「雖然求神問卜實在不像我的風格就是了。」",
+            "convert": "「虽然求神问卜实在不像我的风格就是了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「らいねん？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Next year?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「明年？」",
+            "convert": "「明年？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「げんかつぎ？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Superstitious?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「吉兆？」",
+            "convert": "「吉兆？」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「？？？」\\n「？？？」』"
+        },
+        "en": {
+            "name": "Chocola & Vanilla",
+            "content": "「...???」\\n「...???」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "『「？？？」\\n「？？？」』",
+            "convert": "『「？？？」\\n「？？？」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ま、俺のことだから気にするな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Personal matter; don't sweat it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哎，這是我個人的事情，妳們不用太在意。」",
+            "convert": "「哎，这是我个人的事情，你们不用太在意。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それに、神様に頼まなくても……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Also, you don't have to rely on God...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「而且，就算不依賴神明……」",
+            "convert": "「而且，就算不依赖神明……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラくらい、俺が守ってやるから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'll protect both of you, Chocola and Vanilla.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我也會想辦法好好保護巧克力跟香草的。」",
+            "convert": "「我也会想办法好好保护巧克力跟香草的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だからそんなに怖がらなくていい」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Knowing that, you don't have to be so scared.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以妳們不需要那麼戰戰兢兢。」",
+            "convert": "「所以你们不需要那么战战兢兢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「少しずつでいいから、家族になろうな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Small steps are fine, so let's be a happy family, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「只要一步一步來，慢慢成為真正的家人就好囉？」",
+            "convert": "「只要一步一步来，慢慢成为真正的家人就好咯？」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「かしょうさん……」\\n「かしょうさん……」』"
+        },
+        "en": {
+            "name": "Chocola & Vanilla",
+            "content": "「Kashou-san...」\\n「Kashou-san...」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "『「嘉祥大哥……」\\n「嘉祥大哥……」』",
+            "convert": "『「嘉祥大哥……」\\n「嘉祥大哥……」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……はい」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「...Yes.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……知道了。」",
+            "convert": "「……知道了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はやく、みんなとかぞくになります」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I hope we all become a happy family soon.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力會盡快跟大家成為家人的。」",
+            "convert": "「巧克力会尽快跟大家成为家人的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも、できるだけがんばる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'll try the best I can, too.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我也會盡最大的努力，」",
+            "convert": "「我也会尽最大的努力，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんなと、はやくうちとけられるように」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I hope I can be open with everyone else soon.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「希望能早點跟大家打成一片。」",
+            "convert": "「希望能早点跟大家打成一片。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっと笑ってくれたな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Finally got smiles out of you, I see.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳們總算肯笑了。」",
+            "convert": "「你们总算肯笑了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「へ……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Huh...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「咦……？」",
+            "convert": "「咦……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Oh...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっぱり笑顔の方が可愛いぞ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You're both much cuter when you smile.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「果然還是笑起來比較可愛呢。」",
+            "convert": "「果然还是笑起来比较可爱呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かわいい……って……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Cuter...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「可愛……」",
+            "convert": "「可爱……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしたち、が……？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「You mean... us?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們嗎……？」",
+            "convert": "「我们吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ。おまえら以外に誰がいるんだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure do. There's no one else here I could be speaking to.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊。除了妳們以外還會有誰？」",
+            "convert": "「是啊。除了你们以外还会有谁？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ帰るか、俺たちの家に」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「All right, let's get back home. Our home.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那麼，快點回我們的家去吧。」",
+            "convert": "「那么，快点回我们的家去吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……はい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「...Right!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……好！」",
+            "convert": "「……好！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かえりましょう！　ショコラたちのおうちに！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Let's go back home! Back to our home!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「回家吧！回到巧克力跟大家的家！」",
+            "convert": "「回家吧！回到巧克力跟大家的家！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、かえろう」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-hmm, let's go back.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯，回去吧。」",
+            "convert": "「嗯，回去吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしたちのいえに」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Back to our home.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「回到我們的家去。」",
+            "convert": "「回到我们的家去。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、帰ろう。一緒にな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, let's go back. Together.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒問題，三個人一起回去吧。」",
+            "convert": "「没问题，三个人一起回去吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……よし、と」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...'Ere we go.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……好啦，」",
+            "convert": "「……好啦，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんなもんかな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That should do it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「差不多就這樣吧。」",
+            "convert": "「差不多就这样吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……って、もう１時回ってたか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Oh, it's already one o' clock, eh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……啊，已經超過一點了？」",
+            "convert": "「……啊，已经超过一点了？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「夢中になると周りが見えなくなる癖は直らないな……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Not shaking that bad habit of forgetting the outside world when I get absorbed into something, I guess...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「一熱中起來就會忘記其他事的毛病還真是改不過來呢……」",
+            "convert": "「一沉迷起来就会忘记其他事的毛病还真是改不过来呢……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とっとと片付けて寝ないと――」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Better get things squared away and sleep...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不早點收拾一下去睡的話──」",
+            "convert": "「不早点收拾一下去睡的话──」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「う、うぅ……うっ……ぐす、うぅ……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「U-Uu, uu... uwaaaaahhuu!」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「嗚、嗚嗚……嗚……嗚啊、嗚嗚……」",
+            "convert": "「呜、呜呜……呜……呜啊、呜呜……」"
+        }
+    },
+    {
+        "jp": {
+            "name": "？？？",
+            "content": "「うっ、うぅっ……う、うぅ……ぐすっ……」"
+        },
+        "en": {
+            "name": "???",
+            "content": "「U-Uuu... u, uu, uwaaaah...」"
+        },
+        "cn": {
+            "name": "？？？",
+            "content": "「嗚、嗚嗚……嗚、嗚嗚……嗚啊……」",
+            "convert": "「呜、呜呜……呜、呜呜……呜啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………ん？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Hm?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………嗯？」",
+            "convert": "「…………嗯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今の声は……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Those voices...?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「剛才的聲音是……？」",
+            "convert": "「刚才的声音是……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う……うぅ……ぐすっ、うぅぅぅ……っ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Uu, uu... uwaaah, uuuu...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚……嗚嗚……嗚啊、嗚嗚嗚嗚……！」",
+            "convert": "「呜……呜呜……呜啊、呜呜呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ……なかないで……？　だいじょうぶだから……うっ、ぐすっ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Chocola... Don't cry...? It's all right... Uu, ghhhh...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力……別哭好嗎……？不要緊的……嗚、嗚啊……！」",
+            "convert": "「巧克力……别哭好吗……？不要紧的……呜、呜啊……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラだって……ぐすっ、うっ、うぅぅっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「You too, Vanilla... Ghhhuu, uu, uuuu...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香草自己還不是……嗚啊、嗚、嗚嗚嗚……！」",
+            "convert": "「香草自己还不是……呜啊、呜、呜呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だいじょうぶ、だいじょうぶだよ……うっ、ふぇぇ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's okay. It's okay... U, wahh...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不要緊、不要緊啦……嗚、啊啊……！」",
+            "convert": "「不要紧、不要紧啦……呜、啊啊……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ？　バニラ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Chocola? Vanilla?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力？香草？」",
+            "convert": "「巧克力？香草？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ……！　か、かしょうさん……！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ah! K-Kashou-san...?!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊……！嘉、嘉祥大哥……！？」",
+            "convert": "「啊……！嘉、嘉祥大哥……！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ごめんなさい……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「W-We're sorry...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「對、對不起……！」",
+            "convert": "「对、对不起……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちがうの……！　これは、その……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's not what you think...! This is, um...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不是的……！這是，那個……！」",
+            "convert": "「不是的……！这是，那个……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうした？　どこか痛いのか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What's wrong? Did you hurt something?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼了？有哪裡痛嗎？」",
+            "convert": "「怎么了？有哪里痛吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょう、さん……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Kashou-san...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嘉祥、大哥……」",
+            "convert": "「嘉祥、大哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……その、いたいとかじゃなくて……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「...Um, we didn't hurt anything...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……那個，我們沒有哪裡痛……」",
+            "convert": "「……那个，我们没有哪里痛……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う、うん……ちがうの……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「M-Mm-hmm, we didn't...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「唔、嗯……你誤會了……」",
+            "convert": "「唔、嗯……你误会了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その……こないだみたいな、びょうきでもなくて……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Well... we're not sick like the other day, either...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「那個……我們沒有像之前一樣生病……」",
+            "convert": "「那个……我们没有像之前一样生病……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「焦らないでいい」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You don't need to be so antsy.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒關係，不用急。」",
+            "convert": "「没关系，不用急。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「落ち着いて、ゆっくりでいいよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Just calm down and speak slowly.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「放輕鬆，慢慢說就好。」",
+            "convert": "「放轻松，慢慢说就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうした？　ショコラ、バニラ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What happened, Chocola, Vanilla?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼了？巧克力、香草。」",
+            "convert": "「怎么了？巧克力、香草。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょうさん……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Kashou-san...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嘉祥大哥……」",
+            "convert": "「嘉祥大哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょう、さん…………」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Kashou-san...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘉祥、大哥…………」",
+            "convert": "「嘉祥、大哥…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う……うぅ、うぅぅっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Uu... uu, uuu...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚……嗚嗚、嗚嗚嗚……！」",
+            "convert": "「呜……呜呜、呜呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……！　うっ、ぐすっ……うぅぅぅっ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Uu...! Uu, ggghh... uuuu!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗚……！嗚、嗚啊……嗚嗚嗚嗚……！」",
+            "convert": "「呜……！呜、呜啊……呜呜呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご、ごめんなさい……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「W-We're sorry...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「對、對不起……！」",
+            "convert": "「对、对不起……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その、わからないけど、さびしくて……うぅ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Um, we don't know why, but we're so lonely... Uu...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那個，雖然不曉得原因，就是覺得很寂寞……嗚嗚……！」",
+            "convert": "「那个，虽然不知道原因，就是觉得很寂寞……呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんなが……わたしたちのこと、かぞくっていってくれても……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Even though everyone... has been calling us part of their family...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「就算……就算大家都把我們當成家人……！」",
+            "convert": "「就算……就算大家都把我们当成家人……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだ、よくわからなくて……！　うぅ、うぅぅぅぅっ……！！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We don't know yet...! Uu, uuuu...!!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「可是，我們還是一點也不懂……！嗚嗚、嗚嗚嗚嗚嗚……！！」",
+            "convert": "「可是，我们还是一点也不懂……！呜呜、呜呜呜呜呜……！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「また……！　また、だれもいなくなっちゃうんじゃないかって……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It'll happen again...! We don't know if everyone will go away again...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「總覺得……！總覺得，大家好像隨時都會不見一樣……！」",
+            "convert": "「总觉得……！总觉得，大家好像随时都会不见一样……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うぅぅっ……！　うっ、うぅぅぅっ……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Uuu...! Uuu, uuuuu...!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚嗚嗚……！嗚、嗚嗚嗚嗚……！」",
+            "convert": "「呜呜呜……！呜、呜呜呜呜……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ショコラ、バニラ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Chocola, Vanilla.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……巧克力、香草。」",
+            "convert": "「……巧克力、香草。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょう、さん……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Kashou-san...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嘉祥、大哥……？」",
+            "convert": "「嘉祥、大哥……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大丈夫だよ。もう何も怖くないからな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's all right. You've got nothing to fear, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別擔心，一點都沒什麼好怕的。」",
+            "convert": "「别担心，一点都没什么好怕的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「夕方も言ったけどさ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I told you this evening...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「傍晚我也說過了……」",
+            "convert": "「傍晚我也说过了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラくらい、俺が守ってやれるから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I can protect both of you, Chocola, Vanilla.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我會想辦法好好保護巧克力和香草。」",
+            "convert": "「我会想办法好好保护巧克力和香草。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何があっても、な？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No matter what. Okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不管發生什麼事都一樣，知道嗎？」",
+            "convert": "「不管发生什么事都一样，知道吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょう、さん……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Kashou-san...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘉祥、大哥…… 」",
+            "convert": "「嘉祥、大哥…… 」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だからおまえらが怖くなくなるまで、ここにいるよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's why I'll stay here until the two of you stop being afraid.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以，我會在這裡待到妳們倆不再害怕為止。」",
+            "convert": "「所以，我会在这里待到你们俩不再害怕为止。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラもバニラも、もううちの家族なんだから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You're both already part of our family.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「因為巧克力和香草都已經是我們的家人啦。」",
+            "convert": "「因为巧克力和香草都已经是我们的家人啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから、そんな風に怖がらなくて良い」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's why you don't need to be so afraid.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以，妳們不需要怕成這樣的。」",
+            "convert": "「所以，你们不需要怕成这样的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「安心して良いんだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You can rest at ease.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「儘管放心吧。」",
+            "convert": "「尽管放心吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょう……さぁん……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Kashou... san.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嘉祥……大哥……」",
+            "convert": "「嘉祥……大哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょう、さん……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Kashou-san...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘉祥、大哥……」",
+            "convert": "「嘉祥、大哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす……嘉祥さん……すごく、いいにおいがします……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hehe... Kashou-san... You smell really nice...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嘻嘻……嘉祥大哥……身上的味道好香喔……」",
+            "convert": "「嘻嘻……嘉祥大哥……身上的味道好香喔……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とってもあまくて……あんしんするにおい……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「You have a really sweet... very relaxing scent...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好甜好甜……又讓人安心的香味……」",
+            "convert": "「好甜好甜……又让人安心的香味……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょうさんは……いつもいいにおいがする……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Kashou-san... You always have a nice scent...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘉祥大哥……身上總是有好香的味道……」",
+            "convert": "「嘉祥大哥……身上总是有好香的味道……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それに……てが、すごくあったかい……ふしぎ……くす……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Also... your hands are so warm... It's so strange... Hehe.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「而且……手也好溫暖……真神奇……嘻嘻……」",
+            "convert": "「而且……手也好温暖……真神奇……嘻嘻……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Is that so?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「有嗎？」",
+            "convert": "「有吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「自分じゃ良くわからないけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I wouldn't know that myself.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我自己倒是感覺不出來。」",
+            "convert": "「我自己倒是感觉不出来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい……かぜのときも、すごくあったかくて……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes... It was really warm even when I had that cold...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯……感冒那次也一樣，是雙好溫暖的手……」",
+            "convert": "「嗯……感冒那次也一样，是双好温暖的手……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くるしかったのが、うそみたいに……あったかかったです……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It was so warm... My pain felt like a lie...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「可以讓不舒服的感覺像是完全沒發生過一樣……就是這麼溫暖……」",
+            "convert": "「可以让不舒服的感觉像是完全没发生过一样……就是这么温暖……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かしょうさんのこえも……すごくあんしんする……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Kashou-san, your voice is also... extremely relieving...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「而且嘉祥大哥的聲音……也很令人安心……」",
+            "convert": "「而且嘉祥大哥的声音……也很令人安心……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さっきまで、ないちゃうくらいさびしかったのに……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I was so lonely up till a moment ago that I was about to cry...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「剛才我們明明寂寞到哭出來……」",
+            "convert": "「刚才我们明明寂寞到哭出来……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いまは……ぜんぜんこわくないの……ふしぎ……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「But, now... I'm not afraid at all... It's so strange...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「可是現在……卻一點也不會害怕了……真不可思議……」",
+            "convert": "「可是现在……却一点也不会害怕了……真不可思议……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そっか。それなら良かった」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I see. That's good, then.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是嗎？那就好。」",
+            "convert": "「是吗？那就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんな手でも役に立ってるなら嬉しいよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm happy if my hand can help.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我這雙手能派上用場的話就太好了。」",
+            "convert": "「我这双手能派上用场的话就太好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、あったかいです……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes, it's warm.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「是的，這樣很溫暖……」",
+            "convert": "「是的，这样很温暖……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、すごくあったかい……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-hmm, very warm...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯，真的很溫暖……」",
+            "convert": "「嗯，真的很温暖……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……その、かしょうさん……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「...Um, Kashou-san...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「……那個，嘉祥大哥……？」",
+            "convert": "「……那个，嘉祥大哥……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさまって……よんでも、いいですか……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「May I call you... Master...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「以後可以叫你……主人嗎……？」",
+            "convert": "「以后可以叫你……主人吗……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも……ごしゅじんって、よびたい……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I also wish to... call you Master...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我也想叫嘉祥大哥主人……」",
+            "convert": "「我也想叫嘉祥大哥主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人様って……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「'Master'?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「主人……？」",
+            "convert": "「主人……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「朝も言ったけど、家族なんだから。そんな呼び方しなくていいんだぞ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I said it this morning, as well, but we're family. You don't have to call me that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「早上也說過了，我們是家人，不需要稱呼的那麼拘謹啊？」",
+            "convert": "「早上也说过了，我们是家人，不需要称呼的那么拘谨啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、ちがいます……そうじゃなくて……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hehe, that's not right... It's not that...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嘻嘻，不是啦……不是這個意思……」",
+            "convert": "「嘻嘻，不是啦……不是这个意思……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしたちは、ネコだから……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We're cats, after all...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「因為我們是貓娘……」",
+            "convert": "「因为我们是猫娘……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だいすきなヒトは、『ごしゅじんさま』なんです……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「We only call people we love 'Master'...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「所以『主人』對我們來說，就是最喜歡的人的意思……」",
+            "convert": "「所以『主人』对我们来说，就是最喜欢的人的意思……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、そういうこと……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hehe. That's how it is...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嘻嘻，一點也沒錯……」",
+            "convert": "「嘻嘻，一点也没错……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「So...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「所以……」",
+            "convert": "「所以……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしたちの、ごしゅじんに……なってくれる？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Will you become... our master?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「你願意當我們的……主人嗎？」",
+            "convert": "「你愿意当我们的……主人吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、バニラ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Chocola, Vanilla...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力、香草……」",
+            "convert": "「巧克力、香草……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ああ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Sure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯。」",
+            "convert": "「……嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラが、俺でいいなら喜んで」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「If you two can be by my side, then it'd be my pleasure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果巧克力和香草不嫌棄的話，我當然願意。」",
+            "convert": "「如果巧克力和香草不嫌弃的话，我当然愿意。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯……」",
+            "convert": "「嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラのごしゅじんさまは、ごしゅじんさまがいいです……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I'm fine with my master being my master...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力也想要主人來當主人……」",
+            "convert": "「巧克力也想要主人来当主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん……わたしも……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-hmm... Me, too...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯……我也一樣……」",
+            "convert": "「嗯……我也一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしのごしゅじんは、ごしゅじんがいい……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm fine with my master being my master...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我希望由主人來當我的主人……」",
+            "convert": "「我希望由主人来当我的主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、分かったよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Okay, I get it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，我知道了。」",
+            "convert": "「嗯，我知道了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ改めてこれからも、よろしくな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Then, let's start over on the right foot, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那麼，就再一次請妳們多多指教囉？」",
+            "convert": "「那么，就再一次请你们多多指教咯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、よろしくおねがいします、ごしゅじんさま……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes, thank you very much, Master...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好的，請多多指教，主人……」",
+            "convert": "「好的，请多多指教，主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、よろしく……ごしゅじん……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-hmm, pleasure is ours... Master...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯，請多指教……主人……」",
+            "convert": "「嗯，请多指教……主人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えへへ、ごしゅじんさま……？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Eheheh, Master...?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「欸嘿嘿，主人……？」",
+            "convert": "「欸嘿嘿，主人……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もっと、ぎゅってしてください……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hug me more, please...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「再抱緊巧克力一點好不好……」",
+            "convert": "「再抱紧巧克力一点好不好……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじん……わたしも、もっとなでなでしてほしい……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Master... Me, too. Pet me some more, please...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人……也再多摸摸我的頭……」",
+            "convert": "「主人……也再多摸摸我的头……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、いくらでも――」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, as much as you want...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，想怎麼撒嬌都沒問題──」",
+            "convert": "「嗯，想怎么撒娇都没问题──」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃぁーん！　ごめんなさい、ごめんなさいぃー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nyaaan! I'm sorry, I'm sorryyy!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵──！對不起，對不起──！」",
+            "convert": "「喵──！对不起，对不起──！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃーん！　ごめんなさい、ごしゅじんさまー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nyaan! I'm sorry, Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵～！對不起啦，主人～！」",
+            "convert": "「喵～！对不起啦，主人～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もうしわけない……！　ほんともうしわけない……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I apologize...! I truly apologize...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「非常抱歉……！真的非常抱歉……！」",
+            "convert": "「非常抱歉……！真的非常抱歉……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仔ネコなんだから、謝らなくていいって言ってるだろ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Didn't I tell you that you're kittens, so you don't have to apologize?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不是說了，妳們還是小貓，所以不用道歉沒關係嗎？」",
+            "convert": "「我不是说了，你们还是小猫，所以不用道歉没关系吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だからもう泣くなってば」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Like I said, stop crying.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以拜託妳們別哭了。」",
+            "convert": "「所以拜托你们别哭了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちがうんですー！　ほんとにちがうんですー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「No, that's not it! That's really not it, I swear!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「不是的！真的不是的～！」",
+            "convert": "「不是的！真的不是的～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いつもはこんなことないんですー！　にゃぁーん！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I'm not always like this! Nyaan!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「平常我們不會這樣啦！喵──！」",
+            "convert": "「平常我们不会这样啦！喵──！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふかく……ほんとうにふかく……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I screwed up... I really screwed up...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「這真的……真的很尷尬……」",
+            "convert": "「这真的……真的很尴尬……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まさかこんなことになろうとは……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I never thought it would end up like this...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「沒想到事情居然會變成這樣……」",
+            "convert": "「没想到事情居然会变成这样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから別に気にするなって言ってるだろ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Like I said, you don't have to sweat it, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「就說了不用那麼在意嘛。」",
+            "convert": "「就说了不用那么在意嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃーん！　そんなこといわれてもー！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nyaan! That's easier said than done!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵～！就算主人這麼說也沒辦法啊！」",
+            "convert": "「喵～！就算主人这么说也没办法啊！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコのそんげんが……こんなはずじゃあ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「My pride as a cat... wouldn't let this be...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「貓娘的尊嚴……事情不應該是這樣的……！」",
+            "convert": "「猫娘的尊严……事情不应该是这样的……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くすくす。ショコラもバニラも仔ネコらしいですねぇ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hehehe. Chocola and Vanilla really do act like kittens, eh?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘻嘻嘻。不管巧克力還是香草，小貓就是小貓。」",
+            "convert": "「嘻嘻嘻。不管巧克力还是香草，小猫就是小猫。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様の添い寝で、安心して気が緩んだんでしょうね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Letting them sleep with you really put them at ease and helped them relax, I reckon.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「看來是因為有哥哥陪睡，一安心就鬆懈下來了吧。」",
+            "convert": "「看来是因为有哥哥陪睡，一安心就松懈下来了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それなら逆に良いんだけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm glad to hear that, if it did.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「如果真是這樣，反而也不錯就是了。」",
+            "convert": "「如果真是这样，反而也不错就是了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おーなんだか久しぶりの絵面だなー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ooh, now there's a face I haven't seen in a while.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喔～好久沒見到這種場面了。」",
+            "convert": "「喔～好久没见到这种场面了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「プルメーのやつがなかなか嬉ション止まんなかったのを思い出すわー」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I remember that it took a lot before Pull-may stopped peeing when she was excited.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「讓我想起以前楓也是老改不掉一開心起來就失禁的毛病呢～」",
+            "convert": "「让我想起以前枫也是老改不掉一开心起来就失禁的毛病呢～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「い、いつの話してんのよ！　止めてよそんな昔の話！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Wh-What are you talking about?! Quit it with the ancient history!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「那、那都多久以前的事了！拜託別把那種陳年往事搬出來說好不好！」",
+            "convert": "「那、那都多久以前的事了！拜托别把那种陈年往事搬出来说好不好！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツだって未だにオネショしてるじゃない！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Besides, Coconut still pees the bed, doesn't she!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「再說，椰子不也是到現在還會尿床嗎！」",
+            "convert": "「再说，椰子不也是到现在还会尿床吗！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「し、してないよ！　ぼくもう仔ネコじゃないし！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I-I do not! I'm no kitten anymore!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「才、才沒有！人家已經不是小貓了！」",
+            "convert": "「才、才没有！人家已经不是小猫了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もう一ヶ月くらいしてないもん！　ほんとに！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I haven't done it for a whole month! I swear!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「這一個月來人家都沒有尿床喔！是真的！」",
+            "convert": "「这一个月来人家都没有尿床喔！是真的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラちゃん、バニラちゃん～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Chocola-chan, Vanilla-chan~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「巧克力，還有香草～？」",
+            "convert": "「巧克力，还有香草～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嬉しい時はオネショしちゃっても仕方ないんですよ～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「No one will blame you if you pee the bed when you're happy, okay~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「遇到開心的事情時會尿床也是沒辦法的事喔～？」",
+            "convert": "「遇到开心的事情时会尿床也是没办法的事喔～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仔ネコのうちは、そういうこともあるんですから～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「That just happens while you're still kittens~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「畢竟在小貓時代，這種現象是很難控制的～」",
+            "convert": "「毕竟在小猫时代，这种现象是很难控制的～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うれしいときは、しかたないの？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「When we're happy, no one will blame us?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「遇到開心的事情，就會控制不住嗎？」",
+            "convert": "「遇到开心的事情，就会控制不住吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモンも、うれしいときはもらしちゃうの？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Do you wet yourself when you're happy, too, Cinnamon?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「桂開心的時候也會不小心失禁嗎？」",
+            "convert": "「桂开心的时候也会不小心失禁吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ？　え、ええ～そうだねぇ、そうかなぁ～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Huh? Y-Yes~ Right, I wonder~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「咦？這、這個嘛～我想想，會不會呢～？」",
+            "convert": "「咦？这、这个嘛～我想想，会不会呢～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ、そのわたしは漏らしちゃうっていうか～？　漏れちゃうっていうか～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Well, I dunno if I'd say I wet myself~? Maybe more like I spring a leak~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我也不知道該算是不小心～還是自主性～？」",
+            "convert": "「我也不知道该算是不小心～还是自主性～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嬉しいときは、その、色々と仕方ないっていうか～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「When I get excited, um, there's a lot I can't be blamed for, I guess~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「應該說只要一開心起來，那個，很多事都會控制不住～」",
+            "convert": "「应该说只要一开心起来，那个，很多事都会控制不住～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん、わかった！　じゃあショコラ、もっとうれしょんするね！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Mm-hmm, I get it! Okay, I'll make sure to pee when I'm happy more, then!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗯，知道了！那巧克力會多多失禁！」",
+            "convert": "「嗯，知道了！那巧克力会多多失禁！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ね？　バニラもいっしょに、いっぱいうれしょんしようね！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Right? Let's wet ourselves out of excitement a whole bunch, right, Vanilla?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好不好？香草也跟巧克力一起多多失禁嘛！」",
+            "convert": "「好不好？香草也跟巧克力一起多多失禁嘛！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううん。きっとそういうことじゃないとおもう」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-mmm, I don't think that's what we should do.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不了，我想桂一定不是這個意思。」",
+            "convert": "「不了，我想桂一定不是这个意思。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それにいっしょにいっぱいオネショしてたら、ごしゅじんがたいへん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Plus, if we all wet the bed together that much, then it will cause problems for Master.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「而且要是我們兩個尿太多次床，主人會很辛苦的。」",
+            "convert": "「而且要是我们两个尿太多次床，主人会很辛苦的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、でもだよ？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「But, but, come on.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「可是，可是啊？」",
+            "convert": "「可是，可是啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラたちがうれしかったら、ごしゅじんさまもきっとうれしいよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「If we're all happy, then Master will also be happy!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「要是我們能開開心心的，主人一定也會覺得很開心！」",
+            "convert": "「要是我们能开开心心的，主人一定也会觉得很开心！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うーん、なんというか。ショコラにせつめいするのはむずかしい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Hmm, how do I put it? It's hard to explain it to you, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯～該怎麼說呢？要跟巧克力說明這件事還真難。」",
+            "convert": "「嗯～该怎么说呢？要跟巧克力说明这件事还真难。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くすくす。まぁその内に収まるでしょう」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hehehe. Well, you'll control it in due time.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘻嘻嘻。不過，她們倆應該過不久就不會再尿床了吧。」",
+            "convert": "「嘻嘻嘻。不过，她们俩应该过不久就不会再尿床了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ま、そうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, probably.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，說得也是。」",
+            "convert": "「嗯，说得也是。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨もなかなかオネショ止まらなかったしな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You weren't able to stop wetting the bed either, you know, Shigure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「倒是時雨也花了很久才改掉尿床的毛病呢。」",
+            "convert": "「倒是时雨也花了很久才改掉尿床的毛病呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ち、違いますよ！　別にオネショではなくてですね！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Y-You've got it wrong! I wasn't wetting the bed?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不、不是的！那才不是尿床！」",
+            "convert": "「不、不是的！那才不是尿床！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、あれは嬉ション！　私も嬉ションですから！　兄様で！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Th-That was wetting from excitement! I was wetting from excitement! From you, Nii-sama!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那、那是因為太開心！太開心才會失禁！都是有哥哥在身邊的緣故！」",
+            "convert": "「那、那是因为太开心！太开心才会失禁！都是有哥哥在身边的缘故！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコと同じもどうかと思うけどなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm not sure if you're any better than the cats at that point.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「跟貓娘犯一樣的毛病不太好吧？」",
+            "convert": "「跟猫娘犯一样的毛病不太好吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃ、そろそろ朝メシにするぞー」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Welp, it's about time for breakfast.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好了，我們差不多也該吃早飯啦。」",
+            "convert": "「好了，我们差不多也该吃早饭啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「みんな手を洗って居間で待っててくれなー」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Everyone, wash the dishes and meet in the living room, please!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所有人把手洗一洗，到客廳去乖乖等著吧。」",
+            "convert": "「所有人把手洗一洗，到客厅去乖乖等着吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様！　なぜ私と目を合わせてくれないのですか！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama, why won't you look me straight in the eyes?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥！為什麼您不願意跟我對上眼神！？」",
+            "convert": "「哥哥！为什么您不愿意跟我对上眼神！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は！　私の愛は！　マリアナ海溝よりも深く愛してるが故にぃぃぃぃーっっっ！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I...! My love...! My love for you is deeper than the Mariana Trench, darn iiiit!!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那都是因為！我的愛！比馬里亞納海溝還要深的關係啊啊啊啊啊────！！」",
+            "convert": "「那都是因为！我的爱！比马里亚纳海沟还要深的关系啊啊啊啊啊────！！」"
+        }
+    }
+]

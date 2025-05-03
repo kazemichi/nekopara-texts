@@ -1,0 +1,4511 @@
+[
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「唉～結果那兩隻笨小貓果然是為了微不足道的理由搞得滿城風雨。」",
+            "convert": "「唉～结果那两只笨小猫果然是为了微不足道的理由搞得满城风雨。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hah... So that's what those idiots were fighting about?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「はー。やっぱりンなことで揉めてたんかあのアホどもは」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「不過事情圓滿結束，真是太好了呢～」",
+            "convert": "「不过事情圆满结束，真是太好了呢～」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Still, it's nice that they managed to settle things peacefully!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「でもでも、丸く収まって良かったねー」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「也是啦。再讓她們繼續保持那種微妙的距離感下去，我看準沒好事。」",
+            "convert": "「也是啦。再让她们继续保持那种微妙的距离感下去，我看准没好事。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「True. If they start acting all distant, it's kind of a pain for me, too.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「まーな。微妙な距離感出されてたらこっちもめんどくせーし」"
+        }
+    },
+    {
+        "cn": {
+            "content": "隔天。",
+            "convert": "隔天。"
+        },
+        "en": {
+            "content": "The next day."
+        },
+        "jp": {
+            "content": "翌日。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我和紅豆、椰子三個人結束外送，一起走在回店裡的路上。",
+            "convert": "我和红豆、椰子三个人结束外送，一起走在回店里的路上。"
+        },
+        "en": {
+            "content": "Azuki, Coconut, and I are on our way back from deliveries."
+        },
+        "jp": {
+            "content": "アズキとココナツと３人での配達帰り。"
+        }
+    },
+    {
+        "cn": {
+            "content": "桂跟楓後來似乎把整件事的始末都告訴大家，並且跟大家道了歉。",
+            "convert": "桂跟枫后来似乎把整件事的始末都告诉大家，并且跟大家道了歉。"
+        },
+        "en": {
+            "content": "Cinnamon and Maple have explained the circumstances and apologized."
+        },
+        "jp": {
+            "content": "シナモンとメイプルが事の顛末をみんなに話して謝ったとのことで。"
+        }
+    },
+    {
+        "cn": {
+            "content": "原本對兩人擔心不已的紅豆，看起來也已經安下心了。",
+            "convert": "原本对两人担心不已的红豆，看起来也已经安下心了。"
+        },
+        "en": {
+            "content": "So Azuki finally has one less worry on her mind."
+        },
+        "jp": {
+            "content": "心配してたアズキも一安心していた。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「不過啊不過啊～？」",
+            "convert": "「不过啊不过啊～？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「But, but~」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「でもでも～？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「不管遇到什麼問題都能輕鬆解決的哥哥，真的好帥氣喔♪」",
+            "convert": "「不管遇到什么问题都能轻松解决的哥哥，真的好帅气喔♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan is really cool when he's handling a problem! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「どんな問題でも片付けちゃうお兄ちゃんは、やっぱりカッコいいなぁ♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不過是幫她們製造了一個可以坦白的機會而已，沒什麼大不了的啦。」",
+            "convert": "「我不过是帮她们制造了一个可以坦白的机会而已，没什么大不了的啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「All I did was create a chance for them to talk, is all.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「俺はちょっと話すきっかけ作っただけだって」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「哎～誰叫嘉祥就是這麼愛管閒事嘛，嘿嘿。」",
+            "convert": "「哎～谁叫嘉祥就是这么爱管闲事嘛，嘿嘿。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well, it's just like Kashou to be such a busybody, hehehe!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「まー、余計なおせっかい焼いてこそ嘉祥だしな。けけけ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「姊姊不也愛這樣的哥哥愛得要命嗎～♪」",
+            "convert": "「姐姐不也爱这样的哥哥爱得要命吗～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「That's what onee-chan likes about onii-chan~! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「おねーちゃんも、お兄ちゃんのそんなとこが好きなくせに～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「啊～囉嗦囉嗦，我什麼都聽不到～」",
+            "convert": "「啊～啰嗦啰嗦，我什么都听不到～」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ahh, shaddap, shaddap! I can't hear youuuu!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「あーうるせーうるせー、聞こえねー聞こえねー」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆雙手摀住耳朵，不斷搖頭。",
+            "convert": "红豆双手摀住耳朵，不断摇头。"
+        },
+        "en": {
+            "content": "Azuki shakes her head wildly as she covers her ears with her hands."
+        },
+        "jp": {
+            "content": "アズキが両手で耳を伏せながら首を振る。"
+        }
+    },
+    {
+        "cn": {
+            "content": "不過那兩人也真規矩，居然還特地把事情跟大家報告。",
+            "convert": "不过那两人也真规矩，居然还特地把事情跟大家报告。"
+        },
+        "en": {
+            "content": "Those two are awfully earnest, having gone out of their way to apologize to everyone."
+        },
+        "jp": {
+            "content": "わざわざみんなに報告して謝る辺り、あの２匹も真面目だな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "看到水無月家的姊妹感情這麼好，我也很高興。",
+            "convert": "看到水无月家的姐妹感情这么好，我也很高兴。"
+        },
+        "en": {
+            "content": "But it's wonderful to see everyone in the family so tight-knit."
+        },
+        "jp": {
+            "content": "家族姉妹が仲が良いのは嬉しいことだ。"
+        }
+    },
+    {
+        "cn": {
+            "content": "走在回家路上的我這麼想著。",
+            "convert": "走在回家路上的我这么想着。"
+        },
+        "en": {
+            "content": "Or so I think to myself, as we walk back home."
+        },
+        "jp": {
+            "content": "そんなことを思いながら帰路を歩く。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「哥哥之前不是說過，想買台外送用的車嗎？」",
+            "convert": "「哥哥之前不是说过，想买台外送用的车吗？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I remember onii-chan saying something about buying a car for making deliveries.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「前にお兄ちゃんが、配達用の車買おうかって言ってたけどさ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「不過老實說，人家還是喜歡像這樣一邊散步一邊外送。」",
+            "convert": "「不过老实说，人家还是喜欢像这样一边散步一边外送。」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I like taking walks like this as we make them, though.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ぼくはこうやってお散歩しながらの配達好きだなぁ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「因為跟大家邊走邊聊天很開心呀♪」",
+            "convert": "「因为跟大家边走边聊天很开心呀♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Talking with everyone on the walk back is so fun! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「みんなでおしゃべりしながら歩くの楽しいし♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我們可不是出來玩的啊，妳這呆小貓。」",
+            "convert": "「我们可不是出来玩的啊，你这呆小猫。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「You dummy, we're not playing around here.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「あほ、遊んでんじゃねーんだぞ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別這麼說嘛。」",
+            "convert": "「别这么说嘛。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Now, now...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「まぁまぁ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「店裡不忙的時候偶爾出來散散步也不錯啊。」",
+            "convert": "「店里不忙的时候偶尔出来散散步也不错啊。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「This isn't so bad either, as long as we're not busy.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「忙しくない時はこういうのもいいんじゃないか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對我來說，也是可以跟大家聊聊的好機會。」",
+            "convert": "「对我来说，也是可以跟大家聊聊的好机会。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「This is a good chance for me to talk with you, too.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「俺も、こうやってゆっくり話出来る機会になるし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「店裡事務有顧好的話是沒關係啦。」",
+            "convert": "「店里事务有顾好的话是没关系啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ahh, it's okay as long as the shop's running spic and span.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「まぁ別に店の手さえ回ってりゃーな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「是說大家最近也差不多習慣了，開始有餘力互相照應──」",
+            "convert": "「是说大家最近也差不多习惯了，开始有余力互相照应──」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Everyone's gotten the hang of their work lately, and they're helping each other out—」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「最近はみんな慣れて、フォローもし合えるようになったし――」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊，冰淇淋店！那邊有冰淇淋店耶！」",
+            "convert": "「啊，冰淇淋店！那边有冰淇淋店耶！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Oh, look, ice cream! They're selling ice cream over there!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「あ、アイス屋さんだ！　あそこにアイス屋さんが出てるよ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「天哪，看起來好像很好吃……！」",
+            "convert": "「天哪，看起来好像很好吃……！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Oh no, it looks really good...!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「やだ、すっごく美味しそう……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「不行，實在太誘人了啦，哥哥！」",
+            "convert": "「不行，实在太诱人了啦，哥哥！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Geez, oh geez, onii-chan!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「やばい、あれはやばいよお兄ちゃん！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「聽人說話啊妳。」",
+            "convert": "「听人说话啊你。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, listen when people are talking!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「人の話聞けよお前」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「很像椰子會有的反應就是了。」",
+            "convert": "「很像椰子会有的反应就是了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's just like Coconut, though.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ココナツらしいけどな」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我和紅豆對望了一眼，然後笑出聲來。",
+            "convert": "我和红豆对望了一眼，然后笑出声来。"
+        },
+        "en": {
+            "content": "Azuki and I exchange glances and smile."
+        },
+        "jp": {
+            "content": "アズキと顔を見合わせて笑い声を漏らす。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那我們就去吃個冰，順道休息一下吧。」",
+            "convert": "「那我们就去吃个冰，顺道休息一下吧。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Why don't we get some? Consider it a break.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあ休憩がてら、ちょっと寄ってくか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「只有一下子的話，應該不會影響到生意。」",
+            "convert": "「只有一下子的话，应该不会影响到生意。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm sure the shop'll be fine. We won't be long.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「少しくらいなら店も大丈夫だろうし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「偶爾也該陪陪紅豆跟椰子嘛。妳們說是吧？」",
+            "convert": "「偶尔也该陪陪红豆跟椰子嘛。你们说是吧？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Spending time with the two of you isn't so bad either, right?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「たまにはアズキとココナツとこういうのも、な？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「太棒了♪不愧是最最最溫柔的哥哥～♪」",
+            "convert": "「太棒了♪不愧是最最最温柔的哥哥～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yay! ♪ Thanks, onii-chan. You're so nice! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「やったぁ♪　さすがお兄ちゃん、やっさしー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「好不好，姊姊？連哥哥都這麼說了耶？好不好嘛？」",
+            "convert": "「好不好，姐姐？连哥哥都这么说了耶？好不好嘛？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「O-Onee-chan? Onii-chan said we could, so... can we?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ね、お姉ちゃん？　お兄ちゃんもこう言ってることだし？　ね？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「受不了耶，嘉祥實在有夠寵貓娘的。」",
+            "convert": "「受不了耶，嘉祥实在有够宠猫娘的。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ugh, you really are a softy, aren't ya, Kashou?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ったく、何だかんだ言って嘉祥は甘いんだからよー」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「不過既然店長老大都講話了，那我也沒理由反對。」",
+            "convert": "「不过既然店长老大都讲话了，那我也没理由反对。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「But if that's what the owner says, then there's nothing left for me to say.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「でもまー店長様がそう言うならアタシが言うこた何もねーや」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「今天就轉換一下心情，給嘉祥請客吧。」",
+            "convert": "「今天就转换一下心情，给嘉祥请客吧。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well then, I might as well take you up on it, yeah?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「じゃあそれはそれで切り替えて、ごちそうにあやかるとしよーか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「耶～♪既然決定了就快走吧，Let’s gogo～♪」",
+            "convert": "「耶～♪既然决定了就快走吧，Let’s gogo～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yaay! ♪ Now that that's settled, let's go, go! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「いえー♪　そうと決まればれっつごー、ごー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……椰子最近越來越像巧克力了呢。」",
+            "convert": "「……椰子最近越来越像巧克力了呢。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...'Nuts, that girl... She's becoming more and more like Chocola.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……ナッツのやつ、最近ショコラみたいになって来てんな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳這麼一說，我也有這種感覺。」",
+            "convert": "「你这么一说，我也有这种感觉。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That is true, now that you mention it.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「言われてみれば確かに」"
+        }
+    },
+    {
+        "cn": {
+            "content": "察覺到紅豆想說什麼的我，",
+            "convert": "察觉到红豆想说什么的我，"
+        },
+        "en": {
+            "content": "I can guess what Azuki's hinting at."
+        },
+        "jp": {
+            "content": "アズキの言わんとしてることを察しながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "就這麼跟在嘴裡哼著歌，純真又笨得可愛的椰子身後往冰淇淋店出發。",
+            "convert": "就这么跟在嘴里哼着歌，纯真又笨得可爱的椰子身后往冰淇淋店出发。"
+        },
+        "en": {
+            "content": "I follow the other silly girl as she hums all the while."
+        },
+        "jp": {
+            "content": "鼻歌交じりの素直でアホ可愛い背中に続いた。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯～！好好吃喔～！」",
+            "convert": "「嗯～！好好吃喔～！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mmmm, so tasty~!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「んー！　おいし～っ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「姊姊，這裡的薄荷巧克力很好吃耶！」",
+            "convert": "「姐姐，这里的薄荷巧克力很好吃耶！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onee-chan, this mint chocolate is so good!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お姉ちゃん、このチョコミントすっごい美味しいよ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「來，妳吃吃看～♪」",
+            "convert": "「来，你吃吃看～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Here, try some, try some~ ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「はい、食べて食べて～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我嚐嚐，啊～嗯……」",
+            "convert": "「我尝尝，啊～嗯……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mlemmlem. Mm...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「どらどら、はむ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「喔喔，還真的不錯耶。」",
+            "convert": "「喔喔，还真的不错耶。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Oh, it is pretty dang good.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「おお、確かにうめぇな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「妳也試試我的草莓起司吧。」",
+            "convert": "「你也试试我的草莓起司吧。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Here. Try out the strawberry cheesecake, then.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「じゃあこっちのストロベリーチーズも食ってみ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯嗯～♪裡面真的有起司蛋糕耶～這個也好好吃喔～♪」",
+            "convert": "「嗯嗯～♪里面真的有起司蛋糕耶～这个也好好吃喔～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mmm~ ♪ This really does taste like cake~ ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「んん～っ♪　ケーキがそのまま入ってるんだ～こっちもおいしー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我知道妳們感情很好，不過嘴邊沾得都是冰啦。」",
+            "convert": "「我知道你们感情很好，不过嘴边沾得都是冰啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's nice to see the two of you getting along, but you've got ice cream on your faces.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「仲が良いのはいいけど、口の周りにアイス付いてるぞ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我拿起買冰淇淋時附的餐巾紙，",
+            "convert": "我拿起买冰淇淋时附的餐巾纸，"
+        },
+        "en": {
+            "content": "I use the napkin handed to me when we bought the ice cream..."
+        },
+        "jp": {
+            "content": "買った時に一緒に渡されたナプキンで。"
+        }
+    },
+    {
+        "cn": {
+            "content": "幫椰子跟紅豆擦起臉來。",
+            "convert": "帮椰子跟红豆擦起脸来。"
+        },
+        "en": {
+            "content": "...to wipe off Coconut's and Azuki's cheeks"
+        },
+        "jp": {
+            "content": "ココナツの頬とアズキの頬を拭いてあげる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "看著她們倆坐在公園長凳上融洽地分享著甜筒上的冰淇淋的模樣，",
+            "convert": "看着她们俩坐在公园长凳上融洽地分享着甜筒上的冰淇淋的模样，"
+        },
+        "en": {
+            "content": "I go back to eating my ice cream while sitting on a park bench."
+        },
+        "jp": {
+            "content": "公園のベンチに座って、コーンに乗ったアイスを食べながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我的嘴角不禁揚了起來。",
+            "convert": "我的嘴角不禁扬了起来。"
+        },
+        "en": {
+            "content": "The two of them keep happily eat their ice cream cones."
+        },
+        "jp": {
+            "content": "２匹の仲睦まじさを微笑ましく眺める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「要不要吃吃看我的香草巧酥？」",
+            "convert": "「要不要吃吃看我的香草巧酥？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Do you wanna try this vanilla cookie flavor, too?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「こっちのバニラクッキーも食べてみるか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯，我要我要～！謝謝哥哥！」",
+            "convert": "「嗯，我要我要～！谢谢哥哥！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yeah! I'd love to! Thanks, onii-chan!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「うん、食べる食べるー！　ありがとーお兄ちゃん！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊、嗯……」",
+            "convert": "「啊、嗯……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahhh, mmm...」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「はむ、んっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯～這個口味也很棒～♪」",
+            "convert": "「嗯～这个口味也很棒～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mmm! This is really good, too! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ん～っ、こっちもおいしー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「加上有哥哥餵人家，簡直加倍美味呢～♪」",
+            "convert": "「加上有哥哥喂人家，简直加倍美味呢～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「And onii-chan fed me, so it tastes twice as delicious! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お兄ちゃんにあーんしてもらったから、２倍おいしー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嘴角又沾到了啦。」",
+            "convert": "「嘴角又沾到了啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I just cleaned off your face...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「だから口に付いてるって」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我又幫一臉開心的椰子擦了擦嘴角。",
+            "convert": "我又帮一脸开心的椰子擦了擦嘴角。"
+        },
+        "en": {
+            "content": "Coconut grins at me as I wipe her face off again."
+        },
+        "jp": {
+            "content": "喜んでくれるココナツの口元をまた拭いてあげる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆妳也嚐嚐吧，來。」",
+            "convert": "「红豆你也尝尝吧，来。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Here you go, Azuki.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあアズキも。ほら」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……咦？」",
+            "convert": "「……咦？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Huh?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……へ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「不、不用了啦……！那個，我又不是小貓了……」",
+            "convert": "「不、不用了啦……！那个，我又不是小猫了……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「N-Nah, I'm good...! I-I ain't some little kitten anymore...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「い、いいよアタシは……！　その、仔ネコじゃあるめーし……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「什麼話，跟是不是小貓又沒有關係。」",
+            "convert": "「什么话，跟是不是小猫又没有关系。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What're you talking about? This has nothing to do with age.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「何言ってんだ、別に仔ネコとか関係ないだろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「但如果紅豆真的不喜歡，也不勉強啦。」",
+            "convert": "「但如果红豆真的不喜欢，也不勉强啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Though if you don't want it, then that's fine.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキが嫌ならいいけど」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「沒有啦，我沒有不喜歡……」",
+            "convert": "「没有啦，我没有不喜欢……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「No, it's not that I don't want it...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「いや、別に嫌とかじゃなくて……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那就嚐一口吧。來，啊～」",
+            "convert": "「那就尝一口吧。来，啊～」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, then here. Say 'ahh'.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあ、ほら。あーん」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我把甜筒拿向紅豆嘴邊。",
+            "convert": "我把甜筒拿向红豆嘴边。"
+        },
+        "en": {
+            "content": "I bring the ice cream closer to Azuki's mouth."
+        },
+        "jp": {
+            "content": "アイスをアズキの口元に持っていく。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「喔、喔……你都這麼說了，那我就……」",
+            "convert": "「喔、喔……你都这么说了，那我就……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「F-Fine, if you insist, then...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「お、おう……そこまで言うなら、じゃあ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯，啊嗯……」",
+            "convert": "「嗯，啊嗯……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Nn, ahhh...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ん、はむ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯……嗯……」",
+            "convert": "「嗯……嗯……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mmm, nn...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「んぐ……ん……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……那個……還、還不賴……」",
+            "convert": "「……那个……还、还不赖……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Well, err, it's good...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……その……う、うめーな……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「雖然不知道……那個，有沒有加倍美味就是了……」",
+            "convert": "「虽然不知道……那个，有没有加倍美味就是了……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「It's a lot better than I thought... maybe...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「倍、美味いかは……その、分かんねーけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈，看姊姊害羞得跟什麼一樣～♪真可愛～♪」",
+            "convert": "「啊哈，看姐姐害羞得跟什么一样～♪真可爱～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahaha! Onee-chan, you're blushing! ♪ That's sooooo cuuuute! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「あは、お姉ちゃんすっごい照れてるー♪　かわいーなーもー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「少、少囉嗦……！我還不習慣這種事啦……！」",
+            "convert": "「少、少啰嗦……！我还不习惯这种事啦……！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「S-Shaddap...! I'm just not used to it, is all!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「う、うるせーな……！　慣れてねーんだよ、こーいうのは……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「不過很讓人開心對吧？」",
+            "convert": "「不过很让人开心对吧？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「You're happy, though, aren't you?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「でも嬉しいでしょ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「這……這還用說……」",
+            "convert": "「这……这还用说……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well, yeah... Of course I am...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「そりゃあ……うれしーに決まってんだろ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈哈，姊姊就是這麼不坦率～♪」",
+            "convert": "「啊哈哈，姐姐就是这么不坦率～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahaha! Onee-chan, meou aren't being honest! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「あはは、お姉ちゃんは素直じゃないにゃー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「那、那個……這是回禮，啊～……」",
+            "convert": "「那、那个……这是回礼，啊～……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「W-Well, here... Say 'ahh'...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「じゃあ、その……こっちも、あーん……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆怯生生地遞出自己的甜筒。",
+            "convert": "红豆怯生生地递出自己的甜筒。"
+        },
+        "en": {
+            "content": "Azuki offers her ice cream to me hesitantly."
+        },
+        "jp": {
+            "content": "おずおずとアズキが自分のアイスを差し出してくる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我也沒有客氣，就這麼在紅豆的冰淇淋上咬了一口。",
+            "convert": "我也没有客气，就这么在红豆的冰淇淋上咬了一口。"
+        },
+        "en": {
+            "content": "I take a bite of her ice cream without any hesitation."
+        },
+        "jp": {
+            "content": "遠慮することなく俺もアズキのアイスを口唇でかじる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯，很好吃。」",
+            "convert": "「……嗯，很好吃。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Mm, that's pretty good.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……ん、美味いな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝了，紅豆。」",
+            "convert": "「谢了，红豆。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thanks, Azuki.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「サンキュ、アズキ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我拍拍紅豆的頭。",
+            "convert": "我拍拍红豆的头。"
+        },
+        "en": {
+            "content": "I pat Azuki on the head."
+        },
+        "jp": {
+            "content": "ぽんぽんとアズキの頭を撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……嘿嘿。」",
+            "convert": "「……嘿嘿。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Hehe.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……へへ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「感覺還真的不錯呢。總覺得有點可愛……」",
+            "convert": "「感觉还真的不错呢。总觉得有点可爱……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「This ain't bad at all. It's kinda cute...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「確かに悪くねーな、何か可愛いっつーか……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「要不要再來一點啊？嗯？」",
+            "convert": "「要不要再来一点啊？嗯？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Want some more? Hm?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「もっと食べるか？　ん？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆又再次遞出自己的甜筒。",
+            "convert": "红豆又再次递出自己的甜筒。"
+        },
+        "en": {
+            "content": "Azuki then offers her ice cream to me once more."
+        },
+        "jp": {
+            "content": "続けてアズキがアイスを差し出してくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那就再一口。」",
+            "convert": "「那就再一口。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well then, I'll have another bite.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「じゃあ、もうひとくちもらおうかな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「人家也要！人家也要餵哥哥吃！」",
+            "convert": "「人家也要！人家也要喂哥哥吃！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Me, too! I want to feed onii-chan, too!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ぼくも！　ぼくもお兄ちゃんにあーんってする！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「來，哥哥♪啊～♪」",
+            "convert": "「来，哥哥♪啊～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Here, onii-chan! ♪ Say 'ahhh'! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「はい、お兄ちゃん♪　あーん♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「等一下，椰子妳不要推──」",
+            "convert": "「等一下，椰子你不要推──」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, 'Nuts! Don't push—!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ちょナッツ！　おま、押すんじゃ――」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯喔！？」",
+            "convert": "「嗯喔！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mmgghhhh?!」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「んごっっっ！？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人遞出來的甜筒就這麼直接命中我的臉。",
+            "convert": "两人递出来的甜筒就这么直接命中我的脸。"
+        },
+        "en": {
+            "content": "Both of the ice creams that the two are offering make full contact with my face."
+        },
+        "jp": {
+            "content": "差し出されたアイスがふたつ、顔面に刺さった。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊啊啊啊！對不起，對不起喔哥哥！！」",
+            "convert": "「啊啊啊啊！对不起，对不起喔哥哥！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahhh! Sorry! I'm so sorry, onii-chan!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ああぁぁっ！　ごめんね！？　ごめんねお兄ちゃん！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「沒、沒事吧，嘉祥！？你整張臉都被冰染白了！！」",
+            "convert": "「没、没事吧，嘉祥！？你整张脸都被冰染白了！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey! You okay, Kashou?! Your face is pale white!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ちょ、大丈夫かよ、嘉祥！？　顔が真っ白になってんぞ！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我沒事，妳可以不用那麼大聲……」",
+            "convert": "「我没事，你可以不用那么大声……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ahh, relax, don't worry...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ああいや、そんな騒がなくても……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「對不起，對不起！人家馬上擦乾淨喔！？」",
+            "convert": "「对不起，对不起！人家马上擦干净喔！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Sorry, sorry! I'll wipe it off you right now!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ごめんねごめんね！　すぐに拭くからね！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊啊啊啊可是沒有東西可以擦啊啊啊啊啊啊啊，啊對了！！」",
+            "convert": "「啊啊啊啊可是没有东西可以擦啊啊啊啊啊啊啊，啊对了！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Aghhh, but I don't have anything to wipe wiiiiith. Ahhhhhh— Oh! I know!!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ああぁぁでも拭くものがないぃいぃぃあああああぁあっと、そうだ！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「哥哥，你先不要動喔？」",
+            "convert": "「哥哥，你先不要动喔？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan, stay still.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お兄ちゃん、ちょっとじっとしててね？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「呸囉呸囉呸囉呸囉呸囉呸囉呸囉呸囉呸囉呸囉呸囉呸囉」",
+            "convert": "「呸咯呸咯呸咯呸咯呸咯呸咯呸咯呸咯呸咯呸咯呸咯呸咯」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mlemmlemmlemmlemmlemmlemmlem.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろぺろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯噗！？」",
+            "convert": "「嗯噗！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mmphhhh?!」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「んぷぅっ！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「等等，椰子！？這樣很不好看啦！！」",
+            "convert": "「等等，椰子！？这样很不好看啦！！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey! 'Nuts! You can't just do that!!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ちょ、ナッツ！？　さすがにそれはダメだろ！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「咦？可是就沒有紙可以擦啊，有什麼辦法？」",
+            "convert": "「咦？可是就没有纸可以擦啊，有什么办法？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Eh? But there's nothing else to wipe with. What else can I do?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「え、だって拭けるものがないからしょうがないでしょ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「姊姊妳也快點！不然要沾到哥哥的衣服了！」",
+            "convert": "「姐姐你也快点！不然要沾到哥哥的衣服了！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onee-chan, hurry up! It'll get all over onii-chan's clothes!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お姉ちゃんも早く！　お兄ちゃんの洋服に垂れちゃう！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「咦、咦！？我也要！？兩個人一起！？」",
+            "convert": "「咦、咦！？我也要！？两个人一起！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「E-Ehh?! I have to do it, too?! Is this doubles play?!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「えっ、えぇっ！？　アタシもやんのか！？　ダブルで！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「情況緊急，沒有時間讓姊姊害羞了啦！快點，我們一起舔！！」",
+            "convert": "「情况紧急，没有时间让姐姐害羞了啦！快点，我们一起舔！！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「This is an emergency! No time to get all embarrassed! Come on, let's do it!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「緊急事態なんだから照れてる場合じゃないよ！　ほら一緒に！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「什麼情況緊急，在公園裡做這種事實在有點──」",
+            "convert": "「什么情况紧急，在公园里做这种事实在有点──」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「An 'emergency'? No, this is a public park...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いや緊急事態っても、さすがに公園でこれは――」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「咧囉咧囉咧囉咧囉咧囉咧囉咧囉咧囉咧囉咧囉咧囉咧囉」",
+            "convert": "「咧咯咧咯咧咯咧咯咧咯咧咯咧咯咧咯咧咯咧咯咧咯咧咯」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mlemmlemmlemmlemmlemmlemmlem!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「れろれろれろれろれろれろれろれろれろれろれろれろ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯呣呣嗯唔唔唔嗯嗯嗯呣呣唔唔唔！！！」",
+            "convert": "「嗯呣呣嗯唔唔唔嗯嗯嗯呣呣唔唔唔！！！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Mmmhhhhgghhh!!!」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「んむむんぐぐぐんんんんむむぅうぅっ！！！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅、紅豆……！快點阻止椰子──」",
+            "convert": "「红、红豆……！快点阻止椰子──」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hey, Azuki...! Stop Coconu—」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ちょ、アズキ……！　ココナツを止め――」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「咧嚕咧囉咧嚕啾嚕啾嚕咧嚕咧囉咧嚕啾嚕嚕嚕嚕嚕嚕」",
+            "convert": "「咧噜咧咯咧噜啾噜啾噜咧噜咧咯咧噜啾噜噜噜噜噜噜」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mlemmlemmlemahmmwahmlemmlemmlemahhhhm!!」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「れるれろれるちゅるじゅるれるれろれるぢゅるるるるるる」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「椰子！等一下！妳冷靜點！喂，椰子！」",
+            "convert": "「椰子！等一下！你冷静点！喂，椰子！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「'Nuts! Stop it! Calm down! Hey, 'Nuts!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ナッツ！　待て！　落ち着け！　おいナッツ！！」"
+        }
+    },
+    {
+        "cn": {
+            "content": "椰子用怪力硬是把我的臉鎖得動彈不得，",
+            "convert": "椰子用怪力硬是把我的脸锁得动弹不得，"
+        },
+        "en": {
+            "content": "My face is locked down thanks to Coconut's power."
+        },
+        "jp": {
+            "content": "ココナツのパワーで顔をロックされたまま。"
+        }
+    },
+    {
+        "cn": {
+            "content": "直到我臉上的冰被舔乾淨為止，她的舌頭都沒有停過。",
+            "convert": "直到我脸上的冰被舔干净为止，她的舌头都没有停过。"
+        },
+        "en": {
+            "content": "I'm licked over and over until the ice cream is all gone."
+        },
+        "jp": {
+            "content": "アイスがなくなるまで顔を舐め回され続けた。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈哈～對不起喔，哥哥……？」",
+            "convert": "「啊哈哈～对不起喔，哥哥……？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ahaha~ Sorry, onii-chan...」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「あはは～、ごめんねお兄ちゃん……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「因為事情發生得太突然，所以人家才會一時昏頭……」",
+            "convert": "「因为事情发生得太突然，所以人家才会一时昏头……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I got so caught up in the heat of the moment that I totally lost it.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「咄嗟のことで、ついつい取り乱しちゃって……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「一時之間能做出那種判斷還比較嚇人好不好。」",
+            "convert": "「一时之间能做出那种判断还比较吓人好不好。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I'm surprised you could even make that kind of judgment call, given the situation.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「咄嗟にあの判断が出来るオメーに驚きだわ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，嗯。我是很高興妳願意這麼擔心我啦。」",
+            "convert": "「啊，嗯。我是很高兴你愿意这么担心我啦。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, I mean, I'm really grateful for the concern.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「いやまぁ、心配してくれたのは嬉しいけどな？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "結果，整件事還是在我用公園的自來水把臉洗乾淨後才結束。",
+            "convert": "结果，整件事还是在我用公园的自来水把脸洗干净后才结束。"
+        },
+        "en": {
+            "content": "After that, I washed my face in the park and all was well."
+        },
+        "jp": {
+            "content": "あの後、公園の水道で顔を洗って事無きを得た。"
+        }
+    },
+    {
+        "cn": {
+            "content": "是說也不過就是臉沾到冰淇淋而已，現在想想還真沒什麼大不了的。",
+            "convert": "是说也不过就是脸沾到冰淇淋而已，现在想想还真没什么大不了的。"
+        },
+        "en": {
+            "content": "Not that anything major actually happened to begin with."
+        },
+        "jp": {
+            "content": "まぁそもそも、そんな大げさなことでも何でもなかったわけだけど。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「不過呀，一不小心就趁勢親了哥哥好多下呢～♪」",
+            "convert": "「不过呀，一不小心就趁势亲了哥哥好多下呢～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I sure ended up kissing you a lot in the heat of the moment, onii-chan! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「でもどさくさ紛れに、お兄ちゃんにいっぱいちゅーしちゃったなー♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「真可惜姊姊沒有跟著一起舔～♪」",
+            "convert": "「真可惜姐姐没有跟着一起舔～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onee-chan, you should've joined me in licking him~! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お姉ちゃんも一緒にぺろぺろしちゃえば良かったのに～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「妳也真厲害，可以把那個當作在親人。」",
+            "convert": "「你也真厉害，可以把那个当作在亲人。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I can't believe you consider that a kiss.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「アレをちゅーだと言えるオメーがすげーよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「蠢話還是少說點，快點回去工作了，工作。」",
+            "convert": "「蠢话还是少说点，快点回去工作了，工作。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Enough stupid talk. We need to get back and get to work!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「アホなこと言ってねーで、とっとと戻って仕事すんぞ仕事」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「……真是的～姊姊就是一點也不坦率。」",
+            "convert": "「……真是的～姐姐就是一点也不坦率。」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「...Oh geez, you're just not honest with yourself at all.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「……もー、お姉ちゃんも素直じゃないんだから」"
+        }
+    },
+    {
+        "cn": {
+            "content": "看著關上的門，椰子嘆了口氣。",
+            "convert": "看着关上的门，椰子叹了口气。"
+        },
+        "en": {
+            "content": "Coconut sighs at the closed door in front of her."
+        },
+        "jp": {
+            "content": "閉まったドアに向かってココナツが溜息。"
+        }
+    },
+    {
+        "cn": {
+            "content": "接著，她又回頭走過來，在我耳邊悄聲說道。",
+            "convert": "接着，她又回头走过来，在我耳边悄声说道。"
+        },
+        "en": {
+            "content": "She then turns around to face me and whispers in my ear."
+        },
+        "jp": {
+            "content": "それから俺に振り返って、耳元に顔を寄せてくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「姊姊她一直都對大家有所顧慮，才不太會跟哥哥撒嬌……」",
+            "convert": "「姐姐她一直都对大家有所顾虑，才不太会跟哥哥撒娇……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onee-chan doesn't want you to dote on her because she's holding herself back in front of everyone.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お姉ちゃん、みんなに遠慮してお兄ちゃんに甘えるの下手だから……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「所以就麻煩哥哥多關照一下姊姊囉？」",
+            "convert": "「所以就麻烦哥哥多关照一下姐姐咯？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Onii-chan, could you please give onee-chan a bit more attention?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お兄ちゃんもちょっとはお姉ちゃんのこと、気にかけてあげてね？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「還有，謝謝你請我們吃冰淇淋。」",
+            "convert": "「还有，谢谢你请我们吃冰淇淋。」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Also, thanks for buying me the ice cream.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「それと、アイス買ってくれてありがと」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「啾♪」",
+            "convert": "「啾♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mwah ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ちゅ♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「耶嘿嘿～♪這次可是真正的親親囉？」",
+            "convert": "「耶嘿嘿～♪这次可是真正的亲亲咯？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ehehe~! ♪ Now how was that for a proper kiss?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「えへへ～♪　これならちゃんとしたちゅーだよね？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「那麼，後半時間人家也會好好加油～♪」",
+            "convert": "「那么，后半时间人家也会好好加油～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「All right, I'm gonna do my best for part two! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「じゃ、そういうことで後半も頑張りまーす♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……她也真可愛。」",
+            "convert": "「……她也真可爱。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...I swear. You're just so cute.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……可愛いな、ほんとに」"
+        }
+    },
+    {
+        "cn": {
+            "content": "目送滿臉通紅的椰子走進店裡後，",
+            "convert": "目送满脸通红的椰子走进店里后，"
+        },
+        "en": {
+            "content": "I watch as she heads back into the store with a blush on her face."
+        },
+        "jp": {
+            "content": "頬を赤くして店内に消えていく背中を見ながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我摸摸還留有嘴唇感觸的臉頰，然後跟在她後面推開了店門。",
+            "convert": "我摸摸还留有嘴唇感触的脸颊，然后跟在她后面推开了店门。"
+        },
+        "en": {
+            "content": "I touch my cheek, where I can still feel the sensation of her kiss, and follow her inside."
+        },
+        "jp": {
+            "content": "キスの感触の残る頬に触れて、俺も店内へと戻っていった。"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「聽人家說！聽人家說喔主人！」",
+            "convert": "「听人家说！听人家说喔主人！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master, listen! Listen to this!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「聞いて下さい！　聞いて下さいご主人さまー！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「時雨她、時雨她說要帶我們去奢侈一下！」",
+            "convert": "「时雨她、时雨她说要带我们去奢侈一下！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Shigure... Shigure is going to indulge us!!」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「時雨が、時雨が贅沢させてくれるって」"
+        }
+    },
+    {
+        "cn": {
+            "content": "營業時間結束後，",
+            "convert": "营业时间结束后，"
+        },
+        "en": {
+            "content": "After closing up for the night."
+        },
+        "jp": {
+            "content": "営業時間終了後。"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩隻貓娘馬上就纏到正在洗碗盤的我身旁來。",
+            "convert": "两只猫娘马上就缠到正在洗碗盘的我身旁来。"
+        },
+        "en": {
+            "content": "As I'm doing the dishes, the pair suddenly approach me."
+        },
+        "jp": {
+            "content": "洗い物をしている俺に２匹がまとわりついてくる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼了怎麼了？發生什麼事？」",
+            "convert": "「怎么了怎么了？发生什么事？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What is it? What's up?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「何だいったい。どうした？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊，主、主人不要誤會喔？」",
+            "convert": "「啊，主、主人不要误会喔？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ah! Err, it's nothing, okay?」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「あっ、べ、別にですよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「我們可不是對主人買的洗髮精有什麼意見喔！」",
+            "convert": "「我们可不是对主人买的洗发水有什么意见喔！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's not like we're not satisfied with the shampoo that you buy for us, Master.」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ご主人さまが買ってくれてるシャンプーに不満があるとかじゃないんですよ！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「只是覺得洗完頭髮變得有點粗糙，少了點閃亮亮的感覺……！」",
+            "convert": "「只是觉得洗完头发变得有点粗糙，少了点闪亮亮的感觉……！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's just that it feels a little starchy, or like, doesn't give us that squeaky clean feeling...!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「ちょっとごわごわするだけっていうか、キラッて感じが弱いっていうか……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「沐浴乳也有點不夠保濕。」",
+            "convert": "「沐浴乳也有点不够保湿。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「The body soap doesn't feel quite right, either.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「ボディーソープもあんまりしっとりしない」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「不過這點倒是可以靠年輕的肌膚來彌補。水嫩嫩。」",
+            "convert": "「不过这点倒是可以靠年轻的肌肤来弥补。水嫩嫩。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I think we can assume that's because of how young we are!」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「でもそこは若さでカバーかなって思ってるし。ぴちぴち」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……我怎麼一點也聽不懂妳們在說什麼？」",
+            "convert": "「……我怎么一点也听不懂你们在说什么？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Uhh, I have absolutely zero idea what you two are talking about.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……いや、言ってることが全然分かんないんだけど」"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人不知道在打圓場還是在抱怨的說詞，讓我完全搞不清楚狀況。",
+            "convert": "两人不知道在打圆场还是在抱怨的说词，让我完全搞不清楚状况。"
+        },
+        "en": {
+            "content": "I tilt my head, unable to grasp if they're complaining or not."
+        },
+        "jp": {
+            "content": "フォローだか文句だか分からない２匹に首を傾げる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「對不起，哥哥。」",
+            "convert": "「对不起，哥哥。」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Please excuse me, nii-sama.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「すみません、兄様」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「我只是一時興起，想送些什麼禮物給巧克力跟香草，」",
+            "convert": "「我只是一时兴起，想送些什么礼物给巧克力跟香草，」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I was just thinking of buying Chocola and Vanilla a present.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「たまにはショコラとバニラにもプレゼントを買ってあげようかなと思いまして」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「可是不知不覺間事情就演變成這樣了。」",
+            "convert": "「可是不知不觉间事情就演变成这样了。」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Somehow, one thing led to another...」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「そしたらいつの間にかそのような流れに」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……原來如此，是這麼回事啊。」",
+            "convert": "「……原来如此，是这么回事啊。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...I see, so that's what happened.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……なるほど。そういう流れか」"
+        }
+    },
+    {
+        "cn": {
+            "content": "所以她們才會跟時雨要求洗髮精跟沐浴乳。",
+            "convert": "所以她们才会跟时雨要求洗发水跟沐浴乳。"
+        },
+        "en": {
+            "content": "It seems they want some new shampoo and body soap."
+        },
+        "jp": {
+            "content": "それでシャンプーとボディーソープが欲しいと。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……誰叫老家用的牌子貴得要命呢。",
+            "convert": "……谁叫老家用的牌子贵得要命呢。"
+        },
+        "en": {
+            "content": "...The stuff we had at my old place did seem to be reaaaally expensive stuff."
+        },
+        "jp": {
+            "content": "……実家にあったやつ、めちゃくちゃ高そうだったもんなぁ。"
+        }
+    },
+    {
+        "cn": {
+            "content": "雖然我這個男人只要有得用就好，不過對巧克力跟香草來說似乎不是那麼一回事。",
+            "convert": "虽然我这个男人只要有得用就好，不过对巧克力跟香草来说似乎不是那么一回事。"
+        },
+        "en": {
+            "content": "I'm a guy and all so I've never given it much attention, but Chocola and Vanilla aren't satisfied, huh?"
+        },
+        "jp": {
+            "content": "俺は男だし特に気にしてなかったけど、ショコラとバニラには不満だったか。"
+        }
+    },
+    {
+        "cn": {
+            "content": "畢竟時雨在貓娘們的保養品上絕對不會挑便宜貨……",
+            "convert": "毕竟时雨在猫娘们的保养品上绝对不会挑便宜货……"
+        },
+        "en": {
+            "content": "I can spare any expense for Shigure's and the catgirls' care..."
+        },
+        "jp": {
+            "content": "時雨もネコたちのケアには金に糸目付けないしな……。"
+        }
+    },
+    {
+        "cn": {
+            "content": "可是話說回來，我們家的洗髮精跟沐浴乳明明都是巧克力跟香草挑的啊。",
+            "convert": "可是话说回来，我们家的洗发水跟沐浴乳明明都是巧克力跟香草挑的啊。"
+        },
+        "en": {
+            "content": "Still, it's Chocola and Vanilla who picked the shampoo and body soap we already have."
+        },
+        "jp": {
+            "content": "でも、ウチにあるシャンプーもボディーソープも選んだのはショコラとバニラだ。"
+        }
+    },
+    {
+        "cn": {
+            "content": "挑的還是市售的一般產品。",
+            "convert": "挑的还是市售的一般产品。"
+        },
+        "en": {
+            "content": "Just the usual stuff off the shelf."
+        },
+        "jp": {
+            "content": "普通の市販品だけど。"
+        }
+    },
+    {
+        "cn": {
+            "content": "不過想歸想，我還是沒有把這件事說出口。",
+            "convert": "不过想归想，我还是没有把这件事说出口。"
+        },
+        "en": {
+            "content": "I keep that thought to myself, however."
+        },
+        "jp": {
+            "content": "そう思いながらも口にせずに飲み込んでおく。"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「因為巧克力和香草平時都跟哥哥住在一起……」",
+            "convert": "「因为巧克力和香草平时都跟哥哥住在一起……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Chocola and Vanilla are often with you, nii-sama.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「ショコラとバニラは基本的に兄様のところにいますから……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「所以不像我們家的貓娘，可以常常帶她們出去買東西。」",
+            "convert": "「所以不像我们家的猫娘，可以常常带她们出去买东西。」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I don't have as many chances to go shopping with them as I do the other catgirls at home.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「家のネコたちよりも、買い物に付き合ってあげる回数が少ないですし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「而且，我偶爾也想陪巧克力和香草一起出去玩嘛。」",
+            "convert": "「而且，我偶尔也想陪巧克力和香草一起出去玩嘛。」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I'd love to accompany them on an outing once in a while, too.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「それに、たまには私もショコラとバニラと一緒にお出かけしたいですしね」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「不定期聽聽她們報告一下各種近況可不行呢。」",
+            "convert": "「不定期听听她们报告一下各种近况可不行呢。」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I need to pick them for information every so often.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「定期的に色々と報告を聞かないといけませんし」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「給我等一下。什麼報告？」",
+            "convert": "「给我等一下。什么报告？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Wait... What 'information' are we talking about here?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ちょっと待て。何の報告だ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「呵呵呵，只是妹妹我微不足道的嗜好而已。」",
+            "convert": "「呵呵呵，只是妹妹我微不足道的嗜好而已。」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hohoho! This is simply a habit of your little sister's!」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「ほほほ。妹の嗜みのようなものです」"
+        }
+    },
+    {
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥您用不著在意的。」",
+            "convert": "「哥哥您用不着在意的。」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama, please don't pay it any heed.」"
+        },
+        "jp": {
+            "name": "時雨",
+            "content": "「兄様はお気になさらずいて下されば大丈夫です」"
+        }
+    },
+    {
+        "cn": {
+            "content": "老妹不懷好意地笑著。",
+            "convert": "老妹不怀好意地笑着。"
+        },
+        "en": {
+            "content": "My little sister laughs boisterously."
+        },
+        "jp": {
+            "content": "ほほほ、と不敵に笑う妹君。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……看來只剩下求神保佑一條路了。",
+            "convert": "……看来只剩下求神保佑一条路了。"
+        },
+        "en": {
+            "content": "...Now that it's come to this, it's all in god's hands."
+        },
+        "jp": {
+            "content": "……こうなったら、後はもう神頼みである。"
+        }
+    },
+    {
+        "cn": {
+            "content": "請保佑巧克力跟香草不要隨便胡說八道。真的，拜託拜託。",
+            "convert": "请保佑巧克力跟香草不要随便胡说八道。真的，拜托拜托。"
+        },
+        "en": {
+            "content": "Chocola, Vanilla, please don't say anything weird. I beg of you."
+        },
+        "jp": {
+            "content": "ショコラとバニラが余計なことを言いませんように。どうか。何卒。"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「所以不好意思，我們回老家去了。香草敬上。」",
+            "convert": "「所以不好意思，我们回老家去了。香草敬上。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「With that, we will go back home for now. Farewell.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「と言うわけで、私たちは実家に帰らせて頂きます。敬具」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「啊！巧克力有聽過！這就叫做離婚對不對！」",
+            "convert": "「啊！巧克力有听过！这就叫做离婚对不对！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Oh, I know that! You say that when you're getting a divorce!」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「あ！　ショコラそれ知ってる！　みくだりはんってやつだ！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "香草",
+            "content": "「別擔心，以後巧克力就由我來養。我會在老家好好養妳。」",
+            "convert": "「别担心，以后巧克力就由我来养。我会在老家好好养你。」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Don't worry, I'll raise Chocola well. At home.」"
+        },
+        "jp": {
+            "name": "バニラ",
+            "content": "「大丈夫。ショコラは私が養ってあげる。実家で」"
+        }
+    },
+    {
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵哈哈～♪香草真可靠～♪給妳摸摸頭～♪」",
+            "convert": "「喵哈哈～♪香草真可靠～♪给你摸摸头～♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Meahaha~! ♪ I knew I could count on you, Vanilla! ♪ Patpat~ ♪」"
+        },
+        "jp": {
+            "name": "ショコラ",
+            "content": "「にゃはは～♪　バニラは頼もしいね♪　なでなで～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那跟吃軟飯有什麼兩樣？」",
+            "convert": "「那跟吃软饭有什么两样？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Aren't you just leeching off her?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「ただの寄生だろそれ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "兩人在我身旁演起文不對題的相聲，",
+            "convert": "两人在我身旁演起文不对题的相声，"
+        },
+        "en": {
+            "content": "I watch the duo's weird, slightly off-sync comedy routine..."
+        },
+        "jp": {
+            "content": "微妙に噛み合ってない漫才を横目で見つつ。"
+        }
+    },
+    {
+        "cn": {
+            "content": "而我只能抱著絕望的心情，目送這兩位掌握著我命運的貓娘離開。",
+            "convert": "而我只能抱着绝望的心情，目送这两位掌握着我命运的猫娘离开。"
+        },
+        "en": {
+            "content": "Then I wave goodbye to them, entrusting them to fate even as I feel an impeding sense of doom."
+        },
+        "jp": {
+            "content": "命運を預ける２匹に絶望感を感じながら、その背中を見送った。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「喔～嘉祥，辛苦啦。」",
+            "convert": "「喔～嘉祥，辛苦啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ohh, Kashou, good work out there.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「おー嘉祥、おつかれー」"
+        }
+    },
+    {
+        "cn": {
+            "content": "等我整理完店面走上樓，",
+            "convert": "等我整理完店面走上楼，"
+        },
+        "en": {
+            "content": "I head up after cleaning the first floor."
+        },
+        "jp": {
+            "content": "下の片付けを終えて上がってくると。"
+        }
+    },
+    {
+        "cn": {
+            "content": "就看見穿著制服賴在沙發上的紅豆舉手跟我打招呼。",
+            "convert": "就看见穿着制服赖在沙发上的红豆举手跟我打招呼。"
+        },
+        "en": {
+            "content": "Azuki, still in her uniform, waves at me from where she's lazing around on the sofa."
+        },
+        "jp": {
+            "content": "制服姿のままソファでダレてるアズキが手を上げる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆妳也辛苦了。」",
+            "convert": "「红豆你也辛苦了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You, too, Azuki.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキも。お疲れさん」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我要泡紅茶，紅豆妳要嗎？」",
+            "convert": "「我要泡红茶，红豆你要吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'm gonna brew some black tea... You want some?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「緑茶でも淹れるけど、アズキも飲むか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「聽來不錯，那就拜託你啦。」",
+            "convert": "「听来不错，那就拜托你啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「That doesn't sound half bad. Sure, get me some.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「悪くねー、じゃあ頼むとするかな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「順便來些什麼點心配茶吧。要甜的喔。」",
+            "convert": "「顺便来些什么点心配茶吧。要甜的喔。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Oh, and feel free to bring out some snacks. The sweet stuff.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「あと適当に菓子出してくれてもいいぞ。甘いやつ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是是，謹遵大小姐命令。」",
+            "convert": "「是是，谨遵大小姐命令。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, yeah. Your wish is my command, milady.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「はいはい、お任せ下さいませお嬢様」"
+        }
+    },
+    {
+        "cn": {
+            "content": "把水倒進水壺後，我從櫃子裡拿出綠茶茶葉，",
+            "convert": "把水倒进水壶后，我从柜子里拿出绿茶茶叶，"
+        },
+        "en": {
+            "content": "I pour some water into the kettle and grab some tea leaves from the shelf."
+        },
+        "jp": {
+            "content": "ポットに水を入れて棚から緑茶の葉を取り出す。"
+        }
+    },
+    {
+        "cn": {
+            "content": "然後再拿出人家送的羊羹，切成方便食用的大小。",
+            "convert": "然后再拿出人家送的羊羹，切成方便食用的大小。"
+        },
+        "en": {
+            "content": "I then take out some red bean jelly we got as a gift, and cut it up into bite size portions."
+        },
+        "jp": {
+            "content": "それから貰い物の羊羹を取り出して、食べやすい大きさにカットする。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好了，我放在桌子上囉。」",
+            "convert": "「好了，我放在桌子上咯。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Here. I'm leaving it on the table.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「はいよ、テーブルに置いとくぞ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「咦～拿到沙發這邊來啦。」",
+            "convert": "「咦～拿到沙发这边来啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ehh... Bring it over here to the sofa.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「えー、ソファまで持ってきてくれよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不行，拿過去的話紅豆一定又會躺著吃。這樣很難看喔。」",
+            "convert": "「不行，拿过去的话红豆一定又会躺着吃。这样很难看喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You're gonna eat while lying down, so no. That's bad manners.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキは寝ながら食べるからダメ。行儀悪い」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「你很麻煩耶，反正又沒有人在看不是嗎？」",
+            "convert": "「你很麻烦耶，反正又没有人在看不是吗？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Oh, c'mon. It ain't like anyone's watching.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「あんだよ、誰も見てるやつなんかいねーじゃねーかー」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆不耐煩地抱怨，",
+            "convert": "红豆不耐烦地抱怨，"
+        },
+        "en": {
+            "content": "Azuki grumbles and complains as she stands up."
+        },
+        "jp": {
+            "content": "ブツブツと文句を言って面倒くさそうにしながらも。"
+        }
+    },
+    {
+        "cn": {
+            "content": "但最後還是乖乖離開沙發來到桌前。",
+            "convert": "但最后还是乖乖离开沙发来到桌前。"
+        },
+        "en": {
+            "content": "Then she makes her way over from the sofa."
+        },
+        "jp": {
+            "content": "素直にのそのそとソファから這い出て来る。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……雖然嘴巴不留情，但她其實還是很聽話的。",
+            "convert": "……虽然嘴巴不留情，但她其实还是很听话的。"
+        },
+        "en": {
+            "content": "...She speaks pretty roughly, but she's still obedient."
+        },
+        "jp": {
+            "content": "……口は悪いだけで素直なんだよな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "在對她的表現感到溫馨的同時，我也不忘拉開椅子請她入座。",
+            "convert": "在对她的表现感到温馨的同时，我也不忘拉开椅子请她入座。"
+        },
+        "en": {
+            "content": "I find how cute that makes her while pulling a chair out for her."
+        },
+        "jp": {
+            "content": "微笑ましく思いつつ椅子を引いてあげる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「那我就不客氣囉。」",
+            "convert": "「那我就不客气咯。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「All right, then. Thanks for the snack.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「じゃあ遠慮なく、いただきまーす」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「啊～（嚼嚼嚼）」",
+            "convert": "「啊～（嚼嚼嚼）」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ahhhm, nomnomnom...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「あーん、もぐむぐもぐむぐ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「喔，這羊羹還不賴嘛。（嚼嚼）」",
+            "convert": "「喔，这羊羹还不赖嘛。（嚼嚼）」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Oh, this jelly is pretty good.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「お、うめぇなこの羊羹むぐむぐ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「雖然是人家送的就是了。」",
+            "convert": "「虽然是人家送的就是了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's actually a gift from someone.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「貰い物だけどな」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我一邊將裝著綠茶的茶杯往嘴邊送，",
+            "convert": "我一边将装着绿茶的茶杯往嘴边送，"
+        },
+        "en": {
+            "content": "I sip some tea as I watch her eat."
+        },
+        "jp": {
+            "content": "緑茶の入った湯呑みを傾けながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "一邊看著紅豆開心吃著羊羹的模樣。",
+            "convert": "一边看着红豆开心吃着羊羹的模样。"
+        },
+        "en": {
+            "content": "Azuki looks so happy while snacking on the red bean jelly."
+        },
+        "jp": {
+            "content": "嬉しそうに羊羹を頬張るアズキを眺める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「其他人呢？」",
+            "convert": "「其他人呢？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Where's everyone else?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「他のみんなは？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「大家都已經收工跟時雨回家啦。」",
+            "convert": "「大家都已经收工跟时雨回家啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Everyone already up and left. They all went home with Shigure.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「もうみんなとっくに上がって、時雨と一緒に帰った」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆呢？」",
+            "convert": "「红豆呢？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「And you?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキは？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我還不太想回去，所以在這邊打發時間。」",
+            "convert": "「我还不太想回去，所以在这边打发时间。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I didn't feel like it, so I'm just chilling here.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「気が乗らねーからここでダラダラしてた」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆一邊嚼著嘴裡的羊羹一邊回答。",
+            "convert": "红豆一边嚼着嘴里的羊羹一边回答。"
+        },
+        "en": {
+            "content": "She answers me with her cheeks stuffed full of jelly."
+        },
+        "jp": {
+            "content": "羊羹で頬を膨らませながら答えてくれる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼，身體不舒服？」",
+            "convert": "「怎么，身体不舒服？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What, you're not feeling well?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「どうした、体調でも悪いのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「不是啦。」",
+            "convert": "「不是啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Nah, nothin' like that.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「いや別にそーゆーんじゃねーよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我真的只是在這打發時間而已。」",
+            "convert": "「我真的只是在这打发时间而已。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I just felt like staying here.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「単にここでダラダラしてただけで」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆把盤裡的羊羹一掃而空，然後喝了口茶。",
+            "convert": "红豆把盘里的羊羹一扫而空，然后喝了口茶。"
+        },
+        "en": {
+            "content": "Azuki grabs her teacup after finishing off the jelly."
+        },
+        "jp": {
+            "content": "羊羹を平らげて、アズキが湯呑みを傾ける。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「真稀奇，紅豆沒事居然會留下來。」",
+            "convert": "「真稀奇，红豆没事居然会留下来。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's not like the Azuki I know.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキがそういうのも珍しいな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「還是說……」",
+            "convert": "「还是说……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Or maybe...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「それとも……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳是因為店裡沒有人在，所以才留下來等我？」",
+            "convert": "「你是因为店里没有人在，所以才留下来等我？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Since no one else was around, you decided to wait for me?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「誰もいないからって、俺のことでも待ってたのか？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "雖然紅豆不太可能這麼做，",
+            "convert": "虽然红豆不太可能这么做，"
+        },
+        "en": {
+            "content": "That's definitely unlike her."
+        },
+        "jp": {
+            "content": "何だかアズキらしくない理由に。"
+        }
+    },
+    {
+        "cn": {
+            "content": "不過我沒有多想，就這麼半開玩笑地說道。",
+            "convert": "不过我没有多想，就这么半开玩笑地说道。"
+        },
+        "en": {
+            "content": "But I just kind of said it without really thinking."
+        },
+        "jp": {
+            "content": "思わずそんな軽口が口を突いて出る。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「…………」",
+            "convert": "「…………」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「......」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「…………」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………嗯？」",
+            "convert": "「…………嗯？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Hm?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「…………ん？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……是的話又怎樣？」",
+            "convert": "「……是的话又怎样？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...So what if I did? Anything wrong with that?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……そうだったら、わりーかよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……咦？真的嗎？」",
+            "convert": "「……咦？真的吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Huh? For real?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……え？　マジで？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「…………真的啦。」",
+            "convert": "「…………真的啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...For real.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「…………マジだよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「別讓我說那麼多次，呆頭鵝。」",
+            "convert": "「别让我说那么多次，呆头鹅。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Don't make me say it again, stupid.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……何度も言わせんな、ばか」"
+        }
+    },
+    {
+        "cn": {
+            "content": "沒想到一猜就中。",
+            "convert": "没想到一猜就中。"
+        },
+        "en": {
+            "content": "A direct hit out of nowhere."
+        },
+        "jp": {
+            "content": "まさかの直撃。"
+        }
+    },
+    {
+        "cn": {
+            "content": "只見紅豆紅著臉別過頭去。",
+            "convert": "只见红豆红着脸别过头去。"
+        },
+        "en": {
+            "content": "Azuki blushes and looks away."
+        },
+        "jp": {
+            "content": "アズキが頬を赤くして、顔を逸らす。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……糟糕。",
+            "convert": "……糟糕。"
+        },
+        "en": {
+            "content": "...Oh crap."
+        },
+        "jp": {
+            "content": "……やばい。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……這招可愛攻勢也未免太出人意料了。",
+            "convert": "……这招可爱攻势也未免太出人意料了。"
+        },
+        "en": {
+            "content": "...This is so out of nowhere, and so dang cute."
+        },
+        "jp": {
+            "content": "……不意打ち過ぎて、可愛い。"
+        }
+    },
+    {
+        "cn": {
+            "content": "椰子是說過她『對大家有所顧慮』沒錯……",
+            "convert": "椰子是说过她『对大家有所顾虑』没错……"
+        },
+        "en": {
+            "content": "Coconut did say she was holding back in front of everyone..."
+        },
+        "jp": {
+            "content": "ココナツが『みんなに遠慮して』って言ってたけど……。"
+        }
+    },
+    {
+        "cn": {
+            "content": "但我還真沒想到她會用這種方式避開大家……",
+            "convert": "但我还真没想到她会用这种方式避开大家……"
+        },
+        "en": {
+            "content": "...but who knew this'd be how she opened up...?"
+        },
+        "jp": {
+            "content": "まさかこんな形で遠慮を避けてくるとは……。"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆惹人憐愛的一面簡直緊緊抓住了我的心。",
+            "convert": "红豆惹人怜爱的一面简直紧紧抓住了我的心。"
+        },
+        "en": {
+            "content": "My chest tightens as I feel Azuki's consideration for me."
+        },
+        "jp": {
+            "content": "アズキの健気さに胸がぎゅっと締め付けられる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "於是我繞到紅豆背後，摸了摸她的頭。",
+            "convert": "于是我绕到红豆背后，摸了摸她的头。"
+        },
+        "en": {
+            "content": "I pet her on the head."
+        },
+        "jp": {
+            "content": "後ろに立ってアズキの頭を撫でる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……紅豆。」",
+            "convert": "「……红豆。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Azuki.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……アズキ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「抱歉是我不夠注意，讓妳寂寞了。」",
+            "convert": "「抱歉是我不够注意，让你寂寞了。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sorry I haven't been paying enough attention to you. I'm sure it felt lonely.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「気が利かなくて、寂しい思いさせてごめんな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳可以再多跟我撒點嬌啊？」",
+            "convert": "「你可以再多跟我撒点娇啊？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Azuki, can I spoil you more?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキも、もっと甘えていいんだぞ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「畢竟，那個，紅豆也是……」",
+            "convert": "「毕竟，那个，红豆也是……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I mean, you're...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキだって、その……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……我的貓娘情人嘛……」",
+            "convert": "「……我的猫娘情人嘛……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...you're my catpanion, too...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……俺の、恋ネコなんだから……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我忍住害羞的心情，",
+            "convert": "我忍住害羞的心情，"
+        },
+        "en": {
+            "content": "I'm feeling an overwhelming amount of embarrassment."
+        },
+        "jp": {
+            "content": "気恥ずかしいのを堪えながら。"
+        }
+    },
+    {
+        "cn": {
+            "content": "輕輕摸著紅豆的頭說道。",
+            "convert": "轻轻摸着红豆的头说道。"
+        },
+        "en": {
+            "content": "I do my best to ignore it while I continue to pet Azuki."
+        },
+        "jp": {
+            "content": "アズキを優しく撫でながら、そう口に出す。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……呿，耍什麼帥嘛你。」",
+            "convert": "「……切，耍什么帅嘛你。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Heh, trying to act all cool.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……けっ、カッコつけやがって」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「反正一定是那個笨椰子又對你說了什麼吧？」",
+            "convert": "「反正一定是那个笨椰子又对你说了什么吧？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I bet 'Nuts put you up to this, didn't she?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「どうせナッツのアホにでもよけーなこと言われたんだろ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗚……」",
+            "convert": "「呜……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ugh...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「う……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這個，說是有說啦……」",
+            "convert": "「这个，说是有说啦……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I mean, I can't say she didn't...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「それは確かに、ないことはないけど……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我跟她們幾個不一樣，已經不再是小貓了。」",
+            "convert": "「我跟她们几个不一样，已经不再是小猫了。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I ain't like those other kittens, all right?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「別にアタシはあいつらと違って仔ネコちゃんじゃねーからな」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「再說貓本來就是隨心所欲的生物，你不用為我操那麼多心。」",
+            "convert": "「再说猫本来就是随心所欲的生物，你不用为我操那么多心。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Besides, catgirls are free-spirited creatures. You don't need to worry about me.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「そもそもネコは自由な生き物なんだから、くだらねー心配すんなよ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆嘴巴上這麼說，",
+            "convert": "红豆嘴巴上这么说，"
+        },
+        "en": {
+            "content": "She says that, but she doesn't move away."
+        },
+        "jp": {
+            "content": "そんなことを言いながらも。"
+        }
+    },
+    {
+        "cn": {
+            "content": "但還是笑著乖乖讓我摸頭。",
+            "convert": "但还是笑着乖乖让我摸头。"
+        },
+        "en": {
+            "content": "She simply stays put, letting me pet her, her smile audible in her voice."
+        },
+        "jp": {
+            "content": "撫でられたまま、逃げずに笑い声をこぼす。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……不過，」",
+            "convert": "「……不过，」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Still.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……でも」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我說紅豆是我重要的貓娘情人，可不是騙人的喔。」",
+            "convert": "「我说红豆是我重要的猫娘情人，可不是骗人的喔。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It is true that you're a dear and important catpanion to me.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキも、俺の大事な恋ネコなのは本当だよ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "把手從紅豆頭上拿開以後，",
+            "convert": "把手从红豆头上拿开以后，"
+        },
+        "en": {
+            "content": "I stop petting her."
+        },
+        "jp": {
+            "content": "撫でていた手を離して。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我就這麼從背後抱緊坐在椅子上的紅豆。",
+            "convert": "我就这么从背后抱紧坐在椅子上的红豆。"
+        },
+        "en": {
+            "content": "Then I move behind her and give her a hug."
+        },
+        "jp": {
+            "content": "座ってるアズキの身体を後ろから抱き締める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……嘻。」",
+            "convert": "「……嘻。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Heh.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……くす」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「別勉強自己裝模作樣了啦。」",
+            "convert": "「别勉强自己装模作样了啦。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Don't force yourself to do something y'ain't used to doing.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「無理して似合わねーことすんじゃねーよ」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「不過嘛……你這句話讓我很開心喔。」",
+            "convert": "「不过嘛……你这句话让我很开心喔。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「But, well... I'm happy to hear you say that.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「でも、まぁ……そう言ってもらえたら、うれしーよ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆就這麼把頭往我靠過來。",
+            "convert": "红豆就这么把头往我靠过来。"
+        },
+        "en": {
+            "content": "Azuki leans her head against me."
+        },
+        "jp": {
+            "content": "頭を俺にもたれかからせて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "只見她毫不抵抗地，把身子依偎在我身上。",
+            "convert": "只见她毫不抵抗地，把身子依偎在我身上。"
+        },
+        "en": {
+            "content": "She entrusts her whole self to me, without any resistance."
+        },
+        "jp": {
+            "content": "抵抗することなく、俺に身体を預けてくれる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……紅豆還真是可愛得不得了呢。",
+            "convert": "……红豆还真是可爱得不得了呢。"
+        },
+        "en": {
+            "content": "...I swear, Azuki is just so dang cute."
+        },
+        "jp": {
+            "content": "……ほんとアズキは可愛いんだからなぁ。"
+        }
+    },
+    {
+        "cn": {
+            "content": "雖然平時很少說出真心話，不過一旦坦率起來，那可愛程度真的會要人命。",
+            "convert": "虽然平时很少说出真心话，不过一旦坦率起来，那可爱程度真的会要人命。"
+        },
+        "en": {
+            "content": "She doesn't really say what she wants, but when she is honest, her cuteness is deadly."
+        },
+        "jp": {
+            "content": "なかなか本音を言わない分、素直な時の可愛さが正直やばい。"
+        }
+    },
+    {
+        "cn": {
+            "content": "……看來我得好好磨練自己，當個工作之餘還有餘力關心情人們的男人了。",
+            "convert": "……看来我得好好磨练自己，当个工作之余还有余力关心情人们的男人了。"
+        },
+        "en": {
+            "content": "...I'd really better get my act together so I can give her more attention."
+        },
+        "jp": {
+            "content": "……俺も、もっと気遣い出来る余裕を持てるようにならないとな。"
+        }
+    },
+    {
+        "cn": {
+            "content": "可不能老是讓她們遷就我呢。",
+            "convert": "可不能老是让她们迁就我呢。"
+        },
+        "en": {
+            "content": "I can't just let the affection be a one-way thing."
+        },
+        "jp": {
+            "content": "ネコたちに甘えてばっかりじゃなくて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我一邊這麼想，一邊感受著紅豆的體溫。",
+            "convert": "我一边这么想，一边感受着红豆的体温。"
+        },
+        "en": {
+            "content": "So I think to myself, as I feel Azuki's warmth against me."
+        },
+        "jp": {
+            "content": "そう思いながら、アズキのぬくもりを感じる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……我說嘉祥，」",
+            "convert": "「……我说嘉祥，」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Hey, Kashou.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……なぁ、嘉祥」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「既然你說可以撒嬌……」",
+            "convert": "「既然你说可以撒娇……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「If you're gonna spoil me, then...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「甘えていいなら、よ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……那，剛才的那個，我也可以做嗎？」",
+            "convert": "「……那，刚才的那个，我也可以做吗？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...let me do that thing from earlier.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……さっきの、アタシもしていいか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「剛才那個？」",
+            "convert": "「刚才那个？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What thing?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「さっきの？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我一時弄不清紅豆想說什麼。",
+            "convert": "我一时弄不清红豆想说什么。"
+        },
+        "en": {
+            "content": "I tilt my head, confused about what she wants."
+        },
+        "jp": {
+            "content": "アズキの言葉に首を傾げる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "這時紅豆從椅子上站了起來，",
+            "convert": "这时红豆从椅子上站了起来，"
+        },
+        "en": {
+            "content": "Azuki gets up from the chair."
+        },
+        "jp": {
+            "content": "アズキが椅子から立ち上がって。"
+        }
+    },
+    {
+        "cn": {
+            "content": "用她小小的手掌捧住我的臉。",
+            "convert": "用她小小的手掌捧住我的脸。"
+        },
+        "en": {
+            "content": "She rests her hands on my cheeks."
+        },
+        "jp": {
+            "content": "俺の両頬に小さな両手を添える。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……算了。」",
+            "convert": "「……算了。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Never mind.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……いいや」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我是你的貓娘情人，要撒嬌應該不用經過同意吧？」",
+            "convert": "「我是你的猫娘情人，要撒娇应该不用经过同意吧？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「A catpanion like me doesn't need to ask for permission to be doted on, right?」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「恋ネコが甘えるのに許可なんて、いらねーんだよな？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆……？」",
+            "convert": "「红豆……？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Azuki...?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキ……？」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆踮起腳尖，",
+            "convert": "红豆踮起脚尖，"
+        },
+        "en": {
+            "content": "Azuki stands on her tiptoes."
+        },
+        "jp": {
+            "content": "アズキがつま先立ちをして。"
+        }
+    },
+    {
+        "cn": {
+            "content": "閉上眼抬起臉來。",
+            "convert": "闭上眼擡起脸来。"
+        },
+        "en": {
+            "content": "She closes her eyes, bringing her face closer..."
+        },
+        "jp": {
+            "content": "目を閉じて、顔を上げる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯……啾……」",
+            "convert": "「嗯……啾……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mmm... mwah...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ん……ちゅ……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "一道柔軟的觸感從嘴唇傳來。",
+            "convert": "一道柔软的触感从嘴唇传来。"
+        },
+        "en": {
+            "content": "...and a soft, gentle sensation makes contact with my lips."
+        },
+        "jp": {
+            "content": "柔らかい感触が口唇に触れる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅……豆……」",
+            "convert": "「红……豆……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Azu...ki...」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズ……キ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯……啾、啾……嘉祥、嗯……啾……」",
+            "convert": "「嗯……啾、啾……嘉祥、嗯……啾……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mmm... mwah. Kashou... Nn... mwah...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「ん……ちゅ、ちゅ……嘉祥、ん……ちゅ……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆用她的小嘴在我唇上輕輕啄著，",
+            "convert": "红豆用她的小嘴在我唇上轻轻啄着，"
+        },
+        "en": {
+            "content": "Her small, thin lips continue to peck at me."
+        },
+        "jp": {
+            "content": "小さくて薄い口唇でついばむように。"
+        }
+    },
+    {
+        "cn": {
+            "content": "途中還不斷發出嬌聲。",
+            "convert": "途中还不断发出娇声。"
+        },
+        "en": {
+            "content": "She rains kisses upon me, speaking in a sweet, sultry voice."
+        },
+        "jp": {
+            "content": "甘い声を漏らしながらキスを繰り返してくる。"
+        }
+    },
+    {
+        "cn": {
+            "content": "接著，她小小的舌頭就這麼伸進我的嘴裡。",
+            "convert": "接着，她小小的舌头就这么伸进我的嘴里。"
+        },
+        "en": {
+            "content": "Her petite tongue soon makes its way into my mouth."
+        },
+        "jp": {
+            "content": "そのまま、小さな舌が俺の口の中へ。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯……咧囉、啾……嗯、嗯嗯……哈呣、嗯……」",
+            "convert": "「嗯……咧咯、啾……嗯、嗯嗯……哈呣、嗯……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mmm... mlem... Nnn... Hahh... Mmnn...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「んっ……れろ、ちゅ……ん、んん……はむ、ん……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嘉、祥……嗯……咧囉、啾、嗯……啊嗯、咧囉……」",
+            "convert": "「嘉、祥……嗯……咧咯、啾、嗯……啊嗯、咧咯……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Kashou... Nhh... mlem... mwah... Ahmmn...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「かしょ、う……んっ……れろ、ぢゅ、ん……あむ、れろっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆……嗯、咧囉……」",
+            "convert": "「红豆……嗯、咧咯……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Azuki... Mm... mlem.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「アズキ……ん、れろ……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "像是在回應紅豆一般，我也用舌頭纏上她的舌頭。",
+            "convert": "像是在回应红豆一般，我也用舌头缠上她的舌头。"
+        },
+        "en": {
+            "content": "As if to reciprocate Azuki, I lick, too."
+        },
+        "jp": {
+            "content": "アズキに応えるように舌を絡める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「哈啊……嘉祥的、味道……跟體味……」",
+            "convert": "「哈啊……嘉祥的、味道……跟体味……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hahh... Kashou's taste... His smell...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「はぁ……かしょうの、味と……におい……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我還要、再多一點……嗯、咧囉、啾嚕……」",
+            "convert": "「我还要、再多一点……嗯、咧咯、啾噜……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「More, I want more... Mmm! Mlem.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「もっと、もっとして……んっ、れろ、ぢゅるっ……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "我將紅豆小小的身子抱向自己，",
+            "convert": "我将红豆小小的身子抱向自己，"
+        },
+        "en": {
+            "content": "I embrace Azuki, my hands resting at the small of her back."
+        },
+        "jp": {
+            "content": "アズキの小さな背中を抱き寄せて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "然後用舌頭侵入她的小嘴，品嘗著她嘴裡的滋味。",
+            "convert": "然后用舌头侵入她的小嘴，品尝着她嘴里的滋味。"
+        },
+        "en": {
+            "content": "Then I insert my tongue into her ever so small mouth."
+        },
+        "jp": {
+            "content": "その狭い口の中へ舌を指し入れてアズキを味わう。"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗯嗯……哈、啊……嘉、祥……嗯嗯……」",
+            "convert": "「嗯嗯……哈、啊……嘉、祥……嗯嗯……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Mmm... Hah-ahhh... Kashou... Nnnhh!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「んん……は、あっ……かしょ、う……んんっ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「哈啊……哈啊……哈啊……」",
+            "convert": "「哈啊……哈啊……哈啊……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hahh... Hahh...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「はぁ……はぁ……はぁ……」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆的身體突然失去力量，",
+            "convert": "红豆的身体突然失去力量，"
+        },
+        "en": {
+            "content": "The strength drains from her."
+        },
+        "jp": {
+            "content": "くてっと身体の力が抜けて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "我連忙抱住紅著臉，陶醉到差點倒下的紅豆。",
+            "convert": "我连忙抱住红着脸，陶醉到差点倒下的红豆。"
+        },
+        "en": {
+            "content": "Azuki falls against my arms, ready to collapse, her cheeks flushed a deep red."
+        },
+        "jp": {
+            "content": "赤く呆けた顔で倒れそうになるアズキを抱き留める。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「你說剛才那個，是指椰子做過的事嗎？」",
+            "convert": "「你说刚才那个，是指椰子做过的事吗？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「By earlier, do you mean what Coconut did?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「さっきのって、ココナツのことか」"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「難不成妳那時也想要跟椰子一起舔我？」",
+            "convert": "「难不成你那时也想要跟椰子一起舔我？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Did you want to join her that time?」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「本当はアズキも一緒になって舐めたかったのか？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「我好歹也是妳的貓娘情人嘛……」",
+            "convert": "「我好歹也是你的猫娘情人嘛……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「I am still your catpanion...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「これでも一応、恋ネコだぞ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「所以……偶爾會想跟你索吻也是很正常的吧……」",
+            "convert": "「所以……偶尔会想跟你索吻也是很正常的吧……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Of course I'd... want to kiss you once in a while...」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「そりゃあ……たまには、キスのひとつもしたくなるに決まってんだろ……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「看到你們在眼前親熱……」",
+            "convert": "「看到你们在眼前亲热……」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「If I saw that happening right in front of me, I—」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「あんな、目の前で見せつけられたら……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「……不管是誰都會羨慕吧。」",
+            "convert": "「……不管是谁都会羡慕吧。」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Of course I'd be jealous.」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「……羨ましくも、なっちまうよ」"
+        }
+    },
+    {
+        "cn": {
+            "content": "紅豆的細瘦手臂環到我的背後，",
+            "convert": "红豆的细瘦手臂环到我的背后，"
+        },
+        "en": {
+            "content": "Azuki wraps her slender arms around me."
+        },
+        "jp": {
+            "content": "俺の背中に細い腕を回して。"
+        }
+    },
+    {
+        "cn": {
+            "content": "那緊緊抱住我的模樣實在十分可愛。",
+            "convert": "那紧紧抱住我的模样实在十分可爱。"
+        },
+        "en": {
+            "content": "She squeezes me tight."
+        },
+        "jp": {
+            "content": "ぎゅっと意地らしく抱きついて来る。"
+        }
+    },
+    {
+        "cn": {
+            "content": "就為了這件事而特地留下來，",
+            "convert": "就为了这件事而特地留下来，"
+        },
+        "en": {
+            "content": "She wanted to do this so badly that she stayed behind."
+        },
+        "jp": {
+            "content": "こんなことがしたくて、わざわざここに残って。"
+        }
+    },
+    {
+        "cn": {
+            "content": "而且一等到兩人獨處的時間，馬上就變得嬌滴滴的──",
+            "convert": "而且一等到两人独处的时间，马上就变得娇滴滴的──"
+        },
+        "en": {
+            "content": "The moment it's just the two of us, she immediately wants me to dote on her."
+        },
+        "jp": {
+            "content": "ふたりになった途端にこんな甘えてくるとか。"
+        }
+    },
+    {
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……紅豆真的很可愛呢。」",
+            "convert": "「……红豆真的很可爱呢。」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...You're just so cute, Azuki.」"
+        },
+        "jp": {
+            "name": "嘉祥",
+            "content": "「……本当に可愛いな、アズキは」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「沒錯吧～♪姊姊真的很可愛喲～♪」",
+            "convert": "「没错吧～♪姐姐真的很可爱哟～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「She sure is~! ♪ Onee-chan is just sooo cute~! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「そうだよね～♪　ほんとに可愛いよね、お姉ちゃんは～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「什麼！？椰、椰子……！？」",
+            "convert": "「什么！？椰、椰子……！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「What the—?! 'N-Nuts...?!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「んなっ！？　ナ、ナッツ……！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「妳怎麼會……！咦、咦咦……！？」",
+            "convert": "「你怎么会……！咦、咦咦……！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「What the hell are you—?! Eh?! Ehhhh?!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「どうしておま……！　えっ、えぇっ……！？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「人家正想回去的時候，突然覺得很睏……」",
+            "convert": "「人家正想回去的时候，突然觉得很困……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I was gonna go home, but I got so sleepy...」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「帰ろうと思ったら眠くなっちゃって……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「所以就在巧克力跟香草的床上小小打了一下瞌睡。」",
+            "convert": "「所以就在巧克力跟香草的床上小小打了一下瞌睡。」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「So I went to sleep on Chocola and Vanilla's bed~」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「そのままショコラとバニラのベッドでうとうとしちゃってさ～」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「等人家醒來，就聽到姊姊講出好可愛的台詞呢～♪」",
+            "convert": "「等人家醒来，就听到姐姐讲出好可爱的台词呢～♪」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「And when I woke up, I got to see onee-chan being all cute~! ♪」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「目を覚ましたら、お姉ちゃんが可愛いこと言ってるから～♪」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「妳、妳居然……！偷笑什麼啦……！」",
+            "convert": "「你、你居然……！偷笑什么啦……！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Wh-Why you...! Wipe that smirk off yer face...!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「て、てめ……！　そんな、ニヤニヤして……！」"
+        }
+    },
+    {
+        "cn": {
+            "content": "這時椰子把手放上紅豆的臉，",
+            "convert": "这时椰子把手放上红豆的脸，"
+        },
+        "en": {
+            "content": "Coconut gently brushes Azuki's cheek."
+        },
+        "jp": {
+            "content": "ココナツがアズキの頬をすっと撫でて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "然後不懷好意地瞇起雙眼湊向紅豆。",
+            "convert": "然后不怀好意地瞇起双眼凑向红豆。"
+        },
+        "en": {
+            "content": "Then she leans closer to Azuki's sultry, slit eyes."
+        },
+        "jp": {
+            "content": "いやらしく細めた目をアズキに近づける。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「嘻嘻，姊姊對白天的事，一定很羨慕對不對……？」",
+            "convert": "「嘻嘻，姐姐对白天的事，一定很羡慕对不对……？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Hehe. Onee-chan, you were feeling jealous about what happened earlier today, right...?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「くす、お姉ちゃんだって昼間のこと、羨ましいって思ってたんでしょ……？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「人家看到姊姊偷親哥哥的模樣……也覺得很羨慕喔？」",
+            "convert": "「人家看到姐姐偷亲哥哥的模样……也觉得很羡慕喔？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm pretty jealous of you, too... Seeing you sneak a kiss ahead of me like that.」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「ぼくだって、お姉ちゃんの抜け駆けのキス……羨ましいって、思ったよ？」"
+        }
+    },
+    {
+        "cn": {
+            "name": "紅豆",
+            "content": "「嗚……那、那是……！那個……！」",
+            "convert": "「呜……那、那是……！那个……！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Ugh... That—! That was just—!」"
+        },
+        "jp": {
+            "name": "アズキ",
+            "content": "「うぐ……そ、それは……！　その……！」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「沒關係啦。人家也是女生，所以能了解姊姊的心情……而且，」",
+            "convert": "「没关系啦。人家也是女生，所以能了解姐姐的心情……而且，」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Are you sure? I'm a girl, too, you know? I understand how you feel, and...」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「いいの、ぼくだって女だもん。気持ちは分かるし……それに」"
+        }
+    },
+    {
+        "cn": {
+            "content": "椰子一把抱住我的手臂，",
+            "convert": "椰子一把抱住我的手臂，"
+        },
+        "en": {
+            "content": "Coconut quickly coils herself around my arm."
+        },
+        "jp": {
+            "content": "ココナツが俺の腕にそっと絡みついて。"
+        }
+    },
+    {
+        "cn": {
+            "content": "帶著濕潤眼神在我耳邊嬌聲細語起來。",
+            "convert": "带着湿润眼神在我耳边娇声细语起来。"
+        },
+        "en": {
+            "content": "She whispers into my ear, her eyes moist, and her voice sweet and sultry."
+        },
+        "jp": {
+            "content": "濡れた瞳で、耳元で甘い声を囁かせる。"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「既然今天巧克力跟香草都不在……」",
+            "convert": "「既然今天巧克力跟香草都不在……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Chocola and Vanilla aren't here today...」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「今日は、ショコラもバニラもいないし……」"
+        }
+    },
+    {
+        "cn": {
+            "name": "椰子",
+            "content": "「就換我跟姊姊兩個人來……可以吧，哥哥？」",
+            "convert": "「就换我跟姐姐两个人来……可以吧，哥哥？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「How about onee-chan and I...? Won't you please, onii-chan?」"
+        },
+        "jp": {
+            "name": "ココナツ",
+            "content": "「お姉ちゃんとふたりで……いいよね、お兄ちゃん？」"
+        }
+    }
+]

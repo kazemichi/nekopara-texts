@@ -1,0 +1,1973 @@
+[
+    {
+        "jp": {
+            "content": "「世間はもうすっかり師走ですねぇ、兄様？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「The twelfth month of the year is already upon us, isn't it, Nii-sama?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「時節已經來到忙碌的年末囉，哥哥？」",
+            "convert": "「时节已经来到忙碌的年末咯，哥哥？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういえばもう１２月か」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Now that you mention it, it is already December, eh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這麼說來，現在十二月了呢。」",
+            "convert": "「这么说来，现在十二月了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フランスから帰って来てからもう５ヶ月になるな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's been five months since I've gotten back from France, huh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我從法國回來也已經過了五個月啦。」",
+            "convert": "「我从法国回来也已经过了五个月啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっという間に時間が経って行くなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Time is ticking by faster than I thought.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時間還真是一眨眼就過去了。」",
+            "convert": "「时间还真是一眨眼就过去了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラたちがごしゅじんさまのネコになってから２かげつ経ちました！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「It's been two months since the two of us have become your cats, Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我們也已經當主人的貓娘兩個月了！」",
+            "convert": "「我们也已经当主人的猫娘两个月了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしたちが仔ネコでいるじきはみじかい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Our time as kittens was short.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我們從幼貓到成年的時間很短，」",
+            "convert": "「我们从幼猫到成年的时间很短，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だからもっとあそんでくれてもいいとおもう」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「That's why I think you should play with us even more.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「所以得更常陪我們玩才行。」",
+            "convert": "「所以得更常陪我们玩才行。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いつも遊んでるだろが、喉元ごろごろ～」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「C'mon, I'm always playing with you guys. Who's a good couple of girls~」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我不是每天都在陪妳們玩嗎。搔搔喉嚨～」",
+            "convert": "「我不是每天都在陪你们玩吗。搔搔喉咙～」"
+        }
+    },
+    {
+        "jp": {
+            "name": "ショコラ＆バニラ",
+            "content": "『「ごろごろごろ～♪」\\n「ごろごろごろ～♪」』"
+        },
+        "en": {
+            "name": "Chocola & Vanilla",
+            "content": "「Purr, purr, purr~♪」\\n「Purr, purr, purr~♪」"
+        },
+        "cn": {
+            "name": "巧克力＆香草",
+            "content": "『「呼嚕呼嚕呼嚕～♪」\\n「呼嚕呼嚕呼嚕～♪」』",
+            "convert": "『「呼噜呼噜呼噜～♪」\\n「呼噜呼噜呼噜～♪」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんっ！　こほん！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hmm! Ahem!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯嗯！呃哼！」",
+            "convert": "「嗯嗯！呃哼！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アレですよねー？　１２月と言えばー？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's December, right? And you know what that means, right?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「說到十二月，就不得不提那個吧～？」",
+            "convert": "「说到十二月，就不得不提那个吧～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Huh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「咦？」",
+            "convert": "「咦？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「１２月後半の一大イベントと言えば～？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「What big event is in the later half of December~?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「說到十二月後半的一大節日，會想到～？」",
+            "convert": "「说到十二月后半的一大节日，会想到～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……クリスマス？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Christmas?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……聖誕節？」",
+            "convert": "「……圣诞节？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そう！　そうですよね！　クリスマスですわ、兄様！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes! Exactly! Christmas, Nii-sama!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「沒錯，您說得非常對！就是聖誕節啊，哥哥！」",
+            "convert": "「没错，您说得非常对！就是圣诞节啊，哥哥！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「世間はネコも杓子もクリスマス！　聖なる日です！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Everyone from cats to rats cares about Christmas! It's the sacred day!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「現在這個時期，無論貓娘或任何人都沉浸在聖誕節神聖的氣氛裡！」",
+            "convert": "「现在这个时期，无论猫娘或任何人都沉浸在圣诞节神圣的气氛里！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くりすますってなに？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「What's a 'Christmas'?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「什麼是剩蛋節？」",
+            "convert": "「什么是剩蛋节？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大事な人と過ごす聖なる夜のことです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's a sacred night that you spend with someone special.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「就是和最珍惜的人一起度過的神聖夜晚。」",
+            "convert": "「就是和最珍惜的人一起度过的神圣夜晚。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「宗派や信仰は関係なく、１年の中でも特別な日なのですよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's a special day of the year where things like faith or denomination do not matter.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「跟宗教或信仰無關，那算得上是一年當中最特別的日子之一。」",
+            "convert": "「跟宗教或信仰无关，那算得上是一年当中最特别的日子之一。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だいじなひとって……」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「'Someone special'...」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「最珍惜的人……」",
+            "convert": "「最珍惜的人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こいびととか？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Like a lover?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「像是戀人嗎？」",
+            "convert": "「像是恋人吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そうですねー？　確かに世間一般では、恋人と過ごしたりしますねー」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Th-That's right. In general society, it's common to spend time with a lover.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「對、對呀～？跟戀人一起度過聖誕節的現象，確實也很普遍呢～」",
+            "convert": "「对、对呀～？跟恋人一起度过圣诞节的现象，确实也很普遍呢～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んんんっ！　こほん、こほんっ！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hmmm! Ahem, ahem!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯嗯嗯！咳，呃哼！」",
+            "convert": "「嗯嗯嗯！咳，呃哼！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ち、ちなみにですが……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Incidentally...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「順、順便問一下……」",
+            "convert": "「顺、顺便问一下……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……その、兄様のご予定は？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...Um, what would your plans be, Nii-sama?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……那個，哥哥您有什麼計畫嗎？」",
+            "convert": "「……那个，哥哥您有什么计划吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「特に無いけど」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Nothing in particular.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒有呢。」",
+            "convert": "「没有呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁこれは偶然！　私も聖夜を過ごす相手などいませんですし！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「What a coincidence! I do not happen to have anyone to spend the holy night with, either!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哎呀這真是太巧了！我也正好找不到人陪我過聖誕夜！」",
+            "convert": "「哎呀这真是太巧了！我也正好找不到人陪我过圣诞夜！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「では私と！　あ、いえ、家族水入らずでクリスマスを過ごしましょう！　ぜひ！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Well, then, spend it with me! Oh, I mean, let's spend Christmas together as a happy family! Yes!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「既然如此，不如跟我！啊不，跟家人們度過一個溫馨的聖誕節吧！說好囉！」",
+            "convert": "「既然如此，不如跟我！啊不，跟家人们度过一个温馨的圣诞节吧！说好咯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「盛大な！　それはもう盛大なパーティをしましょう！　私と兄様で！！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It'll be grand! We'll have a grand party! You and me, Onii-sama!!!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我們來開個盛大的！而且要盛大無比的聖誕派對！主角就是我跟哥哥！！！」",
+            "convert": "「我们来开个盛大的！而且要盛大无比的圣诞派对！主角就是我跟哥哥！！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おーっほっほっほっほー！　おぉーっほっほっほっほっほっほーーーー！！！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Oo ho ho ho ho ho! Oooo ho ho ho ho ho ho!!!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「喔──呵呵呵呵！喔────呵呵呵呵呵呵────！！！」",
+            "convert": "「喔──呵呵呵呵！喔────呵呵呵呵呵呵────！！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……時雨のやつ、やたらテンション高いなぁ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Damn, Shigure, you're a little too hyped up for this.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……時雨也未免興奮過頭了吧。」",
+            "convert": "「……时雨也未免兴奋过头了吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ここ最近ずーっとソワソワしてたのはコレだったのね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Oh, so that's the reason she's been on edge for the past few days.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「原來如此，所以她最近才一直心神不寧啊。」",
+            "convert": "「原来如此，所以她最近才一直心神不宁啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ、パーティー！　ぼくパーティー大好き！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yay, a party! I love parties!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哇啊，派對！人家最喜歡派對了！」",
+            "convert": "「哇啊，派对！人家最喜欢派对了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くす、良かったねぇ、ナっちゃん～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Hehe. Good news, isn't it, Nacchan~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嘻嘻，真是太好了呢，椰子～♪」",
+            "convert": "「嘻嘻，真是太好了呢，椰子～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おい、嘉祥」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey, Kashou.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喂，嘉祥。」",
+            "convert": "「喂，嘉祥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　どうしたアズキ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hm? What's the matter, Azuki?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？怎麼了，紅豆？」",
+            "convert": "「嗯？怎么了，红豆？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨のテンション、高けーだろ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Shigure is pretty hyped up, isn't she?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「你看時雨，她現在很興奮對吧？」",
+            "convert": "「你看时雨，她现在很兴奋对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　あぁ、高いけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hm? Well, yeah, she is...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯？對啊，是很興奮沒錯……」",
+            "convert": "「嗯？对啊，是很兴奋没错……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥が帰ってくる今年のクリスマス、ずっと楽しみにしてたんだよ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「She's been looking forward to this year's Christmas, now that you're back home.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「今年的聖誕節因為有嘉祥在，所以時雨一直都很期待。」",
+            "convert": "「今年的圣诞节因为有嘉祥在，所以时雨一直都很期待。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから付き合ってやれよ。兄貴だろ？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「So, go and spend time with her. You're her older brother, right?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「所以這次就順著她的意吧。你是她哥哥吧？」",
+            "convert": "「所以这次就顺着她的意吧。你是她哥哥吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ま、あのバカみてーなテンションまで合わせろとは言わねーけどな」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Granted, I'm not telling you to try to match her foolish level of excitement with your own, of course.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「當然，我不會要你配合她一起發瘋啦。」",
+            "convert": "「当然，我不会要你配合她一起发疯啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アズキ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Azuki...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「紅豆……」",
+            "convert": "「红豆……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ああ、ありがとな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Sure, thanks.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……嗯，謝謝妳。」",
+            "convert": "「……嗯，谢谢你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ俺が料理とケーキ作るよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「All right, I'll handle the cooking and the cake.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那料理跟蛋糕就由我來做，」",
+            "convert": "「那料理跟蛋糕就由我来做，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから、盛大にクリスマスパーティーやるか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So, yeah, let's do it up and have ourselves a Christmas party.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我們來辦一場盛大的聖誕派對吧。」",
+            "convert": "「我们来办一场盛大的圣诞派对吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「家族水入らずで、な？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「As one big happy family, right?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒有外人，只有我們的家人參加。好嗎？」",
+            "convert": "「没有外人，只有我们的家人参加。好吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥……」",
+            "convert": "「哥哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！　盛大にパーティーをしましょう！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes! Let's have a party to the nines!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好的！就來辦場盛大的聖誕派對吧！」",
+            "convert": "「好的！就来办场盛大的圣诞派对吧！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その日は世界で一番素晴らしいパーティに！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That day will see the world's most superb party!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那天我要辦個不輸給全世界任何活動的派對！」",
+            "convert": "「那天我要办个不输给全世界任何活动的派对！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさま、けーきって何ですか？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master, what's a 'cake'?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人，什麼是蛋糕？」",
+            "convert": "「主人，什么是蛋糕？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたししってる。あまくておいしいやつだ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I know. It's something sweet and delicious.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我知道，就是又甜又好吃的點心。」",
+            "convert": "「我知道，就是又甜又好吃的点心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あまくておいしいの！？　なにそれ！　すごーい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Sweet and delicious?! What is it?! That sounds amazing!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「又甜又好吃！？真的嗎！好棒喔～！」",
+            "convert": "「又甜又好吃！？真的吗！好棒喔～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさま、そんなのつくれちゃうんですか！？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Master, you can make something like that?!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「主人做得出那麼厲害的東西來嘛！？」",
+            "convert": "「主人做得出那么厉害的东西来嘛！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ。パーティにケーキは付きものだからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure can. Can't have a party without cake, after all.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「當然。既然要辦派對，怎麼少得了蛋糕呢。」",
+            "convert": "「当然。既然要办派对，怎么少得了蛋糕呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺に任せといてくれ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Leave it up to me.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「一切就交給我吧。」",
+            "convert": "「一切就交给我吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わーいケーキ！　ぼくケーキも大好きー！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Yay, cake! I love cake, too!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哇～蛋糕！人家也最喜歡蛋糕了～！」",
+            "convert": "「哇～蛋糕！人家也最喜欢蛋糕了～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥さんが留学までして勉強して来た腕、期待しちゃいますよ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I'm looking forward to seeing the skills you picked up from studying abroad in action, Kashou-san~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我很期待嘉祥留學回來的成果喲～♪」",
+            "convert": "「我很期待嘉祥留学回来的成果哟～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあそれに合う紅茶も探さないとね～♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Well then, we'll have to find some black tea to complement it~♪」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「這樣的話，我可得研究一下哪種紅茶適合嘉祥的蛋糕囉～♪」",
+            "convert": "「这样的话，我可得研究一下哪种红茶适合嘉祥的蛋糕咯～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ今日から考えてみるよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Okay, I'll brainstorm something today, then.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那我今天就開始想菜單，」",
+            "convert": "「那我今天就开始想菜单，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「楽しみにしててくれよ。時雨も」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Look forward to it, you guys. You too, Shigure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳們就好好期待吧。還有時雨也是。」",
+            "convert": "「你们就好好期待吧。还有时雨也是。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、もちろんです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes, but of course.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯，那是當然的。」",
+            "convert": "「嗯，那是当然的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうございます、兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Thank you very much, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「非常謝謝您，哥哥。」",
+            "convert": "「非常谢谢您，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「商店街もすっかりクリスマス商戦の時期だな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「The shopping districts are in the middle of a Christmas sales war, too.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「商店街那邊也已經完全進入聖誕商戰的時期了呢。」",
+            "convert": "「商店街那边也已经完全进入圣诞商战的时期了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おみせもくりすますになるんですか？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Will our shop get all Christmas-like, too?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「店家也會慶祝聖誕節嗎？」",
+            "convert": "「商店也会庆祝圣诞节吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しょーてんがいもくりすますぱーてぃ？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Is the shopping district going to have a Christmas party, too?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「商店街也要開聖誕派對？」",
+            "convert": "「商店街也要开圣诞派对？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、そんな感じだ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, more or less.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，可以這麼說。」",
+            "convert": "「嗯，可以这么说。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ、みて！　みてくださいごしゅじんさま！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Wow, look! Look at this, Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇啊，你看！主人你看！」",
+            "convert": "「哇啊，你看！主人你看！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あのおみせ！　あのおみせから、ごしゅじんさまとおなじにおいがします！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「That shop! That shop has the same scent as Master!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「那家店！從那家店傳來跟主人一樣的香味耶！」",
+            "convert": "「那家店！从那家店传来跟主人一样的香味耶！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くんくん、ほんとだ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Sniff sniff. She's right.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「（嗅嗅）真的呢，」",
+            "convert": "「（嗅嗅）真的呢，」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんとおなじあまいにおいくんくんくん」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「It's the same sweet scent as Master. Sniff sniff sniff.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「是跟主人一樣的香味。（嗅嗅嗅）」",
+            "convert": "「是跟主人一样的香味。（嗅嗅嗅）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな、ケーキ屋だから確かに同じ匂いだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, right. It's a cake shop, so of course it would.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊。那裡是蛋糕店，所以的確是一樣的氣味呢。」",
+            "convert": "「是啊。那里是蛋糕店，所以的确是一样的气味呢。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「嘉祥ちゃん」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「Kashou-chan.」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「嘉祥。」",
+            "convert": "「嘉祥。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「今日も仔ネコちゃんたちとお買い物？」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「Shopping with the kitties again?」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「今天也帶小貓咪們出來買東西？」",
+            "convert": "「今天也带小猫咪们出来买东西？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい。ちょっとパーティー用の食材を買い出しに」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yes. We're doing some ingredient shopping for a party.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對，今天我們出來買派對要用的食材。」",
+            "convert": "「对，今天我们出来买派对要用的食材。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラ、バニラ。ご挨拶できるか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Chocola, Vanilla, can you greet her?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力、香草，知道怎麼打招呼嗎？」",
+            "convert": "「巧克力、香草，知道怎么打招呼吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんにちは！　ショコラです！　ぺこり！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Hello! I'm Chocola!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「妳好！人家是巧克力！（鞠躬！）」",
+            "convert": "「你好！人家是巧克力！（鞠躬！）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラです。おひさしぶりです。ぺこり」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm Vanilla. Good to see you again.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我是香草。好久不見了。（鞠躬）」",
+            "convert": "「我是香草。好久不见了。（鞠躬）」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「あらあら、もうすっかり元気ねぇ」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「Oh my, oh my. Quite the spirited couple.」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「哎呀呀，變得很有精神呢。」",
+            "convert": "「哎呀呀，变得很有精神呢。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「やっぱり小さな子は笑顔が一番よ」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「A smile really does suit a small girl the best, you know.」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「小朋友還是露出笑容的時候最可愛。」",
+            "convert": "「小朋友还是露出笑容的时候最可爱。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そのせつはどうもすみませんでした」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We are sorry for our attitudes last time.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「先前真是不好意思。」",
+            "convert": "「先前真是不好意思。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんど、みんなでくりすますぱーてぃするんです！　たのしみ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「We're having e a Christmas party this time around! We're so excited!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「下次我們家要開聖誕派對喔！真期待！」",
+            "convert": "「下次我们家要开圣诞派对喔！真期待！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「そうなの？　それは良かったわね～」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「Is that so? That's great to hear~」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「真的嗎？那真是太好了呢～」",
+            "convert": "「真的吗？那真是太好了呢～」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「あ、パーティー用の買い出しってそういうこと？」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「Oh, so you said you're out shopping for a party?」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「啊，你說要買派對用食材，原來是這麼回事？」",
+            "convert": "「啊，你说要买派对用食材，原来是这么回事？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラがウチに来た最初のクリスマスですし……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's the first Christmas Chocola and Vanilla have had since coming to our house...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「畢竟是巧克力跟香草來到我們家以後的第一個聖誕節……」",
+            "convert": "「毕竟是巧克力跟香草来到我们家以后的第一个圣诞节……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「生まれて初めてのクリスマスですから」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, it's the first Christmas they've had in their lives.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「也是她們倆出生以來頭一次過聖誕節嘛。」",
+            "convert": "「也是她们俩出生以来头一次过圣诞节嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「美味しいケーキを作ってあげようと思いまして」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So, I was thinking of making them a delicious cake.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「所以我想做個美味點的蛋糕請她們吃。」",
+            "convert": "「所以我想做个美味点的蛋糕请她们吃。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「うんうん、いいわね。さすが嘉祥ちゃん」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「Mm-hmm, mm-hmm. That's great. Good idea, Kashou-chan.」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「嗯嗯，很棒的主意呀。真不愧是嘉祥。」",
+            "convert": "「嗯嗯，很棒的主意呀。真不愧是嘉祥。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「ショコラちゃんもバニラちゃんも、良い子だからきっとサンタさんも来てくれるわよ？」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「Chocola-chan and Vanilla-chan are both good kids, so I'm sure that Santa-san will come visit, right?」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「巧克力跟香草都是好孩子，所以聖誕老人一定會來找妳們喔。」",
+            "convert": "「巧克力跟香草都是好孩子，所以圣诞老人一定会来找你们喔。」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「お買い物の邪魔しちゃ悪いし、また時間あったらウチにも寄ってね？」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「I don't want to get in the way of your shopping, so if you ever have a moment in the future, stop by my shop, okay?」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「那就不打擾你們買東西了。有空閒時間的話，記得要來店裡坐坐喔？」",
+            "convert": "「那就不打扰你们买东西了。有空闲时间的话，记得要来店里坐坐喔？」"
+        }
+    },
+    {
+        "jp": {
+            "name": "店員",
+            "content": "「じゃあねー」"
+        },
+        "en": {
+            "name": "Shop Clerk",
+            "content": "「See you later~」"
+        },
+        "cn": {
+            "name": "店員",
+            "content": "「先走囉～」",
+            "convert": "「先走咯～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラもバニラも、ちゃんとご挨拶出来たな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Chocola, Vanilla, good job introducing yourselves.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力跟香草都有好好打招呼呢。」",
+            "convert": "「巧克力跟香草都有好好打招呼呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「偉いぞ？　よしよし」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Good girls. There, there.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「做得很棒喔。好乖好乖。」",
+            "convert": "「做得很棒喔。好乖好乖。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃーん♪　ごしゅじんさまのなでなできもちーですー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nyaan♪ Your pets feel so good, Master~♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵～♪讓主人摸頭好舒服～♪」",
+            "convert": "「喵～♪让主人摸头好舒服～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしたちもいつまでもこねこじゃないっていったでしょ？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「We told you that we wouldn't be kittens forever, didn't we?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我就說我們不會永遠是小貓吧？」",
+            "convert": "「我就说我们不会永远是小猫吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな、よしよし」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Sure did. There, there.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳說得對，好乖好乖。」",
+            "convert": "「你说得对，好乖好乖。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ところでごしゅじんさま？　さんたさんってだれですか？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「By the way, Master? Who is Santa?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「倒是主人？聖誕老人是誰啊？」",
+            "convert": "「倒是主人？圣诞老人是谁啊？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しょうてんがいのしりあい？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Is that someone you know in the shopping center?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「是主人在商店街的熟人嗎？」",
+            "convert": "「是主人在商店街的熟人吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああいや、知り合いってわけじゃないけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Aah, no, that's no acquaintance of mine.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊不，聖誕老人不是我的熟人啦。」",
+            "convert": "「啊不，圣诞老人不是我的熟人啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「クリスマスにはサンタっていう人が、良い子にはプレゼントをくれるんだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「On Christmas, a person named Santa gives good little boys and girls presents.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「每到聖誕節，聖誕老人就會送禮物來給乖孩子喔。」",
+            "convert": "「每到圣诞节，圣诞老人就会送礼物来给乖孩子喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラもバニラも良い子だから、きっともらえるんじゃないか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You two are good girls, so you just might get a present yourselves, you know?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力跟香草一直都很乖，所以應該能收到禮物吧？」",
+            "convert": "「巧克力跟香草一直都很乖，所以应该能收到礼物吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ！　ぷれぜんと！　ぷれぜんとだってバニラ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Wow! A present! He said present, Vanilla!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇啊！禮物！有禮物耶，香草！」",
+            "convert": "「哇啊！礼物！有礼物耶，香草！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなきとくなヒトがいるんだね。せかいはひろい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I never knew someone so benevolent existed. The world sure is big.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「原來還有那麼奇特的人在啊，世界真是無奇不有。」",
+            "convert": "「原来还有那么奇特的人在啊，世界真是无奇不有。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな、世界は広いな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yep, the world is a big place.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊，世界真的是無奇不有呢。」",
+            "convert": "「是啊，世界真的是无奇不有呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラとバニラは何が欲しい？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Chocola, Vanilla? What do you two want?」 "
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「巧克力和香草有想要什麼嗎？」",
+            "convert": "「巧克力和香草有想要什么吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラはおもちゃ！　おもちゃがほしーです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola wants a toy! A toy is what I want!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「玩具！巧克力想要玩具！」",
+            "convert": "「玩具！巧克力想要玩具！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんかこう、にゃんにゃんにゃーんってなっちゃうようなやつ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「One that goes nyan nyan nyaaan!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「就是像那種，會喵喵喵喵～的玩具！」",
+            "convert": "「就是像那种，会喵喵喵喵～的玩具！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わ、わたしはえほんがほしい……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I-I want a picture book...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我、我想要故事書……！」",
+            "convert": "「我、我想要故事书……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうぶつとか、いっぱいのってるやつ……！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「One with a lot of animals in it...!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「就是裡面有很多動物的那種……！」",
+            "convert": "「就是里面有很多动物的那种……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうか、じゃあサンタさんにそうお願いしとくな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I see. Well, I'll make sure to ask Santa-san for them.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這樣啊，那我再轉告給聖誕老人知道吧。」",
+            "convert": "「这样啊，那我再转告给圣诞老人知道吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おー！　やっぱりごしゅじんさまはサンタさんとおともだちなんですね！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ooh! So you are friends with Santa-san, aren't you, Master?」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喔～主人果然跟聖誕老人是好朋友！」",
+            "convert": "「喔～主人果然跟圣诞老人是好朋友！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さすがわたしたちのごしゅじん。やりおる」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「As expected from our Master. I'm impressed.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不愧是我們的主人，真有一套。」",
+            "convert": "「不愧是我们的主人，真有一套。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あー、まぁそんな感じかな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Aah, well, you could say that, I guess.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，嗯，差不多啦。」",
+            "convert": "「啊，嗯，差不多啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「その代わり、良い子にしてなくちゃ来てくれないぞ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「But, unless you're both good, he won't show up.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「但要是妳們沒有當個乖孩子，聖誕老人可就不會來囉？」",
+            "convert": "「但要是你们没有当个乖孩子，圣诞老人可就不会来咯？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい！　ショコラいいこだからだいじょうぶです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Okay! Chocola is a good girl, so it'll be okay!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「知道了！巧克力是乖孩子，所以沒問題的！」",
+            "convert": "「知道了！巧克力是乖孩子，所以没问题的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも。これいじょうないくらいいいこだからだいじょうぶ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Me, too. I'm the most well-behaved girl you've ever seen, so I'll be all right.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我也一樣。我是個乖到沒人比得上的乖孩子，所以不用擔心。」",
+            "convert": "「我也一样。我是个乖到没人比得上的乖孩子，所以不用担心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな、おまえらなら大丈夫だ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I see. You two will be just fine.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說得也是，妳們兩個根本不用我操心。」",
+            "convert": "「说得也是，你们两个根本不用我操心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、ショコラとバニラはパーティーで何か食べたいものあるか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, is there anything you guys want to eat at the party?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，巧克力和香草有什麼想在派對上吃的嗎？」",
+            "convert": "「啊，巧克力和香草有什么想在派对上吃的吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「せっかくだから何でも作ってやるぞ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Since it's a special occasion, I'll make anything you want.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「難得有這個機會，想點什麼都可以喔？」",
+            "convert": "「难得有这个机会，想点什么都可以喔？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おおとろ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Ootoro Tuna!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「鮪魚肚！」",
+            "convert": "「鲔鱼肚！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まつざかうし！」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Matsusaka Beef!」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「松阪牛！」",
+            "convert": "「松阪牛！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「テレビでやってました！　めっちゃおいしーって！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「They showed it on TV! They said it's super good!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「電視上有演喔！聽說超好吃的！」",
+            "convert": "「电视上有演喔！听说超好吃的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほっぺたがとけておちるっていってた」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「They said it knocks your socks off.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「聽說好吃到下巴會掉下來。」",
+            "convert": "「听说好吃到下巴会掉下来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「テレビのなかのひとはおちてなかったけど」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Though, the person on TV's socks didn't get knocked off.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「不過電視上的人下巴沒掉下來就是了。」",
+            "convert": "「不过电视上的人下巴没掉下来就是了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁそれは『そのくらい美味しい』ってことだからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, well, by that they mean 'it knocks your socks off' because it's really good. It's a figure of speech.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「因為那只是用來比喻「非常好吃」的說法嘛。」",
+            "convert": "「因为那只是用来比喻「非常好吃」的说法嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大トロに松坂牛かー」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Ootoro and Matsusaka Beef, eh?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「鮪魚肚跟松阪牛啊～」",
+            "convert": "「鲔鱼肚跟松阪牛啊～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁパーティだし、盛大にやるって決めたし……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, it is a party, and we did decide to do it to the nines...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「既然是派對，而且也說好要辦得很盛大……」",
+            "convert": "「既然是派对，而且也说好要办得很盛大……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあ、大トロと松坂牛。買いにいくか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「All right, Ootoro Tuna and Matsusaka Beef. Shall we go and buy them?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那，我們現在就去買鮪魚肚跟松阪牛吧？」",
+            "convert": "「那，我们现在就去买鲔鱼肚跟松阪牛吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わーい♪　かいにいきましょー♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yay♪ Let's buy them♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「耶～♪馬上去買吧～♪」",
+            "convert": "「耶～♪马上去买吧～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんさいこー♪　ほっぺたおちるのたのしみ♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「You're the best, Master♪ I'm all ready for my socks to come off♪」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「主人太棒了～♪我很期待下巴掉下來是什麼感覺♪",
+            "convert": "「主人太棒了～♪我很期待下巴掉下来是什么感觉♪"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ごしゅじんとショコラのほっぺがおちたら、わたしがひろってあげるからね？」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「If Chocola and Master's socks do come off, then I'll make sure to scoop them up, okay?」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「要是主人跟巧克力的下巴掉下來，我會幫你們撿起來的。」",
+            "convert": "「要是主人跟巧克力的下巴掉下来，我会帮你们捡起来的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ、ありがとうバニラ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yay, thank you, Vanilla!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「哇啊！謝謝妳，香草！」",
+            "convert": "「哇啊！谢谢你，香草！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これでもしものときもあんしんですね、ごしゅじんさま♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Now we can relax even if the worst happens, Master♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「這樣一來，要是發生什麼萬一也可以安心了呢，主人♪」",
+            "convert": "「这样一来，要是发生什么万一也可以安心了呢，主人♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、そうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yeah, you're right.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯，妳說得對。」",
+            "convert": "「嗯，你说得对。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃあほっぺがおちるくらい美味しいもの作れるように頑張るよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I'll do my best to make things so good that they knock your socks off.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「既然如此，我也得努力做出好吃到讓妳們下巴掉下來的料理囉。」",
+            "convert": "「既然如此，我也得努力做出好吃到让你们下巴掉下来的料理咯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい！　たのしみにしてます！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Okay! I'm so excited!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好～！我們很期待喔！」",
+            "convert": "「好～！我们很期待喔！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うんうん、くりすますぱーてぃーたのしみー♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Mm-hmm, mm-hmm. I'm excited for the Christmas party♪」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「嗯嗯，真期待聖誕派對那天來臨♪」",
+            "convert": "「嗯嗯，真期待圣诞派对那天来临♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おう、楽しみにしててくれ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yup, look forward to it.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒問題，妳們就好好期待吧。」",
+            "convert": "「没问题，你们就好好期待吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Okay~♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「知道了～♪」",
+            "convert": "「知道了～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はーい♪」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Okay~♪」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「知道了～♪」",
+            "convert": "「知道了～♪」"
+        }
+    }
+]

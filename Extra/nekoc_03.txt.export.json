@@ -1,0 +1,1012 @@
+[
+    {
+        "jp": {
+            "content": "「ここのボタンを長押しして、起動……と」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Hold down this button to power on, and... there.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「按住這裡的按鈕，讓它啟動……好了。」",
+            "convert": "「按住这里的按钮，让它启动……好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ、クローバー！　クローバーのマーク出たよメーちゃん～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Wow, a clover! A clover mark popped up, May-chan~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「哇啊，是四葉草！楓，四葉草商標跑出來了～！」",
+            "convert": "「哇啊，是四叶草！枫，四叶草商标跑出来了～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アイポンにようこそって言われてるよ～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「It said 'Welcome to Your iPon'~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「還跟我們說『歡迎使用IPon』耶～！」",
+            "convert": "「还跟我们说『欢迎使用IPon』耶～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さすがに画面も綺麗ねー！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「The screen is really clear!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「畫面果然很漂亮呢！」",
+            "convert": "「画面果然很漂亮呢！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「雰囲気もオシャレだし、文句ないわー♪　あー素敵ー♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's pretty snazzy, so I can't complain at all~♪ Aah, it's wonderful~♪」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「風格也很時尚，實在沒什麼好挑剔的♪啊～真棒♪」",
+            "convert": "「风格也很时尚，实在没什么好挑剔的♪啊～真棒♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ねぇねぇメーちゃん、さっそく壁紙変えようよ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Say, say, May-chan, hurry up and change the wallpaper~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「楓，楓，快點換張桌布看看嘛～♪」",
+            "convert": "「枫，枫，快点换张壁纸看看嘛～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしとメーちゃんのツーショットとかさ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「With a lil' snapshot of the two of us, May-chan~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「像是我跟楓的合照之類的～♪」",
+            "convert": "「像是我跟枫的合照之类的～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね。それを使うかどうかは置いといて、カメラ使ってみようかしら？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Right, leaving aside whether I'll use it or not, let's try out the camera, okay?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「也好，要不要設成桌布是一回事，先來試試看照相功能好了。」",
+            "convert": "「也好，要不要设成壁纸是一回事，先来试试看照相功能好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほらカメラ見てシナモン。上のところのレンズね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Come on, look at the camera, Cinnamon. Right at the lens on top.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「桂，看鏡頭～鏡頭在上面這裡喔。」",
+            "convert": "「桂，看镜头～镜头在上面这里喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、顔キメてー？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Okay, strike a pose.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「來吧，擺張表情？」",
+            "convert": "「来吧，摆张表情？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんな感じ～？　いえーい♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Like this~? Yahoo♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「像這樣嗎～？耶～♪」",
+            "convert": "「像这样吗～？耶～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いい？　撮るわよ～？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Good? Here goes~」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「好了沒？要拍囉～？」",
+            "convert": "「好了没？要拍咯～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「は～い、チーズ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ok~ay, cheese~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「好了～笑瞇瞇～♪」",
+            "convert": "「好了～笑瞇瞇～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あは、可愛く取れたわね～♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ahah, I managed to get a cute one~♪」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「啊哈，拍得很可愛呢～♪」",
+            "convert": "「啊哈，拍得很可爱呢～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほら見てシナモン、ばっちりよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Look, Cinnamon. It's perfect.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「桂妳看妳看，拍得不錯吧？」",
+            "convert": "「桂你看你看，拍得不错吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うんうん、すっごく画質も綺麗だね～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Mm-hmm, mm-hmm. The picture quality is really clear~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯嗯，畫質也很棒耶～！」",
+            "convert": "「嗯嗯，画质也很棒耶～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「メーちゃんの可愛さが余すことなく写ってるよ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「May-chan, every inch of your cuteness is here in full display~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「楓可愛的地方全都拍進這張相片囉～♪」",
+            "convert": "「枫可爱的地方全都拍进这张相片咯～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモンだって可愛いわよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You're plenty cute yourself, Cinnamon.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「桂妳也不差呀。」",
+            "convert": "「桂你也不差呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨のブログに投稿してもらおうかしら」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Could you post them to Shigure's blog?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「啊，請時雨幫我們貼上部落格好了。」",
+            "convert": "「啊，请时雨帮我们粘贴博客好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃう～ん♪　またアクセス伸びちゃうね～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Nya-mm-hmm~♪ It'll get some more traffic that way~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「喵嗚～♪這樣一來點閱率又要增加了呢～♪」",
+            "convert": "「喵呜～♪这样一来点阅率又要增加了呢～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、じゃあ時雨ちゃんのブログ見てみようよ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, right, let's take a look at Shigure-chan's blog~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊，我們用它來看看時雨的部落格吧～」",
+            "convert": "「啊，我们用它来看看时雨的博客吧～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいわね、ＷＥＢブラウザは……これね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Okie dokie. Now, web browser... Here it is.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「好啊，網路瀏覽器是……這個吧。」",
+            "convert": "「好啊，网络浏览器是……这个吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わぁ、すごーい♪　ちゃんとアクセス出来てる～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Wow, awesome♪ You can access it just fine~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「哇啊，好厲害～♪真的連上了呢～♪」",
+            "convert": "「哇啊，好厉害～♪真的连上了呢～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こんなアイテム手に入れちゃったら、メーちゃん無敵だよ～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Now that you have an item like this, you're positively invincible, May-chan~♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「手上有這麼棒的道具，楓可以稱得上絕對無敵囉～♪」",
+            "convert": "「手上有这么棒的道具，枫可以称得上绝对无敌咯～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね。時雨に頼み込んで頼み込んで頼み込んだ甲斐があったわ～♪」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Yup. Begging and begging and begging Shigure for one was well worth it~♪」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「就是說啊，也不枉費我花那麼多工夫拜託時雨了。」",
+            "convert": "「就是说啊，也不枉费我花那么多任务夫拜托时雨了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、そういえばアイポンってツリあるよね、ツリ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, by the way, don't these iPons have Tsuri? You know, Tsuri~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊，話說IPon有個叫Tsuri的功能對不對？Tsuri～」",
+            "convert": "「啊，话说IPon有个叫Tsuri的功能对不对？Tsuri～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、あの話しかけるだけで操作してくれるって機能ね？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Aah, you mean that feature where it does stuff based on voice commands?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「啊，妳是說那個只要用語音就能操作手機的功能嗎？」",
+            "convert": "「啊，你是说那个只要用语音就能操作手机的功能吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうそう～。せっかくだから使ってみようよ～」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Yep, yep~ Might as well try it out while we have the chance~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「沒錯沒錯～趁這個機會，我們來試試看嘛～」",
+            "convert": "「没错没错～趁这个机会，我们来试试看嘛～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいわよ。せっかくだし、時雨に電話でもしてみようかしら？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Okie dokie. Why don't we try calling Shigure, while we're at it?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「好啊。機會難得，不如我們打電話給時雨試試吧？」",
+            "convert": "「好啊。机会难得，不如我们打电话给时雨试试吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えーと確か、前に調べたやり方だと……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Let's see, if the method I looked up before is right, then...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我想想，記得之前查到的用法是……」",
+            "convert": "「我想想，记得之前查到的用法是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「『ヘイ、ツリ？』　『時雨』、『通話』」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「'Hey, Tsuri? Call Shigure.'」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「『嘿，Tsuri？』『時雨』『電話』」",
+            "convert": "「『嘿，Tsuri？』『时雨』『电话』」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「電話帳に登録がありません」"
+        },
+        "en": {
+            "name": "Tsuri",
+            "content": "「Number not registered in contacts.」"
+        },
+        "cn": {
+            "name": "Tsuri",
+            "content": "「通訊錄裡沒有聯絡人號碼」",
+            "convert": "「通讯录里没有联系人号码」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「.....」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「.....」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そう言えば、まだ電話帳とか１件も入ってなかったね～！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Th-That reminds me, you still haven't logged a single number into your contacts yet, right~?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「這、這麼說來，我們還沒在通訊錄裡輸入電話號碼呢～！？」",
+            "convert": "「这、这么说来，我们还没在通讯录里输入电话号码呢～！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「さ、さっき使い始めたばっかりだしね！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I-I only just started fiddling with it a second ago, after all!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「沒、沒辦法，我們才第一次開機而已嘛！？」",
+            "convert": "「没、没办法，我们才第一次开机而已嘛！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「じゃ、じゃあさ？　地図とか見てみようよ～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「W-Well, let's take a look at a map or something, then~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「那、那這樣好了，我們來看看地圖吧～！」",
+            "convert": "「那、那这样好了，我们来看看地图吧～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうね、地図とか見るのいいわよねー！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Right, taking a look at a map would be nice!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「好啊，看看地圖也不錯呢！",
+            "convert": "「好啊，看看地图也不错呢！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えーと、じゃあとりあえず家の近くってことで……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Let's see, in that case, we'll go with someplace near the house...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我看看，總之就先從我們家附近開始……」",
+            "convert": "「我看看，总之就先从我们家附近开始……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「『ヘイ、ツリ』！　『地図』！　『鎌倉』！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「'Hey, Tsuri! Map of Kamakura!'」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「『嘿，Tsuri！』『地圖』！『鐮倉』！」",
+            "convert": "「『嘿，Tsuri！』『地图』！『镰仓』！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「『キャバクラ』ですね。検索結果を表示します」"
+        },
+        "en": {
+            "name": "Tsuri",
+            "content": "「Yes, looking up 'Cabaret Clubs' in your area.」"
+        },
+        "cn": {
+            "name": "Tsuri",
+            "content": "「『戀娼大酒家』對嗎？現在顯示搜尋結果」",
+            "convert": "「『恋娼大酒家』对吗？现在显示搜索结果」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょ！？　メーちゃん～！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Wait?! May-chan~?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「咦！？楓～！？」",
+            "convert": "「咦！？枫～！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何でそんなお店検索してるの～！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Why are you looking up shops like that~?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「妳搜尋那種店想做什麼～！？」",
+            "convert": "「你搜索那种店想做什么～！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ち、違うわよ！　あたしは『鎌倉』って言ったのよ！　何が『キャバクラ』よ！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「N-No! I said 'Kamakura'! How did you get 'Cabaret Club'?!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「才、才沒有！我明明只說『鐮倉』！為什麼會變成『戀娼大酒家』啦！」",
+            "convert": "「才、才没有！我明明只说『镰仓』！为什么会变成『恋娼大酒家』啦！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バカじゃないの！？　このツリ、バカじゃないの！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Are you stupid?! Tsuri, are you stupid?!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「未免也太笨了！！這Tsuri一定是笨蛋吧！？」",
+            "convert": "「未免也太笨了！！这Tsuri一定是笨蛋吧！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私はバカではありません」"
+        },
+        "en": {
+            "name": "Tsuri",
+            "content": "「I am not stupid.」"
+        },
+        "cn": {
+            "name": "Tsuri",
+            "content": "「我不是笨蛋」",
+            "convert": "「我不是笨蛋」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃー！　口答え！　口答えしたわよこのツリ！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Nyaa! Back talk! Freaking Tsuri back talked me!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「喵──！居然給我回嘴！這Tsuri竟然敢回嘴！！」",
+            "convert": "「喵──！居然给我回嘴！这Tsuri竟然敢回嘴！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「生意気！　いくらアイポンでも生意気よ！　ふしゃー！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「How cheeky! You're a cheeky one, Tsuri! Gaaah!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「囂張！就算是IPon，也不可以這麼囂張啊！呼嘶──！！」",
+            "convert": "「嚣张！就算是IPon，也不可以这么嚣张啊！呼嘶──！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょ、メーちゃん！？　この関連動画ヤバいよ～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Wait, May-chan?! These related images are bad~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「楓！？旁邊的相關影片超不妙的～！」",
+            "convert": "「枫！？旁边的相关视频超不妙的～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんかすごいのがいっぱい出てるよ～！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「There's a lot of risque stuff showing up here~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「有好多猛到不行的影片啦～！」",
+            "convert": "「有好多猛到不行的视频啦～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「画面が肌色でいっぱいだよ～！！　はぁはぁ！　はぁはぁはぁ！！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「The screen is positively flesh-colored~!! Haah haaah. Ahh, hhah, huahh!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「畫面都被膚色給佔滿了～！！哈啊哈啊！哈啊哈啊哈啊！！」",
+            "convert": "「画面都被肤色给占满了～！！哈啊哈啊！哈啊哈啊哈啊！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「な、なんでそんなこと言いながら食い入るように見てるのよ！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Wh-Why are you saying that and looking at it like you're caught in a trance?!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「妳、妳嘴巴上說不妙，那幹嘛還一直盯著看！」",
+            "convert": "「你、你嘴巴上说不妙，那干嘛还一直盯着看！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「止めなさいってば！　もう消すわよ！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Stop it, I say! I'll break you!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「不准再看了！我要關掉囉！！」",
+            "convert": "「不准再看了！我要关掉咯！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうですか、メイプル？　アイポンは使えそうですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「So, how is it, Maple? Are you managing the iPon okay?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「試用得怎麼樣了，楓？用得還順手嗎？」",
+            "convert": "「试用得怎么样了，枫？用得还顺手吗？」"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆シナモン",
+            "content": "『「にゃああぁあぁぁぁっ！！！？」\\n「にゃああぁあぁぁぁっ！！！？」』"
+        },
+        "en": {
+            "name": "Maple & Cinnamon",
+            "content": "「Nyaaaaaah?!!!」\\n「Nyaaaaaah?!!!」"
+        },
+        "cn": {
+            "name": "楓＆桂",
+            "content": "『「喵啊啊啊啊啊啊啊！！！？」\\n「喵啊啊啊啊啊啊啊！！！？」』",
+            "convert": "『「喵啊啊啊啊啊啊啊！！！？」\\n「喵啊啊啊啊啊啊啊！！！？」』"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ん？　何ですかそのリアクション？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hm? What is with those reactions?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯？妳們這是什麼反應？」",
+            "convert": "「嗯？你们这是什么反应？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ど、どうもしないわよ！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「N-Nothing at all!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「沒、沒事啦！？」",
+            "convert": "「没、没事啦！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「アイポンなんて簡単ね！　ネットからツリまで使いこなしてるわ！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「The iPon is so simple! I've got everything from the internet to Tsuri down pat!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「IPon根本沒什麼難用的！從上網到Tsuri我都已經研究透徹了！」",
+            "convert": "「IPon根本没什么难用的！从上网到Tsuri我都已经研究透彻了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そうだよね～？　まだそのふたつしかやってないけどね～？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「R-Right~? Even though those are the only two things we've tried~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「就、就是說啊～雖然我們只試了這兩種功能而已～」",
+            "convert": "「就、就是说啊～虽然我们只试了这两种功能而已～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネット……？　ツリ……？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Internet...? Tsuri...?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「上網……？Tsuri……？」",
+            "convert": "「上网……？Tsuri……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨流妹術！　アイポンスティール！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Shigure-ryu Little Sister Jutsu! iPon Steal!」 or 「Shigure-ryu Imouto Jutsu! iPon Steal!」?"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「時雨流妹妹絕技！IPon探雲手！」",
+            "convert": "「时雨流妹妹绝技！IPon探云手！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ！？　ちょ、ちょっと返しなさいよ！　あたしのアイポン！！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Ah?! W-Wait, give it back! Give back my iPon!!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「啊！？還、還來啦！那是我的IPon！！」",
+            "convert": "「啊！？还、还来啦！那是我的IPon！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……メイプル？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...Maple?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……楓？」",
+            "convert": "「……枫？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何でアイポンを買って、いの一番にキャバクラを探しているのですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Why is the very first thing you do after buying an iPon looking up Cabaret Clubs?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「為什麼妳IPon買來第一件事，就是搜尋酒家地圖？」",
+            "convert": "「为什么你IPon买来第一件事，就是搜索酒家地图？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ち、違うのよ！？　それはシナモンが検索しろって！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Y-You've got it wrong! Cinnamon told me to look them up!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「妳、妳誤會了！！那是桂叫我搜尋的！",
+            "convert": "「你、你误会了！！那是桂叫我搜索的！"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぇぇっ！？　ちょ、メーちゃん！？　それは酷くない～！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Whaaa?! Wait, May-chan?! You're throwing me under the bus~?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「咦──！？楓！妳這麼說太過份了吧～！？」",
+            "convert": "「咦──！？枫！你这么说太过分了吧～！？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしは地図を見ようって言っただけなのに～！！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「I just told you to look up some maps! I swear~!!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我明明只說我想看地圖而已～！！」",
+            "convert": "「我明明只说我想看地图而已～！！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お止めなさい！　２匹とも一緒に見てたでしょう！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Quit it! The two of you looked at them together, didn't you?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「都給我住口！妳們兩個不是一起看得很高興嗎！」",
+            "convert": "「都给我住口！你们两个不是一起看得很高兴吗！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「機能制限かけておきますから！　私が許可するまでは解除しませんからね！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I'm going to be restricting the features! It will not be coming off until I give you permission!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我馬上用未成年守門員鎖定手機功能！直到我開口許可為止，是絕對不會解除的！」",
+            "convert": "「我马上用未成年守门员锁定手机功能！直到我开口许可为止，是绝对不会解除的！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あとしばらくはおやつも抜きです！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Also, there will be no snacks for either of you for the time being!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「還有，妳們兩個暫時沒點心吃！」",
+            "convert": "「还有，你们两个暂时没点心吃！」"
+        }
+    },
+    {
+        "jp": {
+            "name": "メイプル＆シナモン",
+            "content": "『「ご、ごめんなさーい！！」\\n「ご、ごめんなさ～い！！」』"
+        },
+        "en": {
+            "name": "Maple & Cinnamon",
+            "content": "「I-I'm sorry!!」\\n「I-I'm so sorry~!!」"
+        },
+        "cn": {
+            "name": "楓＆桂",
+            "content": "『「對、對不起啦～！！」\\n「對、對不起啦～！！」』",
+            "convert": "『「对、对不起啦～！！」\\n「对、对不起啦～！！」』"
+        }
+    }
+]
