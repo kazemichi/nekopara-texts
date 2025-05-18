@@ -18,7 +18,7 @@
         "cn": {
             "name": "巧克力",
             "content": "「再一次！我們又再一次到這裡來了喵～♪」",
-            "convert": "「再一次！我们又再一次到这里来了喵～♪」"
+            "convert": "「再一次！我们又再一次来到这里了喵～♪」"
         },
         "en": {
             "name": "Chocola",
@@ -33,7 +33,7 @@
         "cn": {
             "name": "香草",
             "content": "「嗯嗯，像遊樂園這種容易聚集人潮的地方，就是要平日來才對。」",
-            "convert": "「嗯嗯，像游乐园这种容易聚集人潮的地方，就是要平日来才对。」"
+            "convert": "「嗯嗯，果然像游乐园这种人多的场所，就是要工作日来才对。」"
         },
         "en": {
             "name": "Vanilla",
@@ -89,7 +89,7 @@
     {
         "cn": {
             "content": "不過，園裡還真的沒什麼人影。",
-            "convert": "不过，园里还真的没什么人影。"
+            "convert": "不过，游乐园里还真的没什么人影。"
         },
         "en": {
             "content": "There certainly aren't a lot of people here."
@@ -101,7 +101,7 @@
     {
         "cn": {
             "content": "畢竟現在是旺季外的平日上午嘛。",
-            "convert": "毕竟现在是旺季外的平日上午嘛。"
+            "convert": "毕竟现在是旺季外的工作日白天嘛。"
         },
         "en": {
             "content": "It's a weekday afternoon in the middle of the off-season, after all."
