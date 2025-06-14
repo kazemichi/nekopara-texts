@@ -1,0 +1,1848 @@
+[
+    {
+        "jp": {
+            "content": "「フレーズ、明日なんだけど、予定はある？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Fraise, do you have any plans for tomorrow?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「草莓，妳明天有事嗎？」",
+            "convert": "「草莓，你明天有事吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「明日……ですか？　とくには……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Tomorrow? Not really...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「明天嗎……？沒什麼計劃……」",
+            "convert": "「明天吗……？没什么计划……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "明日は休業日だ。フレーズにとっては、日本で初めての休日となる。"
+        },
+        "en": {
+            "content": "The shop is closed tomorrow, so it will be Fraise's first day off in Japan."
+        },
+        "cn": {
+            "content": "明天店休。對於草莓來說，這是她在日本第一次迎來假日。",
+            "convert": "明天店休。对于草莓来说，这是她在日本第一次迎来假日。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もしよかったら、紅茶の淹れ方を教えてくれない？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「If you don't mind, could you teach me how to brew black tea?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「能請妳教我怎麼泡紅茶嗎？」",
+            "convert": "「能请你教我怎么泡红茶吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え！？　わ、わたしが教えるんですか！？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What?! I-I would be the one teaching you?!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎？！我、我教妳嗎？！」",
+            "convert": "「哎？！我、我教你吗？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうよ、フレーズの淹れる紅茶、すごく美味しいから」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「That's right, because the tea you brew is amazingly delicious, Fraise.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「是啊。因為妳泡的紅茶非常好喝。」",
+            "convert": "「是啊。因为你泡的红茶非常好喝。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お店で淹れるところを何度も見てるけど、何が違うのかわからないのよね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I've seen you do it at the shop numerous times, but I don't know what you're doing differently.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「我在店裡看妳泡茶看了好多次，卻看不出到底有什麼不同。」",
+            "convert": "「我在店里看你泡茶看了好多次，却看不出到底有什么不同。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「当たり前だけど、使ってる茶葉は同じ。茶器も同じなのに……」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Obviously we're using the same tea leaves. The tea utensils are the same too, and yet...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「明明我們用的是同樣的茶葉，就連茶具也一樣……」",
+            "convert": "「明明我们用的是同样的茶叶，就连茶具也一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい。淹れ方も同じです。だから、たぶん味も同じだと思いますが……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Yes. Our brewing methods are the same, so I would also expect them to taste the same, but...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「是的。泡法也一樣。所以我覺得味道應該也一樣……」",
+            "convert": "「是的。泡法也一样。所以我觉得味道应该也一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それが違うから、教えてほしいんじゃない」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It's different, which is why I want you to teach me.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「就是因為不一樣，所以才想要妳教我呀。」",
+            "convert": "「就是因为不一样，所以才想要你教我呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「淹れるとこ、じっくり見せてくれるだけでもいいから！」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You just need to let me watch you do it up close!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「只要在妳泡茶的時候，讓我在旁邊仔細觀察就好了！」",
+            "convert": "「只要在你泡茶的时候，让我在旁边仔细观察就好了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それは、かまいませんが」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I certainly don't mind that, but...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「那倒是沒問題。」",
+            "convert": "「那倒是没问题。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥だって、お店の紅茶が美味しくなったほうが嬉しいでしょ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「It would make Kashou happy if the shop's tea got even more delicious, right?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「如果店裡的紅茶能更好喝，嘉祥也會很高興吧？」",
+            "convert": "「如果店里的红茶能更好喝，嘉祥也会很高兴吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そりゃ、もちろん。いや、でも明日は、休日だからな……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Well, of course. But tomorrow is a day off, after all...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那是當然。不過……明天可是假日……」",
+            "convert": "「那是当然。不过……明天可是假日……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥、んなことよりも、フレーズに厨房を教えてやってくれよ。ケーキのレシピとかさ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Kashou, more importantly, teach Fraise how to work in the kitchen. Like the cake recipes and stuff.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「嘉祥，比起這種事情，你更應該教草莓廚房的工作。例如蛋糕的食譜之類的。」",
+            "convert": "「嘉祥，比起这种事情，你更应该教草莓厨房的工作。例如蛋糕的食谱之类的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズなら、すぐ覚えるだろ？　厨房も人手不足だろーが」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Fraise should be able to learn things pretty quickly, right? We're short-handed in the kitchen, you know.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「草莓一定很快就能學會吧。廚房裡也人手不夠啊。」",
+            "convert": "「草莓一定很快就能学会吧。厨房里也人手不够啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たしかに厨房も人手不足だな。フレーズは、師匠に基礎を教わってるから、すぐ覚えるだろう」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You're right that we could use some help in that department. My mentor taught Fraise the basics, so she should be able to pick up on things pretty fast.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「廚房裡確實人手不夠。草莓有師傅教的基礎，應該很快就能學會。」",
+            "convert": "「厨房里确实人手不够。草莓有师傅教的基础，应该很快就能学会。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっと……レシピがわかれば、たぶん作れると思います」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Um... If I know the recipes, I can probably make them.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「那個……只要告訴我食譜，我應該做得出來。」",
+            "convert": "「那个……只要告诉我食谱，我应该做得出来。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…休日は休む日。レシピを覚えるのは仕事」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Tomorrow is a day off. Learning recipes is work.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……放假是用來休息的。記食譜是工作。」",
+            "convert": "「……放假是用来休息的。记食谱是工作。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「むむ……たしかに！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmm... That's true!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唔唔……確實沒錯！」",
+            "convert": "「唔唔……确实没错！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「にゃんにゃん～。お休みの日は、お家でゴロゴロしたいのにゃ～。ご主人さまと～ゴロゴロ♪」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Nyan nyan~ I want to roll around and rest on our day off, nya~ Alongside Master~ Purr purr! ♪」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「喵喵～放假的時候，我想在家裡放空打滾喵～和主人一起放空打滾♪」",
+            "convert": "「喵喵～放假的时候，我想在家里放空打滚喵～和主人一起放空打滚♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、いえ……わたしは休みがなくとも大丈夫ですので……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh, no... I'm okay without a day off, so...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊，不用……我不用休息也沒關係……」",
+            "convert": "「啊，不用……我不用休息也没关系……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ、もう家族なんだから、遠慮しないで。休日は好きなことしていいんだよ？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Fraise, you're family now, so you don't need to restrain yourself. You can do whatever you like on your day off.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「草莓，我們已經是家人了，不用客氣。放假時可以做自己喜歡的事喔。」",
+            "convert": "「草莓，我们已经是家人了，不用客气。放假时可以做自己喜欢的事喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　か、家族……ですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What? I-I'm... family?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎？我是家、家人嗎？」",
+            "convert": "「哎？我是家、家人吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だって、もう一緒に住んでるんだから」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I mean, we're already living together, after all.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「我們都已經一起住了。」",
+            "convert": "「我们都已经一起住了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「歓迎会もやりましたからね～♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「And we had your welcome party, too~ ♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「而且還辦了歡迎會～♪」",
+            "convert": "「而且还办了欢迎会～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥、どうするの？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Kashou, what should we do?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「嘉祥，怎麼辦？」",
+            "convert": "「嘉祥，怎么办？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううむ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmmm...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唔唔……」",
+            "convert": "「唔唔……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズは日本に来るのが初めてなのですから、街を案内いたしましょう」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「This is Fraise's first time coming to Japan, so let's show her around town.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「草莓是第一次來日本，我們帶她熟悉一下環境吧。」",
+            "convert": "「草莓是第一次来日本，我们带她熟悉一下环境吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たしかに、それがいいな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yes, I think that would be best.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這個主意不錯。」",
+            "convert": "「这个主意不错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なるほどね。そういうことなら任せるわ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I see. In that case, I'll leave that to you.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「確實沒錯。那就交給你們了。」",
+            "convert": "「确实没错。那就交给你们了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラも行きたいです！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Chocola wants to go, too!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「巧克力也想去！」",
+            "convert": "「巧克力也想去！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラが行くなら、私も行かざるをえない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「If Chocola is going, then Vanilla must go as well.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「既然巧克力要去，我也必須去。」",
+            "convert": "「既然巧克力要去，我也必须去。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え、なら、ぼくも！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Oh, in that case, I want to go too!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哎，那人家也要！」",
+            "convert": "「哎，那人家也要！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おいおい、そんな大勢でぞろぞろ行ったら、嘉祥が大変だろーが？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Hey now, if you go in such a large group, then it's going to be hard on Kashou, you know.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喂喂，這麼多人一起去的話，嘉祥顧不來吧。」",
+            "convert": "「喂喂，这么多人一起去的话，嘉祥顾不来吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですね。今回はフレーズの案内に集中したいので、皆にはお留守番をお願いしましょうか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Good point. We want to focus on showing Fraise around, so shall we ask everyone else to stay home this time?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「是啊。這次想專心讓草莓熟悉環境，請大家幫忙看家。」",
+            "convert": "「是啊。这次想专心让草莓熟悉环境，请大家帮忙看家。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今更、皆に街を案内する必要はないだろうしな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「At this point, we don't need to show everyone else around town.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「而且現在也沒必要帶大家熟悉環境了。」",
+            "convert": "「而且现在也没必要带大家熟悉环境了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Erg...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚……」",
+            "convert": "「呜……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううぅ～～……」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Errrg...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「嗚嗚～～……」",
+            "convert": "「呜呜～～……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わかりましたー。ショコラ、お留守番します！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「I understand. Chocola will stay at home!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「我知道了——。巧克力會留下看家！」",
+            "convert": "「我知道了——。巧克力会留下看家！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えらい、ショコラ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Good girl, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「巧克力真了不起。」",
+            "convert": "「巧克力真了不起。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「良いネコになりましたね、ショコラ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You've become such a good catgirl, Chocola.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「巧克力已經是一隻懂事的貓娘啦。」",
+            "convert": "「巧克力已经是一只懂事的猫娘啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「次は皆で行こうな？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Let's all go together next time, okay?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「下次大家一起去吧。」",
+            "convert": "「下次大家一起去吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！　ご主人さま～！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes, Master~!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好的！主人～！」",
+            "convert": "「好的！主人～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい？　開いてますよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Yes? The door's unlocked.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我在，門開著喔。」",
+            "convert": "「我在，门开着喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あの……失礼しま……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Um... Pardon m—」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「那個……打擾了……」",
+            "convert": "「那个……打扰了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あっ……。お仕事中でしたか、では後のほうが……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh... I see you're in the middle of work. Perhaps I should come back later...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……您在工作嗎，那就稍後再說……」",
+            "convert": "「啊……您在工作吗，那就稍后再说……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「かまいませんよ。兄様とネコたち——もちろん、あなたのことが最優先。気にしないで」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I don't mind. Nii-sama and the catgirls, including you, take priority. Don't worry about it.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「沒關係。哥哥和貓娘們的事情——當然也包括妳在內，都是最優先的。妳不用在意。」",
+            "convert": "「没关系。哥哥和猫娘们的事情——当然也包括你在内，都是最优先的。你不用在意。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「But...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「可是……」",
+            "convert": "「可是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今、部屋を出て行かれたら、追いかけていって話を聞きますよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「If you leave my room now, I'll just follow you and ask you what's going on.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「妳要是現在離開，我可要追上去問了喔。」",
+            "convert": "「你要是现在离开，我可要追上去问了喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あう……わかりました」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Urgh... I understand.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊嗚……好吧。」",
+            "convert": "「啊呜……好吧。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それにしても……私が仕事していると、よく気付きましたね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Even so... I'm surprised that you could tell I was doing work.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「話說回來……妳是怎麼知道我在工作的？」",
+            "convert": "「话说回来……你是怎么知道我在工作的？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「普通だと、絵を描いてるなら遊んでる、と思ったりしませんか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Wouldn't it be normal to assume I was playing around, since I'm drawing cats?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「通常看到在畫畫，不是都會覺得是在玩嗎？」",
+            "convert": "「通常看到在画画，不是都会觉得是在玩吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「実は……わたしも、絵を描くのが好きなんです」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Actually... I also love to draw.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「其實……我也喜歡畫畫。」",
+            "convert": "「其实……我也喜欢画画。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なんと！？　趣味まで気が合うなんて！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Really?! I can't believe we're so in sync, even when it comes to our hobbies!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「什麼？！我們竟然連興趣都這麼相投！」",
+            "convert": "「什么？！我们竟然连兴趣都这么相投！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わたしも驚きました」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I was surprised myself.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「我也吃了一驚。」",
+            "convert": "「我也吃了一惊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それで、時雨さんの絵を見て〝これは素人の絵ではない〟と」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「And when I saw your art, Shigure-san, I thought, 'This was not made by an amateur'.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「所以看到您的畫，我就知道這不是外行人畫的。」",
+            "convert": "「所以看到您的画，我就知道这不是外行人画的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういう理由でしたか」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「So that's the reason why.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「原來是因為這個啊。」",
+            "convert": "「原来是因为这个啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨さんは、絵を描く仕事をされているんですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Does your job involve you drawing pictures, Shigure-san?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「您是在做繪畫的工作嗎？」",
+            "convert": "「您是在做绘画的工作吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いくつかやっている仕事のひとつ……ですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「One of the many jobs I hold does... yes.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「是我在做的幾份工作其中之一。」",
+            "convert": "「是我在做的几份工作其中之一。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この絵も——兄様のサポートになれば、と思って描いています」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I draw this art thinking, 'If this art can help support Nii-sama...'」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「畫這張畫也是想著希望能幫到哥哥。」",
+            "convert": "「画这张画也是想着希望能帮到哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さんのため……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「So it's for Onii-san's sake...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「為了大哥哥……」",
+            "convert": "「为了大哥哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hee hee...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呵呵……」",
+            "convert": "「呵呵……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……時雨さんは、お兄さんのことを本気で……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh... Shigure-san, your feelings for Onii-san are truly...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……您是打從心裡喜歡大哥哥……」",
+            "convert": "「啊……您是打从心里喜欢大哥哥……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様のことは大好きです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I love Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我最喜歡哥哥了。」",
+            "convert": "「我最喜欢哥哥了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、その〝好き〟は……家族愛とは、違うのではありませんか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「But that 'love'... is different from familial love, isn't it?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「但是，您說的『喜歡』……和親情不一樣吧？」",
+            "convert": "「但是，您说的『喜欢』……和亲情不一样吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……フレーズは、本当に優秀なネコですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...You truly are an amazing catgirl, Fraise.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……妳真是一隻優秀的貓娘。」",
+            "convert": "「……你真是一只优秀的猫娘。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「優秀すぎて、ネコじゃないみたい」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「So amazing that you almost don't seem like a catgirl at all.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「實在太優秀了，都不像是貓娘了。」",
+            "convert": "「实在太优秀了，都不像是猫娘了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そして、時雨さんの気持ちに……お兄さんは、応えてない……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「And Onii-san... hasn't responded to your feelings, Shigure-san...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「然後，大哥哥……沒有回應您的心意……」",
+            "convert": "「然后，大哥哥……没有回应您的心意……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様は家族想いですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That is because Nii-sama cares deeply for his family.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「因為哥哥很為家人著想。」",
+            "convert": "「因为哥哥很为家人着想。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私の気持ちに応えることが、本当に私の為になるのか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Would responding to my feelings truly be good for me?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「如果他回應我的心意，真的是為我好嗎？」",
+            "convert": "「如果他回应我的心意，真的是为我好吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「家族の為になるのか？　——いろいろ考えてのことでしょう」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Would it be good for the family? He's probably considered this and many other things.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「對家人來說是好事嗎？——他一定考慮了很多。」",
+            "convert": "「对家人来说是好事吗？——他一定考虑了很多。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そして、私も兄様を悩ませたくないですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「And I don't want to cause any problems for Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「而且我也不想讓哥哥苦惱。」",
+            "convert": "「而且我也不想让哥哥苦恼。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様と一緒にいられる——それだけで、今は充分です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Just being able to be by Nii-sama's side... That's enough for me, right now.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「只要能和哥哥在一起——現在這樣就足夠了。」",
+            "convert": "「只要能和哥哥在一起——现在这样就足够了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも……皆さんは、お兄さんの部屋に行っているのに、時雨さんだけが独りで……寂しくはないですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Well... everyone else has gone to Onii-san's room, but you're here by yourself, Shigure-san... Aren't you lonely?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「可是……大家都去大哥哥的房間，只有您孤單一人……不會感覺寂寞嗎？」",
+            "convert": "「可是……大家都去大哥哥的房间，只有您孤单一人……不会感觉寂寞吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んう……ネコたちが、すべて兄様の部屋に……それは、もちろん寂しいですよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Ngh... All of the catgirls are in Nii-sama's room... That does indeed make me feel lonely.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯嗚……貓娘們都去哥哥的房間……我當然會寂寞。」",
+            "convert": "「嗯呜……猫娘们都去哥哥的房间……我当然会寂寞。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「深刻なネコ不足です……！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It leaves me with an acute lack of catgirls...!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嚴重缺乏貓娘的陪伴……！」",
+            "convert": "「严重缺乏猫娘的陪伴……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎？」",
+            "convert": "「哎？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「水無月の家にいたときは、アズキもメイプルもシナモンもココナツも私の部屋に来てくれたのに……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「When we were living in the Minaduki house, Azuki, Maple, Cinnamon, and Coconut would all come to my room, and yet...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「在水無月老家的時候，紅豆、楓、桂、椰子，都會來我房間……」",
+            "convert": "「在水无月老家的时候，红豆、枫、桂、椰子，都会来我房间……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコたちが兄様と仲良しなのは、とても嬉しいことなのですけれども！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「While I am very happy that all of the catgirls get along with Nii-sama!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「看到貓娘們跟哥哥感情好，我當然很高興！」",
+            "convert": "「看到猫娘们跟哥哥感情好，我当然很高兴！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「寂しい夜もありますね……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「There are nights when I feel lonely...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「但是也有感到寂寞的夜晚……」",
+            "convert": "「但是也有感到寂寞的夜晚……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな寂しい私のために、フレーズは訪ねてきてくれたのですよね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「So you came to visit lonely old me, Fraise?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「妳就是為了安慰寂寞的我而來的，對吧？」",
+            "convert": "「你就是为了安慰寂寞的我而来的，对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もう時間も遅いし、明日も早いし、一緒に寝てくださらない？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's pretty late, and we have to wake up early tomorrow, so would you please sleep with me?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「現在時間也晚了，明天還要早起，要不要跟我一起睡？」",
+            "convert": "「现在时间也晚了，明天还要早起，要不要跟我一起睡？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええっ！？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What?!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「咦？！」",
+            "convert": "「咦？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お婆様とは一緒に寝てなかったの？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Didn't you sleep with Grandmother?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「妳沒有跟奶奶一起睡嗎？」",
+            "convert": "「你没有跟奶奶一起睡吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「し、しません。自分の部屋が用意されていました」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I-I did not. I had a room of my own.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「沒、沒有。她幫我準備了個人房間。」",
+            "convert": "「没、没有。她帮我准备了个人房间。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「日本に来たばかりで、慣れない家で、不安もあるでしょう？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You've just arrived in Japan, and you are in an unfamiliar house. Aren't you feeling uneasy?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「妳剛來日本，住在這個不熟悉的家裡，心裡一定有所不安吧？」",
+            "convert": "「你刚来日本，住在这个不熟悉的家里，心里一定有所不安吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そんなことは……ないですけど……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I-I wouldn't say that... but...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「沒、沒有這種事情……」",
+            "convert": "「没、没有这种事情……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「とにかく、私のネコ不足を解消してちょうだい。さあさあ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「In any case, please help me solve my lack of catgirls. Come now...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「總之先來解決一下我缺乏貓娘的問題。來吧來吧……」",
+            "convert": "「总之先来解决一下我缺乏猫娘的问题。来吧来吧……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私に甘えて良いのですよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You can let me pamper you, you know.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「可以來對我撒嬌喔。」",
+            "convert": "「可以来对我撒娇喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……甘えたいのは、時雨さんではないですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Aren't you the one who wants to be pampered, Shigure-san?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……想撒嬌的是您吧？」",
+            "convert": "「……想撒娇的是您吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……それがわかっているなら、そのあともわかりますね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hee hee... If you know that, then you know what comes next, don't you?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘻嘻……既然妳都看出來了，接下來就不必多說了吧？」",
+            "convert": "「嘻嘻……既然你都看出来了，接下来就不必多说了吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぅ……寝相が悪くても、文句は言わないでくださいね」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Whew... Please don't complain to me if you have problems sleeping.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「呼……如果我的睡相很糟糕，也請您不要抱怨喔。」",
+            "convert": "「呼……如果我的睡相很糟糕，也请您不要抱怨喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……ひさしぶりのネコの体温……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hff... It's been so long since I've felt a catgirl's body heat...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哈呼……久違的貓娘的體溫……」",
+            "convert": "「哈呼……久违的猫娘的体温……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ネコは体温が高いそうです。暑くないですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「They say that catgirls have a high body temperature. Is it too warm for you?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「貓娘的體溫似乎比較高。不會覺得熱嗎？」",
+            "convert": "「猫娘的体温似乎比较高。不会觉得热吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「心地いいです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It feels comfortable.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「很舒服。」",
+            "convert": "「很舒服。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……私、ネコと一緒だと、本当によく眠れるんです……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...I can truly sleep well when I'm with a catgirl...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……我和貓娘一起睡的時候，就會睡得特別好……」",
+            "convert": "「……我和猫娘一起睡的时候，就会睡得特别好……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、あの……お兄さんは、よく時雨さんの部屋に来るんですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「U-Um... Does Onii-san come to your room very often, Shigure-san?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「那、那個……大哥哥經常來您的房間嗎？」",
+            "convert": "「那、那个……大哥哥经常来您的房间吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え？　いいえ、とくに用事がなければ……。どうしてですか？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「What? No, not unless he needs something... Why do you ask?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哎？不，沒事的話他不會來……為什麼這麼問？」",
+            "convert": "「哎？不，没事的话他不会来……为什么这么问？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さんの匂いがします」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「It smells like Onii-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「我聞到了大哥哥的氣味。」",
+            "convert": "「我闻到了大哥哥的气味。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わわ……さすがネコですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Wow... Catgirls really are amazing.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哇哇……不愧是貓娘。」",
+            "convert": "「哇哇……不愧是猫娘。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この部屋は、しばらく兄様が使っていたんです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「This was Nii-sama's room for a while.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「這間房間以前是哥哥住的。」",
+            "convert": "「这间房间以前是哥哥住的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私が引っ越してきたとき改築して、兄様には新しい部屋へ移っていただきました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「When I moved in, we had Nii-sama move to a new room, and this one was renovated.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我搬過來的時候做了改建，請哥哥搬到了新房間。」",
+            "convert": "「我搬过来的时候做了改建，请哥哥搬到了新房间。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだったんですね……だから……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh, I see... So that's why...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「原來如此……所以……」",
+            "convert": "「原来如此……所以……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「羨ましいです。ネコは鼻がよくて」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I'm jealous. Catgirls have such keen senses of smell.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「貓娘的鼻子這麼靈敏，真讓我羨慕。」",
+            "convert": "「猫娘的鼻子这么灵敏，真让我羡慕。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私もネコなら、兄様の匂いに気付けたでしょうに……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「If I were a catgirl, then I would have noticed that it smells like Nii-sama...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「如果我也是貓娘，就能聞到哥哥的氣味……」",
+            "convert": "「如果我也是猫娘，就能闻到哥哥的气味……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すー……ふぅ……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Zzz... whew...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嘶……呼……」",
+            "convert": "「嘶……呼……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……時雨さん？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Shigure-san?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……時雨小姐？」",
+            "convert": "「……时雨小姐？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（お疲れだったみたいですね）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(She must have been quite tired.)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（看來她很疲倦了。）」",
+            "convert": "「（看来她很疲倦了。）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（あるいは、本当にネコと一緒だとよく眠れる……とか？）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(Or perhaps she really does find it easier to sleep with a catgirl...?)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（還是說……和貓娘在一起真的會睡得很好？）」",
+            "convert": "「（还是说……和猫娘在一起真的会睡得很好？）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（時雨さんは、お兄さんへの気持ちを完全には伝えていない……）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(Shigure-san hasn't told Onii-san exactly how she feels...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（時雨小姐還沒完全把自己的心意告訴給大哥哥……）」",
+            "convert": "「（时雨小姐还没完全把自己的心意告诉给大哥哥……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（今は一緒にいられれば充分——と言っていた）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(She said that it's enough for her to be by his side.)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（她說現在能在一起就滿足了。）」",
+            "convert": "「（她说现在能在一起就满足了。）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（——わたしは？）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(What about me?)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（——那我呢？）」",
+            "convert": "「（——那我呢？）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（お兄さんのことは……大切）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(Onii-san is... important to me.)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（大哥哥是我……重要的人。）」",
+            "convert": "「（大哥哥是我……重要的人。）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（それは、幼い日にマカロンをくれたから？　それだけじゃない……）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(Is that because he gave me macarons when I was young? No, that's not the only reason...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（是因為小時候他為我烤了馬卡龍？不只是因為這樣……）」",
+            "convert": "「（是因为小时候他为我烤了马卡龙？不只是因为这样……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（真剣にケーキを作る眼差し……）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(The look in his eyes when he's making cakes...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（做蛋糕時那全神貫注的眼神……）」",
+            "convert": "「（做蛋糕时那全神贯注的眼神……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（お兄さんの作るケーキは、本当に美味しくて……）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(The cakes that Onii-san makes are truly delicious...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（大哥哥做的蛋糕真的很美味……）」",
+            "convert": "「（大哥哥做的蛋糕真的很美味……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（愛情の中心にいる人……）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(He's at the center of so much love...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（處在愛情中心的人……）」",
+            "convert": "「（处在爱情中心的人……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（わたしも、お兄さんのことが……）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(I think that I do feel the same for Onii-san...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（我也對大哥哥……）」",
+            "convert": "「（我也对大哥哥……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（でも、これは、お兄さんがパティシエールに向けるような〝憧れ〟かも？）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(But this might just be me respecting Onii-san for his abilities as a pâtissier, right?)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（但這可能是『憧憬』，就像大哥哥憧憬著糕點師那樣。）」",
+            "convert": "「（但这可能是『憧憬』，就像大哥哥憧憬着糕点师那样。）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（あるいは……ネコたちが、お兄さんに向ける〝恋心〟なのかも……？）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(Or might it be... a romantic love, the same way the other catgirls feel for Onii-san...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（或是……貓娘們對大哥哥懷有的那種『愛慕』……？）」",
+            "convert": "「（或是……猫娘们对大哥哥怀有的那种『爱慕』……？）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（……わたしが、恋心？　そんなわけが……）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(...Am I in love with him? That isn't...)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（……我有愛慕之情？怎麼可能……）」",
+            "convert": "「（……我有爱慕之情？怎么可能……）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ハァ……ハァ……兄様……♥」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Haa... haa... Nii-sama... ♥」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哈啊……哈啊……哥哥……♥」",
+            "convert": "「哈啊……哈啊……哥哥……♥」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……兄様のニオイ……すんすんすん……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hff... Nii-sama's scent... Snff snff snff...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哈呼……哥哥的氣味……嘶嘶嘶……」",
+            "convert": "「哈呼……哥哥的气味……嘶嘶嘶……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ほ、本当に寝てるんですよね？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Y-You really are asleep, right?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「是、是真的睡著了吧？」",
+            "convert": "「是、是真的睡着了吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「むにゃ……兄様……すぅーすぅー……兄様……♥」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Mngh... Nii-sama... Snff snff... Nii-sama... ♥」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗚喵……哥哥……嘶、嘶……哥哥……♥」",
+            "convert": "「呜喵……哥哥……嘶、嘶……哥哥……♥」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……素敵なニオイです、兄様……すんすんすん……♥」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hff... What a wonderful smell, Nii-sama... Snff snff snff... ♥」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哈呼……好棒的氣味，哥哥……嘶嘶嘶……♥」",
+            "convert": "「哈呼……好棒的气味，哥哥……嘶嘶嘶……♥」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（ほ、本当に、お兄さんのニオイに気付いてないんです……よね？）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(Sh-She isn't actually able to smell Onii-san's scent... right?)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（她、她真的沒有聞到大哥哥的氣味嗎？）」",
+            "convert": "「（她、她真的没有闻到大哥哥的气味吗？）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「むにゃ……兄様……♥」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Mngh... Nii-sama... ♥」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗚喵……哥哥……♥」",
+            "convert": "「呜喵……哥哥……♥」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はふぅ……んっ……兄様……♥」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hff... nhh... Nii-sama... ♥」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哈呼……嗯……哥哥……♥」",
+            "convert": "「哈呼……嗯……哥哥……♥」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（水無月のネコたちが、お兄さんの部屋に行く理由がわかる気がします）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(I feel like I understand why the Minaduki catgirls go to Onii-san's room.)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（我好像知道水無月家的貓娘們為什麼要去大哥哥的房間了。）」",
+            "convert": "「（我好像知道水无月家的猫娘们为什么要去大哥哥的房间了。）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「（時雨さんのこんな声を聞かされてたら……わたしはゆっくり寝られそうにありません……！）」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「(Hearing Shigure-san make these sounds... I don't know how I'd ever get a good night's sleep...!)」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「（要是聽到時雨小姐發出這種聲音……我也覺得無法睡好了……！）」",
+            "convert": "「（要是听到时雨小姐发出这种声音……我也觉得无法睡好了……！）」"
+        }
+    }
+]

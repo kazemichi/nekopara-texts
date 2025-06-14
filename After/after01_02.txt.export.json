@@ -1,0 +1,1512 @@
+[
+    {
+        "jp": {
+            "content": "師匠がフォークを置く。"
+        },
+        "en": {
+            "content": "My mentor places her fork down."
+        },
+        "cn": {
+            "content": "師傅放下了叉子。",
+            "convert": "师傅放下了叉子。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「美味しかったわ、嘉祥。ありがとう」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「That was delicious, Kashou. Thank you.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「很好吃喔，嘉祥。謝謝你。」",
+            "convert": "「很好吃喔，嘉祥。谢谢你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ホッ……よかった」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Whew... Thank goodness.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呼……太好了。」",
+            "convert": "「呼……太好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様のケーキは美味しいです。心配しすぎですよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Your cake was delicious, Nii-sama. You worry too much.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥做的蛋糕當然好吃。不必這麼擔心。」",
+            "convert": "「哥哥做的蛋糕当然好吃。不必这么担心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「新しいレシピで作ったケーキを師匠に食べてもらうなんて、緊張して当然だと思うけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I think it's normal to feel nervous when my mentor is eating a cake that I've prepared from a new recipe...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「請師傅試吃用新食譜做的蛋糕，會緊張不是理所當然的嗎……」",
+            "convert": "「请师傅试吃用新食谱做的蛋糕，会紧张不是理所当然的吗……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……日本に帰ってきてから、何か見つけたみたいね、嘉祥」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Hee hee... You discovered something when you went back to Japan, didn't you, Kashou?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「呵呵……看來回到日本之後，你有新的體悟了呢，嘉祥。」",
+            "convert": "「呵呵……看来回到日本之后，你有新的体悟了呢，嘉祥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい、お陰様で」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yes, thankfully.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是的，托您的福。」",
+            "convert": "「是的，托您的福。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「本当に美味しかったわ。楽しませようという気持ちに溢れた味だった……」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「It was truly delicious. Through this flavor, I can clearly feel your wish to entertain me...」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「真的很好吃。味道裡洋溢著想給人帶來快樂的心意……」",
+            "convert": "「真的很好吃。味道里洋溢着想给人带来快乐的心意……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだまだ師匠の味には及びませんが」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's still no match for your flavors, Master.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「還遠遠比不上師傅做的味道。」",
+            "convert": "「还远远比不上师傅做的味道。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなことはないわ。もう貴方の作るケーキは、私のと変わらない。いえ、それ以上だと思う」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「That's not true. The cakes you make are no different from mine. No, I think they're actually better.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「沒有這回事。你做的蛋糕已經和我的沒什麼區別。不，甚至更勝一籌了。」",
+            "convert": "「没有这回事。你做的蛋糕已经和我的没什么区别。不，甚至更胜一筹了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「と、とんでもない！」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Th-That's not possible!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不、不敢當！」",
+            "convert": "「不、不敢当！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「美味しかったわよね？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「It was delicious, was it not?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「很好吃吧？」",
+            "convert": "「很好吃吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "師匠が時雨とフレーズに問いかける。"
+        },
+        "en": {
+            "content": "My mentor poses this question to Shigure and Fraise."
+        },
+        "cn": {
+            "content": "師傅向時雨和草莓發問。",
+            "convert": "师傅向时雨和草莓发问。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私にとって兄様のケーキは、いつだって最高で完璧で究極です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「To me, Nii-sama's cakes are always the best, simply perfect, and the ultimate creations.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「對我來說，哥哥做的蛋糕一直都是最好、最棒、最完美的。」",
+            "convert": "「对我来说，哥哥做的蛋糕一直都是最好、最棒、最完美的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨の評価はありがたいけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「While I appreciate your praise, Shigure...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時雨的評價雖讓我感到欣慰……」",
+            "convert": "「时雨的评价虽让我感到欣慰……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "正直、参考にならなかった。\\nそれなら、と皆の視線がフレーズに集まる。"
+        },
+        "en": {
+            "content": "If I'm being honest, it doesn't really help.\\nAnd so, everyone turns their gazes towards Fraise."
+        },
+        "cn": {
+            "content": "老實說，她的意見沒有參考價值。\\n於是大家的視線聚集到草莓身上。",
+            "convert": "老实说，她的意见没有参考价值。\\n于是大家的视线聚集到草莓身上。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……えっと……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Um... well...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……這個……」",
+            "convert": "「啊……这个……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ、いつも私のケーキを食べている貴女から見て——嘉祥のケーキは、どうだったかしら？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Fraise, you're always eating my cakes, so from your point of view... what do you think of Kashou's cakes?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「草莓，妳一直在吃我做的蛋糕。在妳看來，嘉祥的蛋糕怎麼樣？」",
+            "convert": "「草莓，你一直在吃我做的蛋糕。在你看来，嘉祥的蛋糕怎么样？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さんのケーキ、もちろん美味しかったです」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Onii-san's cakes are delicious, of course.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「大哥哥做的蛋糕當然很好吃。」",
+            "convert": "「大哥哥做的蛋糕当然很好吃。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとう。でも、師匠には及ばないだろう？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Thank you. But it's not as good as Master's, right?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「謝謝。但還是比不上師傅吧？」",
+            "convert": "「谢谢。但还是比不上师傅吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んぅ……同じ味ではないです。でも……どちらも優しい味だと感じました」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Ngh... The flavor is not the same. But... I feel like they're both delicious.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「唔……味道不一樣。但是……兩者都是溫柔的味道。」",
+            "convert": "「唔……味道不一样。但是……两者都是温柔的味道。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「パティシエールのケーキは、優しく一緒にいてくれるような味で——」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Pâtissière's cake has a flavor that gently lingers with you...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「糕點師做的蛋糕，味道就像是溫柔地陪伴在身邊——」",
+            "convert": "「糕点师做的蛋糕，味道就像是温柔地陪伴在身边——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さんのケーキは、優しく撫でてくれるような——。そんな味でした」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「And Onii-san's cake tastes like it's gently petting you. That's how it felt to me.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哥哥的蛋糕則像是溫柔的輕撫，是這樣的味道。」",
+            "convert": "「哥哥的蛋糕则像是温柔的轻抚，是这样的味道。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フレーズはネコらしい表現で、そう答えてくれた。"
+        },
+        "en": {
+            "content": "Fraise gives a very catgirl-like explanation when she answers."
+        },
+        "cn": {
+            "content": "草莓用貓娘特有的形容做出了回答。",
+            "convert": "草莓用猫娘特有的形容做出了回答。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どちらも同じくらい美味しく、どちらも優しい味です」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「They're both delicious, and they both have gentle flavors.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「兩者都非常好吃，都是溫柔的味道。 」",
+            "convert": "「两者都非常好吃，都是温柔的味道。 」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうなんです！　まさに、私が思っていたことを的確に表現していただきました！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「That's true! She was able to express exactly what I was thinking!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「沒錯！把我心裡的想法如實表現出來了！」",
+            "convert": "「没错！把我心里的想法如实表现出来了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、そう言ってもらえるのは嬉しいけれど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I-It makes me happy to hear you say that, but...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這、這麼說我是很高興……」",
+            "convert": "「这、这么说我是很高兴……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズは本当に優秀なネコですね！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Fraise is a truly excellent catgirl!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「草莓真是一隻優秀的貓娘！」",
+            "convert": "「草莓真是一只优秀的猫娘！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……そうでしょう？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Heh heh... Isn't she, though?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「呵呵……對吧？」",
+            "convert": "「呵呵……对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうかしら、嘉祥？　フレーズをお店に置いてもらえないかしら？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「What do you think, Kashou? How about bringing Fraise into your shop?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「怎麼樣，嘉祥？能不能讓草莓留在店裡？」",
+            "convert": "「怎么样，嘉祥？能不能让草莓留在店里？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What?!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哎？！」",
+            "convert": "「哎？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええっ！？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What?!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎？！」",
+            "convert": "「哎？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥が迷惑でなければ、フレーズには日本のラ・ソレイユで働いてもらいたいのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「If it wouldn't cause you any problems, Kashou, I would like for Fraise to work at La Soleil in Japan.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「如果你不嫌麻煩，我想讓草莓在日本的La Soleil工作。」",
+            "convert": "「如果你不嫌麻烦，我想让草莓在日本的La Soleil工作。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「で、でも……そうしたら、フランスのソレイユは大変じゃありませんか？　師匠１人になってしまう……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「B-But... if we do that, won't things be more difficult here? You'll end up by yourself, Master...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「可、可是……如果她在我這裡工作，法國的Soleil會不會忙不過來？只剩師傅您一個人……」",
+            "convert": "「可、可是……如果她在我这里工作，法国的Soleil会不会忙不过来？只剩师傅您一个人……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私は、母親の味を残したいと、ずっと思ってきたわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I had always wanted to keep my mother's flavors alive.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我一直希望可以留下母親的味道。」",
+            "convert": "「我一直希望可以留下母亲的味道。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥は、その味をしっかりと受け継いでくれた。これはソレイユの味だと思うわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Kashou, you have definitely taken those flavors on. I feel that is the flavor of La Soleil.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「你著實繼承了這個味道。我覺得，這就是Soleil的味道。」",
+            "convert": "「你着实继承了这个味道。我觉得，这就是Soleil的味道。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………はい」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...Right.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………嗯。」",
+            "convert": "「…………嗯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "まだまだ及ばない——という気持ちはあった。"
+        },
+        "en": {
+            "content": "I'm still nowhere near as good as her... or at least, that's how I felt."
+        },
+        "cn": {
+            "content": "我自認為還遠遠不及。",
+            "convert": "我自认为还远远不及。"
+        }
+    },
+    {
+        "jp": {
+            "content": "しかし、師匠が〝これはソレイユの味だ〟と言うのなら、それを否定するなんて、とんでもないことだ。"
+        },
+        "en": {
+            "content": "But if my mentor is telling me that she feels \"this is the flavor of La Soleil\", there's no way I can deny it."
+        },
+        "cn": {
+            "content": "但既然師傅斷言這就是Soleil的味道，我也無法否認了。",
+            "convert": "但既然师傅断言这就是Soleil的味道，我也无法否认了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "残すべき味は、師匠が一番よく知っているのだから。"
+        },
+        "en": {
+            "content": "After all, she would know the flavor that she wants to leave behind the best."
+        },
+        "cn": {
+            "content": "因為師傅最清楚應該傳承下去的是什麼味道。",
+            "convert": "因为师傅最清楚应该传承下去的是什么味道。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これからは、ラ・ソレイユの味を貴方に預ける」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「From here on, I leave the flavor of La Soleil to you.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「今後La Soleil的味道就託付給你了。」",
+            "convert": "「今后La Soleil的味道就托付给你了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え……でも……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「What... But...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃……可是……」",
+            "convert": "「呃……可是……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「実はもう、フランスの店舗は閉めてきちゃったの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「You see, I've already closed down the shop in France.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「其實我已經把法國的店關了。」",
+            "convert": "「其实我已经把法国的店关了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「行動が極端すぎませんか！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Aren't you going a bit far here?!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這樣做也太極端了吧？！」",
+            "convert": "「这样做也太极端了吧？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「人生は短いわ。〝そうしたほうがいい〟と思ったら、躊躇する時間なんてないのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Life is short. When you think you should do something, you don't really have the time to hesitate.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「人生苦短。當你覺得有什麼該做的事情，那就沒有猶豫的時間了。」",
+            "convert": "「人生苦短。当你觉得有什么该做的事情，那就没有犹豫的时间了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふっ……急にフランスへ留学して、誰にも相談せずパティシエになってしまった兄様にそっくりです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hee hee... She's just like Nii-sama, Mr. Suddenly Study in France and Become a Pâtissier Without Discussing It with Anyone.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呵呵……哥哥也是突然就跑到法國留學，不跟任何人商量就成了糕點師，真是一模一樣。」",
+            "convert": "「呵呵……哥哥也是突然就跑到法国留学，不跟任何人商量就成了糕点师，真是一模一样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Erg...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「呃……」",
+            "convert": "「呃……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふっ、そんなところも血筋かもしれないわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Heh heh, we might be made from the same stuff, then.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「呵呵，性格相似可能也有血脈的緣故。」",
+            "convert": "「呵呵，性格相似可能也有血脉的缘故。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「尊敬する師匠と……そして、お婆さんと似てる、と言われたら嬉しいですけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I respect you as both my Master and my grandmother, so being told that I was similar to you... would make me happy, but...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「說我做的糕點像尊敬的師傅……以及奶奶的味道，我倍感榮幸。不過……」",
+            "convert": "「说我做的糕点像尊敬的师傅……以及奶奶的味道，我倍感荣幸。不过……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あら、嘉祥ったら照れてるわね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Oh, Kashou, are you feeling bashful?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「哎呀，嘉祥竟然害羞了。」",
+            "convert": "「哎呀，嘉祥竟然害羞了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様のそんな顔、珍しいです！　貴重なショットです！」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's so unusual to see Nii-sama look like this! This is a precious photo opportunity!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥的這種表情好少見！好珍貴的鏡頭！」",
+            "convert": "「哥哥的这种表情好少见！好珍贵的镜头！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「写真を撮ろうとするな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Don't take pictures of me.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「別拍照。」",
+            "convert": "「别拍照。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仕方ありません。今の表情は、私のメモリーにだけ焼き付けておきます」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「So be it. I'll just have to burn this expression on your face into my memory.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「真沒辦法。那只好把剛剛的表情烙印在我的記憶裡了。」",
+            "convert": "「真没办法。那只好把刚刚的表情烙印在我的记忆里了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「師匠、お店がなくなったなら、しばらくは日本に？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Master, if the shop is closed, then are you going to stay in Japan for a while?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「師傅，您把店關了，是要暫時待在日本嗎？」",
+            "convert": "「师傅，您把店关了，是要暂时待在日本吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「しばらくは１人で世界を見て回ろうと思うの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I'm thinking of traveling around the world by myself.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我打算暫時一個人環遊世界。」",
+            "convert": "「我打算暂时一个人环游世界。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「パティシエール、わたしは〝日本に行く〟としか聞いていませんでしたよ！？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Pâtissière, you only told me that we would be going to Japan!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「糕點師，我只聽您說要來日本呀？！」",
+            "convert": "「糕点师，我只听您说要来日本呀？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええ、嘉祥のケーキの味に満足できなかったら、日本に留まって指導するか」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Yes, if Kashou's cake was unsatisfactory, I was planning on staying in Japan to guide him.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「是啊，如果嘉祥的蛋糕味道不能讓我滿意，本來我準備留在日本指導他。」",
+            "convert": "「是啊，如果嘉祥的蛋糕味道不能让我满意，本来我准备留在日本指导他。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フランスに帰って店を再開するつもりだったもの」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Either that, or going back to France to reopen the shop.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「或者回法國重新開店。」",
+            "convert": "「或者回法国重新开店。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……満足できたんですね」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...And you find it satisfactory.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……看來您滿意了呢。」",
+            "convert": "「……看来您满意了呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私だってフレーズとは別れたくないわ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「I don't wish to part ways with you either, Fraise.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我也不想和妳分開。」",
+            "convert": "「我也不想和你分开。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、貴女はソレイユの看板ネコだから、新しいソレイユと一緒に成長してほしいのよ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「But you are La Soleil's poster catgirl, and I wish for you to grow alongside the new La Soleil.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「不過，妳是Soleil的看板貓娘，我想讓妳和新的Soleil一起成長。」",
+            "convert": "「不过，你是Soleil的看板猫娘，我想让你和新的Soleil一起成长。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それに……憧れの〝お兄さん〟と一緒に働きたい——とフレーズも思っていたでしょう？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Besides... you wish to work with the 'Onii-san' you admire so much, don't you?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「而且……妳不是也想和從小仰慕的大哥哥一起工作嗎？」",
+            "convert": "「而且……你不是也想和从小仰慕的大哥哥一起工作吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そ、それは……ですが、こんな急にお願いしては……ご迷惑では？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「W-Well... Still, this request is so sudden... Wouldn't I just be an inconvenience?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「那、那是沒錯……可是事情這麼突然……不會添麻煩嗎？」",
+            "convert": "「那、那是没错……可是事情这么突然……不会添麻烦吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大丈夫！　フレーズのことは連絡を貰っていたから、貴女の生活に必要なものは、全て揃えてあります」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「It's fine! She contacted me about you earlier, Fraise, so I've already gotten everything you'd need to live here ready.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「沒問題！聽說草莓要來，我已經把生活必需品都準備好了。」",
+            "convert": "「没问题！听说草莓要来，我已经把生活必需品都准备好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もう、あるんですか！？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「You already have it all?!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「已經準備好了嗎？！」",
+            "convert": "「已经准备好了吗？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「手回しがいい……さすがは師匠と時雨だな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「The preparations are done... Not a surprise, coming from the two of you, Shigure, Master.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「準備好充分……不愧是師傅和時雨。」",
+            "convert": "「准备好充分……不愧是师傅和时雨。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "その手回しも、俺のケーキが中途半端だったらムダになったわけだ。満足してもらえてよかった。"
+        },
+        "en": {
+            "content": "All those preparations would have been for naught if my cake had ended up being half-assed. I'm very glad that it satisfied her."
+        },
+        "cn": {
+            "content": "如果我的蛋糕差強人意，她們的準備就白做了。幸好讓師傅滿意了。",
+            "convert": "如果我的蛋糕差强人意，她们的准备就白做了。幸好让师傅满意了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………本当に、ご迷惑ではありませんか、お兄さん？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Am I really not going to be a bother, Onii-san?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「…………真的不會給你添麻煩嗎，大哥哥？」",
+            "convert": "「…………真的不会给你添麻烦吗，大哥哥？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろんだ。たとえ何の準備もなく急な話だったとしても——フレーズが来てくれるなら、大助かりだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course not. Even if we didn't have anything prepared, and even with it being so sudden, your joining us will be a huge help, Fraise.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「當然不會。即使是沒有任何準備就突然過來，只要妳願意來就是幫大忙了。」",
+            "convert": "「当然不会。即使是没有任何准备就突然过来，只要你愿意来就是帮大忙了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうございます、お兄さん」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Thank you very much, Onii-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「謝謝大哥哥。」",
+            "convert": "「谢谢大哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フレーズが安堵の笑みを浮かべる。俺は応じるようにうなずいた。"
+        },
+        "en": {
+            "content": "Fraise smiles in relief. I give her a nod of recognition."
+        },
+        "cn": {
+            "content": "草莓鬆了一口氣，面露微笑，我也點頭回應。",
+            "convert": "草莓松了一口气，面露微笑，我也点头回应。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ、お店に出るのに、いつまでも〝お兄さん〟じゃダメでしょう？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Fraise, since you'll be working in the shop, you can't keep calling him 'Onii-san', right?」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「草莓，妳要在店裡工作，就不能總是叫著『大哥哥』了。」",
+            "convert": "「草莓，你要在店里工作，就不能总是叫着『大哥哥』了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、そうですよね。パティシエ……でいかがでしょうか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh, you're right. How about... Pâtissier?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊，說的也是。那麼……叫『糕點師』如何？」",
+            "convert": "「啊，说的也是。那么……叫『糕点师』如何？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うっ……いや……フレーズにそう呼ばれると、師匠と肩を並べてるみたいで恐れ多いな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Erg... no... When you call me that, Fraise, it feels like I'm at the same level as Master, and it seems like a little too much.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「唔……不……聽妳這麼稱呼，彷彿我和師傅並駕齊驅一樣，不敢當啊。」",
+            "convert": "「唔……不……听你这么称呼，仿佛我和师傅并驾齐驱一样，不敢当啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "パティシエールは女性のケーキ職人のことで、パティシエは男性のケーキ職人のことだ。"
+        },
+        "en": {
+            "content": "A pâtissière is woman who makes cakes, and a pâtissier is a man who makes cakes."
+        },
+        "cn": {
+            "content": "法文裡女性糕點師是pâtissière，男性糕點師是pâtissie，發音不同。",
+            "convert": "法文里女性糕点师是pâtissière，男性糕点师是pâtissie，发音不同。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私はそのつもりで看板を譲ったのだけれど？」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Well, that is why I have passed down the name to you, after all.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「我就是這麼想，才把招牌交給你的呀。」",
+            "convert": "「我就是这么想，才把招牌交给你的呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「呼ばれるたびに〝俺はそれに見合っているのか？〟って自問自答しちゃいそうです……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Every time I'm called that, I just know I'll be filled with doubt as to whether or not I deserve it...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「感覺每次聽她這麼叫我，我就會懷疑自己是否名副其實……」",
+            "convert": "「感觉每次听她这么叫我，我就会怀疑自己是否名副其实……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「嘉祥は、自信と自覚を持つ必要があるわねえ」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「You need to learn to have more self-confidence, Kashou.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「看來你需要更有自信與自覺。」",
+            "convert": "「看来你需要更有自信与自觉。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「では、〝ご主人様〟と呼んではいかがでしょうか！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Then how about if she calls you 'Milord'?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那就叫『主人』怎麼樣？！」",
+            "convert": "「那就叫『主人』怎么样？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええっ、そ、それは……いいのでしょうか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Well, th-that is... Is that okay?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎，這、這個……可以嗎？」",
+            "convert": "「哎，这、这个……可以吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「せ、赤面してしまいますね」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I-It feels a little embarrassing.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「會、會臉紅的。」",
+            "convert": "「会、会脸红的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ううむ……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Hmmm...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「嗯……」",
+            "convert": "「嗯……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "〝ご主人様〟という呼び方だと、ショコラを思い出してしまう。同じでも問題はないのだが。"
+        },
+        "en": {
+            "content": "Being called \"Milord\" brings Chocola to mind. I don't really mind the similarity, though."
+        },
+        "cn": {
+            "content": "叫我『主人』會讓我想到巧克力。不過用同樣的稱呼也沒關係。",
+            "convert": "叫我『主人』会让我想到巧克力。不过用同样的称呼也没关系。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「マスター……では、いかがでしょうか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「How about... 'Master'?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「那麼……叫『店長』，怎麼樣？」",
+            "convert": "「那么……叫『店长』，怎么样？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ああ、うん。いいんじゃないか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Oh, yeah. I think that works.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「啊，嗯。感覺不錯。」",
+            "convert": "「啊，嗯。感觉不错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "喫茶店などで、店長をマスターと呼ぶ店は多い。日本でも馴染みのある呼び方だろう。"
+        },
+        "en": {
+            "content": "There are a lot of coffee shops and such where the manager is called \"master\". It's a pretty familiar way of referring to someone in Japan."
+        },
+        "cn": {
+            "content": "很多咖啡店裡會叫店長Master，在日本也是很常見的稱呼。",
+            "convert": "很多咖啡店里会叫店长Master，在日本也是很常见的称呼。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「わかりました——これからお願いいたします、マスター」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I understand. Please take care of me, Master.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「好的。那麼今後請多指教，店長。」",
+            "convert": "「好的。那么今后请多指教，店长。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こちらこそ、よろしく頼む」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Right. And I'll be counting on you.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我才是，要麻煩妳了。」",
+            "convert": "「我才是，要麻烦你了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「初々しいですね～」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「How fresh and exciting~!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好純真呀～」",
+            "convert": "「好纯真呀～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……本当ね」"
+        },
+        "en": {
+            "name": "Beignet",
+            "content": "「Heh heh... Yes, indeed.」"
+        },
+        "cn": {
+            "name": "貝涅",
+            "content": "「呵呵……真的是。」",
+            "convert": "「呵呵……真的是。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お店に出てもらうのが楽しみです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I'm looking forward to seeing her working in the shop.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好期待她在店裡工作。」",
+            "convert": "「好期待她在店里工作。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フランスのソレイユでの働きっぷりを見ているので、フレーズの能力に疑いはない。"
+        },
+        "en": {
+            "content": "We've already seen her working at La Soleil in France, so we have no doubts as to Fraise's skills."
+        },
+        "cn": {
+            "content": "我見過草莓在法國Soleil工作的樣子，對她的能力沒有絲毫懷疑。",
+            "convert": "我见过草莓在法国Soleil工作的样子，对她的能力没有丝毫怀疑。"
+        }
+    },
+    {
+        "jp": {
+            "content": "どんどん客足が増えている店にとっては、ありがたい話だ。"
+        },
+        "en": {
+            "content": "With our own shop seeing more customers as time goes on, this is a welcome arrangement."
+        },
+        "cn": {
+            "content": "來店的客人越來越多，有她幫忙當然是再好不過了。",
+            "convert": "来店的客人越来越多，有她帮忙当然是再好不过了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "しかし、フレーズは師匠のネコだ。ちょっと緊張してしまうのも事実だった。"
+        },
+        "en": {
+            "content": "But Fraise is my mentor's catgirl. I can't help but feel a little nervous."
+        },
+        "cn": {
+            "content": "不過草莓是師傅的貓娘，老實說，讓我感到有點緊張。",
+            "convert": "不过草莓是师傅的猫娘，老实说，让我感到有点紧张。"
+        }
+    },
+    {
+        "jp": {
+            "content": "数日後——"
+        },
+        "en": {
+            "content": "A few days later..."
+        },
+        "cn": {
+            "content": "幾天後——",
+            "convert": "几天后——"
+        }
+    },
+    {
+        "jp": {
+            "content": "フレーズは日本のラ・ソレイユで初日を迎える。"
+        },
+        "en": {
+            "content": "Fraise's first day at La Soleil in Japan arrives."
+        },
+        "cn": {
+            "content": "今天是草莓在日本La Soleil工作的第一天。",
+            "convert": "今天是草莓在日本La Soleil工作的第一天。"
+        }
+    },
+    {
+        "jp": {
+            "content": "しばらくは見学だけ——という予定だったが、想定外の混雑でいきなり働いてもらうことになるのだった。"
+        },
+        "en": {
+            "content": "The original intention was for her to just observe for a while, but we ended up being so unexpectedly busy that we needed her to work as well."
+        },
+        "cn": {
+            "content": "本來打算讓她先見習一下，結果店裡比預想中還要忙，只好讓她也上場了。",
+            "convert": "本来打算让她先见习一下，结果店里比预想中还要忙，只好让她也上场了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いらっしゃいませ。ソレイユへ、ようこそ」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Hello, and welcome to La Soleil.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「歡迎光臨。歡迎來到Soleil.」",
+            "convert": "「欢迎光临。欢迎来到Soleil.」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やっぱり、フレーズは優秀ですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Fraise truly is excellent.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「草莓果然很優秀呢。」",
+            "convert": "「草莓果然很优秀呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おかげで、他のネコたちも普段の落ち着きを取り戻しました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Thanks to her, the other catgirls have managed to calm down.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「多虧了她，其他貓娘也恢復平時沉穩的狀態了。」",
+            "convert": "「多亏了她，其他猫娘也恢复平时沉稳的状态了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうにか、乗り切れそうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It looks like we'll be able to get through this.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「感覺今天可以順利度過了。」",
+            "convert": "「感觉今天可以顺利度过了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "本当にフレーズは優秀だ。"
+        },
+        "en": {
+            "content": "Fraise truly is an excellent catgirl."
+        },
+        "cn": {
+            "content": "草莓著實優秀。",
+            "convert": "草莓着实优秀。"
+        }
+    },
+    {
+        "jp": {
+            "content": "他のネコたちも充分に頑張っているが、何か根本的に違う——先々まで考えて動いているところが、際立っていた。"
+        },
+        "en": {
+            "content": "While the other catgirls are doing their best as well, there's something fundamentally different about her. The way she seems to think far ahead before taking any action really makes her stand out."
+        },
+        "cn": {
+            "content": "其他貓娘工作也很賣力，但是她從根本上就不一樣——能明顯看出，她做事時總會考慮到接下來的步驟。",
+            "convert": "其他猫娘工作也很卖力，但是她从根本上就不一样——能明显看出，她做事时总会考虑到接下来的步骤。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺は……師匠のネコに見合っているんだろうか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Am I... good enough for my mentor's catgirl?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我配得上師傅的貓娘嗎？」",
+            "convert": "「我配得上师傅的猫娘吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「心配しすぎです、兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You worry too much, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「你擔心過頭了，哥哥。」",
+            "convert": "「你担心过头了，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お婆様もフレーズも、私たちみんな最初から家族ですよ？　家族は助け合いです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Grandmother, Fraise, and all of the rest of us are family, and have been from the start, right? Family helps family.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「奶奶和草莓從最開始就是我們的家人呀。家人就是要互相幫助。」",
+            "convert": "「奶奶和草莓从最开始就是我们的家人呀。家人就是要互相帮助。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そうだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...You're right.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……是啊。」",
+            "convert": "「……是啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "さわがしい店内にもかかわらず、時雨の言葉に耳をピクっとさせたフレーズ。"
+        },
+        "en": {
+            "content": "Despite how noisy the shop is, Shigure's words make Fraise's ears twitch."
+        },
+        "cn": {
+            "content": "店裡雖然一片嘈雜，時雨的話語卻讓草莓的耳朵抖了一下。",
+            "convert": "店里虽然一片嘈杂，时雨的话语却让草莓的耳朵抖了一下。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……家族」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Family.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……家人。」",
+            "convert": "「……家人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "物憂げにつぶやくのだった。"
+        },
+        "en": {
+            "content": "She sadly whispers that word to herself."
+        },
+        "cn": {
+            "content": "她心事重重地輕念了一聲。",
+            "convert": "她心事重重地轻念了一声。"
+        }
+    }
+]

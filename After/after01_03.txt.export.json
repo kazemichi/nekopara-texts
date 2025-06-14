@@ -1,0 +1,2170 @@
+[
+    {
+        "jp": {
+            "content": "「絶対に和食だ。フレーズはフランスから来たんだろ？　だったら、和食を食ってもらわねーと」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「It just has to be Japanese food. Fraise came here from France, right? In that case, we need to have her try Japanese food.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「一定要吃日本料理。草莓可是從法國來的，必須讓她嚐嚐日本料理。」",
+            "convert": "「一定要吃日本料理。草莓可是从法国来的，必须让她尝尝日本料理。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だからでしょ。歓迎会で口に合わなかったらどうするの？　フレンチでいいじゃない」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「But that's just it. What if she doesn't like the food at her welcome party? That's why we should have French food.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「那不是更應該嗎。歡迎會不合胃口怎麼行？應該吃法國料理。」",
+            "convert": "「那不是更应该吗。欢迎会不合胃口怎么行？应该吃法国料理。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「という意見衝突があったので、フレーズの歓迎会はビュッフェにしました。和洋中を好きなだけどうぞ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Since we had such differing opinions, we decided to have your welcome party at a buffet restaurant. Please enjoy all of the Western, Japanese, and Chinese food you want.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「因為有這樣的意見衝突，草莓的歡迎會就決定是歐式自助餐。無論是日本料理還是西餐中餐，想吃多少吃多少。」",
+            "convert": "「因为有这样的意见冲突，草莓的欢迎会就决定是欧式自助餐。无论是日本料理还是西餐中餐，想吃多少吃多少。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それはいいが……けっこう高いんじゃないか、ここ？　歓迎会なら家でもできたけど……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's fine and all, but... isn't this place pretty pricey? We could have had the welcome party at our house...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「好是好……這家店是不是很貴啊？歡迎會在家裡也可以辦……」",
+            "convert": "「好是好……这家店是不是很贵啊？欢迎会在家里也可以办……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "フレーズが入ってネコは７匹、時雨と俺が入って９人ぶんだ。もう団体様である。"
+        },
+        "en": {
+            "content": "We have seven catgirls, including Fraise, and adding me and Shigure makes it nine people in total. We're pretty much a tour group at this point."
+        },
+        "cn": {
+            "content": "算上草莓有七隻貓娘，加上我和時雨一共九人份，已經算團體預約了。",
+            "convert": "算上草莓有七只猫娘，加上我和时雨一共九人份，已经算团体预约了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様もお疲れでしょうから、歓迎会の料理までは頼めません」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I figured that you would likely be very tired as well, Nii-sama, so I couldn't bring myself to ask you to cook for the welcome party, too.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥也累了，不能還讓你準備歡迎會的料理。」",
+            "convert": "「哥哥也累了，不能还让你准备欢迎会的料理。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たしかに、その時間もなかったけどな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's true that I wouldn't really have had the time to do that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「那倒是，也沒有時間準備。」",
+            "convert": "「那倒是，也没有时间准备。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なにより、フレーズの歓迎会ですからね！　お金のことなら、心配しないでください」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「More importantly, this is a welcome party for Fraise! There's no need to worry about money, okay?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「而且這可是草莓的歡迎會！錢的問題不用擔心！」",
+            "convert": "「而且这可是草莓的欢迎会！钱的问题不用担心！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「う、うん、そうか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「O-Okay, I see.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「喔、嗯，這樣啊。」",
+            "convert": "「喔、嗯，这样啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "時雨はすでに会社を経営しており、しかも相当に順調なようだ。"
+        },
+        "en": {
+            "content": "Shigure already has her company up and running, and it looks like it's doing pretty well, too."
+        },
+        "cn": {
+            "content": "時雨已經在經營公司了，而且經營狀況似乎相當好。",
+            "convert": "时雨已经在经营公司了，而且经营状况似乎相当好。"
+        }
+    },
+    {
+        "jp": {
+            "content": "何の会社なのかは知らないが……"
+        },
+        "en": {
+            "content": "I have no idea what kind of company it is, but..."
+        },
+        "cn": {
+            "content": "雖然不知道到底是什麼公司……",
+            "convert": "虽然不知道到底是什么公司……"
+        }
+    },
+    {
+        "jp": {
+            "content": "頼りになる。\\nというか、凄すぎて、たびたび困惑させられてしまうのだった。"
+        },
+        "en": {
+            "content": "I know I can count on her.\\nActually, this is all so amazing that I keep getting distracted."
+        },
+        "cn": {
+            "content": "她真是可靠。\\n應該說可靠過頭了，有時搞得我不知所措。",
+            "convert": "她真是可靠。\\n应该说可靠过头了，有时搞得我不知所措。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「バニラ、見て見て！　ごちそうがいっぱいにゃよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Vanilla, look, look! There's so meowch food!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「香草，快看呀！好多美食喵！」",
+            "convert": "「香草，快看呀！好多美食喵！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「見てる。ごちそうに興奮するショコラもかわいい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm looking. You're so cute when you're excited by food, Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我在看。因為美食而興奮的巧克力也好可愛。」",
+            "convert": "「我在看。因为美食而兴奋的巧克力也好可爱。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれもこれも美味しそうだね〜♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「All of it looks so good, doesn't it~ ♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「不管哪個看起來都很好吃～♪」",
+            "convert": "「不管哪个看起来都很好吃～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ゴクリ……」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Glp...」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「（嚥口水）」",
+            "convert": "「（咽口水）」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日はフレーズの歓迎会だからな？　この意味、わかるよな？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Today we're having Fraise's welcome party, right? You know what that means, right?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「今天可是草莓的歡迎會喔。妳知道什麼意思吧？」",
+            "convert": "「今天可是草莓的欢迎会喔。你知道什么意思吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「も、も、もちろん」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「O-O-Of course.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「當、當然知道。」",
+            "convert": "「当、当然知道。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「今日はフレーズを歓迎する会だからね。食べてばっかりじゃ話もできないもん」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「This is a party to welcome Fraise, after all. We can't talk to each other if all we do is eat.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「今天是歡迎草莓的聚會。一直吃就沒辦法說話啦。」",
+            "convert": "「今天是欢迎草莓的聚会。一直吃就没办法说话啦。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ぐぐっ、とココナツは我慢していた。"
+        },
+        "en": {
+            "content": "Coconut clutches herself tightly as she restrains herself."
+        },
+        "cn": {
+            "content": "椰子努力抑制著食慾。",
+            "convert": "椰子努力抑制着食欲。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ、わからないことがあったら、何でも聞いてね？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Fraise, if there's anything you don't understand, you can ask us about it, okay?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「草莓，妳要是有任何不懂的，都可以問我。」",
+            "convert": "「草莓，你要是有任何不懂的，都可以问我。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼく、ビュッフェのことなら、けっこう詳しいから」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm pretty knowledgeable when it comes to buffets.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「人家對吃歐式自助餐很有心得。」",
+            "convert": "「人家对吃欧式自助餐很有心得。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "美味しいものが大好きなネコたちだが、そのなかでも食べることに一番熱心なのは、ココナツだろう。"
+        },
+        "en": {
+            "content": "All of the catgirls love delicious food, but amongst them, the one who is the most passionate about eating has to be Coconut."
+        },
+        "cn": {
+            "content": "貓娘們都很喜歡美食，但其中最有熱情的大概就屬椰子。",
+            "convert": "猫娘们都很喜欢美食，但其中最有热情的大概就属椰子。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ココナツさんは、すごく大人っぽいですよね。立ち姿も綺麗ですし」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「You do look very mature, Coconut-san. You have such a lovely figure.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「椰子小姐看起來好成熟。站姿也非常漂亮。」",
+            "convert": "「椰子小姐看起来好成熟。站姿也非常漂亮。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、大人っぽい……！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I-I look very mature...?!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「成、成熟……？！」",
+            "convert": "「成、成熟……？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぶっふぉっ！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Pfft?!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「噗哈？！」",
+            "convert": "「噗哈？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「こ、こんなカンジかな？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「S-So, what if I do this?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「像、像這樣嗎？」",
+            "convert": "「像、像这样吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ココナツがピンッと背筋を伸ばす。"
+        },
+        "en": {
+            "content": "Coconut stretches her back upwards."
+        },
+        "cn": {
+            "content": "椰子抬頭挺胸。",
+            "convert": "椰子擡头挺胸。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「すごく良いです！」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I think that's wonderful!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「非常棒！」",
+            "convert": "「非常棒！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あは……フレーズに言われると、大人っぽい振る舞いができそうな気がするよ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Ah ha... When you put it that way, Fraise, I feel like I really can act like I'm mature.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「啊哈……聽草莓這麼一說，感覺我也能做出成熟的舉止了。」",
+            "convert": "「啊哈……听草莓这么一说，感觉我也能做出成熟的举止了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もうナッツを操縦してやがる！　やるなフレーズ！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「You've already got a grip on Nuts! Way to go, Fraise!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「已經會操控椰子了！很能幹嘛，草莓！」",
+            "convert": "「已经会操控椰子了！很能干嘛，草莓！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うちには、褒めて伸ばすタイプのネコがいないからねー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「I mean, we don't really have any catgirls that improve when they're complimented, do we?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「因為我們家沒有用誇獎激勵成長的貓娘嘛～」",
+            "convert": "「因为我们家没有用夸奖激励成长的猫娘嘛～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふむふむ……参考になりますね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hmm, hmm... This is good to know.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「嗯嗯……值得參考。」",
+            "convert": "「嗯嗯……值得参考。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "その後、ネコたちは思い思いの料理を皿に載せ、テーブルを囲んだ。"
+        },
+        "en": {
+            "content": "After that, the catgirls fill up their plates with everything they want, and they sit down around our table."
+        },
+        "cn": {
+            "content": "之後貓娘們各自挑了喜歡的料理放在盤子上，圍著桌子坐了下來。",
+            "convert": "之后猫娘们各自挑了喜欢的料理放在盘子上，围着桌子坐了下来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズが来てくれたことを祝して——」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「So let's welcome Fraise by raising our glasses. Cheers!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「為慶祝草莓的到來——」",
+            "convert": "「为庆祝草莓的到来——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「乾杯！」"
+        },
+        "en": {
+            "name": "All",
+            "content": "「Cheers!」"
+        },
+        "cn": {
+            "name": "全員",
+            "content": "「乾杯！」",
+            "convert": "「干杯！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………か、かんぱい」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Ch-Cheers.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「…………乾、乾杯。」",
+            "convert": "「…………干、干杯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ、日本のソレイユへようこそ！　来てくれて、本当に嬉しいです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Fraise, welcome to Japan's La Soleil! We're truly glad that you've joined us.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「草莓，歡迎來到日本Soleil!妳能來我真的很開心。」",
+            "convert": "「草莓，欢迎来到日本Soleil!你能来我真的很开心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズちゃん、いにゃっしゃい！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Welcomeow, Fraise-chan!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「草莓，歡迎妳喵！」",
+            "convert": "「草莓，欢迎你喵！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ようこそ」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Welcome.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「歡迎。」",
+            "convert": "「欢迎。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「これからよろしくな、フレーズ」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「We're going to be counting on you, Fraise.」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「今後請多指教啦，草莓。」",
+            "convert": "「今后请多指教啦，草莓。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「大人っぽく……大人っぽく……オホン、よろしく頼む」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Mature... mature... Ahem, we cordially welcome you.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「表現成熟一點……成熟一點……咳咳，今後拜託妳了。」",
+            "convert": "「表现成熟一点……成熟一点……咳咳，今后拜托你了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ちょっとココナツ……おじさんっぽくなってるわよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Hold on, Coconut... You're wandering into old man territory there.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「等等，椰子……妳這樣像是個大叔喔。」",
+            "convert": "「等等，椰子……你这样像是个大叔喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やりすぎた！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I went too far?!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「成熟過頭了？！」",
+            "convert": "「成熟过头了？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズ、ちょっと変わったネコもいるけど、よろしくね」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Fraise, some of the catgirls here may be oddballs, but we all welcome you.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「草莓，雖然有的貓娘有點奇怪，請多指教了。」",
+            "convert": "「草莓，虽然有的猫娘有点奇怪，请多指教了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仲良くしようね〜。フレちゃんと仲良く……ハァ、ハァ……ソレは仲良くしすぎかも〜♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Let's be friends, okay~? Being friendly with Frai-chan... haa, haa... That might be a little too friendly~ ♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「我們打好關係吧～和小莓搞好關係……哈啊、哈啊……那樣可能關係太過好啦～♪」",
+            "convert": "「我们打好关系吧～和小莓搞好关系……哈啊、哈啊……那样可能关系太过好啦～♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え……？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What...?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎……？」",
+            "convert": "「哎……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモンのコレは……害はないから気にしないで、フレーズ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Cinnamon's behavior is... Well, it shouldn't cause you any harm, so don't worry about it, Fraise.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「桂的這個……沒有什麼危害，妳就不用在意了，草莓。」",
+            "convert": "「桂的这个……没有什么危害，你就不用在意了，草莓。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「は、はい」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「R-Right.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「好、好的。」",
+            "convert": "「好、好的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「む、むむ……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Hm, hmmm...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「唔、唔唔……」",
+            "convert": "「唔、唔唔……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「どうしましたか、フレーズ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「What's the matter, Fraise?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「怎麼了，草莓？」",
+            "convert": "「怎么了，草莓？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……まだ箸の使い方に慣れていなくて」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh... I'm still not used to using chopsticks yet.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……我還不太習慣用筷子。」",
+            "convert": "「啊……我还不太习惯用筷子。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「無理しなくていいですよ？フォークとスプーンを使いましょう」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You don't have to force yourself. You can use a fork and spoon.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不用勉強喔。妳可以用刀叉。」",
+            "convert": "「不用勉强喔。你可以用刀叉。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……お気遣い、ありがとうございます」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh... Thank you for your concern.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……謝謝您費心。」",
+            "convert": "「啊……谢谢您费心。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも……パティシエールも日本料理を食べるときは、箸を使っていました。慣れれば大丈夫です」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「But... when Pâtissière would eat Japanese food, she would use chopsticks. I'll be fine once I get used to them.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「但是……糕點師吃日本料理的時候也是用筷子。我習慣一下就好。」",
+            "convert": "「但是……糕点师吃日本料理的时候也是用筷子。我习惯一下就好。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズは頑張り屋さんですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「You're such a hard worker, Fraise.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「草莓真愛努力。」",
+            "convert": "「草莓真爱努力。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「む、むむむ……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Hm, hmmmm...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「唔、唔唔唔……」",
+            "convert": "「唔、唔唔唔……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「くっ……皆さんは、問題なく箸を使えているのに……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Ngh... Everyone else can use chopsticks without any problems, and yet...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「唔……大家都會熟練地用筷子，我卻……」",
+            "convert": "「唔……大家都会熟练地用筷子，我却……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズちゃん、そんにゃことないよ！　ショコラたちも、最初は大変だったもん！　いっぱい練習したよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「That's nyot true, Fraise-chan! It was hard for all of us in the beginning, too! We had to practice a lot!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「草莓，沒有這回事啦！我們最開始也用不習慣！練習了好久！」",
+            "convert": "「草莓，没有这回事啦！我们最开始也用不习惯！练习了好久！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「箸は一日にして成らず」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「Rome wasn't built from chopsticks in a day.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「筷子不是一天就能學會用的。」",
+            "convert": "「筷子不是一天就能学会用的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズちゃんなら、すぐ使えるようになるよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「You'll be able to use them in no time, Frai-chan!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「草莓的話一定很快就會用了！」",
+            "convert": "「草莓的话一定很快就会用了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「おふたりも、練習したんですね……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「So the two of you had to practice, too...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「妳們兩隻也經過了練習啊……」",
+            "convert": "「你们两只也经过了练习啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうございます、ショコラさん、バニラさん」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Thank you, Chocola-san, Vanilla-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「謝謝妳們，巧克力小姐，香草小姐。」",
+            "convert": "「谢谢你们，巧克力小姐，香草小姐。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あれ？　なぁ、嘉祥——」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Huh? Hey, Kashou...」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「咦？我說，嘉祥——」",
+            "convert": "「咦？我说，嘉祥——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズって、嘉祥が留学から帰る直前に、フランスのソレイユにいたんだよな？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Fraise was living at La Soleil in France right up until you moved back after your study abroad, right?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「草莓在法國Soleil的時候，你正要結束留學回國對吧？」",
+            "convert": "「草莓在法国Soleil的时候，你正要结束留学回国对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's right.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊。」",
+            "convert": "「是啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコバニとナッツより、フレーズのが年上じゃね？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Doesn't that mean that Fraise is older than ChocoVani and Nuts?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「那跟巧克力香草和椰子相比，草莓應該更年長吧？」",
+            "convert": "「那跟巧克力香草和椰子相比，草莓应该更年长吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええっ、ぼくより年上なの！？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「What, she's older than me?!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「哎，比人家還大嗎？！」",
+            "convert": "「哎，比人家还大吗？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だな。〝フレーズさん〟で〝ナッツ〟と呼ぶべきじゃねえか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Yup. So shouldn't you be calling her 'Fraise-san', and shouldn't she call you 'Nuts'?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「是啊。椰子應該尊稱『草莓小姐』，草莓則是該叫『椰子』吧？」",
+            "convert": "「是啊。椰子应该尊称『草莓小姐』，草莓则是该叫『椰子』吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え……でも、ココナツさんは背が高いし、大人びているので〝ココナツさん〟のほうが合うかと」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What... But Coconut-san is taller than me, and she looks so much more mature, so I think my calling her 'Coconut-san' is more fitting.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎……可是椰子小姐個子高，舉止也成熟，感覺尊稱『小姐』比較適合。」",
+            "convert": "「哎……可是椰子小姐个子高，举止也成熟，感觉尊称『小姐』比较适合。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それに、わたしは新参者なので、どう呼ばれても大丈夫です」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「And besides, I'm the newcomer, so it's okay for her to call me whatever she wishes.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「而且我是新來的，想怎麼稱呼我都可以。」",
+            "convert": "「而且我是新来的，想怎么称呼我都可以。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズで、いいの？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Is it okay to call you 'Fraise'?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「可以直接叫妳『草莓』嗎？」",
+            "convert": "「可以直接叫你『草莓』吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい。そう呼んでください、ココナツさん」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Yes. Please call me that, Coconut-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「好的。請妳這樣叫我吧，椰子小姐。」",
+            "convert": "「好的。请你这样叫我吧，椰子小姐。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うん！　ありがとう、フレーズ！」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Okay! Thanks, Fraise!」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「嗯！謝啦，草莓！」",
+            "convert": "「嗯！谢啦，草莓！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……やっぱり、年下感が出ちゃってねーか？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「...Is it me, or doesn't that just make it feel like she's younger than you?」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「……妳這種語氣還是顯得年幼吧？」",
+            "convert": "「……你这种语气还是显得年幼吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ハイ！　ハイ！　ショコラが年下なら〝ショコラちゃん〟と呼んでほしいにゃ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Oh! Oh! If Chocola is younger, then I'd like for you to call me 'Chocola-chan', nya!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「換我！換我！我年紀比較小，請叫我『巧克力』喵！」",
+            "convert": "「换我！换我！我年纪比较小，请叫我『巧克力』喵！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「えっ？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎？」",
+            "convert": "「哎？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ショコラと同じがいい」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「I'm okay with being referred to in the same way as Chocola.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「我想跟巧克力一樣。」",
+            "convert": "「我想跟巧克力一样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうおっしゃるのでしたら……ショコラちゃん、バニラちゃん、と」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「If you say so... Then, Chocola-chan and Vanilla-chan.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「既然妳們這麼說了，那就……『巧克力』、『香草』。」",
+            "convert": "「既然你们这么说了，那就……『巧克力』、『香草』。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「やった！　ありがとにゃ、フレーズちゃん！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yay! Thank nyuu, Fraise-chan!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好耶！謝謝喵，草莓！」",
+            "convert": "「好耶！谢谢喵，草莓！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そこは〝フレーズさん〟だろ！？」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「You mean 'Fraise-san', right?!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「應該叫『草莓小姐』吧！」",
+            "convert": "「应该叫『草莓小姐』吧！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いえ、本当にいいんです。お好きに呼んでもらったほうが、親しみを感じるといいますか……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh no, I really am okay with this. It would make me feel closer to everyone if you all used your preferred term for me...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「不會，真的沒關係。隨興一點我覺得比較有親近感……」",
+            "convert": "「不会，真的没关系。随兴一点我觉得比较有亲近感……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズは気遣い屋のネコねー」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You're such a considerate catgirl, Fraise...」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「草莓真會替別人著想。」",
+            "convert": "「草莓真会替别人着想。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……フレーズは早く馴染んでくれそうですね、兄様」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hee hee... It looks like Fraise will fit in here very easily, right, Nii-sama?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呵呵……看來草莓很快就能適應了，哥哥。」",
+            "convert": "「呵呵……看来草莓很快就能适应了，哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうだな。あまり心配はしていなかったけれど、安心したよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Yes, indeed. I wasn't really that worried, but this is good to know.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊。雖然本來就沒什麼擔心，這樣就徹底放心了。」",
+            "convert": "「是啊。虽然本来就没什么担心，这样就彻底放心了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ありがとうございます、お兄さん」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Thank you very much, Onii-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「謝謝大哥哥。」",
+            "convert": "「谢谢大哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "今は店ではないので、フレーズは俺のことを〝お兄さん〟と呼んだ。"
+        },
+        "en": {
+            "content": "We're not at the shop right now, so Fraise is calling me \"onii-san\"."
+        },
+        "cn": {
+            "content": "現在不是在店裡，所以草莓叫我『大哥哥』。",
+            "convert": "现在不是在店里，所以草莓叫我『大哥哥』。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「んぅ……嘉祥さんとフレちゃんは、とっても仲良しなんですか〜？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Nh... Are you and Frai-chan really close, Kashou-san~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯……嘉祥和小莓交情很好嗎～？」",
+            "convert": "「嗯……嘉祥和小莓交情很好吗～？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まだフレーズが幼い頃、ちょっとだけ会ってる。それに、先日はフランスのソレイユで一緒に働いたからな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I met Fraise a few times back when she was still very young. And we were working together until recently at La Soleil in France, too.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「在草莓還小的時候有稍微見過面。還有不久前在法國的Soleil一起工作。」",
+            "convert": "「在草莓还小的时候有稍微见过面。还有不久前在法国的Soleil一起工作。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "ほんの２日間ではあったが。"
+        },
+        "en": {
+            "content": "That was only two days ago, admittedly."
+        },
+        "cn": {
+            "content": "雖然只有兩天時間。",
+            "convert": "虽然只有两天时间。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「それって〜、現地妻……ってこと〜！？　シナモン、潤っちゃう〜〜〜〜〜ッ！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「So wait~ You had a mistress overseas?! Cinnamon's going to lose her mind~~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「莫非是在外面養的情婦嗎～？！人家要滋潤起來啦～～～～～！」",
+            "convert": "「莫非是在外面养的情妇吗～？！人家要滋润起来啦～～～～～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんなわけないだろう？　フレーズは師匠のネコだぞ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Of course not. Fraise is my mentor's catgirl.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「怎麼可能。草莓可是師傅的貓娘。」",
+            "convert": "「怎么可能。草莓可是师傅的猫娘。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「先日のフランス行きは、そんな余裕なかったし」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「And it's not like I would have had that kind of time the last time I went to France.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「而且先前去法國時才沒有這種閒工夫。」",
+            "convert": "「而且先前去法国时才没有这种闲工夫。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あはは……そうでしたね〜」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ahaha... That's true~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊哈哈……確實沒錯～」",
+            "convert": "「啊哈哈……确实没错～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういえば、戻られたときに〝フレーズ〟という名前を出してましたね。それが、こちらのフレちゃんだったんですね〜」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Speaking of which, when you returned, you mentioned the name 'Fraise'. So you were talking about Frai-chan here, right~?」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「說起來，嘉祥回來之後提到了『草莓』，原來就是這位小莓呀～」",
+            "convert": "「说起来，嘉祥回来之后提到了『草莓』，原来就是这位小莓呀～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さんは、わたしが幼い頃——泣いているときに、美味しいマカロンを作ってくれたんです」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「One day when I was very young, I was crying, and Onii-san made me some delicious macarons.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「大哥哥在我小時候——在我哭的時候，為我烤了美味的馬卡龍。」",
+            "convert": "「大哥哥在我小时候——在我哭的时候，为我烤了美味的马卡龙。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そのときから、お兄さん——と」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Ever since then, I've called him Onii-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「從那時起，我就叫他『大哥哥』。」",
+            "convert": "「从那时起，我就叫他『大哥哥』。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふぇ〜そうだったんですね〜」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Ohh~ So that's why~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「喔～原來是這樣呀～」",
+            "convert": "「喔～原来是这样呀～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「誤解させてしまったら、すみません。そんな深い仲では……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「I'm sorry if I gave the wrong impression. It isn't that we're that close...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「如果讓妳產生了誤解，很不好意思。我們的關係沒有那麼深厚……」",
+            "convert": "「如果让你产生了误解，很不好意思。我们的关系没有那么深厚……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも……これからしばらく、フランスから来たネコ１匹で異国の地——」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「But... now you're here as a lone catgirl from France, living in a new country...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「但是……從法國來的一隻貓娘今後要暫居異國他鄉——」",
+            "convert": "「但是……从法国来的一只猫娘今后要暂居异国他乡——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「寂しがっているところに、再会した憧れの〝お兄さん〟が現れて……！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「And just as you're feeling lonely, you reunite with your beloved 'Onii-san'...?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「正感到孤單的時候，久違重逢、最仰慕的『大哥哥』出現在面前……！」",
+            "convert": "「正感到孤单的时候，久违重逢、最仰慕的『大哥哥』出现在面前……！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ、そんなコトまで、ダメダメ〜。シナモン、潤……ッ」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Oh, you mustn't go that far~ Cinnamon will melt...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「啊，連那種事情都做，不行不行～人家要滋潤……」",
+            "convert": "「啊，连那种事情都做，不行不行～人家要滋润……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「シナモン……それ以上、妄想を続けたら、怒るわよ？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Cinnamon... if you continue your delusion any further, she'll get mad at you.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「桂……妳要是再胡思亂想，我可要生氣囉。」",
+            "convert": "「桂……你要是再胡思乱想，我可要生气咯。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ひぇ……」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Eek...」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「咿……」",
+            "convert": "「咿……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え……えっと……？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Um... er...?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「那……那個……？」",
+            "convert": "「那……那个……？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "相変わらず、ネコたちは姦しい。"
+        },
+        "en": {
+            "content": "The catgirls are as rambunctious as always."
+        },
+        "cn": {
+            "content": "貓娘們還是像往常一樣吵吵鬧鬧。",
+            "convert": "猫娘们还是像往常一样吵吵闹闹。"
+        }
+    },
+    {
+        "jp": {
+            "content": "そのテンションに、フレーズはついていけてない様子だった。"
+        },
+        "en": {
+            "content": "It looks like Fraise isn't quite able to keep up with their level of energy."
+        },
+        "cn": {
+            "content": "草莓似乎還融入不了這個氛圍。",
+            "convert": "草莓似乎还融入不了这个氛围。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……フレーズ、もう家族なんですから、遠慮はいりませんよ？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hee hee... Fraise, you're already part of our family, so you don't need to restrain yourself.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呵呵……草莓，妳已經是我們的家人了，不用客氣喔。」",
+            "convert": "「呵呵……草莓，你已经是我们的家人了，不用客气喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「え、遠慮……してますか、わたしは？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「A-Am I restraining myself...?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「咦，我……我在客氣嗎？」",
+            "convert": "「咦，我……我在客气吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「何か気になることがあれば、遠慮なく訊いてくださいね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「If there's anything you're concerned about, feel free to ask.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「有什麼在意的事情儘管問，不用客氣。」",
+            "convert": "「有什么在意的事情尽管问，不用客气。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……それじゃあ……あの……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh... In that case... um...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……那就……那個……」",
+            "convert": "「啊……那就……那个……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「………………皆さんは、お兄さんの…………こ、こ、こい……こい……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Is everyone Onii-san's... c-c-cat... catp...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「………………大家是大哥哥的…………ko、ko、koi……koi……」",
+            "convert": "「………………大家是大哥哥的…………ko、ko、koi……koi……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「鯉？　ショコラたちはネコだよ？」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Caterpillars? No, Chocola and the others are catgirls.」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「鯉魚（koi）？我們是貓娘呀。」",
+            "convert": "「鲤鱼（koi）？我们是猫娘呀。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いえ、その！　こ、恋ネコ……なんですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「No, I mean! A-Are you... his catpanions?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「不是，那個！是貓、貓娘情人（koineko）嗎？」",
+            "convert": "「不是，那个！是猫、猫娘情人（koineko）吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お、おおう……まぁ、一応な！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「O-Oh... Yeah, pretty much!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「喔、喔……嗯，算是啦！」",
+            "convert": "「喔、喔……嗯，算是啦！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はい！　ショコラはご主人さまの正妻だにゃ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Yes! Chocola is Master's primary wife, nya!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「是的！巧克力是主人的正妻喵！」",
+            "convert": "「是的！巧克力是主人的正妻喵！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そして私はショコラの正妻。異論は認めない」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「And I am Chocola's lawful wife. I will not accept any objections.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「然後我是巧克力的正妻。不接受反對意見。」",
+            "convert": "「然后我是巧克力的正妻。不接受反对意见。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「最初ってだけでしょ。嘉祥は差別しないって言ったもの」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「You're just his first wife, right? Kashou said he wouldn't discriminate between us, after all.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「妳們只是最先確認關係的吧。嘉祥說過不會因此差別對待。」",
+            "convert": "「你们只是最先确认关系的吧。嘉祥说过不会因此差别对待。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うんうん、嘉祥さんは平等ですよ〜」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Right, right, Kashou-san is fair and impartial to all of us~」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯嗯，嘉祥對大家都平等～」",
+            "convert": "「嗯嗯，嘉祥对大家都平等～」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼくも……恋ネコだよ」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「I'm... also his catpanion.」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「人家也是……貓娘情人喔。」",
+            "convert": "「人家也是……猫娘情人喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………６匹とも！」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...All six of you!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「…………六隻都是？！」",
+            "convert": "「…………六只都是？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「仲良し家族です」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「We're a very loving family.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我們是相親相愛的家人。」",
+            "convert": "「我们是相亲相爱的家人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "思わず赤面してしまった。"
+        },
+        "en": {
+            "content": "My face turns red before I realize it."
+        },
+        "cn": {
+            "content": "我不禁臉紅了。",
+            "convert": "我不禁脸红了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もしかして、フレーズも恋ネコに興味があるの？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Could it be that you're interested in being a catpanion too, Fraise?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「難道草莓也對成為貓娘情人有興趣？」",
+            "convert": "「难道草莓也对成为猫娘情人有兴趣？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……わかりません。どんなものか、よく知らないので」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...I don't know. I don't really understand what that entails yet.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……我不知道。我不太清楚貓娘情人是什麼樣子。」",
+            "convert": "「……我不知道。我不太清楚猫娘情人是什么样子。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「よく知らないから知りたい——って思うコトを〝興味がある〟って言うんじゃない？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「When you don't know something, but want to know more about it, isn't that called 'being interested'?」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「不太清楚所以想了解——當妳這麼想的時候，不就是有興趣了嗎？」",
+            "convert": "「不太清楚所以想了解——当你这么想的时候，不就是有兴趣了吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そうですね。わたしは知りたいです。だから——ぜひ見学させてください！」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「That is true. I do want to know. And so... please let me observe you all!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「說得也是。我想了解。所以——請務必讓我見習一下！」",
+            "convert": "「说得也是。我想了解。所以——请务必让我见习一下！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いいよ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Sure thing!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「好呀！」",
+            "convert": "「好呀！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「軽い」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「So easy.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「答應得好隨便。」",
+            "convert": "「答应得好随便。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「け、見学！？　メーちゃんのこんな姿やあんな姿を！？」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「O-Observe?! You want to see May-chan being like this, and like that?!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「見、見習？！要看小楓這樣那樣的姿態嗎？！」",
+            "convert": "「见、见习？！要看小枫这样那样的姿态吗？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「見ながら、しちゃうの〜？　そんな……シナモン、潤っちゃう〜〜〜！」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Will we do things while you watch~? Oh my... Cinnamon might lose her mind~~~!」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「要一邊看一邊做嗎～？這種事情……人家要滋潤起來啦～～～！」",
+            "convert": "「要一边看一边做吗～？这种事情……人家要滋润起来啦～～～！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「だから、外では妄想やめてって言ってるでしょ！？」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Haven't I told you to stop daydreaming when we're not at home?!」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「所以就叫妳不要在外面胡思亂想了！」",
+            "convert": "「所以就叫你不要在外面胡思乱想了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「皆さんは、どうしてお兄さんと恋ネコになったんですか？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Why did you all become Onii-san's catpanions?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「大家是為什麼成了大哥哥的貓娘情人？」",
+            "convert": "「大家是为什么成了大哥哥的猫娘情人？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ご主人さまは、ショコラとバニラを大切にしてくれるから！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「Because Master takes care of Chocola and Vanilla!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「因為主人非常珍惜我和香草！」",
+            "convert": "「因为主人非常珍惜我和香草！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんでね、いろんなことを教えてくれて、美味しいケーキをくれるからにゃ！」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「And because he teaches us all sorts of stuff, and gives us delicious cakes, nya!」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「他還教了我們很多事情，給我們好吃的蛋糕喵！」",
+            "convert": "「他还教了我们很多事情，给我们好吃的蛋糕喵！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あとね——あとね——」"
+        },
+        "en": {
+            "name": "Chocola",
+            "content": "「And also, and also...」"
+        },
+        "cn": {
+            "name": "巧克力",
+            "content": "「還有、還有——」",
+            "convert": "「还有、还有——」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……ショコラが恋ネコになったから」"
+        },
+        "en": {
+            "name": "Vanilla",
+            "content": "「...Because Chocola became his catpanion.」"
+        },
+        "cn": {
+            "name": "香草",
+            "content": "「……因為巧克力成了貓娘情人。」",
+            "convert": "「……因为巧克力成了猫娘情人。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あたしを応援してくれるから、あたしも嘉祥を応援したいの。それだけよ」"
+        },
+        "en": {
+            "name": "Maple",
+            "content": "「Because Kashou supports me, and I want to support Kashou. That's all.」"
+        },
+        "cn": {
+            "name": "楓",
+            "content": "「因為嘉祥鼓勵了我，我也想支持他。就這樣而已。」",
+            "convert": "「因为嘉祥鼓励了我，我也想支持他。就这样而已。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「うんうん♪」"
+        },
+        "en": {
+            "name": "Cinnamon",
+            "content": "「Yes, indeed! ♪」"
+        },
+        "cn": {
+            "name": "桂",
+            "content": "「嗯嗯♪」",
+            "convert": "「嗯嗯♪」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「まぁ……嘉祥はアタシが世話してやらねーと、危なっかしいかんな！」"
+        },
+        "en": {
+            "name": "Azuki",
+            "content": "「Well... because Kashou's life will be in peril if I don't take care of him!」"
+        },
+        "cn": {
+            "name": "紅豆",
+            "content": "「哎……因為我必須照顧嘉祥，否則他太讓人不放心了！」",
+            "convert": "「哎……因为我必须照顾嘉祥，否则他太让人不放心了！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ぼくの、お兄ちゃんになってくれたから！　ちょっとフレーズと似てるかな？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Because he became my onii-chan! I guess it's kind of similar to you, Fraise?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「因為嘉祥願意做人家的哥哥！也許和草莓有點像吧？」",
+            "convert": "「因为嘉祥愿意做人家的哥哥！也许和草莓有点像吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……そうかもしれません。でも、わたしは会っていた時間が短いので」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...That might be the case. But I've not known him nearly as long.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……可能是這樣吧。但是我們相處的時間很短。」",
+            "convert": "「……可能是这样吧。但是我们相处的时间很短。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……時間の長さは、想いの深さとは関係ありませんよ」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「...How long you have known someone has no relation to how deep your feelings for them are.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「……時間的長短和情感的深淺沒有關係喔。」",
+            "convert": "「……时间的长短和情感的深浅没有关系喔。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「フレーズは、お兄ちゃんのことが好きなの？」"
+        },
+        "en": {
+            "name": "Coconut",
+            "content": "「Fraise, do you love Onii-chan?」"
+        },
+        "cn": {
+            "name": "椰子",
+            "content": "「草莓喜歡哥哥嗎？」",
+            "convert": "「草莓喜欢哥哥吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「す、好き！？　それは……お、お兄さんとして……ならば」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「L-Love?! Well... i-if you mean as an older brother... then I...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「喜、喜歡？！這個……作為大哥哥來看的話……是的。」",
+            "convert": "「喜、喜欢？！这个……作为大哥哥来看的话……是的。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なるほど……私と同じですね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I see... So you're the same as me, then.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「原來如此……和我一樣呢。」",
+            "convert": "「原来如此……和我一样呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そのようですね」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「It would seem so.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「看來是這樣。」",
+            "convert": "「看来是这样。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「この座は渡しません。戦争ですね！？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I will not give up my position. So this is war, is it not?!」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我不會讓出這個位置。來戰吧！」",
+            "convert": "「我不会让出这个位置。来战吧！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ええっ！？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「What?!」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「哎？！」",
+            "convert": "「哎？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ふふ……冗談です。仲良く、兄様を愛でましょう。だって、もう家族なんですから」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Hee hee... I'm kidding. Let's get along and both love Nii-sama. After all, we're already family.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「呵呵……開玩笑的。大家一起和睦地疼愛哥哥吧。畢竟都已經是家人了嘛。」",
+            "convert": "「呵呵……开玩笑的。大家一起和睦地疼爱哥哥吧。毕竟都已经是家人了嘛。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「びっくりしました」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「You gave me quite a shock.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「我嚇了一跳。」",
+            "convert": "「我吓了一跳。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺もびっくりしたよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I was surprised, too.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我也嚇了一跳。」",
+            "convert": "「我也吓了一跳。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "あはは……とほかのネコたちも笑う。"
+        },
+        "en": {
+            "content": "Ahaha... The other catgirls are also laughing."
+        },
+        "cn": {
+            "content": "其他貓娘也紛紛笑了起來。",
+            "convert": "其他猫娘也纷纷笑了起来。"
+        }
+    },
+    {
+        "jp": {
+            "content": "独り、フレーズだけは自問していた。"
+        },
+        "en": {
+            "content": "Only Fraise stands there, raising a question."
+        },
+        "cn": {
+            "content": "只有草莓在問著自己。",
+            "convert": "只有草莓在问着自己。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……お兄さんとネコたち。お兄さんと時雨さん……同じ家族なのに、ぜんぜん違う？　……なぜ？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...Onii-san and the catgirls. Onii-san and Shigure-san... They're all family, yet also completely different? ...Why?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……大哥哥和貓娘們、大哥哥和時雨小姐……明明都是家人，卻完全不一樣？……為什麼？」",
+            "convert": "「……大哥哥和猫娘们、大哥哥和时雨小姐……明明都是家人，却完全不一样？……为什么？」"
+        }
+    }
+]

@@ -1,0 +1,614 @@
+[
+    {
+        "jp": {
+            "content": "「落ち着いてください、時雨さん」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Please calm down, Shigure-san.」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「請冷靜下來，時雨小姐。」",
+            "convert": "「请冷静下来，时雨小姐。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ハッ……そ、そうですね。すみません……私としたことが、興奮しすぎました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Oh... Y-You're right. I'm sorry... Dear me, I got too excited.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「啊……確、確實。對不起……我竟然興奮過頭了。」",
+            "convert": "「啊……确、确实。对不起……我竟然兴奋过头了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「時雨は昔から、そんな感じだよな。夢中になると周りがみえなくなっちゃうとこ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Shigure has been this way ever since she was little. When she goes crazy for something, the rest of the world disappears.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「時雨從以前就會這樣，一旦投入其中就顧不了其他事了。」",
+            "convert": "「时雨从以前就会这样，一旦投入其中就顾不了其他事了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私が夢中になるのは、兄様とネコのことだけです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「I only go crazy for you and catgirls, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「能讓我全心全意投入的事情只有哥哥和貓娘。」",
+            "convert": "「能让我全心全意投入的事情只有哥哥和猫娘。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「普段は冷静すぎて困るくらいなのです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Normally I'm so reserved that it's almost problematic.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「平時都是過於冷靜，反而會感到困擾。」",
+            "convert": "「平时都是过于冷静，反而会感到困扰。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「はは……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「Haha...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「哈哈……」",
+            "convert": "「哈哈……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "冷静すぎて困る時雨か——俺が目にする機会はなさそうだった。"
+        },
+        "en": {
+            "content": "A Shigure who's so reserved it's problematic... I don't think I'll ever see her like that."
+        },
+        "cn": {
+            "content": "因過於冷靜而感到困擾的時雨嗎。感覺我沒有機會親眼目睹。",
+            "convert": "因过于冷静而感到困扰的时雨吗。感觉我没有机会亲眼目睹。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「夢みたいです……昔から想っていた兄様と……こんなふうになれるなんて」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「This is like a dream... Nii-sama, I've always loved you... and now, to have this kind of relationship with you...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「好像做夢一樣……竟然能跟長年以來一直愛慕的哥哥……結為這樣的關係。」",
+            "convert": "「好像做梦一样……竟然能跟长年以来一直爱慕的哥哥……结为这样的关系。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「ずっと昔から、大好きとは言われていたけど……最初から、恋人としての意味だったのか？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You always told me that you loved me, but... did you mean as lovers right from the beginning?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳從很久以前就在說喜歡我……從最開始就是戀人那種喜歡嗎？」",
+            "convert": "「你从很久以前就在说喜欢我……从最开始就是恋人那种喜欢吗？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろんです——と言いたいところですが、さすがに幼少の頃はここまでの考えは」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Of course... although, to be completely honest, I can't imagine I thought that way when I was very young.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「那是當然的——雖然我很想這麼說，但年幼時實在沒有想這麼多。」",
+            "convert": "「那是当然的——虽然我很想这么说，但年幼时实在没有想这么多。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そりゃそうか。こんな関係を考えるようになったのは、いつからなんだ？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That makes sense. Around when did you start wanting our relationship to be like that?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「也是啊。那妳是什麼時候開始考慮這種關係的？」",
+            "convert": "「也是啊。那你是什么时候开始考虑这种关系的？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「物心ついたときには、兄様のお嫁さんになろう、と決めていました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「By the time I was old enough to take care of myself, I decided that I would become your wife, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「從我懂事開始，我就決定要嫁給哥哥。」",
+            "convert": "「从我懂事开始，我就决定要嫁给哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「早ッ！？」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That was early!」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「這麼早？！」",
+            "convert": "「这么早？！」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、兄様と私は、兄と妹なのだと理解したのは、もっと後でした……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But it took a bit of time until I understood that we were siblings.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「但是，直到後來我才理解，哥哥和我是兄妹……」",
+            "convert": "「但是，直到后来我才理解，哥哥和我是兄妹……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな昔から、慕ってくれてたんだな。俺は子供だったから、夢にも思わず……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You have been attached to me for a long time, after all. But I was a kid, so I couldn't even imagine that...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「妳從那麼久以前就愛慕我啊。那時我還是小孩子，做夢也想不到……」",
+            "convert": "「你从那么久以前就爱慕我啊。那时我还是小孩子，做梦也想不到……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「いや、結局——大人になってからも、はっきりと告白されるまで、まるで察してなかった」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「No, in the end... even as an adult, I didn't realize how you felt until you confessed to me.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不，結果長大之後也一樣。在妳明確地告白之前，我也絲毫沒有察覺到。」",
+            "convert": "「不，结果长大之后也一样。在你明确地告白之前，我也丝毫没有察觉到。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様と結ばれるためには——と調べるうち、いろいろな知識に触れました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「In my research into finding ways I could be bonded to you, Nii-sama, I came upon various pieces of knowledge.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我為了跟哥哥結合，調查了很多事，過程中也接觸了很多知識。」",
+            "convert": "「我为了跟哥哥结合，调查了很多事，过程中也接触了很多知识。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そのせいで、ちょっと子供らしくない子供になってしまいましたね」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Because of that, even as a child, I ended up not being very childlike.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「因此變成了一個不太有孩子氣的小孩。」",
+            "convert": "「因此变成了一个不太有孩子气的小孩。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……時雨が早熟なのは、俺のせいだったのか」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「...So it's my fault that you matured so quickly then, Shigure?」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「……妳會早熟也是因為我嗎。」",
+            "convert": "「……你会早熟也是因为我吗。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「兄様がフランスに留学されたときは、この世が終わったかと……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「When you went to France for your study abroad, I thought my world was ending...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥去法國留學的時候，簡直像是天塌下來了……」",
+            "convert": "「哥哥去法国留学的时候，简直像是天塌下来了……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「す、すまなかった……」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I-I'm sorry...」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「對、對不起……」",
+            "convert": "「对、对不起……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、そのおかげで、兄様はフレーズと出会ったのですよね？」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But because of that, you got to meet Fraise, right?」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過也多虧如此，哥哥才能跟草莓相遇，對吧？」",
+            "convert": "「不过也多亏如此，哥哥才能跟草莓相遇，对吧？」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たしかに」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That's true.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「是啊。」",
+            "convert": "「是啊。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「あ……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「Oh...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「啊……」",
+            "convert": "「啊……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「前から、兄様は夢中になると周りが見えないタイプでした。フランスに行く前は和菓子作りを……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Nii-sama, you've always been the kind of person who gets tunnel vision when you're focused on something. Before you went to France, it was making Japanese sweets...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「哥哥從以前就是這樣，一旦投入其中就顧不了其他事了。去法國之前是投入在日式點心……」",
+            "convert": "「哥哥从以前就是这样，一旦投入其中就顾不了其他事了。去法国之前是投入在日式点心……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「帰国してからは、洋菓子作りに夢中でした。私の言葉なんて聞こえていないかのように……」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「When you came back, it was making Western sweets. It was like you couldn't even hear what I was saying...」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「回國之後則是顧著做西式點心。彷彿聽不到我說話一樣……」",
+            "convert": "「回国之后则是顾着做西式点心。仿佛听不到我说话一样……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そういうところは、似てるよな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I guess we're pretty similar when it comes to that.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「在這方面我們個性很像呢。」",
+            "convert": "「在这方面我们个性很像呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "俺も時雨も、夢中になると周りが見えなくなる。"
+        },
+        "en": {
+            "content": "Both Shigure and I lose sight of the things around us when we get deep into something."
+        },
+        "cn": {
+            "content": "時雨和我都是，一旦投入其中就看不到週遭事物了。",
+            "convert": "时雨和我都是，一旦投入其中就看不到周遭事物了。"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、そんな夢中でがんばる兄様だからこそ、私は惹かれたのだと思います」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But I think it's because you work so hard and get so focused, Nii-sama, that I fell for you.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「但我正是被哥哥這種全力以赴的樣子深深吸引了。」",
+            "convert": "「但我正是被哥哥这种全力以赴的样子深深吸引了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「なるほど……難しいもんだな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「I see... This is so complicated.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「原來如此……真不好拿捏分寸呢。」",
+            "convert": "「原来如此……真不好拿捏分寸呢。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そんな兄様を応援することが、私の生き甲斐になりました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「Supporting you became my reason for living, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「支持這樣的哥哥就成了我活下去的意義。」",
+            "convert": "「支持这样的哥哥就成了我活下去的意义。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「でも、少し寂しさもあったのかもしれません。ネコたちを見た瞬間、私に必要だと感じました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「But I think I was kind of lonely. When I saw the catgirls, I felt that I needed them in my life.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不過我可能也有一絲寂寞，當我看到貓娘的瞬間，就覺得她們對我來說是必要的存在。」",
+            "convert": "「不过我可能也有一丝寂寞，当我看到猫娘的瞬间，就觉得她们对我来说是必要的存在。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「好きとか欲しいとか飼いたいとか、そういうの飛び越して——必要、と」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「This went past anything like loving them, wanting them, or wanting to have them as pets. I needed them.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「不是單純的喜歡、想要、想養，而是更深切的『必要』。」",
+            "convert": "「不是单纯的喜欢、想要、想养，而是更深切的『必要』。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「たしかに、時雨のネコ好きは、ただ〝かわいいから飼いたい〟なんて甘いものじゃないよな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「It's true that your affection for catgirls isn't anything as simple as 'I want to have one because they're cute'.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「確實，妳對貓娘的喜愛不只是『可愛所以想養』那麼簡單。」",
+            "convert": "「确实，你对猫娘的喜爱不只是『可爱所以想养』那么简单。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私にとっても、兄様にとっても、ネコたちは必要な存在なんです」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「To me, and to you, Nii-sama, the catgirls are necessary parts of our lives.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「無論是對於我或是哥哥來說，貓娘都是不可或缺的存在。」",
+            "convert": "「无论是对于我或是哥哥来说，猫娘都是不可或缺的存在。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「間違いない」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「You're not wrong.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「沒錯。」",
+            "convert": "「没错。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「そして、ネコたちも、兄様を必要としてくれました」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「And now, the catgirls need you in their lives, Nii-sama.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「然後貓娘們也需要哥哥。」",
+            "convert": "「然后猫娘们也需要哥哥。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「もちろん、時雨のこともな」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「That applies to you too, Shigure.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「不只是我，貓娘們當然也需要妳。」",
+            "convert": "「不只是我，猫娘们当然也需要你。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「私たちは家族になれたのだと……本当に……そうだったらいいなと、思います」"
+        },
+        "en": {
+            "name": "Shigure",
+            "content": "「We've become a family... a real one... Or at least, I certainly hope that we have.」"
+        },
+        "cn": {
+            "name": "時雨",
+            "content": "「我們要是真的能成為家人……那真是太美好了。」",
+            "convert": "「我们要是真的能成为家人……那真是太美好了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「俺たちは家族だよ」"
+        },
+        "en": {
+            "name": "Kashou",
+            "content": "「We are a family.」"
+        },
+        "cn": {
+            "name": "嘉祥",
+            "content": "「我們已經是家人了。」",
+            "convert": "「我们已经是家人了。」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「…………」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「......」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「…………」",
+            "convert": "「…………」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「お兄さんと時雨さんの間には、いくつもの思い出が積み重なってて……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「There are so many memories built up between Onii-san and Shigure-san...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「大哥哥和時雨小姐之間積累了許許多多的回憶……」",
+            "convert": "「大哥哥和时雨小姐之间积累了许许多多的回忆……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「きっと、他のネコたちにも……」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「And between them and the other catgirls as well, I'm sure...」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「其他貓娘一定也是這樣的……」",
+            "convert": "「其他猫娘一定也是这样的……」"
+        }
+    },
+    {
+        "jp": {
+            "content": "「……わたしには？」"
+        },
+        "en": {
+            "name": "Fraise",
+            "content": "「...But what about me?」"
+        },
+        "cn": {
+            "name": "草莓",
+            "content": "「……那我呢？」",
+            "convert": "「……那我呢？」"
+        }
+    }
+]
