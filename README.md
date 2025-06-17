@@ -6,13 +6,13 @@
 
 - [ ] Vol.1
 
-- [x] Vol.0
+- [x] Vol.0 — 15/15
 
 - [ ] Vol.2
 
 - [ ] Vol.3
 
-- [x] Extra
+- [x] Extra — 11/11
 
 - [ ] Vol.4
 
