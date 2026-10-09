@@ -1,8 +1,13 @@
-![img1](./docs/img1.avif)
+<div align="center">
+    <img src="./docs/img1.avif"/>
+    <p>咕咕咕ing...</p>
+</div>
 
-人手不足，润色进度缓慢……
 
-​    
+
+[GB/T 15834-2011《标点符号用法》](https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=22EA6D162E4110E752259661E1A0D0A8)
+
+
 
 以下为完成情况：
 
